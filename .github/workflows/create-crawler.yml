@@ -1,0 +1,156 @@
+name: Create Gaokao Crawler Repo
+
+on:
+  workflow_dispatch:
+    inputs:
+      slug:
+        description: "名字的英文 slug，例如 zhangsan"
+        required: true
+        type: string
+      visibility:
+        description: "仓库可见性"
+        required: true
+        default: public
+        type: choice
+        options:
+          - public
+          - private
+
+jobs:
+  create-repo:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+
+    steps:
+      - name: Create GitHub App token
+        id: app-token
+        uses: actions/create-github-app-token@v2
+        with:
+          app-id: ${{ vars.APP_ID }}
+          private-key: ${{ secrets.APP_PRIVATE_KEY }}
+          owner: FutureTechQuant
+
+      - name: Prepare names
+        id: prep
+        shell: bash
+        run: |
+          RAW_SLUG="${{ github.event.inputs.slug }}"
+          SLUG="$(echo "$RAW_SLUG" | tr '[:upper:]' '[:lower:]' | sed 's/ /-/g' | sed 's/[^a-z0-9-]//g' | sed 's/--*/-/g' | sed 's/^-//; s/-$//')"
+
+          if [ -z "$SLUG" ]; then
+            echo "slug 为空，退出"
+            exit 1
+          fi
+
+          REPO="gaokao-${SLUG}-crawler"
+
+          echo "slug=$SLUG" >> "$GITHUB_OUTPUT"
+          echo "repo=$REPO" >> "$GITHUB_OUTPUT"
+
+      - name: Check repository exists
+        env:
+          GH_TOKEN: ${{ steps.app-token.outputs.token }}
+        shell: bash
+        run: |
+          set -e
+          if gh api "repos/FutureTechQuant/${{ steps.prep.outputs.repo }}" >/dev/null 2>&1; then
+            echo "仓库已存在：FutureTechQuant/${{ steps.prep.outputs.repo }}"
+            exit 1
+          fi
+
+      - name: Create repository in organization
+        env:
+          GH_TOKEN: ${{ steps.app-token.outputs.token }}
+        shell: bash
+        run: |
+          set -e
+          if [ "${{ github.event.inputs.visibility }}" = "private" ]; then
+            PRIVATE=true
+          else
+            PRIVATE=false
+          fi
+
+          gh api \
+            --method POST \
+            -H "Accept: application/vnd.github+json" \
+            "/orgs/FutureTechQuant/repos" \
+            -f name="${{ steps.prep.outputs.repo }}" \
+            -f description="Generated crawler repo for ${{ steps.prep.outputs.slug }}" \
+            -F private=$PRIVATE \
+            -F auto_init=true
+
+      - name: Checkout source repo restore branch
+        uses: actions/checkout@v4
+        with:
+          repository: FutureTechQuant/gaokao-crawler
+          ref: restore
+          path: source-repo
+          token: ${{ steps.app-token.outputs.token }}
+          persist-credentials: false
+
+      - name: Checkout target repo
+        uses: actions/checkout@v4
+        with:
+          repository: FutureTechQuant/${{ steps.prep.outputs.repo }}
+          path: target-repo
+          token: ${{ steps.app-token.outputs.token }}
+          persist-credentials: false
+
+      - name: Create files
+        shell: bash
+        run: |
+          set -e
+
+          mkdir -p target-repo/data
+          mkdir -p target-repo/scripts
+          mkdir -p target-repo/.github/workflows
+
+          cp source-repo/data/schools.json target-repo/data/schools.json
+          cp source-repo/requirements.txt target-repo/requirements.txt
+
+          cat > "target-repo/scripts/${{ steps.prep.outputs.slug }}.py" <<'PY'
+# TODO: implement crawler script
+PY
+
+          cat > "target-repo/.github/workflows/${{ steps.prep.outputs.slug }}.yml" <<EOF
+name: ${{ steps.prep.outputs.slug }}
+
+on:
+  workflow_dispatch:
+
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+      - name: Run script
+        run: python scripts/${{ steps.prep.outputs.slug }}.py
+EOF
+
+      - name: Commit and push
+        env:
+          GH_TOKEN: ${{ steps.app-token.outputs.token }}
+        shell: bash
+        run: |
+          set -e
+          cd target-repo
+
+          git config user.name "${{ steps.app-token.outputs.app-slug }}[bot]"
+          USER_ID="$(gh api "/users/${{ steps.app-token.outputs.app-slug }}[bot]" --jq .id)"
+          git config user.email "${USER_ID}+${{ steps.app-token.outputs.app-slug }}[bot]@users.noreply.github.com"
+
+          git add .
+          git commit -m "Initialize ${{ steps.prep.outputs.repo }}"
+          git push
+
+      - name: Show result
+        shell: bash
+        run: |
+          echo "Created: https://github.com/FutureTechQuant/${{ steps.prep.outputs.repo }}"
