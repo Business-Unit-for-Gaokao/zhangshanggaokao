@@ -4,7 +4,7 @@ on:
   workflow_dispatch:
     inputs:
       slug:
-        description: "名字的英文 slug，例如 zhangsan"
+        description: "名字的英文 slug，例如 xinxin"
         required: true
         type: string
       visibility:
@@ -109,30 +109,8 @@ jobs:
           cp source-repo/data/schools.json target-repo/data/schools.json
           cp source-repo/requirements.txt target-repo/requirements.txt
 
-          cat > "target-repo/scripts/${{ steps.prep.outputs.slug }}.py" <<'PY'
-# TODO: implement crawler script
-PY
-
-          cat > "target-repo/.github/workflows/${{ steps.prep.outputs.slug }}.yml" <<EOF
-name: ${{ steps.prep.outputs.slug }}
-
-on:
-  workflow_dispatch:
-
-jobs:
-  run:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v4
-      - name: Setup Python
-        uses: actions/setup-python@v5
-        with:
-          python-version: "3.11"
-      - name: Install dependencies
-        run: pip install -r requirements.txt
-      - name: Run script
-        run: python scripts/${{ steps.prep.outputs.slug }}.py
-EOF
+          touch "target-repo/scripts/${{ steps.prep.outputs.slug }}.py"
+          touch "target-repo/.github/workflows/${{ steps.prep.outputs.slug }}.yml"
 
       - name: Commit and push
         env:
