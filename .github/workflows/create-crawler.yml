@@ -103,13 +103,14 @@ jobs:
           set -e
 
           mkdir -p target-repo/data
-          mkdir -p target-repo/scripts
+          mkdir -p target-repo/crawlers
           mkdir -p target-repo/.github/workflows
 
           cp source-repo/data/schools.json target-repo/data/schools.json
+		  cp source-repo/crawlers/base.py target-repo/crawlers/base.py
           cp source-repo/requirements.txt target-repo/requirements.txt
 
-          touch "target-repo/scripts/${{ steps.prep.outputs.slug }}.py"
+          touch "target-repo/crawlers/${{ steps.prep.outputs.slug }}.py"
           touch "target-repo/.github/workflows/${{ steps.prep.outputs.slug }}.yml"
 
       - name: Commit and push
