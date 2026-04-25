@@ -107,8 +107,8 @@ jobs:
           mkdir -p target-repo/.github/workflows
 
           cp source-repo/data/schools.json target-repo/data/schools.json
-		  cp source-repo/crawlers/base.py target-repo/crawlers/base.py
           cp source-repo/requirements.txt target-repo/requirements.txt
+          cp source-repo/crawlers/base.py target-repo/crawlers/base.py
 
           touch "target-repo/crawlers/${{ steps.prep.outputs.slug }}.py"
           touch "target-repo/.github/workflows/${{ steps.prep.outputs.slug }}.yml"
