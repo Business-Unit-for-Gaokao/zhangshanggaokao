@@ -2,11 +2,13 @@
 
 历史仓库：`FutureTechnique/plans`
 
-正式仓库：`Business-Unit-for-Gaokao/gaokao-plans-crawler`
+正式仓库：`Business-Unit-for-Gaokao/zhangshanggaokao`
+
+源仓库：`Business-Unit-for-Gaokao/gaokao-plans-crawler`（已归并，待删除/已删除后不再作为正式仓库）
 
 ## 结论
 
-`FutureTechnique/plans` 不是通用计划仓库，而是掌上高考招生计划页面爬虫 v13。正式仓库已经存在 `gaokao-plans-crawler`，因此不做整仓 transfer，而是把有价值的 v13 代码和经验吸收到正式仓。
+`FutureTechnique/plans` 是掌上高考招生计划页面爬虫 v13。其代码和经验先进入 `gaokao-plans-crawler`，本次又作为可复用源码归并到最终代表仓库 `zhangshanggaokao`；不做整仓 transfer，也不把历史结果 JSON 搬入源码仓。
 
 ## 已合并内容
 
