@@ -168,3 +168,11 @@ Historical generated JSON output is not duplicated in this source repository. It
 
 Note on scores/provinceline: the legacy `scores` crawler uses static `schoolspecialscore` data. The full `provinceline` page should use the dynamic `api-gaokao.zjzw.cn/apidata/web` API with `uri=v1/school/province_score` when that feature is implemented.
 
+## 招生计划 crawler consolidation
+
+- Former source repo: `Business-Unit-for-Gaokao/gaokao-plans-crawler`
+- Primary static API: `https://static-data.gaokao.cn/www/2.0/schoolspecialplan/{school_id}/{year}/{province_id}.json`
+- Runtime output path: `data/plans/` with progress in `data/plans_progress/`
+- The retained repo uses `data/schools.json` as the school seed; bulk historical `data/plans/` and `data/oldplans/` JSON are not duplicated here.
+- Historical JSON belongs in `Business-Unit-for-Gaokao/gaokao-data-json`, under the original source path when present.
+- Legacy page-crawler experience from `FutureTechnique/plans` is kept as source/reference under `crawlers/gaokao_cn_school_plans_v13/` and `docs/futuretechnique-plans-migration.md`.
