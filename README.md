@@ -22,3 +22,29 @@ This repository is a crawler factory/management project. It does not define a si
 - `https://static-data.gaokao.cn`
 - `https://www.gaokao.cn`
 <!-- crawl-sources:end -->
+
+## Included Crawlers
+
+### Department crawler
+
+This repository now contains the consolidated 掌上高考院系/院校部门数据 crawler formerly kept in `Business-Unit-for-Gaokao/gaokao-department-crawler`.
+
+Crawler files:
+
+- `crawlers/base.py`
+- `crawlers/departments.py`
+- `.github/workflows/crawl_departments.yml`
+- `data/schools.json`
+
+Target API:
+
+- `https://static-data.gaokao.cn/www/2.0/school/department/{school_id}.json?a=www.gaokao.cn`
+
+Output path when run:
+
+- `data/departments/{school_id}.json`
+
+Historical JSON results are consolidated in `Business-Unit-for-Gaokao/gaokao-data-json` under:
+
+- `zsgk/gaokao-department-crawler/data/departments/`
+
