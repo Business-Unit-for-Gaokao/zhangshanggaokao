@@ -48,6 +48,32 @@ Historical JSON results are consolidated in `Business-Unit-for-Gaokao/gaokao-dat
 
 - `zsgk/gaokao-department-crawler/data/departments/`
 
+
+### Jobs crawler
+
+This repository now contains the consolidated 掌上高考就业/就业质量数据 crawler formerly kept in `Business-Unit-for-Gaokao/gaokao-jobs-crawler`.
+
+Crawler files:
+
+- `crawlers/jobs.py`
+- `scripts/run_jobs_once.py`
+- `.github/workflows/crawl_jobs.yml`
+- shared `crawlers/base.py`
+- shared `data/schools.json`
+
+Target API:
+
+- `https://static-data.gaokao.cn/www/2.0/school/{school_id}/pc_jobdetail.json?a=www.gaokao.cn`
+
+Output path when run:
+
+- `data/jobs/{school_id}.json`
+
+Historical JSON results are consolidated in `Business-Unit-for-Gaokao/gaokao-data-json` under:
+
+- `zsgk/gaokao-jobs-crawler/data/jobs/`
+
+
 ## Pending Consolidation Notes
 
 ### Scores crawler / provinceline data
