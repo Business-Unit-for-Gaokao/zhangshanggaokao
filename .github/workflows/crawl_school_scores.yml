@@ -1,0 +1,182 @@
+name: 爬取大学最低分数线
+
+on:
+  workflow_dispatch:
+    inputs:
+      mode:
+        description: '爬取模式'
+        required: true
+        type: choice
+        options:
+          - test
+          - sample
+          - full
+        default: test
+      years:
+        description: '年份范围（可选，如：2025,2024,2023,2022 或 2021-2025）'
+        required: false
+        type: string
+        default: ''
+
+  schedule:
+    - cron: '0 3 30 6 *'
+
+permissions:
+  contents: write
+
+concurrency:
+  group: crawl-school-scores-${{ github.ref }}
+  cancel-in-progress: false
+
+jobs:
+  crawl:
+    runs-on: ubuntu-latest
+    env:
+      FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: "true"
+
+    steps:
+      - name: 检出代码
+        uses: actions/checkout@v5
+        with:
+          ref: ${{ github.ref_name }}
+          fetch-depth: 0
+
+      - name: 设置Python环境
+        uses: actions/setup-python@v6
+        with:
+          python-version: '3.10'
+          cache: 'pip'
+
+      - name: 安装依赖
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: 创建数据目录
+        run: |
+          mkdir -p data/school_scores
+          mkdir -p data/school_scores_progress
+          mkdir -p data/school_scores_progress/completed
+
+      - name: 检查学校目录
+        shell: bash
+        run: |
+          test -f data/schools.json || (echo "缺少 data/schools.json，请先更新学校数据" && exit 1)
+          echo "检测到学校索引文件: data/schools.json"
+
+      - name: 执行 school_scores 爬取
+        shell: bash
+        env:
+          EVENT_NAME: ${{ github.event_name }}
+          INPUT_MODE: ${{ github.event.inputs.mode }}
+          INPUT_YEARS: ${{ github.event.inputs.years }}
+        run: |
+          set -euo pipefail
+
+          if [ "$EVENT_NAME" = "schedule" ]; then
+            MODE="full"
+            RAW_YEARS="${INPUT_YEARS:-}"
+          else
+            MODE="${INPUT_MODE:-test}"
+            RAW_YEARS="${INPUT_YEARS:-}"
+          fi
+
+          if [ -n "$RAW_YEARS" ]; then
+            YEARS_VALUE="$RAW_YEARS"
+          else
+            case "$MODE" in
+              test)
+                YEARS_VALUE="2025"
+                ;;
+              sample)
+                YEARS_VALUE="2025,2024"
+                ;;
+              full)
+                YEARS_VALUE="2025,2024,2023,2022,2021,2020"
+                ;;
+              *)
+                echo "未知模式: $MODE"
+                exit 1
+                ;;
+            esac
+          fi
+
+          case "$MODE" in
+            test)
+              SAMPLE_SCHOOLS_VALUE=10
+              MAX_TASKS_PER_RUN=3
+              PROVINCE_WORKERS=3
+              ;;
+            sample)
+              SAMPLE_SCHOOLS_VALUE=50
+              MAX_TASKS_PER_RUN=8
+              PROVINCE_WORKERS=4
+              ;;
+            full)
+              SAMPLE_SCHOOLS_VALUE=999999
+              MAX_TASKS_PER_RUN=20
+              PROVINCE_WORKERS=4
+              ;;
+            *)
+              echo "未知模式: $MODE"
+              exit 1
+              ;;
+          esac
+
+          SAFE_SCOPE="$(echo "years:${YEARS_VALUE}" | sed 's#[^A-Za-z0-9._-]#_#g')"
+          PROGRESS_FILE="data/school_scores_progress/${SAFE_SCOPE}.json"
+
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          LOOP_COUNT=0
+          MAX_LOOPS=500
+
+          while true; do
+            LOOP_COUNT=$((LOOP_COUNT + 1))
+            if [ "$LOOP_COUNT" -gt "$MAX_LOOPS" ]; then
+              echo "循环次数过多，停止本次运行"
+              exit 1
+            fi
+
+            export DB_ENABLED=false
+            export CRAWL_MODE="$MODE"
+            export SAMPLE_SCHOOLS="$SAMPLE_SCHOOLS_VALUE"
+            export SCHOOL_SCORE_YEARS="$YEARS_VALUE"
+            export SCHOOL_DATA_FILE="data/schools.json"
+            export SCHOOL_SCORE_DATA_DIR="data/school_scores"
+            export SCHOOL_SCORE_PROGRESS_DIR="data/school_scores_progress"
+            export SCHOOL_SCORE_COMPLETED_DIR="data/school_scores_progress/completed"
+            export SCHOOL_SCORE_PROGRESS_FILE="$PROGRESS_FILE"
+            export SCHOOL_SCORE_SKIP_EXISTING=true
+            export SCHOOL_SCORE_EXPORT_JSON=false
+            export SCHOOL_SCORE_MAX_TASKS_PER_RUN="$MAX_TASKS_PER_RUN"
+            export SCHOOL_SCORE_PROVINCE_WORKERS="$PROVINCE_WORKERS"
+            export SCHOOL_SCORE_TASK_SLEEP_MIN=0.3
+            export SCHOOL_SCORE_TASK_SLEEP_MAX=0.8
+
+            echo "开始爬取 school_scores，年份: $YEARS_VALUE，第 ${LOOP_COUNT} 轮"
+            python -m crawlers.school_scores "$YEARS_VALUE" "$MODE"
+
+            git add -A data/school_scores data/school_scores_progress
+
+            if ! git diff --cached --quiet; then
+              if [ -f "$PROGRESS_FILE" ]; then
+                git commit -m "⏸️ 保存高校最低分进度 [$YEARS_VALUE] [$MODE] #${{ github.run_number }}.${LOOP_COUNT}"
+              else
+                git commit -m "📈 更新高校最低分数据目录 [$YEARS_VALUE] [$MODE] #${{ github.run_number }}.${LOOP_COUNT}"
+              fi
+              git pull --rebase origin "${GITHUB_REF_NAME}"
+              git push origin "HEAD:${GITHUB_REF_NAME}"
+            else
+              echo "本轮没有文件变化"
+            fi
+
+            if [ ! -f "$PROGRESS_FILE" ]; then
+              echo "高校最低分任务已完成"
+              break
+            fi
+
+            echo "高校最低分任务尚未完成，已提交本轮结果，继续下一轮"
+            sleep 15
+          done

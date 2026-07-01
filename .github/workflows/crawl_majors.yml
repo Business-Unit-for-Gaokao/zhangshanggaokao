@@ -1,0 +1,90 @@
+name: 爬取专业数据
+
+on:
+  workflow_dispatch:
+    inputs:
+      mode:
+        description: '爬取模式'
+        required: true
+        type: choice
+        options:
+          - 'test'
+          - 'full'
+        default: 'test'
+
+permissions:
+  contents: write
+
+concurrency:
+  group: crawl-majors-${{ github.ref }}
+  cancel-in-progress: false
+
+jobs:
+  crawl:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: 检出代码
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: 设置Python环境
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
+          cache: 'pip'
+
+      - name: 安装依赖
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: 创建数据目录
+        run: mkdir -p data
+
+      - name: 爬取专业数据
+        env:
+          CRAWL_MODE: ${{ github.event.inputs.mode }}
+          MAJOR_DEBUG: 'false'
+        run: python -m crawlers.majors "${{ github.event.inputs.mode }}"
+
+      - name: 校验 majors.json
+        run: |
+          python - <<'PY'
+          import json
+          from pathlib import Path
+
+          path = Path("data/majors.json")
+          if not path.exists():
+              raise SystemExit("data/majors.json 不存在")
+
+          with path.open("r", encoding="utf-8") as f:
+              data = json.load(f)
+
+          if not isinstance(data, dict):
+              raise SystemExit("JSON 顶层结构不是 dict")
+          if "data" not in data:
+              raise SystemExit("JSON 缺少 data 字段")
+
+          print("✓ JSON 校验通过")
+          PY
+
+      - name: 配置 Git
+        run: |
+          git config user.name "GitHub Action"
+          git config user.email "action@github.com"
+
+      - name: 提交变更
+        run: |
+          git add data/majors.json
+          if git diff --cached --quiet; then
+            echo "没有变化，跳过提交"
+            exit 0
+          fi
+          git commit -m "📚 更新专业数据 [${{ github.event.inputs.mode }}] #${{ github.run_number }}"
+
+      - name: 同步远端并推送
+        run: |
+          git pull --rebase origin "${GITHUB_REF_NAME}"
+          git push origin HEAD:"${GITHUB_REF_NAME}"

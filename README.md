@@ -139,4 +139,32 @@ Historical JSON output is not duplicated in this source repository. It belongs i
 
 - `Business-Unit-for-Gaokao/gaokao-data-json`
 - `zsgk/gaokao-qiangji-crawler/data/qiangji/`
+## Legacy 掌上高考 crawler consolidation
+
+Former source repository: `Business-Unit-for-Gaokao/zhangshang-gaokao-crawler`.
+
+This repository is the retained 掌上高考 / `gaokao.cn` source repository. The reusable crawler source from the legacy repository has been consolidated here, including:
+
+- `crawlers/schools.py` and `.github/workflows/crawl_schools.yml`
+- `crawlers/majors.py` and `.github/workflows/crawl_majors.yml`
+- `crawlers/plans.py` and `.github/workflows/crawl_plans.yml`
+- `crawlers/school_scores.py` and `.github/workflows/crawl_school_scores.yml`
+- `crawlers/scores.py` and `.github/workflows/crawl_scores.yml` as historical/static score-source reference
+- `run_crawlers.py`, `utils/`, and legacy Pages data-building helper scripts under `scripts/`
+
+Target/API sources found in the legacy code:
+
+- `https://static-data.gaokao.cn/www/2.0/school/{school_id}/info.json`
+- `https://static-data.gaokao.cn/www/2.0/schoolspecialplan/{school_id}/{year}/{province_id}.json`
+- `https://static-data.gaokao.cn/www/2.0/schoolspecialscore/{school_id}/{year}/{province_id}.json`
+- `https://api.zjzw.cn/web/api/` with `uri=apidata/api/gkv3/school/lists` and `uri=apidata/api/gkv3/special/lists`
+
+Historical generated JSON output is not duplicated in this source repository. It belongs in:
+
+- `Business-Unit-for-Gaokao/gaokao-data-json`
+- legacy paths such as `zsgk/zhangshang-gaokao-crawler/data/plans/`, `data/scores/`, `data/school_scores/`, and `data/majors.json` if preserved there.
+
+`deploy-pages.yml` from the legacy repository was intentionally not enabled here during source consolidation because Pages publishing is deployment behavior. Keep deployment/Pages publication in the `deploy` repository or add it through a separate explicit deployment change.
+
+Note on scores/provinceline: the legacy `scores` crawler uses static `schoolspecialscore` data. The full `provinceline` page should use the dynamic `api-gaokao.zjzw.cn/apidata/web` API with `uri=v1/school/province_score` when that feature is implemented.
 
