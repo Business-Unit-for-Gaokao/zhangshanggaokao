@@ -48,3 +48,16 @@ Historical JSON results are consolidated in `Business-Unit-for-Gaokao/gaokao-dat
 
 - `zsgk/gaokao-department-crawler/data/departments/`
 
+## Pending Consolidation Notes
+
+### Scores crawler / provinceline data
+
+`Business-Unit-for-Gaokao/gaokao-scores-crawler` should not remain as a long-term standalone repository. Its reusable source should be consolidated into this `zhangshanggaokao` repository before the old repository is deleted.
+
+Decision notes:
+
+- Historical JSON results from `gaokao-scores-crawler` have already been consolidated into `Business-Unit-for-Gaokao/gaokao-data-json`.
+- The existing `gaokao-scores-crawler` uses static `static-data.gaokao.cn/www/2.0/schoolspecialscore/...` data, which is not the right complete source for the `https://www.gaokao.cn/school/{school_id}/provinceline` page.
+- Future implementation should use the dynamic 掌上高考 API observed from the page, especially `api-gaokao.zjzw.cn/apidata/web` with `uri=v1/school/province_score`, and parameters such as `school_id`, `year`, `local_province_id`, `local_type_id`, `page`, `size`, and `platform=2`.
+- This note records the consolidation decision only; the scores/provinceline crawler is not implemented in this repository yet.
+
