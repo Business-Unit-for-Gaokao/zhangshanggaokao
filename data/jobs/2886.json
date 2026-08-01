@@ -1,0 +1,63 @@
+{
+  "update_time": "2026-08-01 06:44:45",
+  "school_id": "2886",
+  "school_name": "吉林省经济管理干部学院",
+  "jobrateyear": "2024",
+  "jobrate": {
+    "job": {
+      "1": "84.11"
+    },
+    "postgraduate": {
+      "1": "23.65"
+    },
+    "abroad": {
+      "1": "0.00"
+    },
+    "content": {
+      "1": ""
+    }
+  },
+  "province": [
+    {
+      "id": "32393",
+      "school_id": "2886",
+      "province": "省内",
+      "rate": "87.32",
+      "num": "0",
+      "sort": "1",
+      "update_id": "2156",
+      "update_time": "2025-12-01 16:16:37",
+      "year": "2024",
+      "province_name": "省内"
+    },
+    {
+      "id": "32392",
+      "school_id": "2886",
+      "province": "省外",
+      "rate": "13.00",
+      "num": "0",
+      "sort": "2",
+      "update_id": "2156",
+      "update_time": "2025-12-01 16:16:13",
+      "year": "2024",
+      "province_name": "省外"
+    }
+  ],
+  "attr": {},
+  "company": {},
+  "gradute": [
+    {
+      "id": "2782",
+      "school_id": "2886",
+      "female_num": "858",
+      "men_num": "797",
+      "men_rate": "52.00",
+      "female_rate": "48.00",
+      "update_id": "2156",
+      "update_time": "2025-12-01 16:15:43",
+      "year": "2024"
+    }
+  ],
+  "remark": "",
+  "salary": {}
+}

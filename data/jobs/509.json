@@ -1,0 +1,65 @@
+{
+  "update_time": "2026-08-01 06:24:20",
+  "school_id": "509",
+  "school_name": "青岛理工大学",
+  "jobrateyear": "2024",
+  "jobrate": {
+    "job": {
+      "1": "83.55"
+    },
+    "postgraduate": {
+      "1": "31.51"
+    },
+    "abroad": {
+      "1": "3.24"
+    },
+    "content": {
+      "1": "<p>截至2024年8月31日，2024届本科毕业生的毕业去向落实率为83.55%。毕业生最主要的毕业去向是企业，占44.15%；升学2329人，占31.51%，其中出国（境）留学200人，占3.24%。</p>"
+    }
+  },
+  "province": [
+    {
+      "id": "20568",
+      "school_id": "509",
+      "province": "山东省外",
+      "rate": "29.52",
+      "num": "0",
+      "sort": "0",
+      "update_id": "1988",
+      "update_time": "2024-09-12 16:04:49",
+      "year": "2019",
+      "province_name": "山东省外"
+    },
+    {
+      "id": "20567",
+      "school_id": "509",
+      "province": "山东省内",
+      "rate": "70.48",
+      "num": "0",
+      "sort": "70",
+      "update_id": "1988",
+      "update_time": "2024-09-12 16:04:38",
+      "year": "2019",
+      "province_name": "山东省内"
+    }
+  ],
+  "attr": {},
+  "company": {},
+  "gradute": [
+    {
+      "id": "388",
+      "school_id": "509",
+      "female_num": "3265",
+      "men_num": "4960",
+      "men_rate": "60.30",
+      "female_rate": "39.70",
+      "update_id": null,
+      "update_time": null,
+      "year": "2019"
+    }
+  ],
+  "remark": "",
+  "salary": {
+    "6": "10200"
+  }
+}

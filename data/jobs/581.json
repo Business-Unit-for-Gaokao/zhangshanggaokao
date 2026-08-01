@@ -1,0 +1,81 @@
+{
+  "update_time": "2026-08-01 06:25:06",
+  "school_id": "581",
+  "school_name": "外交学院",
+  "jobrateyear": "2024",
+  "jobrate": {
+    "job": {
+      "1": "97.84"
+    },
+    "postgraduate": {
+      "1": "34.86"
+    },
+    "abroad": {
+      "1": "25.68"
+    },
+    "content": {
+      "1": "<p><img src=\"https://static-data.gaokao.cn//upload/image/202606/core_1780916041_3781_thumb.png\" title=\"core_1780916041_3781_thumb.png\" alt=\"core_1780916041_3781.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202606/core_1780916057_1640_thumb.png\" title=\"core_1780916057_1640_thumb.png\" alt=\"core_1780916057_1640.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202606/core_1780916088_3200_thumb.png\" title=\"core_1780916088_3200_thumb.png\" alt=\"core_1780916088_3200.png\"></p>"
+    }
+  },
+  "province": [
+    {
+      "id": "24730",
+      "school_id": "581",
+      "province": "中部地区",
+      "rate": "4.00",
+      "num": "0",
+      "sort": "400",
+      "update_id": "1211",
+      "update_time": "2025-01-06 15:46:20",
+      "year": "2022",
+      "province_name": "中部地区"
+    },
+    {
+      "id": "24729",
+      "school_id": "581",
+      "province": "西部地区",
+      "rate": "5.33",
+      "num": "0",
+      "sort": "533",
+      "update_id": "1211",
+      "update_time": "2025-01-06 15:46:04",
+      "year": "2022",
+      "province_name": "西部地区"
+    },
+    {
+      "id": "24728",
+      "school_id": "581",
+      "province": "东部地区",
+      "rate": "90.67",
+      "num": "0",
+      "sort": "9067",
+      "update_id": "1211",
+      "update_time": "2025-01-06 15:45:46",
+      "year": "2022",
+      "province_name": "东部地区"
+    }
+  ],
+  "attr": {
+    "机关": "44.00",
+    "其他企业": "21.33",
+    "国有企业": "16.00"
+  },
+  "company": {},
+  "gradute": [
+    {
+      "id": "2154",
+      "school_id": "581",
+      "female_num": "256",
+      "men_num": "106",
+      "men_rate": "29.28",
+      "female_rate": "70.72",
+      "update_id": "1211",
+      "update_time": "2025-01-06 15:37:02",
+      "year": "2022"
+    }
+  ],
+  "remark": "",
+  "salary": {
+    "6": "16200"
+  }
+}

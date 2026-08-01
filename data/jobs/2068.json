@@ -1,0 +1,26 @@
+{
+  "update_time": "2026-08-01 06:38:21",
+  "school_id": "2068",
+  "school_name": "新疆警察学院",
+  "jobrateyear": "2023",
+  "jobrate": {
+    "job": {
+      "1": "74.21"
+    },
+    "postgraduate": {
+      "1": "0.00"
+    },
+    "abroad": {
+      "1": "0.00"
+    },
+    "content": {
+      "1": ""
+    }
+  },
+  "province": [],
+  "attr": {},
+  "company": {},
+  "gradute": [],
+  "remark": "",
+  "salary": {}
+}

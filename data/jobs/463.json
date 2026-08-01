@@ -1,0 +1,107 @@
+{
+  "update_time": "2026-08-01 06:23:53",
+  "school_id": "463",
+  "school_name": "河南理工大学",
+  "jobrateyear": "2024",
+  "jobrate": {
+    "job": {
+      "1": "81.94"
+    },
+    "postgraduate": {
+      "1": "0.00"
+    },
+    "abroad": {
+      "1": "0.00"
+    },
+    "content": {
+      "1": "<p xss=removed>2024届本科毕业生初次毕业去向落实率为81.94%，其中升学（含出国（境）深造）为29.45%。签订三方协议和劳动合同的毕业生就业区域主要流向河南省、浙江省、北京市、上海市、广东省和江苏省，占比分别为33.03%、6.62%、3.89%、3.41%、2.94%和2.77%。</p><p></p><p xss=removed><img src=\"https://static-data.gaokao.cn//upload/image/202607/core_1785468140_4241_thumb.png\" title=\"core_1785468140_4241_thumb.png\" alt=\"core_1785468140_4241.png\"></p><p xss=removed><img src=\"https://static-data.gaokao.cn//upload/image/202607/core_1785468164_9947_thumb.png\" title=\"core_1785468164_9947_thumb.png\" alt=\"core_1785468164_9947.png\"></p><p xss=removed><img src=\"https://static-data.gaokao.cn//upload/image/202607/core_1785468202_3542_thumb.png\" title=\"core_1785468202_3542_thumb.png\" alt=\"core_1785468202_3542.png\"></p><p xss=removed><img src=\"https://static-data.gaokao.cn//upload/image/202607/core_1785468220_9411_thumb.png\" title=\"core_1785468220_9411_thumb.png\" alt=\"core_1785468220_9411.png\"></p><p xss=removed><img src=\"https://static-data.gaokao.cn//upload/image/202607/core_1785468237_1821_thumb.png\" title=\"core_1785468237_1821_thumb.png\" alt=\"core_1785468237_1821.png\"></p><p xss=removed><img src=\"https://static-data.gaokao.cn//upload/image/202607/core_1785468249_3520_thumb.png\" title=\"core_1785468249_3520_thumb.png\" alt=\"core_1785468249_3520.png\"></p>"
+    }
+  },
+  "province": [
+    {
+      "id": "15986",
+      "school_id": "463",
+      "province": "东北地区",
+      "rate": "0.38",
+      "num": "24",
+      "sort": "5",
+      "update_id": "1721",
+      "update_time": "2024-06-05 14:58:17",
+      "year": "2023",
+      "province_name": "东北地区"
+    },
+    {
+      "id": "15987",
+      "school_id": "463",
+      "province": "东部地区",
+      "rate": "32.48",
+      "num": "2077",
+      "sort": "6",
+      "update_id": "1721",
+      "update_time": "2024-06-05 14:58:17",
+      "year": "2023",
+      "province_name": "东部地区"
+    },
+    {
+      "id": "15988",
+      "school_id": "463",
+      "province": "中部地区",
+      "rate": "62.53",
+      "num": "3998",
+      "sort": "7",
+      "update_id": "1721",
+      "update_time": "2024-06-05 14:58:17",
+      "year": "2023",
+      "province_name": "中部地区"
+    },
+    {
+      "id": "15989",
+      "school_id": "463",
+      "province": "西部地区",
+      "rate": "4.61",
+      "num": "295",
+      "sort": "8",
+      "update_id": "1721",
+      "update_time": "2024-06-05 14:58:17",
+      "year": "2023",
+      "province_name": "西部地区"
+    }
+  ],
+  "attr": {
+    "城镇社区": "0.02",
+    "农村建制村": "0.03",
+    "科研助理": "0.00",
+    "自主创业": "0.17",
+    "地方基层项目": "0.17",
+    "国家基层项目": "0.33",
+    "部队": "0.81",
+    "科研设计单位": "0.80",
+    "医疗卫生单位": "0.78",
+    "中初教育单位": "0.91",
+    "其他事业单位": "1.36",
+    "机关": "0.92",
+    "高等教育单位": "0.14",
+    "三资企业": "2.41",
+    "自由职业": "12.32",
+    "国有企业": "22.16",
+    "其他企业": "56.66"
+  },
+  "company": {},
+  "gradute": [
+    {
+      "id": "1507",
+      "school_id": "463",
+      "female_num": "3460",
+      "men_num": "6176",
+      "men_rate": "64.09",
+      "female_rate": "35.91",
+      "update_id": "1721",
+      "update_time": "2024-06-05 14:16:31",
+      "year": "2023"
+    }
+  ],
+  "remark": "",
+  "salary": {
+    "6": "10600"
+  }
+}

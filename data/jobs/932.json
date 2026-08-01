@@ -1,0 +1,65 @@
+{
+  "update_time": "2026-08-01 06:28:17",
+  "school_id": "932",
+  "school_name": "攀枝花学院",
+  "jobrateyear": "2019",
+  "jobrate": {
+    "job": {
+      "1": "96.55"
+    },
+    "postgraduate": {
+      "1": "9.78"
+    },
+    "abroad": {
+      "1": "0.09"
+    },
+    "content": {
+      "1": ""
+    }
+  },
+  "province": [
+    {
+      "id": "5531",
+      "school_id": "932",
+      "province": "四川省外",
+      "rate": "14.79",
+      "num": "462",
+      "sort": "462",
+      "update_id": "0",
+      "update_time": "2018-12-18 15:40:16",
+      "year": "2019",
+      "province_name": "四川省外"
+    },
+    {
+      "id": "5532",
+      "school_id": "932",
+      "province": "四川省",
+      "rate": "85.21",
+      "num": "2665",
+      "sort": "2665",
+      "update_id": "0",
+      "update_time": "2018-12-18 15:40:16",
+      "year": "2019",
+      "province_name": "四川省"
+    }
+  ],
+  "attr": {},
+  "company": {},
+  "gradute": [
+    {
+      "id": "641",
+      "school_id": "932",
+      "female_num": "1396",
+      "men_num": "1844",
+      "men_rate": "56.91",
+      "female_rate": "43.09",
+      "update_id": null,
+      "update_time": null,
+      "year": "2019"
+    }
+  ],
+  "remark": "",
+  "salary": {
+    "6": "9600"
+  }
+}

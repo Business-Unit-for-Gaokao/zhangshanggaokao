@@ -1,0 +1,71 @@
+{
+  "update_time": "2026-08-01 06:25:43",
+  "school_id": "647",
+  "school_name": "私立华联学院",
+  "jobrateyear": "2024",
+  "jobrate": {
+    "job": {
+      "1": "0.00"
+    },
+    "postgraduate": {
+      "1": "6.64"
+    },
+    "abroad": {
+      "1": "0.00"
+    },
+    "content": {
+      "1": ""
+    }
+  },
+  "province": [
+    {
+      "id": "31401",
+      "school_id": "647",
+      "province": "广东省珠三角地区",
+      "rate": "78.68",
+      "num": "0",
+      "sort": "1",
+      "update_id": "2156",
+      "update_time": "2025-11-27 16:32:18",
+      "year": "2024",
+      "province_name": "广东省珠三角地区"
+    },
+    {
+      "id": "31402",
+      "school_id": "647",
+      "province": "粤东粤西北地区",
+      "rate": "16.20",
+      "num": "0",
+      "sort": "2",
+      "update_id": "2156",
+      "update_time": "2025-11-27 16:33:33",
+      "year": "2024",
+      "province_name": "粤东粤西北地区"
+    },
+    {
+      "id": "31403",
+      "school_id": "647",
+      "province": "省外",
+      "rate": "3.88",
+      "num": "0",
+      "sort": "3",
+      "update_id": "2156",
+      "update_time": "2025-11-27 16:33:48",
+      "year": "2024",
+      "province_name": "省外"
+    }
+  ],
+  "attr": {
+    "企业单位": "84.36",
+    "升学、出国深造": "6.64",
+    "应征入伍": "1.57",
+    "机关、事业、医疗卫生单位": "1.29",
+    "其他就业单位类型": "6.14"
+  },
+  "company": {},
+  "gradute": [],
+  "remark": "",
+  "salary": {
+    "6": "8700"
+  }
+}

@@ -1,0 +1,233 @@
+{
+  "update_time": "2026-08-01 06:22:35",
+  "school_id": "346",
+  "school_name": "西南林业大学",
+  "jobrateyear": "2024",
+  "jobrate": {
+    "job": {
+      "1": "82.12"
+    },
+    "postgraduate": {
+      "1": "0.00"
+    },
+    "abroad": {
+      "1": "0.55"
+    },
+    "content": {
+      "1": "<p>学校以立德树人成效为根本标准，深化教育教学改革，不断提升人才培养质量，在达成度、适应度、保障度、有效度及满意度等方面持续优化。2024年本科毕业生8278人，实际毕业8120人，毕业率98.09%，学位授予率99.96%。学校坚持“以学生为中心”，从多层面支持学生成长，通过线上线下联动、访企拓岗、招聘平台搭建、技能培训等举措提升毕业生就业创业能力。截至2024年8月31日，应届本科毕业生总体就业率82.12%，主要去向为企业（占71.91%）；升学866人（占10.67%），其中国内保研108人、出国（境）留学37人（占0.55%）。</p><p>为提高学校的本科人才培养适应度，精准定位各专业人才培养目标，学校持续开展用人单位认可度调研工作。2023届本科毕业生的用人单位认可度调查从用人单位对毕业生的能力素养评价和职业发展潜力评价两方面进行。结果显示2023届毕业生工作表现获用人单位认可，受访用人单位对学校毕业生工作表现总体满意度为99.69%。用人单位继续招聘本校毕业生意愿高，占比为99.67%。</p><p><br></p>"
+    }
+  },
+  "province": [
+    {
+      "id": "8257",
+      "school_id": "346",
+      "province": "其他省市",
+      "rate": "17.38",
+      "num": "0",
+      "sort": "0",
+      "update_id": "0",
+      "update_time": "2018-12-18 15:40:17",
+      "year": "2019",
+      "province_name": "其他省市"
+    },
+    {
+      "id": "8251",
+      "school_id": "346",
+      "province": "河南省",
+      "rate": "0.67",
+      "num": "28",
+      "sort": "28",
+      "update_id": "0",
+      "update_time": "2018-12-18 15:40:17",
+      "year": "2019",
+      "province_name": "河南省"
+    },
+    {
+      "id": "8249",
+      "school_id": "346",
+      "province": "湖南省",
+      "rate": "0.69",
+      "num": "29",
+      "sort": "29",
+      "update_id": "0",
+      "update_time": "2018-12-18 15:40:17",
+      "year": "2019",
+      "province_name": "湖南省"
+    },
+    {
+      "id": "8255",
+      "school_id": "346",
+      "province": "福建省",
+      "rate": "0.69",
+      "num": "29",
+      "sort": "29",
+      "update_id": "0",
+      "update_time": "2018-12-18 15:40:17",
+      "year": "2019",
+      "province_name": "福建省"
+    },
+    {
+      "id": "8250",
+      "school_id": "346",
+      "province": "湖北省",
+      "rate": "0.79",
+      "num": "33",
+      "sort": "33",
+      "update_id": "0",
+      "update_time": "2018-12-18 15:40:17",
+      "year": "2019",
+      "province_name": "湖北省"
+    },
+    {
+      "id": "8253",
+      "school_id": "346",
+      "province": "广西壮族自治区",
+      "rate": "0.88",
+      "num": "37",
+      "sort": "37",
+      "update_id": "0",
+      "update_time": "2018-12-18 15:40:17",
+      "year": "2019",
+      "province_name": "广西壮族自治区"
+    },
+    {
+      "id": "8248",
+      "school_id": "346",
+      "province": "江苏省",
+      "rate": "1.08",
+      "num": "45",
+      "sort": "45",
+      "update_id": "0",
+      "update_time": "2018-12-18 15:40:17",
+      "year": "2019",
+      "province_name": "江苏省"
+    },
+    {
+      "id": "8242",
+      "school_id": "346",
+      "province": "重庆市",
+      "rate": "1.21",
+      "num": "51",
+      "sort": "51",
+      "update_id": "0",
+      "update_time": "2018-12-18 15:40:17",
+      "year": "2019",
+      "province_name": "重庆市"
+    },
+    {
+      "id": "8247",
+      "school_id": "346",
+      "province": "山东省",
+      "rate": "1.26",
+      "num": "53",
+      "sort": "53",
+      "update_id": "0",
+      "update_time": "2018-12-18 15:40:17",
+      "year": "2019",
+      "province_name": "山东省"
+    },
+    {
+      "id": "8243",
+      "school_id": "346",
+      "province": "浙江省",
+      "rate": "1.33",
+      "num": "56",
+      "sort": "56",
+      "update_id": "0",
+      "update_time": "2018-12-18 15:40:17",
+      "year": "2019",
+      "province_name": "浙江省"
+    },
+    {
+      "id": "8246",
+      "school_id": "346",
+      "province": "上海市",
+      "rate": "1.33",
+      "num": "56",
+      "sort": "56",
+      "update_id": "0",
+      "update_time": "2018-12-18 15:40:17",
+      "year": "2019",
+      "province_name": "上海市"
+    },
+    {
+      "id": "8252",
+      "school_id": "346",
+      "province": "贵州省",
+      "rate": "1.74",
+      "num": "73",
+      "sort": "73",
+      "update_id": "0",
+      "update_time": "2018-12-18 15:40:17",
+      "year": "2019",
+      "province_name": "贵州省"
+    },
+    {
+      "id": "8256",
+      "school_id": "346",
+      "province": "北京市",
+      "rate": "1.79",
+      "num": "75",
+      "sort": "75",
+      "update_id": "0",
+      "update_time": "2018-12-18 15:40:17",
+      "year": "2019",
+      "province_name": "北京市"
+    },
+    {
+      "id": "8245",
+      "school_id": "346",
+      "province": "四川省",
+      "rate": "2.36",
+      "num": "99",
+      "sort": "99",
+      "update_id": "0",
+      "update_time": "2018-12-18 15:40:17",
+      "year": "2019",
+      "province_name": "四川省"
+    },
+    {
+      "id": "8254",
+      "school_id": "346",
+      "province": "广东省",
+      "rate": "6.53",
+      "num": "274",
+      "sort": "274",
+      "update_id": "0",
+      "update_time": "2018-12-18 15:40:17",
+      "year": "2019",
+      "province_name": "广东省"
+    },
+    {
+      "id": "8244",
+      "school_id": "346",
+      "province": "云南省",
+      "rate": "60.27",
+      "num": "2530",
+      "sort": "2530",
+      "update_id": "0",
+      "update_time": "2018-12-18 15:40:17",
+      "year": "2019",
+      "province_name": "云南省"
+    }
+  ],
+  "attr": {},
+  "company": {},
+  "gradute": [
+    {
+      "id": "673",
+      "school_id": "346",
+      "female_num": "2086",
+      "men_num": "2260",
+      "men_rate": "52.00",
+      "female_rate": "48.00",
+      "update_id": null,
+      "update_time": null,
+      "year": "2019"
+    }
+  ],
+  "remark": "",
+  "salary": {
+    "6": "9700"
+  }
+}

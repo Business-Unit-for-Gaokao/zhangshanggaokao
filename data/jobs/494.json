@@ -1,0 +1,108 @@
+{
+  "update_time": "2026-08-01 06:24:12",
+  "school_id": "494",
+  "school_name": "聊城大学",
+  "jobrateyear": "2024",
+  "jobrate": {
+    "job": {
+      "1": "72.35"
+    },
+    "postgraduate": {
+      "1": "0.00"
+    },
+    "abroad": {
+      "1": "0.00"
+    },
+    "content": {
+      "1": "<p><img src=\"https://static-data.gaokao.cn//upload/image/202606/core_1781170697_3118_thumb.jpg\" xss=\"removed\" title=\"core_1781170697_3118_thumb.jpg\"></p><p></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202606/core_1781170749_7729_thumb.jpg\" xss=removed title=\"core_1781170749_7729_thumb.jpg\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202606/core_1781170749_2828_thumb.jpg\" xss=removed title=\"core_1781170749_2828_thumb.jpg\"></p><p><br></p>"
+    }
+  },
+  "province": [
+    {
+      "id": "27321",
+      "school_id": "494",
+      "province": "东北地区",
+      "rate": "0.93",
+      "num": "51",
+      "sort": "51",
+      "update_id": "1988",
+      "update_time": "2025-06-03 17:28:46",
+      "year": "2021",
+      "province_name": "东北地区"
+    },
+    {
+      "id": "27322",
+      "school_id": "494",
+      "province": "其他",
+      "rate": "1.11",
+      "num": "61",
+      "sort": "61",
+      "update_id": "1988",
+      "update_time": "2025-06-03 17:29:09",
+      "year": "2021",
+      "province_name": "其他"
+    },
+    {
+      "id": "27319",
+      "school_id": "494",
+      "province": "中部地区",
+      "rate": "3.34",
+      "num": "184",
+      "sort": "184",
+      "update_id": "1988",
+      "update_time": "2025-06-03 17:28:11",
+      "year": "2021",
+      "province_name": "中部地区"
+    },
+    {
+      "id": "27320",
+      "school_id": "494",
+      "province": "西部地区",
+      "rate": "5.14",
+      "num": "283",
+      "sort": "283",
+      "update_id": "1988",
+      "update_time": "2025-06-03 17:28:30",
+      "year": "2021",
+      "province_name": "西部地区"
+    },
+    {
+      "id": "27318",
+      "school_id": "494",
+      "province": "东部地区",
+      "rate": "89.48",
+      "num": "4923",
+      "sort": "4923",
+      "update_id": "1988",
+      "update_time": "2025-06-03 17:27:50",
+      "year": "2021",
+      "province_name": "东部地区"
+    }
+  ],
+  "attr": {
+    "自由职业": "57.18",
+    "非国有企业": "21.92",
+    "事业单位": "9.96",
+    "其他": "5.78",
+    "国有企业": "4.05",
+    "机关": "1.11"
+  },
+  "company": {},
+  "gradute": [
+    {
+      "id": "2318",
+      "school_id": "494",
+      "female_num": "5504",
+      "men_num": "3028",
+      "men_rate": "35.00",
+      "female_rate": "65.00",
+      "update_id": "1988",
+      "update_time": "2025-06-03 16:55:27",
+      "year": "2021"
+    }
+  ],
+  "remark": "",
+  "salary": {
+    "6": "9700"
+  }
+}

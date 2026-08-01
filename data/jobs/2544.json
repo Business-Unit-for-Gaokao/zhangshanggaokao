@@ -1,0 +1,65 @@
+{
+  "update_time": "2026-08-01 06:43:10",
+  "school_id": "2544",
+  "school_name": "南京工业大学浦江学院",
+  "jobrateyear": "2021",
+  "jobrate": {
+    "job": {
+      "1": "76.43"
+    },
+    "postgraduate": {
+      "1": "4.90"
+    },
+    "abroad": {
+      "1": "0.00"
+    },
+    "content": {
+      "1": ""
+    }
+  },
+  "province": [
+    {
+      "id": "26570",
+      "school_id": "2544",
+      "province": "江苏省外",
+      "rate": "25.55",
+      "num": "0",
+      "sort": "2555",
+      "update_id": "2094",
+      "update_time": "2025-01-10 11:58:31",
+      "year": "2019",
+      "province_name": "江苏省外"
+    },
+    {
+      "id": "26569",
+      "school_id": "2544",
+      "province": "江苏省",
+      "rate": "74.45",
+      "num": "0",
+      "sort": "7445",
+      "update_id": "2094",
+      "update_time": "2025-01-10 11:57:54",
+      "year": "2019",
+      "province_name": "江苏省"
+    }
+  ],
+  "attr": {},
+  "company": {},
+  "gradute": [
+    {
+      "id": "2259",
+      "school_id": "2544",
+      "female_num": "1013",
+      "men_num": "1108",
+      "men_rate": "52.24",
+      "female_rate": "47.76",
+      "update_id": "2094",
+      "update_time": "2025-01-10 11:32:10",
+      "year": "2021"
+    }
+  ],
+  "remark": "",
+  "salary": {
+    "6": "8300"
+  }
+}

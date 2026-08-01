@@ -1,0 +1,194 @@
+{
+  "update_time": "2026-08-01 06:42:22",
+  "school_id": "2465",
+  "school_name": "湖南国防工业职业技术学院",
+  "jobrateyear": "2024",
+  "jobrate": {
+    "job": {
+      "1": "94.62"
+    },
+    "postgraduate": {
+      "1": "0.00"
+    },
+    "abroad": {
+      "1": "0.00"
+    },
+    "content": {
+      "1": ""
+    }
+  },
+  "province": [
+    {
+      "id": "31830",
+      "school_id": "2465",
+      "province": "云南省",
+      "rate": "0.31",
+      "num": "6",
+      "sort": "31",
+      "update_id": "2234",
+      "update_time": "2025-11-28 17:59:25",
+      "year": "2024",
+      "province_name": "云南省"
+    },
+    {
+      "id": "31831",
+      "school_id": "2465",
+      "province": "陕西省",
+      "rate": "0.31",
+      "num": "6",
+      "sort": "31",
+      "update_id": "2234",
+      "update_time": "2025-11-28 17:59:25",
+      "year": "2024",
+      "province_name": "陕西省"
+    },
+    {
+      "id": "31832",
+      "school_id": "2465",
+      "province": "北京市",
+      "rate": "0.31",
+      "num": "6",
+      "sort": "31",
+      "update_id": "2234",
+      "update_time": "2025-11-28 17:59:25",
+      "year": "2024",
+      "province_name": "北京市"
+    },
+    {
+      "id": "31827",
+      "school_id": "2465",
+      "province": "山东省",
+      "rate": "0.37",
+      "num": "7",
+      "sort": "37",
+      "update_id": "2234",
+      "update_time": "2025-11-28 17:59:25",
+      "year": "2024",
+      "province_name": "山东省"
+    },
+    {
+      "id": "31828",
+      "school_id": "2465",
+      "province": "上海市",
+      "rate": "0.37",
+      "num": "7",
+      "sort": "37",
+      "update_id": "2234",
+      "update_time": "2025-11-28 17:59:25",
+      "year": "2024",
+      "province_name": "上海市"
+    },
+    {
+      "id": "31829",
+      "school_id": "2465",
+      "province": "四川省",
+      "rate": "0.37",
+      "num": "7",
+      "sort": "37",
+      "update_id": "2234",
+      "update_time": "2025-11-28 17:59:25",
+      "year": "2024",
+      "province_name": "四川省"
+    },
+    {
+      "id": "31826",
+      "school_id": "2465",
+      "province": "福建省",
+      "rate": "0.43",
+      "num": "8",
+      "sort": "43",
+      "update_id": "2234",
+      "update_time": "2025-11-28 17:59:25",
+      "year": "2024",
+      "province_name": "福建省"
+    },
+    {
+      "id": "31825",
+      "school_id": "2465",
+      "province": "安徽省",
+      "rate": "0.86",
+      "num": "16",
+      "sort": "86",
+      "update_id": "2234",
+      "update_time": "2025-11-28 17:59:25",
+      "year": "2024",
+      "province_name": "安徽省"
+    },
+    {
+      "id": "31824",
+      "school_id": "2465",
+      "province": "浙江省",
+      "rate": "2.57",
+      "num": "47",
+      "sort": "257",
+      "update_id": "2234",
+      "update_time": "2025-11-28 17:59:25",
+      "year": "2024",
+      "province_name": "浙江省"
+    },
+    {
+      "id": "31823",
+      "school_id": "2465",
+      "province": "江苏省",
+      "rate": "3.30",
+      "num": "61",
+      "sort": "330",
+      "update_id": "2234",
+      "update_time": "2025-11-28 17:59:25",
+      "year": "2024",
+      "province_name": "江苏省"
+    },
+    {
+      "id": "31822",
+      "school_id": "2465",
+      "province": "广东省",
+      "rate": "10.69",
+      "num": "197",
+      "sort": "1069",
+      "update_id": "2234",
+      "update_time": "2025-11-28 17:59:25",
+      "year": "2024",
+      "province_name": "广东省"
+    },
+    {
+      "id": "31821",
+      "school_id": "2465",
+      "province": "湖南省",
+      "rate": "77.40",
+      "num": "1424",
+      "sort": "7740",
+      "update_id": "2234",
+      "update_time": "2025-11-28 17:59:25",
+      "year": "2024",
+      "province_name": "湖南省"
+    }
+  ],
+  "attr": {
+    "部队": "57.61",
+    "其他企业（含民营企业等）": "32.01",
+    "国有企业": "3.85",
+    "外商投资企业": "2.44",
+    "个体工商户": "2.44",
+    "其他（含社会组织等）": "0.92",
+    "其他事业单位": "0.61",
+    "机关": "0.12"
+  },
+  "company": {},
+  "gradute": [
+    {
+      "id": "2732",
+      "school_id": "2465",
+      "female_num": "111",
+      "men_num": "1729",
+      "men_rate": "94.00",
+      "female_rate": "6.00",
+      "update_id": "2234",
+      "update_time": "2025-11-28 15:01:07",
+      "year": "2024"
+    }
+  ],
+  "remark": "",
+  "salary": {
+    "6": "8200"
+  }
+}

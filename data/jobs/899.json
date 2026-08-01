@@ -1,0 +1,65 @@
+{
+  "update_time": "2026-08-01 06:28:00",
+  "school_id": "899",
+  "school_name": "北京财贸职业学院",
+  "jobrateyear": "2019",
+  "jobrate": {
+    "job": {
+      "1": "100.00"
+    },
+    "postgraduate": {
+      "1": "10.77"
+    },
+    "abroad": {
+      "1": "2.68"
+    },
+    "content": {
+      "1": ""
+    }
+  },
+  "province": [
+    {
+      "id": "9859",
+      "school_id": "899",
+      "province": "北京市",
+      "rate": "88.18",
+      "num": "0",
+      "sort": "0",
+      "update_id": "0",
+      "update_time": "2018-12-18 15:40:19",
+      "year": "2019",
+      "province_name": "北京市"
+    },
+    {
+      "id": "9860",
+      "school_id": "899",
+      "province": "北京市外",
+      "rate": "11.82",
+      "num": "0",
+      "sort": "0",
+      "update_id": "0",
+      "update_time": "2018-12-18 15:40:19",
+      "year": "2019",
+      "province_name": "北京市外"
+    }
+  ],
+  "attr": {},
+  "company": {},
+  "gradute": [
+    {
+      "id": "872",
+      "school_id": "899",
+      "female_num": "1039",
+      "men_num": "642",
+      "men_rate": "38.19",
+      "female_rate": "61.81",
+      "update_id": null,
+      "update_time": null,
+      "year": "2019"
+    }
+  ],
+  "remark": "",
+  "salary": {
+    "6": "8400"
+  }
+}

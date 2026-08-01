@@ -1,0 +1,28 @@
+{
+  "update_time": "2026-08-01 06:42:13",
+  "school_id": "2453",
+  "school_name": "漯河食品工程职业大学",
+  "jobrateyear": "2025",
+  "jobrate": {
+    "job": {
+      "1": "0.00"
+    },
+    "postgraduate": {
+      "1": "0.00"
+    },
+    "abroad": {
+      "1": "0.00"
+    },
+    "content": {
+      "1": "<p><img src=\"https://static-data.gaokao.cn//upload/image/202606/core_1780910772_7257_thumb.png\" title=\"core_1780910772_7257_thumb.png\" alt=\"core_1780910772_7257.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202606/core_1780910788_6864_thumb.png\" title=\"core_1780910788_6864_thumb.png\" alt=\"core_1780910788_6864.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202606/core_1780910801_7691_thumb.png\" title=\"core_1780910801_7691_thumb.png\" alt=\"core_1780910801_7691.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202606/core_1780910816_6946_thumb.png\" title=\"core_1780910816_6946_thumb.png\" alt=\"core_1780910816_6946.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202606/core_1780910836_9853_thumb.png\" title=\"core_1780910836_9853_thumb.png\" alt=\"core_1780910836_9853.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202606/core_1780910854_1159_thumb.png\" title=\"core_1780910854_1159_thumb.png\" alt=\"core_1780910854_1159.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202606/core_1780910881_6573_thumb.png\" title=\"core_1780910881_6573_thumb.png\" alt=\"core_1780910881_6573.png\"><img src=\"https://static-data.gaokao.cn//upload/image/202606/core_1780910898_5895_thumb.png\" title=\"core_1780910898_5895_thumb.png\" alt=\"core_1780910898_5895.png\"></p>"
+    }
+  },
+  "province": [],
+  "attr": {},
+  "company": {},
+  "gradute": [],
+  "remark": "",
+  "salary": {
+    "6": "8000"
+  }
+}

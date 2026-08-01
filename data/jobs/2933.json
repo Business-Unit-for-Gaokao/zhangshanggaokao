@@ -1,0 +1,179 @@
+{
+  "update_time": "2026-08-01 06:45:03",
+  "school_id": "2933",
+  "school_name": "湖南有色金属职业技术学院",
+  "jobrateyear": "2024",
+  "jobrate": {
+    "job": {
+      "1": "90.77"
+    },
+    "postgraduate": {
+      "1": "3.27"
+    },
+    "abroad": {
+      "1": "0.00"
+    },
+    "content": {
+      "1": ""
+    }
+  },
+  "province": [
+    {
+      "id": "30623",
+      "school_id": "2933",
+      "province": "新疆",
+      "rate": "0.91",
+      "num": "0",
+      "sort": "91",
+      "update_id": "2314",
+      "update_time": "2025-11-26 15:17:11",
+      "year": "2024",
+      "province_name": "新疆"
+    },
+    {
+      "id": "30624",
+      "school_id": "2933",
+      "province": "广西",
+      "rate": "0.91",
+      "num": "0",
+      "sort": "91",
+      "update_id": "2314",
+      "update_time": "2025-11-26 15:17:11",
+      "year": "2024",
+      "province_name": "广西"
+    },
+    {
+      "id": "30622",
+      "school_id": "2933",
+      "province": "上海",
+      "rate": "1.66",
+      "num": "0",
+      "sort": "166",
+      "update_id": "2314",
+      "update_time": "2025-11-26 15:17:11",
+      "year": "2024",
+      "province_name": "上海"
+    },
+    {
+      "id": "30621",
+      "school_id": "2933",
+      "province": "福建",
+      "rate": "1.96",
+      "num": "0",
+      "sort": "196",
+      "update_id": "2314",
+      "update_time": "2025-11-26 15:17:11",
+      "year": "2024",
+      "province_name": "福建"
+    },
+    {
+      "id": "30620",
+      "school_id": "2933",
+      "province": "江西",
+      "rate": "2.11",
+      "num": "0",
+      "sort": "211",
+      "update_id": "2314",
+      "update_time": "2025-11-26 15:17:11",
+      "year": "2024",
+      "province_name": "江西"
+    },
+    {
+      "id": "30619",
+      "school_id": "2933",
+      "province": "安徽",
+      "rate": "2.42",
+      "num": "0",
+      "sort": "242",
+      "update_id": "2314",
+      "update_time": "2025-11-26 15:17:11",
+      "year": "2024",
+      "province_name": "安徽"
+    },
+    {
+      "id": "30618",
+      "school_id": "2933",
+      "province": "湖北",
+      "rate": "2.57",
+      "num": "0",
+      "sort": "257",
+      "update_id": "2314",
+      "update_time": "2025-11-26 15:17:11",
+      "year": "2024",
+      "province_name": "湖北"
+    },
+    {
+      "id": "30617",
+      "school_id": "2933",
+      "province": "江苏",
+      "rate": "4.83",
+      "num": "0",
+      "sort": "483",
+      "update_id": "2314",
+      "update_time": "2025-11-26 15:17:11",
+      "year": "2024",
+      "province_name": "江苏"
+    },
+    {
+      "id": "30616",
+      "school_id": "2933",
+      "province": "浙江",
+      "rate": "8.46",
+      "num": "0",
+      "sort": "846",
+      "update_id": "2314",
+      "update_time": "2025-11-26 15:17:11",
+      "year": "2024",
+      "province_name": "浙江"
+    },
+    {
+      "id": "30615",
+      "school_id": "2933",
+      "province": "广东",
+      "rate": "25.53",
+      "num": "0",
+      "sort": "2553",
+      "update_id": "2314",
+      "update_time": "2025-11-26 15:17:11",
+      "year": "2024",
+      "province_name": "广东"
+    },
+    {
+      "id": "30614",
+      "school_id": "2933",
+      "province": "湖南",
+      "rate": "44.56",
+      "num": "0",
+      "sort": "4456",
+      "update_id": "2314",
+      "update_time": "2025-11-26 15:17:11",
+      "year": "2024",
+      "province_name": "湖南"
+    }
+  ],
+  "attr": {
+    "民营企业/个体": "72.53",
+    "国有企业": "23.46",
+    "中外合资/外资/独资": "3.09",
+    "政府机构/科研或其他事业单位": "0.77",
+    "民非组织": "0.15"
+  },
+  "company": {},
+  "gradute": [
+    {
+      "id": "2636",
+      "school_id": "2933",
+      "female_num": "1019",
+      "men_num": "2341",
+      "men_rate": "69.67",
+      "female_rate": "30.33",
+      "update_id": "2314",
+      "update_time": "2025-11-26 15:11:42",
+      "year": "2024"
+    }
+  ],
+  "remark": "",
+  "salary": {
+    "6": "7300"
+  }
+}

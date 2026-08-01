@@ -1,0 +1,89 @@
+{
+  "update_time": "2026-08-01 06:25:08",
+  "school_id": "585",
+  "school_name": "北京舞蹈学院",
+  "jobrateyear": "2024",
+  "jobrate": {
+    "job": {
+      "1": "90.96"
+    },
+    "postgraduate": {
+      "1": "0.00"
+    },
+    "abroad": {
+      "1": "0.00"
+    },
+    "content": {
+      "1": "<p xss=removed><span xss=removed>学院党委高度重视毕业生就业工作，多次召开毕业生就业专项推进会，总结</span> <span xss=removed>研判存在的问题和改进措施，进一步明确思路，部署就业工作重点，开展精准就</span> <span xss=removed><span xss=removed>业工作，严格落实</span><span xss=removed>“一把手</span></span> <span xss=removed>”工程。更新和修订了就业工作领导小组的制度，进</span> <span xss=removed>一步完善学院的就业制度。</span></p><p xss=removed><span xss=removed>本学年，学院进一步推动</span> <span xss=removed>2024</span> <span xss=removed>届毕业生顺利就业、高质量就业，针对毕业</span> <span xss=removed>生的专业进行精准就业指导推荐。</span><span xss=removed>11</span><span xss=removed>—</span><span xss=removed>12</span> <span xss=removed>月份举办供需双选会，引入国内顶尖的</span> <span xss=removed>舞蹈院团、事业单位，制定全校毕业生供需计划，完成了全校本科毕业生展演的</span> <span xss=removed>协调、录制、宣传、视频制作等工作流程。完成供需双选会参加单位的筛选，一</span> <span xss=removed>对一电话沟通、确定细节，完善供需双选会流程，打通毕业生的供需通道。</span><span xss=removed>12</span> <span xss=removed>月</span> <span xss=removed>7-9</span> <span xss=removed>日全面接待全国</span> <span xss=removed>50 </span><span xss=removed>家用人单位来到北京舞蹈学院，提供就业岗位</span> <span xss=removed>400 </span><span xss=removed><span xss=removed>余</span> </span><span xss=removed>个，组织用人单位观看本科毕业生展演《和韵</span> <span xss=removed>·伍》，组织</span><span xss=removed>了用人单位参加座谈</span> <span xss=removed>会，搭建沟通的平台。邀请到国家大剧院、中国</span><span xss=removed>歌剧舞剧院、中国东方歌舞团、</span> <span xss=removed>中国歌剧舞剧院、上海歌舞剧院、深圳歌舞剧院、广东省歌舞剧院等优质企业进</span> <span xss=removed>校开展招聘宣讲会，与学生面对面进行双选招聘活动，向社会推广毕业生，为学</span> <span xss=removed>生搭建良好的、安全的、有效的就业供需平台，从多角度、多维度地展现北京舞</span> <span xss=removed>蹈学院的教育教学改革成果和良好精神风貌。同时，加强对在校学生进行就业指</span> <span xss=removed><span xss=removed>导和教育，提供就业政策的支持。打造</span><span xss=removed>“我是北舞毕业生</span></span> <span xss=removed>”就业品牌活动暨北京</span><span xss=removed>舞蹈学院建校</span><span xss=removed> </span><span xss=removed>70 </span><span xss=removed>周年校庆校友专访系列活动，充分挖掘校友资源，邀请专业名</span><span xss=removed> </span><span xss=removed>师和优秀毕业生回到母校，开展本科生就业指导名师讲座及就业育人主题教育活</span><span xss=removed> </span><span xss=removed>动。学年内，就业指导中心陆续在就业官网线上审核并发布就业信息</span><span xss=removed> </span><span xss=removed>280 </span><span xss=removed>余家，</span><span xss=removed> </span><span xss=removed>审核通过</span><span xss=removed> </span><span xss=removed>181 </span><span xss=removed>家单位和企业招聘信息，为学生搭建好校招信</span><span xss=removed>息网络平台。</span></p><p><span xss=removed>截至</span> <span xss=removed>2024 </span><span xss=removed>年</span> <span xss=removed>12</span> <span xss=removed>月本科毕业生签订三方协议、劳动合同和其他形式就业</span> <span xss=removed>81</span><span xss=removed>  </span><span xss=removed>人，占比</span> <span xss=removed>24.4%</span><span xss=removed>，较往年略有攀升；国内、外升学攻读研究生</span> <span xss=removed>52</span> <span xss=removed>人，占比</span> <span xss=removed>15.66%</span><span xss=removed>，</span> <span xss=removed>自由职业和自主创业就业</span> <span xss=removed>169 </span><span xss=removed>人，占比就业率为</span> <span xss=removed>50.9%</span><span xss=removed>。</span><span xss=removed>2024 </span><span xss=removed>届本科整体就业率</span> <span xss=removed>达到</span> <span xss=removed>90.96%</span><span xss=removed>。</span></p><p xss=removed><span xss=removed></span><br></p>"
+    }
+  },
+  "province": [
+    {
+      "id": "597",
+      "school_id": "585",
+      "province": "其他直辖市",
+      "rate": "18.90",
+      "num": "53",
+      "sort": "0",
+      "update_id": "0",
+      "update_time": "2018-12-18 15:40:13",
+      "year": "2019",
+      "province_name": "其他直辖市"
+    },
+    {
+      "id": "598",
+      "school_id": "585",
+      "province": "其他省市或地区",
+      "rate": "47.20",
+      "num": "133",
+      "sort": "0",
+      "update_id": "0",
+      "update_time": "2018-12-18 15:40:13",
+      "year": "2019",
+      "province_name": "其他省市或地区"
+    },
+    {
+      "id": "596",
+      "school_id": "585",
+      "province": "沿海地区",
+      "rate": "15.10",
+      "num": "43",
+      "sort": "43",
+      "update_id": "0",
+      "update_time": "2018-12-18 15:40:13",
+      "year": "2019",
+      "province_name": "沿海地区"
+    },
+    {
+      "id": "599",
+      "school_id": "585",
+      "province": "北京市",
+      "rate": "18.80",
+      "num": "53",
+      "sort": "53",
+      "update_id": "0",
+      "update_time": "2018-12-18 15:40:13",
+      "year": "2019",
+      "province_name": "北京市"
+    }
+  ],
+  "attr": {},
+  "company": {},
+  "gradute": [
+    {
+      "id": "27",
+      "school_id": "585",
+      "female_num": "194",
+      "men_num": "117",
+      "men_rate": "37.60",
+      "female_rate": "62.40",
+      "update_id": null,
+      "update_time": null,
+      "year": "2019"
+    }
+  ],
+  "remark": "",
+  "salary": {
+    "6": "10400"
+  }
+}

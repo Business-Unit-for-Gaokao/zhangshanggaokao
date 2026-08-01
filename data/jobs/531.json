@@ -1,0 +1,161 @@
+{
+  "update_time": "2026-08-01 06:24:33",
+  "school_id": "531",
+  "school_name": "广西师范大学",
+  "jobrateyear": "2024",
+  "jobrate": {
+    "job": {
+      "1": "86.45"
+    },
+    "postgraduate": {
+      "1": "13.72"
+    },
+    "abroad": {
+      "1": "1.41"
+    },
+    "content": {
+      "1": "<p xss=removed>学校高度重视本科生就业工作，努力为毕业生提供完善的就业服务，本科生就业率持续保持高位稳定，就业单位分布广泛。截至2024年 8 月 31 日，学校应届本科毕业生总体就业率达86.45%。毕业生最主要的毕业去向是事业单位，占 38.73%。升学854 人，占15.13%，其中出国（境）留学 69 人，占 1.41%。</p>"
+    }
+  },
+  "province": [
+    {
+      "id": "18064",
+      "school_id": "531",
+      "province": "广西壮族自治区",
+      "rate": "65.04",
+      "num": "0",
+      "sort": "38",
+      "update_id": "1639",
+      "update_time": "2024-06-14 18:25:20",
+      "year": "2022",
+      "province_name": "广西壮族自治区"
+    },
+    {
+      "id": "18065",
+      "school_id": "531",
+      "province": "广东省",
+      "rate": "16.61",
+      "num": "0",
+      "sort": "39",
+      "update_id": "1639",
+      "update_time": "2024-06-14 18:25:20",
+      "year": "2022",
+      "province_name": "广东省"
+    },
+    {
+      "id": "18066",
+      "school_id": "531",
+      "province": "浙江省",
+      "rate": "1.46",
+      "num": "0",
+      "sort": "40",
+      "update_id": "1639",
+      "update_time": "2024-06-14 18:25:20",
+      "year": "2022",
+      "province_name": "浙江省"
+    },
+    {
+      "id": "18067",
+      "school_id": "531",
+      "province": "江苏省",
+      "rate": "1.44",
+      "num": "0",
+      "sort": "41",
+      "update_id": "1639",
+      "update_time": "2024-06-14 18:25:20",
+      "year": "2022",
+      "province_name": "江苏省"
+    },
+    {
+      "id": "18068",
+      "school_id": "531",
+      "province": "福建省",
+      "rate": "1.27",
+      "num": "0",
+      "sort": "42",
+      "update_id": "1639",
+      "update_time": "2024-06-14 18:25:20",
+      "year": "2022",
+      "province_name": "福建省"
+    },
+    {
+      "id": "18069",
+      "school_id": "531",
+      "province": "江西省",
+      "rate": "1.20",
+      "num": "0",
+      "sort": "43",
+      "update_id": "1639",
+      "update_time": "2024-06-14 18:25:20",
+      "year": "2022",
+      "province_name": "江西省"
+    },
+    {
+      "id": "18070",
+      "school_id": "531",
+      "province": "湖南省",
+      "rate": "1.18",
+      "num": "0",
+      "sort": "44",
+      "update_id": "1639",
+      "update_time": "2024-06-14 18:25:20",
+      "year": "2022",
+      "province_name": "湖南省"
+    },
+    {
+      "id": "18071",
+      "school_id": "531",
+      "province": "河北省",
+      "rate": "0.90",
+      "num": "0",
+      "sort": "45",
+      "update_id": "1639",
+      "update_time": "2024-06-14 18:25:20",
+      "year": "2022",
+      "province_name": "河北省"
+    },
+    {
+      "id": "18072",
+      "school_id": "531",
+      "province": "四川省",
+      "rate": "0.90",
+      "num": "0",
+      "sort": "46",
+      "update_id": "1639",
+      "update_time": "2024-06-14 18:25:20",
+      "year": "2022",
+      "province_name": "四川省"
+    },
+    {
+      "id": "18073",
+      "school_id": "531",
+      "province": "上海市",
+      "rate": "0.83",
+      "num": "0",
+      "sort": "47",
+      "update_id": "1639",
+      "update_time": "2024-06-14 18:25:20",
+      "year": "2022",
+      "province_name": "上海市"
+    }
+  ],
+  "attr": {},
+  "company": {},
+  "gradute": [
+    {
+      "id": "1672",
+      "school_id": "531",
+      "female_num": "4694",
+      "men_num": "1642",
+      "men_rate": "25.92",
+      "female_rate": "74.08",
+      "update_id": "1639",
+      "update_time": "2024-06-14 14:10:02",
+      "year": "2022"
+    }
+  ],
+  "remark": "",
+  "salary": {
+    "6": "10100"
+  }
+}

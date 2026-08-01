@@ -1,0 +1,113 @@
+{
+  "update_time": "2026-08-01 06:22:23",
+  "school_id": "327",
+  "school_name": "上海戏剧学院",
+  "jobrateyear": "2023",
+  "jobrate": {
+    "job": {
+      "1": "97.26"
+    },
+    "postgraduate": {
+      "1": "4.47"
+    },
+    "abroad": {
+      "1": "8.66"
+    },
+    "content": {
+      "1": ""
+    }
+  },
+  "province": [
+    {
+      "id": "15977",
+      "school_id": "327",
+      "province": "江苏省",
+      "rate": "3.45",
+      "num": "10",
+      "sort": "10",
+      "update_id": "2004",
+      "update_time": "2024-06-05 14:58:10",
+      "year": "2023",
+      "province_name": "江苏省"
+    },
+    {
+      "id": "15976",
+      "school_id": "327",
+      "province": "广东省",
+      "rate": "6.90",
+      "num": "20",
+      "sort": "20",
+      "update_id": "2004",
+      "update_time": "2024-06-05 14:58:10",
+      "year": "2023",
+      "province_name": "广东省"
+    },
+    {
+      "id": "15975",
+      "school_id": "327",
+      "province": "浙江省",
+      "rate": "7.24",
+      "num": "21",
+      "sort": "21",
+      "update_id": "2004",
+      "update_time": "2024-06-05 14:58:10",
+      "year": "2023",
+      "province_name": "浙江省"
+    },
+    {
+      "id": "15974",
+      "school_id": "327",
+      "province": "北京市",
+      "rate": "7.93",
+      "num": "23",
+      "sort": "23",
+      "update_id": "2004",
+      "update_time": "2024-06-05 14:58:10",
+      "year": "2023",
+      "province_name": "北京市"
+    },
+    {
+      "id": "15973",
+      "school_id": "327",
+      "province": "上海市",
+      "rate": "63.79",
+      "num": "185",
+      "sort": "185",
+      "update_id": "2004",
+      "update_time": "2024-06-05 14:58:10",
+      "year": "2023",
+      "province_name": "上海市"
+    }
+  ],
+  "attr": {
+    "中小企业": "41.03",
+    "其他企业": "21.03",
+    "国有企业": "15.52",
+    "其他事业单位": "10.00",
+    "高等教育单位": "4.48",
+    "中等、初等教育单位": "4.48",
+    "三资企业": "1.38",
+    "入伍": "1.03",
+    "党政机关": "0.34",
+    "科研设计单位": "0.34",
+    "医疗卫生单位": "0.34"
+  },
+  "company": {},
+  "gradute": [
+    {
+      "id": "207",
+      "school_id": "327",
+      "female_num": "291",
+      "men_num": "192",
+      "men_rate": "39.75",
+      "female_rate": "60.25",
+      "update_id": null,
+      "update_time": null,
+      "year": "2019"
+    }
+  ],
+  "remark": "",
+  "salary": {
+    "6": "10800"
+  }
+}

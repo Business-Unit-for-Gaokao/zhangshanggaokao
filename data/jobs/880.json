@@ -1,0 +1,65 @@
+{
+  "update_time": "2026-08-01 06:27:49",
+  "school_id": "880",
+  "school_name": "平顶山学院",
+  "jobrateyear": "2024",
+  "jobrate": {
+    "job": {
+      "1": "81.13"
+    },
+    "postgraduate": {
+      "1": "0.00"
+    },
+    "abroad": {
+      "1": "0.00"
+    },
+    "content": {
+      "1": "<p xss=removed><span xss=removed><span xss=removed>学校强化就业指导服务，拓宽就业渠道，对接行业、职业、就业需求，引导学生考取职业资格证书或持续深造，</span><span xss=removed>2024</span><span xss=removed>年学生获得职业资格证书</span><span xss=removed>1362</span><span xss=removed>个。深入落实就业工作“一把手”工程，主要领导带头下沉一线，高位推动，多措并举，以“五坚持五结合”奋力推动毕业生高质量充分就业。</span><span xss=removed>2024</span><span xss=removed>届本科毕业生初次毕业生初次去向落实率为</span><span xss=removed>81.13%</span><span xss=removed>，</span><span xss=removed>472</span><span xss=removed>人考取国内外硕士研究生继续深造，考研率比</span><span xss=removed>2023</span><span xss=removed>届提升</span><span xss=removed>0.95%</span><span xss=removed>。</span></span></p><p xss=removed><span xss=removed> </span></p><p xss=removed><span xss=removed><span xss=removed>据麦可思应届毕业生培养质量评价报告显示，毕业生就业领域与学科专业契合度高，毕业生主要就业行业、主要职业流向均符合专业培养特色。毕业生月收入、就业满意度和专业相关度逐步提升。</span><span xss=removed>2023</span><span xss=removed>、</span><span xss=removed>2024</span><span xss=removed>届毕业生工作与专业相关度分别为</span><span xss=removed>74.5%</span><span xss=removed>、</span><span xss=removed>76.15%</span><span xss=removed>。</span></span></p><p xss=removed><span xss=removed> </span></p><p xss=removed><span xss=removed><span xss=removed>关注社会评价与反馈，用人单位满意度高学校持续对应届毕业生、毕业</span><span xss=removed>5</span><span xss=removed>年学生跟踪评价，掌握毕业生就业质量、职业发展、培养目标达成情况。据麦可思应届毕业生培养质量评价报告显示，用人单位对我校</span><span xss=removed>2024</span><span xss=removed>届毕业生总体满意度为</span><span xss=removed>98.60%</span><span xss=removed>，用人单位均表示未来愿意继续招聘我校毕业生。用人单位对</span><span xss=removed>2024</span><span xss=removed>届毕业生各项能力、各项素质的满意度均分布在</span><span xss=removed>97.20%-98.40%</span><span xss=removed>之间，对各项知识的满意度分布在</span><span xss=removed>95.20%-96.40%</span><span xss=removed>之间。</span></span></p><p><br></p>"
+    }
+  },
+  "province": [
+    {
+      "id": "5533",
+      "school_id": "880",
+      "province": "其他省市",
+      "rate": "47.70",
+      "num": "1958",
+      "sort": "0",
+      "update_id": "0",
+      "update_time": "2018-12-18 15:40:16",
+      "year": "2019",
+      "province_name": "其他省市"
+    },
+    {
+      "id": "5534",
+      "school_id": "880",
+      "province": "河南省",
+      "rate": "52.30",
+      "num": "2147",
+      "sort": "2147",
+      "update_id": "0",
+      "update_time": "2018-12-18 15:40:16",
+      "year": "2019",
+      "province_name": "河南省"
+    }
+  ],
+  "attr": {},
+  "company": {},
+  "gradute": [
+    {
+      "id": "426",
+      "school_id": "880",
+      "female_num": "2789",
+      "men_num": "1576",
+      "men_rate": "36.10",
+      "female_rate": "63.90",
+      "update_id": null,
+      "update_time": null,
+      "year": "2019"
+    }
+  ],
+  "remark": "",
+  "salary": {
+    "6": "9600"
+  }
+}

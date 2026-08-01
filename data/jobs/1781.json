@@ -1,0 +1,65 @@
+{
+  "update_time": "2026-08-01 06:35:18",
+  "school_id": "1781",
+  "school_name": "嘉兴职业技术学院",
+  "jobrateyear": "2024",
+  "jobrate": {
+    "job": {
+      "1": "99.01"
+    },
+    "postgraduate": {
+      "1": "0.00"
+    },
+    "abroad": {
+      "1": "0.00"
+    },
+    "content": {
+      "1": ""
+    }
+  },
+  "province": [
+    {
+      "id": "30009",
+      "school_id": "1781",
+      "province": "其他地区",
+      "rate": "3.48",
+      "num": "0",
+      "sort": "348",
+      "update_id": "2314",
+      "update_time": "2025-11-18 16:17:17",
+      "year": "2024",
+      "province_name": "其他地区"
+    },
+    {
+      "id": "30008",
+      "school_id": "1781",
+      "province": "长三角地区",
+      "rate": "96.52",
+      "num": "0",
+      "sort": "9652",
+      "update_id": "2314",
+      "update_time": "2025-11-18 16:16:56",
+      "year": "2024",
+      "province_name": "长三角地区"
+    }
+  ],
+  "attr": {},
+  "company": {},
+  "gradute": [
+    {
+      "id": "2581",
+      "school_id": "1781",
+      "female_num": "2233",
+      "men_num": "2919",
+      "men_rate": "56.60",
+      "female_rate": "43.30",
+      "update_id": "2314",
+      "update_time": "2025-11-18 16:13:49",
+      "year": "2024"
+    }
+  ],
+  "remark": "",
+  "salary": {
+    "6": "8000"
+  }
+}

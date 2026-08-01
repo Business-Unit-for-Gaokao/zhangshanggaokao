@@ -1,0 +1,81 @@
+{
+  "update_time": "2026-08-01 06:27:17",
+  "school_id": "817",
+  "school_name": "汉江师范学院",
+  "jobrateyear": "2024",
+  "jobrate": {
+    "job": {
+      "1": "74.14"
+    },
+    "postgraduate": {
+      "1": "8.11"
+    },
+    "abroad": {
+      "1": "0.43"
+    },
+    "content": {
+      "1": "<p xss=\"removed\"><span xss=\"removed\">截至 2024 年 8 月 31 日，学校应届本科毕业生就业人数 2084 人，总体就业率达 </span><span xss=\"removed\">74.14%。毕业生最主要的毕业去向是企业，占 50.24%。升学 240 人，占 8.54%，其中 </span><span xss=\"removed\">出国（境）留学 9 人，占 0.43%。各专业去向落实情况见表 10。</span></p><p xss=\"removed\"><span xss=\"removed\"><span xss=\"removed\">表 10 分专业毕业生去向落实率</span></span></p><p xss=\"removed\"><span xss=\"removed\"><span xss=\"removed\"><img src=\"https://static-data.gaokao.cn//upload/image/202606/core_1780903288_6283_thumb.png\" title=\"core_1780903288_6283_thumb.png\" alt=\"core_1780903288_6283.png\"></span></span></p><p xss=\"removed\"><span xss=\"removed\"><span xss=\"removed\"><img src=\"https://static-data.gaokao.cn//upload/image/202606/core_1780903301_1775_thumb.png\" title=\"core_1780903301_1775_thumb.png\" alt=\"core_1780903301_1775.png\"></span></span></p><p xss=\"removed\"><span xss=\"removed\"><span xss=\"removed\"><img src=\"https://static-data.gaokao.cn//upload/image/202606/core_1780903317_4739_thumb.png\" title=\"core_1780903317_4739_thumb.png\" alt=\"core_1780903317_4739.png\"></span></span></p><p xss=\"removed\"><span xss=\"removed\"><span xss=\"removed\"><br></span></span></p>"
+    }
+  },
+  "province": [
+    {
+      "id": "26243",
+      "school_id": "817",
+      "province": "湖北省外",
+      "rate": "26.90",
+      "num": "0",
+      "sort": "2690",
+      "update_id": "1988",
+      "update_time": "2025-01-09 17:17:38",
+      "year": "2021",
+      "province_name": "湖北省外"
+    },
+    {
+      "id": "26242",
+      "school_id": "817",
+      "province": "湖北省内",
+      "rate": "73.10",
+      "num": "0",
+      "sort": "7310",
+      "update_id": "1988",
+      "update_time": "2025-01-09 17:17:45",
+      "year": "2021",
+      "province_name": "湖北省内"
+    }
+  ],
+  "attr": {
+    "其他企业": "43.60",
+    "中初教育单位": "35.73",
+    "其他事业单位": "8.49",
+    "部队": "3.11",
+    "机关": "2.15",
+    "地方基层项目": "2.04",
+    "国家基层项目": "1.87",
+    "国有企业": "0.74",
+    "高等教育单位": "0.51",
+    "医疗卫生单位": "0.45",
+    "农村建制村": "0.40",
+    "自主创业": "0.34",
+    "三资企业": "0.28",
+    "城镇社区": "0.17",
+    "科研设计单位": "0.11"
+  },
+  "company": {},
+  "gradute": [
+    {
+      "id": "2246",
+      "school_id": "817",
+      "female_num": "3243",
+      "men_num": "982",
+      "men_rate": "23.20",
+      "female_rate": "76.80",
+      "update_id": "1988",
+      "update_time": "2025-01-09 17:16:41",
+      "year": "2021"
+    }
+  ],
+  "remark": "",
+  "salary": {
+    "6": "6800"
+  }
+}

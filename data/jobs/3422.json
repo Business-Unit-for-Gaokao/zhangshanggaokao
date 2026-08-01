@@ -1,0 +1,26 @@
+{
+  "update_time": "2026-08-01 06:48:24",
+  "school_id": "3422",
+  "school_name": "南昌大学抚州医学院",
+  "jobrateyear": "2024",
+  "jobrate": {
+    "job": {
+      "1": "0.00"
+    },
+    "postgraduate": {
+      "1": "0.00"
+    },
+    "abroad": {
+      "1": "0.00"
+    },
+    "content": {
+      "1": "<p><img src=\"https://static-data.gaokao.cn//upload/image/202606/core_1781333873_9037_thumb.png\" title=\"core_1781333873_9037_thumb.png\" alt=\"core_1781333873_9037.png\"></p>"
+    }
+  },
+  "province": [],
+  "attr": {},
+  "company": {},
+  "gradute": [],
+  "remark": "",
+  "salary": {}
+}

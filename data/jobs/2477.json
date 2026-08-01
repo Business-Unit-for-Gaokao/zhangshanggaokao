@@ -1,0 +1,172 @@
+{
+  "update_time": "2026-08-01 06:42:29",
+  "school_id": "2477",
+  "school_name": "湖南工程学院应用技术学院",
+  "jobrateyear": "2022",
+  "jobrate": {
+    "job": {
+      "1": "88.73"
+    },
+    "postgraduate": {
+      "1": "2.42"
+    },
+    "abroad": {
+      "1": "0.00"
+    },
+    "content": {
+      "1": ""
+    }
+  },
+  "province": [
+    {
+      "id": "19611",
+      "school_id": "2477",
+      "province": "广西壮族自治区",
+      "rate": "0.22",
+      "num": "0",
+      "sort": "22",
+      "update_id": "2004",
+      "update_time": "2024-06-18 14:05:08",
+      "year": "2022",
+      "province_name": "广西壮族自治区"
+    },
+    {
+      "id": "19610",
+      "school_id": "2477",
+      "province": "重庆市",
+      "rate": "0.43",
+      "num": "0",
+      "sort": "43",
+      "update_id": "2004",
+      "update_time": "2024-06-18 14:05:08",
+      "year": "2022",
+      "province_name": "重庆市"
+    },
+    {
+      "id": "19609",
+      "school_id": "2477",
+      "province": "海南省",
+      "rate": "0.54",
+      "num": "0",
+      "sort": "54",
+      "update_id": "2004",
+      "update_time": "2024-06-18 14:05:08",
+      "year": "2022",
+      "province_name": "海南省"
+    },
+    {
+      "id": "19608",
+      "school_id": "2477",
+      "province": "江苏省",
+      "rate": "0.54",
+      "num": "0",
+      "sort": "54",
+      "update_id": "2004",
+      "update_time": "2024-06-18 14:05:08",
+      "year": "2022",
+      "province_name": "江苏省"
+    },
+    {
+      "id": "19607",
+      "school_id": "2477",
+      "province": "云南省",
+      "rate": "0.65",
+      "num": "0",
+      "sort": "65",
+      "update_id": "2004",
+      "update_time": "2024-06-18 14:05:08",
+      "year": "2022",
+      "province_name": "云南省"
+    },
+    {
+      "id": "19606",
+      "school_id": "2477",
+      "province": "浙江省",
+      "rate": "0.65",
+      "num": "0",
+      "sort": "65",
+      "update_id": "2004",
+      "update_time": "2024-06-18 14:05:08",
+      "year": "2022",
+      "province_name": "浙江省"
+    },
+    {
+      "id": "19605",
+      "school_id": "2477",
+      "province": "江西省",
+      "rate": "0.87",
+      "num": "0",
+      "sort": "87",
+      "update_id": "2004",
+      "update_time": "2024-06-18 14:05:08",
+      "year": "2022",
+      "province_name": "江西省"
+    },
+    {
+      "id": "19604",
+      "school_id": "2477",
+      "province": "广东省",
+      "rate": "0.98",
+      "num": "0",
+      "sort": "98",
+      "update_id": "2004",
+      "update_time": "2024-06-18 14:05:08",
+      "year": "2022",
+      "province_name": "广东省"
+    },
+    {
+      "id": "19603",
+      "school_id": "2477",
+      "province": "四川省",
+      "rate": "1.08",
+      "num": "0",
+      "sort": "108",
+      "update_id": "2004",
+      "update_time": "2024-06-18 14:05:08",
+      "year": "2022",
+      "province_name": "四川省"
+    },
+    {
+      "id": "19602",
+      "school_id": "2477",
+      "province": "湖南省",
+      "rate": "93.93",
+      "num": "0",
+      "sort": "9393",
+      "update_id": "2004",
+      "update_time": "2024-06-18 14:05:08",
+      "year": "2022",
+      "province_name": "湖南省"
+    }
+  ],
+  "attr": {
+    "其他企业": "84.78",
+    "国有企业": "11.09",
+    "部队": "1.52",
+    "国家基层项目": "0.65",
+    "其他教学单位": "0.54",
+    "其他事业单位": "0.43",
+    "机关": "0.43",
+    "医疗卫生单位": "0.22",
+    "三资企业": "0.11",
+    "高等学校": "0.11"
+  },
+  "company": {},
+  "gradute": [
+    {
+      "id": "1772",
+      "school_id": "2477",
+      "female_num": "528",
+      "men_num": "546",
+      "men_rate": "50.84",
+      "female_rate": "49.16",
+      "update_id": "2004",
+      "update_time": "2024-06-18 14:05:34",
+      "year": "2022"
+    }
+  ],
+  "remark": "",
+  "salary": {
+    "6": "8800"
+  }
+}

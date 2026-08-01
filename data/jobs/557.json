@@ -1,0 +1,101 @@
+{
+  "update_time": "2026-08-01 06:24:52",
+  "school_id": "557",
+  "school_name": "中国农业大学",
+  "jobrateyear": "2019",
+  "jobrate": {
+    "job": {
+      "1": "94.21"
+    },
+    "postgraduate": {
+      "1": "46.18"
+    },
+    "abroad": {
+      "1": "13.60"
+    },
+    "content": {
+      "1": ""
+    }
+  },
+  "province": [
+    {
+      "id": "12864",
+      "school_id": "557",
+      "province": "京津冀经济圈",
+      "rate": "44.90",
+      "num": "1470",
+      "sort": "0",
+      "update_id": "1183",
+      "update_time": "2022-03-29 18:25:41",
+      "year": "2019",
+      "province_name": "京津冀经济圈"
+    },
+    {
+      "id": "12865",
+      "school_id": "557",
+      "province": "雄安新区",
+      "rate": "0.49",
+      "num": "16",
+      "sort": "0",
+      "update_id": "1183",
+      "update_time": "2022-03-29 18:25:41",
+      "year": "2019",
+      "province_name": "雄安新区"
+    },
+    {
+      "id": "12866",
+      "school_id": "557",
+      "province": "长江经济带",
+      "rate": "19.79",
+      "num": "648",
+      "sort": "0",
+      "update_id": "1183",
+      "update_time": "2022-03-29 18:25:41",
+      "year": "2019",
+      "province_name": "长江经济带"
+    },
+    {
+      "id": "12867",
+      "school_id": "557",
+      "province": "港粤澳大湾区",
+      "rate": "4.09",
+      "num": "134",
+      "sort": "0",
+      "update_id": "1183",
+      "update_time": "2022-03-29 18:25:41",
+      "year": "2019",
+      "province_name": "港粤澳大湾区"
+    },
+    {
+      "id": "12868",
+      "school_id": "557",
+      "province": "海南自贸试验区",
+      "rate": "0.55",
+      "num": "18",
+      "sort": "0",
+      "update_id": "1183",
+      "update_time": "2022-03-29 18:25:41",
+      "year": "2019",
+      "province_name": "海南自贸试验区"
+    }
+  ],
+  "attr": {},
+  "company": {},
+  "gradute": [
+    {
+      "id": "8",
+      "school_id": "557",
+      "female_num": "3177",
+      "men_num": "2228",
+      "men_rate": "41.22",
+      "female_rate": "58.78",
+      "update_id": null,
+      "update_time": null,
+      "year": "2019"
+    }
+  ],
+  "remark": "",
+  "salary": {
+    "6": "13000"
+  }
+}

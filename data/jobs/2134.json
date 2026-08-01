@@ -1,0 +1,72 @@
+{
+  "update_time": "2026-08-01 06:39:03",
+  "school_id": "2134",
+  "school_name": "潍坊科技学院",
+  "jobrateyear": "2024",
+  "jobrate": {
+    "job": {
+      "1": "84.66"
+    },
+    "postgraduate": {
+      "1": "15.17"
+    },
+    "abroad": {
+      "1": "0.16"
+    },
+    "content": {
+      "1": ""
+    }
+  },
+  "province": [
+    {
+      "id": "29989",
+      "school_id": "2134",
+      "province": "山东省外",
+      "rate": "8.68",
+      "num": "651",
+      "sort": "868",
+      "update_id": "2234",
+      "update_time": "2025-11-17 10:02:07",
+      "year": "2024",
+      "province_name": "山东省外"
+    },
+    {
+      "id": "29988",
+      "school_id": "2134",
+      "province": "山东省",
+      "rate": "83.84",
+      "num": "6288",
+      "sort": "8384",
+      "update_id": "2234",
+      "update_time": "2025-11-17 10:01:39",
+      "year": "2024",
+      "province_name": "山东省"
+    }
+  ],
+  "attr": {
+    "非国有企业": "83.29",
+    "其他": "9.91",
+    "事业单位": "3.53",
+    "国有企业": "2.55",
+    "机关": "0.71",
+    "自由职业": "0.01"
+  },
+  "company": {},
+  "gradute": [
+    {
+      "id": "2578",
+      "school_id": "2134",
+      "female_num": "5254",
+      "men_num": "5417",
+      "men_rate": "0.00",
+      "female_rate": "0.00",
+      "update_id": "2234",
+      "update_time": "2025-11-17 09:48:05",
+      "year": "2024"
+    }
+  ],
+  "remark": "",
+  "salary": {
+    "6": "7300"
+  }
+}

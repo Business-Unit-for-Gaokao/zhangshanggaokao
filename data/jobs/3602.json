@@ -1,0 +1,65 @@
+{
+  "update_time": "2026-08-01 06:49:54",
+  "school_id": "3602",
+  "school_name": "烟台科技学院",
+  "jobrateyear": "2024",
+  "jobrate": {
+    "job": {
+      "1": "85.99"
+    },
+    "postgraduate": {
+      "1": "6.22"
+    },
+    "abroad": {
+      "1": "0.28"
+    },
+    "content": {
+      "1": "<p>截至2024年8月31日，学校应届本科毕业生总体就业率达85.99%。毕业生主要的毕业去向是企业，占66.85%。升学255人，占6.22%，其中出国(境)留学10人，占0.28%。</p><p><br></p>"
+    }
+  },
+  "province": [
+    {
+      "id": "4193",
+      "school_id": "3602",
+      "province": "山东省外",
+      "rate": "21.76",
+      "num": "182",
+      "sort": "182",
+      "update_id": "0",
+      "update_time": "2018-12-18 15:40:15",
+      "year": "2019",
+      "province_name": "山东省外"
+    },
+    {
+      "id": "4194",
+      "school_id": "3602",
+      "province": "山东省",
+      "rate": "78.24",
+      "num": "1086",
+      "sort": "1086",
+      "update_id": "0",
+      "update_time": "2018-12-18 15:40:15",
+      "year": "2019",
+      "province_name": "山东省"
+    }
+  ],
+  "attr": {},
+  "company": {},
+  "gradute": [
+    {
+      "id": "813",
+      "school_id": "3602",
+      "female_num": "802",
+      "men_num": "715",
+      "men_rate": "47.13",
+      "female_rate": "52.87",
+      "update_id": null,
+      "update_time": null,
+      "year": "2019"
+    }
+  ],
+  "remark": "",
+  "salary": {
+    "6": "7000"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "update_time": "2026-08-01 06:36:51",
+  "school_id": "1924",
+  "school_name": "黄河水利职业技术大学",
+  "jobrateyear": "2025",
+  "jobrate": {
+    "job": {
+      "1": "95.02"
+    },
+    "postgraduate": {
+      "1": "32.62"
+    },
+    "abroad": {
+      "1": "0.00"
+    },
+    "content": {
+      "1": "<p><img src=\"https://static-data.gaokao.cn//upload/image/202606/core_1780915195_5872_thumb.png\" title=\"core_1780915195_5872_thumb.png\" alt=\"core_1780915195_5872.png\"></p>"
+    }
+  },
+  "province": [],
+  "attr": {},
+  "company": {},
+  "gradute": [],
+  "remark": "",
+  "salary": {
+    "6": "7500"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "update_time": "2026-08-01 06:20:43",
+  "school_id": "164",
+  "school_name": "南京财经大学",
+  "jobrateyear": "2024",
+  "jobrate": {
+    "job": {
+      "1": "94.63"
+    },
+    "postgraduate": {
+      "1": "0.00"
+    },
+    "abroad": {
+      "1": "0.00"
+    },
+    "content": {
+      "1": "<p xss=removed>我校 2024 届本科毕业生共计 3965 人。2024 年，总就业率（包括签约就\r\n业、考研、出国、灵活就业、自主创业、国家基层项目等）为 94.63%，协议就\r\n业率 70.71%。其中，本科毕业生（境）内外升学出国率为 28.91%，大大提升了\r\n我校就业质量和水平。</p>"
+    }
+  },
+  "province": [],
+  "attr": {},
+  "company": {},
+  "gradute": [
+    {
+      "id": "267",
+      "school_id": "164",
+      "female_num": "2415",
+      "men_num": "1452",
+      "men_rate": "37.55",
+      "female_rate": "62.45",
+      "update_id": null,
+      "update_time": null,
+      "year": "2019"
+    }
+  ],
+  "remark": "",
+  "salary": {
+    "6": "10000"
+  }
+}

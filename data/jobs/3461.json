@@ -1,0 +1,122 @@
+{
+  "update_time": "2026-08-01 06:48:40",
+  "school_id": "3461",
+  "school_name": "安徽艺术学院",
+  "jobrateyear": "2024",
+  "jobrate": {
+    "job": {
+      "1": "90.75"
+    },
+    "postgraduate": {
+      "1": "2.09"
+    },
+    "abroad": {
+      "1": "1.01"
+    },
+    "content": {
+      "1": ""
+    }
+  },
+  "province": [
+    {
+      "id": "28424",
+      "school_id": "3461",
+      "province": "广东省",
+      "rate": "1.37",
+      "num": "20",
+      "sort": "20",
+      "update_id": "2314",
+      "update_time": "2025-11-11 18:38:08",
+      "year": "2024",
+      "province_name": "广东省"
+    },
+    {
+      "id": "28423",
+      "school_id": "3461",
+      "province": "上海市",
+      "rate": "3.49",
+      "num": "51",
+      "sort": "51",
+      "update_id": "2314",
+      "update_time": "2025-11-11 18:38:08",
+      "year": "2024",
+      "province_name": "上海市"
+    },
+    {
+      "id": "28422",
+      "school_id": "3461",
+      "province": "浙江省",
+      "rate": "3.63",
+      "num": "53",
+      "sort": "53",
+      "update_id": "2314",
+      "update_time": "2025-11-11 18:38:08",
+      "year": "2024",
+      "province_name": "浙江省"
+    },
+    {
+      "id": "28425",
+      "school_id": "3461",
+      "province": "其它",
+      "rate": "4.04",
+      "num": "59",
+      "sort": "59",
+      "update_id": "2314",
+      "update_time": "2025-11-11 18:38:08",
+      "year": "2024",
+      "province_name": "其它"
+    },
+    {
+      "id": "28421",
+      "school_id": "3461",
+      "province": "江苏省",
+      "rate": "5.06",
+      "num": "74",
+      "sort": "74",
+      "update_id": "2314",
+      "update_time": "2025-11-11 18:38:08",
+      "year": "2024",
+      "province_name": "江苏省"
+    },
+    {
+      "id": "28420",
+      "school_id": "3461",
+      "province": "安徽省",
+      "rate": "82.42",
+      "num": "1205",
+      "sort": "1205",
+      "update_id": "2314",
+      "update_time": "2025-11-11 18:38:08",
+      "year": "2024",
+      "province_name": "安徽省"
+    }
+  ],
+  "attr": {
+    "其他企业（含民营企业等）": "89.99",
+    "个体工商户": "5.47",
+    "国有企业": "1.42",
+    "其他（含社会组织等）": "1.35",
+    "其他事业单位": "0.71",
+    "中初教育单位": "0.43",
+    "机关": "0.28",
+    "农村建制村": "0.14",
+    "外商投资企业": "0.14",
+    "医疗卫生单位": "0.07"
+  },
+  "company": {},
+  "gradute": [
+    {
+      "id": "2438",
+      "school_id": "3461",
+      "female_num": "1196",
+      "men_num": "479",
+      "men_rate": "28.60",
+      "female_rate": "71.40",
+      "update_id": "2314",
+      "update_time": "2025-11-11 18:07:06",
+      "year": "2024"
+    }
+  ],
+  "remark": "",
+  "salary": {}
+}

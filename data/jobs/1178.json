@@ -1,0 +1,104 @@
+{
+  "update_time": "2026-08-01 06:30:26",
+  "school_id": "1178",
+  "school_name": "洛阳理工学院",
+  "jobrateyear": "2024",
+  "jobrate": {
+    "job": {
+      "1": "81.96"
+    },
+    "postgraduate": {
+      "1": "0.00"
+    },
+    "abroad": {
+      "1": "0.38"
+    },
+    "content": {
+      "1": "<p xss=removed><span xss=removed><span xss=removed>截至</span><span xss=removed>2024</span><span xss=removed>年</span><span xss=removed>8</span><span xss=removed>月</span><span xss=removed>31</span><span xss=removed>日，学校应届本科毕业生总体就业率达</span><span xss=removed>81.96%</span><span xss=removed>。毕业生最主要的毕业去向是签就业协议形式就业，占</span><span xss=removed>59.67%</span><span xss=removed>。升学</span><span xss=removed>1107</span><span xss=removed>人，占</span><span xss=removed>15.63%</span><span xss=removed>，其中出国（境）留学</span><span xss=removed>27</span><span xss=removed>人，占</span><span xss=removed>0.38%</span><span xss=removed>。从去向省份来看，留在河南省的有</span><span xss=removed>2916</span><span xss=removed>人，占毕业生总数的</span><span xss=removed>41.16%</span><span xss=removed>；到其他省份就业或升学的共计</span><span xss=removed>2890</span><span xss=removed>人，占毕业生总数的</span><span xss=removed>40.8%</span><span xss=removed>；其中浙江省、江苏省、广东省排名前三。从就业行业来看，制造业占比</span><span xss=removed>15.73%</span><span xss=removed>，建筑业占比</span><span xss=removed>8.41%</span><span xss=removed>，批发和零售业占比</span><span xss=removed>7.69%</span><span xss=removed>，信息传输、软件和信息技术服务业占比</span><span xss=removed>6.07%</span><span xss=removed>，教育占比</span><span xss=removed>5.69%</span><span xss=removed>。从单位性质来看，企业类如国有企业、其他企业等仍是毕业生的主要选择，占比高达</span><span xss=removed>62.87%</span><span xss=removed>。</span></span></p><p><br></p>"
+    }
+  },
+  "province": [
+    {
+      "id": "15623",
+      "school_id": "1178",
+      "province": "中部地区",
+      "rate": "49.47",
+      "num": "936",
+      "sort": "102",
+      "update_id": "1721",
+      "update_time": "2024-06-04 16:40:41",
+      "year": "2023",
+      "province_name": "中部地区"
+    },
+    {
+      "id": "15624",
+      "school_id": "1178",
+      "province": "东部地区",
+      "rate": "40.59",
+      "num": "768",
+      "sort": "103",
+      "update_id": "1721",
+      "update_time": "2024-06-04 16:40:41",
+      "year": "2023",
+      "province_name": "东部地区"
+    },
+    {
+      "id": "15625",
+      "school_id": "1178",
+      "province": "西部地区",
+      "rate": "8.25",
+      "num": "156",
+      "sort": "104",
+      "update_id": "1721",
+      "update_time": "2024-06-04 16:40:41",
+      "year": "2023",
+      "province_name": "西部地区"
+    },
+    {
+      "id": "15626",
+      "school_id": "1178",
+      "province": "东北地区",
+      "rate": "1.69",
+      "num": "32",
+      "sort": "105",
+      "update_id": "1721",
+      "update_time": "2024-06-04 16:40:41",
+      "year": "2023",
+      "province_name": "东北地区"
+    }
+  ],
+  "attr": {
+    "城镇社区": "0.21",
+    "医疗卫生单位": "0.63",
+    "高等教育单位": "0.63",
+    "部队": "1.06",
+    "社会组织": "1.27",
+    "科研设计单位": "1.48",
+    "三资企业": "1.90",
+    "党政机关": "3.38",
+    "中初教育单位": "4.86",
+    "其他事业单位": "5.07",
+    "其他": "10.57",
+    "其他企业": "11.21",
+    "国有企业": "22.20",
+    "民营企业（含个体工商户）": "35.52"
+  },
+  "company": {},
+  "gradute": [
+    {
+      "id": "1487",
+      "school_id": "1178",
+      "female_num": "4838",
+      "men_num": "4126",
+      "men_rate": "46.03",
+      "female_rate": "53.97",
+      "update_id": "1721",
+      "update_time": "2024-06-04 16:38:34",
+      "year": "2023"
+    }
+  ],
+  "remark": "",
+  "salary": {
+    "6": "11300"
+  }
+}

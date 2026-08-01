@@ -1,0 +1,113 @@
+{
+  "update_time": "2026-08-01 06:19:34",
+  "school_id": "46",
+  "school_name": "中国人民大学",
+  "jobrateyear": "2019",
+  "jobrate": {
+    "job": {
+      "1": "97.14"
+    },
+    "postgraduate": {
+      "1": "33.43"
+    },
+    "abroad": {
+      "1": "31.92"
+    },
+    "content": {
+      "1": ""
+    }
+  },
+  "province": [
+    {
+      "id": "9474",
+      "school_id": "46",
+      "province": "其他省市",
+      "rate": "30.79",
+      "num": "298",
+      "sort": "0",
+      "update_id": "0",
+      "update_time": "2018-12-18 15:40:19",
+      "year": "2019",
+      "province_name": "其他省市"
+    },
+    {
+      "id": "9473",
+      "school_id": "46",
+      "province": "上海市",
+      "rate": "2.79",
+      "num": "27",
+      "sort": "27",
+      "update_id": "0",
+      "update_time": "2018-12-18 15:40:19",
+      "year": "2019",
+      "province_name": "上海市"
+    },
+    {
+      "id": "9475",
+      "school_id": "46",
+      "province": "广州市",
+      "rate": "3.10",
+      "num": "30",
+      "sort": "30",
+      "update_id": "0",
+      "update_time": "2018-12-18 15:40:19",
+      "year": "2019",
+      "province_name": "广州市"
+    },
+    {
+      "id": "9472",
+      "school_id": "46",
+      "province": "深圳市",
+      "rate": "4.55",
+      "num": "44",
+      "sort": "44",
+      "update_id": "0",
+      "update_time": "2018-12-18 15:40:19",
+      "year": "2019",
+      "province_name": "深圳市"
+    },
+    {
+      "id": "9471",
+      "school_id": "46",
+      "province": "西部地区",
+      "rate": "13.84",
+      "num": "134",
+      "sort": "134",
+      "update_id": "0",
+      "update_time": "2018-12-18 15:40:19",
+      "year": "2019",
+      "province_name": "西部地区"
+    },
+    {
+      "id": "9476",
+      "school_id": "46",
+      "province": "北京市",
+      "rate": "44.93",
+      "num": "435",
+      "sort": "435",
+      "update_id": "0",
+      "update_time": "2018-12-18 15:40:19",
+      "year": "2019",
+      "province_name": "北京市"
+    }
+  ],
+  "attr": {},
+  "company": {},
+  "gradute": [
+    {
+      "id": "992",
+      "school_id": "46",
+      "female_num": "4341",
+      "men_num": "2535",
+      "men_rate": "36.87",
+      "female_rate": "63.13",
+      "update_id": "929",
+      "update_time": "2021-03-31 17:26:59",
+      "year": "2019"
+    }
+  ],
+  "remark": "",
+  "salary": {
+    "6": "15900"
+  }
+}

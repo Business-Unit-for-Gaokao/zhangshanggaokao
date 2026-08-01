@@ -1,0 +1,68 @@
+{
+  "update_time": "2026-08-01 06:29:45",
+  "school_id": "1099",
+  "school_name": "武汉华夏理工学院",
+  "jobrateyear": "2024",
+  "jobrate": {
+    "job": {
+      "1": "88.13"
+    },
+    "postgraduate": {
+      "1": "4.35"
+    },
+    "abroad": {
+      "1": "0.25"
+    },
+    "content": {
+      "1": ""
+    }
+  },
+  "province": [
+    {
+      "id": "28305",
+      "school_id": "1099",
+      "province": "湖北省外",
+      "rate": "36.21",
+      "num": "0",
+      "sort": "3621",
+      "update_id": "2314",
+      "update_time": "2025-11-11 17:10:02",
+      "year": "2024",
+      "province_name": "湖北省外"
+    },
+    {
+      "id": "28304",
+      "school_id": "1099",
+      "province": "湖北省内",
+      "rate": "63.79",
+      "num": "0",
+      "sort": "6379",
+      "update_id": "2314",
+      "update_time": "2025-11-11 17:08:26",
+      "year": "2024",
+      "province_name": "湖北省内"
+    }
+  ],
+  "attr": {
+    "其他企业（含民营企业等）": "80.48",
+    "国有企业": "6.58"
+  },
+  "company": {},
+  "gradute": [
+    {
+      "id": "2427",
+      "school_id": "1099",
+      "female_num": "1733",
+      "men_num": "2218",
+      "men_rate": "56.14",
+      "female_rate": "43.86",
+      "update_id": "2314",
+      "update_time": "2025-11-11 17:02:55",
+      "year": "2024"
+    }
+  ],
+  "remark": "",
+  "salary": {
+    "6": "8300"
+  }
+}

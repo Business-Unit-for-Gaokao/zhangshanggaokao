@@ -1,0 +1,121 @@
+{
+  "update_time": "2026-08-01 06:37:32",
+  "school_id": "1987",
+  "school_name": "湖南医药学院",
+  "jobrateyear": "2024",
+  "jobrate": {
+    "job": {
+      "1": "85.53"
+    },
+    "postgraduate": {
+      "1": "0.00"
+    },
+    "abroad": {
+      "1": "0.00"
+    },
+    "content": {
+      "1": "<p xss=removed><span xss=removed><span xss=removed>学校深入落实就业工作</span><span xss=removed>“一把手工程”，确保就业工作组织机构、人员配备、场地保障、经费支持、制度保障“五个到位”。本年度学校共出台了《湖南医药学院</span><span xss=removed>2024</span><span xss=removed>届毕业生就业工作实施方案》《湖南医药学院</span><span xss=removed>2024</span><span xss=removed>届毕业生就业“百日冲刺”行动实施方案》等多个政策性文件确保就业工作的顺利开展。</span></span></p><p xss=removed><span xss=removed><span xss=removed>学校通过开展书记校长</span><span xss=removed>“访企拓岗促就业”“就业攻坚行动”、校园招聘等活动，积极拓展就业岗位，大力促进毕业生就业。党委书记、校长带头开展访企拓岗专项活动，共走访</span><span xss=removed>169</span><span xss=removed>家单位；开展线上招聘会、宣讲会、线下专场招聘活动</span><span xss=removed>20</span><span xss=removed>余场，为毕业生提供就业岗位达近</span><span xss=removed>1.2</span><span xss=removed>万个。对</span><span xss=removed>255</span><span xss=removed>名困难毕业生进行了“一对一”精准帮扶，建立了帮扶数据库和台账，确定帮扶责任人，确保了有就业意愿的原建档立卡家庭毕业生</span><span xss=removed>100%</span><span xss=removed>就业，并为</span><span xss=removed>305</span><span xss=removed>名求职困难的</span><span xss=removed>2024</span><span xss=removed>届毕业生申领发放一次性求职创业补贴</span><span xss=removed>462000</span><span xss=removed>元。截至</span><span xss=removed>2024</span><span xss=removed>年</span><span xss=removed>8</span><span xss=removed>月</span><span xss=removed>31</span><span xss=removed>日，学校应届本科毕业生总体毕业去向落实率达</span><span xss=removed>85.53%</span><span xss=removed>。分专业毕业生去向落实率见附表</span><span xss=removed>9</span><span xss=removed>。</span></span></p><p xss=removed><span xss=removed><span xss=removed>附表9 分专业毕业生去向落实率</span></span></p><p xss=removed></p><p xss=removed><span xss=removed><span xss=removed></span></span></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202606/core_1780915569_3352_thumb.png\" xss=removed title=\"core_1780915569_3352_thumb.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202606/core_1780915569_4958_thumb.png\" xss=removed title=\"core_1780915569_4958_thumb.png\"></p><p xss=removed><span xss=removed><span xss=removed></span></span><br></p><p><br></p>"
+    }
+  },
+  "province": [
+    {
+      "id": "19891",
+      "school_id": "1987",
+      "province": "东北地区",
+      "rate": "0.37",
+      "num": "7",
+      "sort": "7",
+      "update_id": "1639",
+      "update_time": "2024-06-18 17:22:45",
+      "year": "2023",
+      "province_name": "东北地区"
+    },
+    {
+      "id": "19890",
+      "school_id": "1987",
+      "province": "西部地区",
+      "rate": "3.84",
+      "num": "73",
+      "sort": "73",
+      "update_id": "1639",
+      "update_time": "2024-06-18 17:22:45",
+      "year": "2023",
+      "province_name": "西部地区"
+    },
+    {
+      "id": "19888",
+      "school_id": "1987",
+      "province": "东部地区",
+      "rate": "29.41",
+      "num": "559",
+      "sort": "559",
+      "update_id": "1639",
+      "update_time": "2024-06-18 17:22:45",
+      "year": "2023",
+      "province_name": "东部地区"
+    },
+    {
+      "id": "19889",
+      "school_id": "1987",
+      "province": "中部地区",
+      "rate": "66.39",
+      "num": "1262",
+      "sort": "1262",
+      "update_id": "1639",
+      "update_time": "2024-06-18 17:22:45",
+      "year": "2023",
+      "province_name": "中部地区"
+    }
+  ],
+  "attr": {
+    "医疗卫生单位": "52.50",
+    "其他企业": "41.08",
+    "其他事业单位": "2.63",
+    "三资企业": "0.84",
+    "机关": "0.79",
+    "国有企业": "0.79",
+    "中初教育单位": "0.47",
+    "城镇社区": "0.37",
+    "高等教育单位": "0.21",
+    "农村建制村": "0.16",
+    "部队": "0.16"
+  },
+  "company": {
+    "岳阳市人民医院": "13",
+    "深圳市中西医结合医院": "12",
+    "深圳市龙岗区人民医院": "11",
+    "广州医科大学第一附属医院": "10",
+    "南华大学附属南华医院": "7",
+    "株洲市中心医院": "7",
+    "怀化市第五人民医院": "7",
+    "中南大学湘雅医院": "6",
+    "湘潭市第一人民医院": "6",
+    "南方医科大学附属三医院": "6",
+    "溆浦县人民医院": "6",
+    "湘潭市中心医院": "6",
+    "深圳市龙岗区妇幼保健院": "6",
+    "长沙市第四医院": "5",
+    "广东省人民医院": "5",
+    "湖南省肿瘤医院": "5",
+    "永州市中医医院": "5",
+    "深圳市宝安区松岗人民医院": "5",
+    "湖南湘雅博爱康复医院有限公司": "5"
+  },
+  "gradute": [
+    {
+      "id": "1798",
+      "school_id": "1987",
+      "female_num": "1797",
+      "men_num": "1110",
+      "men_rate": "38.18",
+      "female_rate": "61.82",
+      "update_id": "1639",
+      "update_time": "2024-06-18 17:06:37",
+      "year": "2023"
+    }
+  ],
+  "remark": "",
+  "salary": {
+    "6": "8000"
+  }
+}

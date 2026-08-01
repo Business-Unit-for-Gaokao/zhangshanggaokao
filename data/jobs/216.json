@@ -1,0 +1,174 @@
+{
+  "update_time": "2026-08-01 06:21:14",
+  "school_id": "216",
+  "school_name": "大连外国语大学",
+  "jobrateyear": "2023",
+  "jobrate": {
+    "job": {
+      "1": "86.57"
+    },
+    "postgraduate": {
+      "1": "13.17"
+    },
+    "abroad": {
+      "1": "12.16"
+    },
+    "content": {
+      "1": ""
+    }
+  },
+  "province": [
+    {
+      "id": "16327",
+      "school_id": "216",
+      "province": "河南省",
+      "rate": "0.81",
+      "num": "0",
+      "sort": "81",
+      "update_id": "2004",
+      "update_time": "2024-06-06 17:48:21",
+      "year": "2023",
+      "province_name": "河南省"
+    },
+    {
+      "id": "16326",
+      "school_id": "216",
+      "province": "四川省",
+      "rate": "1.18",
+      "num": "0",
+      "sort": "118",
+      "update_id": "2004",
+      "update_time": "2024-06-06 17:48:21",
+      "year": "2023",
+      "province_name": "四川省"
+    },
+    {
+      "id": "16328",
+      "school_id": "216",
+      "province": "河北省",
+      "rate": "1.24",
+      "num": "0",
+      "sort": "124",
+      "update_id": "2004",
+      "update_time": "2024-06-06 17:48:21",
+      "year": "2023",
+      "province_name": "河北省"
+    },
+    {
+      "id": "16324",
+      "school_id": "216",
+      "province": "山东省",
+      "rate": "2.23",
+      "num": "0",
+      "sort": "223",
+      "update_id": "2004",
+      "update_time": "2024-06-06 17:48:21",
+      "year": "2023",
+      "province_name": "山东省"
+    },
+    {
+      "id": "16322",
+      "school_id": "216",
+      "province": "江苏省",
+      "rate": "3.35",
+      "num": "0",
+      "sort": "335",
+      "update_id": "2004",
+      "update_time": "2024-06-06 17:48:21",
+      "year": "2023",
+      "province_name": "江苏省"
+    },
+    {
+      "id": "16325",
+      "school_id": "216",
+      "province": "上海市",
+      "rate": "3.41",
+      "num": "0",
+      "sort": "341",
+      "update_id": "2004",
+      "update_time": "2024-06-06 17:48:21",
+      "year": "2023",
+      "province_name": "上海市"
+    },
+    {
+      "id": "16323",
+      "school_id": "216",
+      "province": "北京市",
+      "rate": "4.22",
+      "num": "0",
+      "sort": "422",
+      "update_id": "2004",
+      "update_time": "2024-06-06 17:48:21",
+      "year": "2023",
+      "province_name": "北京市"
+    },
+    {
+      "id": "16321",
+      "school_id": "216",
+      "province": "浙江省",
+      "rate": "5.58",
+      "num": "0",
+      "sort": "558",
+      "update_id": "2004",
+      "update_time": "2024-06-06 17:48:21",
+      "year": "2023",
+      "province_name": "浙江省"
+    },
+    {
+      "id": "16320",
+      "school_id": "216",
+      "province": "广东省",
+      "rate": "8.74",
+      "num": "0",
+      "sort": "874",
+      "update_id": "2004",
+      "update_time": "2024-06-06 17:48:21",
+      "year": "2023",
+      "province_name": "广东省"
+    },
+    {
+      "id": "16319",
+      "school_id": "216",
+      "province": "辽宁省",
+      "rate": "59.21",
+      "num": "0",
+      "sort": "5921",
+      "update_id": "2004",
+      "update_time": "2024-06-06 17:48:21",
+      "year": "2023",
+      "province_name": "辽宁省"
+    }
+  ],
+  "attr": {
+    "民营等其他企业": "49.04",
+    "三资企业": "21.95",
+    "高等教育单位": "10.85",
+    "党政机关": "3.35",
+    "其他事业单位": "2.17",
+    "其他": "1.24",
+    "中初教育单位": "1.05",
+    "国有企业": "9.30",
+    "城镇社区": "0.43",
+    "医疗卫生单位": "0.31",
+    "部队": "0.25",
+    "科研设计单位": "0.06"
+  },
+  "company": {},
+  "gradute": [
+    {
+      "id": "1535",
+      "school_id": "216",
+      "female_num": "2424",
+      "men_num": "801",
+      "men_rate": "24.84",
+      "female_rate": "75.16",
+      "update_id": "2004",
+      "update_time": "2024-06-06 17:48:40",
+      "year": "2023"
+    }
+  ],
+  "remark": "",
+  "salary": {
+    "6": "11100"
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "update_time": "2026-08-01 06:31:00",
+  "school_id": "1246",
+  "school_name": "枣庄学院",
+  "jobrateyear": "2024",
+  "jobrate": {
+    "job": {
+      "1": "87.28"
+    },
+    "postgraduate": {
+      "1": "0.00"
+    },
+    "abroad": {
+      "1": "0.00"
+    },
+    "content": {
+      "1": "<p>学校 2024 届本科毕业生共 3969 人，按照教育部有关高校毕业生毕业去向统计标准，学校 2024 届毕业生的总体毕业去向以签劳动合同形式就业、升学、签就业协议形式就业等为主。本科生毕业去向落实率 87.28%。整体就业结构进一步优化，就业质量进一步提高。</p><p><img src=\"https://static-data.gaokao.cn//upload/image/202606/core_1781060803_8890_thumb.png\" title=\"core_1781060803_8890_thumb.png\" alt=\"core_1781060803_8890.png\"></p><p>2024 届本科毕业生各专业中，有 22 个专业的毕业去向落实率达到90%及以上，其中，日语专业的毕业去向落实率达 100%。</p><p><img src=\"https://static-data.gaokao.cn//upload/image/202606/core_1781060830_9281_thumb.png\" title=\"core_1781060830_9281_thumb.png\" alt=\"core_1781060830_9281.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202606/core_1781060844_1776_thumb.png\" title=\"core_1781060844_1776_thumb.png\" alt=\"core_1781060844_1776.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202606/core_1781060876_3575_thumb.png\" title=\"core_1781060876_3575_thumb.png\" alt=\"core_1781060876_3575.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202606/core_1781060888_1806_thumb.png\" title=\"core_1781060888_1806_thumb.png\" alt=\"core_1781060888_1806.png\"></p>"
+    }
+  },
+  "province": [
+    {
+      "id": "8749",
+      "school_id": "1246",
+      "province": "山东省外",
+      "rate": "16.99",
+      "num": "400",
+      "sort": "400",
+      "update_id": "0",
+      "update_time": "2018-12-18 15:40:18",
+      "year": "2019",
+      "province_name": "山东省外"
+    },
+    {
+      "id": "8750",
+      "school_id": "1246",
+      "province": "山东省",
+      "rate": "83.01",
+      "num": "2604",
+      "sort": "2604",
+      "update_id": "0",
+      "update_time": "2018-12-18 15:40:18",
+      "year": "2019",
+      "province_name": "山东省"
+    }
+  ],
+  "attr": {},
+  "company": {},
+  "gradute": [
+    {
+      "id": "801",
+      "school_id": "1246",
+      "female_num": "1843",
+      "men_num": "1425",
+      "men_rate": "43.60",
+      "female_rate": "56.40",
+      "update_id": null,
+      "update_time": null,
+      "year": "2019"
+    }
+  ],
+  "remark": "",
+  "salary": {
+    "6": "8800"
+  }
+}

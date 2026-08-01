@@ -1,0 +1,125 @@
+{
+  "update_time": "2026-08-01 06:20:30",
+  "school_id": "140",
+  "school_name": "清华大学",
+  "jobrateyear": "2024",
+  "jobrate": {
+    "job": {
+      "1": "0.00"
+    },
+    "postgraduate": {
+      "1": "0.00"
+    },
+    "abroad": {
+      "1": "0.00"
+    },
+    "content": {
+      "1": "<p>针对本科生就业压力相对更大的情况，学校持续实施优化本科生就业专项“追梦行动”，加大职业辅导和就业资源供给。职业辅导方面，定期开展职业辅导进班团活</p><p>动，组织咨询教师、校友导师与学生讲师进班团，开展170余场，覆盖7500余人次。连续第四年开展“清华校友导师计划(职业指导)”，聘请200余位重点领域校友担任学生职业咨询师，提供一对一职业咨询。</p><p><br></p>"
+    }
+  },
+  "province": [
+    {
+      "id": "13760",
+      "school_id": "140",
+      "province": "江苏",
+      "rate": "4.00",
+      "num": "0",
+      "sort": "4",
+      "update_id": "1183",
+      "update_time": "2023-11-01 18:00:26",
+      "year": "2022",
+      "province_name": "江苏"
+    },
+    {
+      "id": "13759",
+      "school_id": "140",
+      "province": "四川",
+      "rate": "7.00",
+      "num": "0",
+      "sort": "7",
+      "update_id": "1183",
+      "update_time": "2023-11-01 18:00:26",
+      "year": "2022",
+      "province_name": "四川"
+    },
+    {
+      "id": "13758",
+      "school_id": "140",
+      "province": "浙江",
+      "rate": "10.00",
+      "num": "0",
+      "sort": "10",
+      "update_id": "1183",
+      "update_time": "2023-11-01 18:00:26",
+      "year": "2022",
+      "province_name": "浙江"
+    },
+    {
+      "id": "13756",
+      "school_id": "140",
+      "province": "广东",
+      "rate": "12.40",
+      "num": "0",
+      "sort": "12",
+      "update_id": "1183",
+      "update_time": "2023-11-01 18:00:26",
+      "year": "2022",
+      "province_name": "广东"
+    },
+    {
+      "id": "13757",
+      "school_id": "140",
+      "province": "上海",
+      "rate": "16.70",
+      "num": "0",
+      "sort": "16",
+      "update_id": "1183",
+      "update_time": "2023-11-01 18:00:26",
+      "year": "2022",
+      "province_name": "上海"
+    },
+    {
+      "id": "13761",
+      "school_id": "140",
+      "province": "其他地区",
+      "rate": "24.40",
+      "num": "0",
+      "sort": "24",
+      "update_id": "1183",
+      "update_time": "2023-11-01 18:00:26",
+      "year": "2022",
+      "province_name": "其他地区"
+    },
+    {
+      "id": "13755",
+      "school_id": "140",
+      "province": "北京",
+      "rate": "25.40",
+      "num": "0",
+      "sort": "25",
+      "update_id": "1183",
+      "update_time": "2023-11-01 18:00:26",
+      "year": "2022",
+      "province_name": "北京"
+    }
+  ],
+  "attr": {},
+  "company": {},
+  "gradute": [
+    {
+      "id": "1344",
+      "school_id": "140",
+      "female_num": "2868",
+      "men_num": "5135",
+      "men_rate": "64.20",
+      "female_rate": "35.80",
+      "update_id": "1183",
+      "update_time": "2023-11-01 17:33:02",
+      "year": "2022"
+    }
+  ],
+  "remark": "",
+  "salary": {
+    "6": "19300"
+  }
+}

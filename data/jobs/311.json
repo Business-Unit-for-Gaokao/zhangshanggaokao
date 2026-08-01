@@ -1,0 +1,143 @@
+{
+  "update_time": "2026-08-01 06:22:13",
+  "school_id": "311",
+  "school_name": "上海师范大学",
+  "jobrateyear": "2024",
+  "jobrate": {
+    "job": {
+      "1": "94.46"
+    },
+    "postgraduate": {
+      "1": "16.19"
+    },
+    "abroad": {
+      "1": "8.00"
+    },
+    "content": {
+      "1": ""
+    }
+  },
+  "province": [
+    {
+      "id": "30516",
+      "school_id": "311",
+      "province": "国外",
+      "rate": "0.13",
+      "num": "0",
+      "sort": "13",
+      "update_id": "2314",
+      "update_time": "2025-11-26 11:56:53",
+      "year": "2024",
+      "province_name": "国外"
+    },
+    {
+      "id": "30515",
+      "school_id": "311",
+      "province": "东北",
+      "rate": "0.73",
+      "num": "0",
+      "sort": "73",
+      "update_id": "2314",
+      "update_time": "2025-11-26 11:56:53",
+      "year": "2024",
+      "province_name": "东北"
+    },
+    {
+      "id": "30514",
+      "school_id": "311",
+      "province": "西北",
+      "rate": "1.39",
+      "num": "0",
+      "sort": "139",
+      "update_id": "2314",
+      "update_time": "2025-11-26 11:56:53",
+      "year": "2024",
+      "province_name": "西北"
+    },
+    {
+      "id": "30513",
+      "school_id": "311",
+      "province": "华北",
+      "rate": "1.77",
+      "num": "0",
+      "sort": "177",
+      "update_id": "2314",
+      "update_time": "2025-11-26 11:56:53",
+      "year": "2024",
+      "province_name": "华北"
+    },
+    {
+      "id": "30512",
+      "school_id": "311",
+      "province": "华中",
+      "rate": "2.75",
+      "num": "0",
+      "sort": "275",
+      "update_id": "2314",
+      "update_time": "2025-11-26 11:56:53",
+      "year": "2024",
+      "province_name": "华中"
+    },
+    {
+      "id": "30511",
+      "school_id": "311",
+      "province": "西南",
+      "rate": "3.52",
+      "num": "0",
+      "sort": "352",
+      "update_id": "2314",
+      "update_time": "2025-11-26 11:56:53",
+      "year": "2024",
+      "province_name": "西南"
+    },
+    {
+      "id": "30510",
+      "school_id": "311",
+      "province": "华南",
+      "rate": "4.81",
+      "num": "0",
+      "sort": "481",
+      "update_id": "2314",
+      "update_time": "2025-11-26 11:56:53",
+      "year": "2024",
+      "province_name": "华南"
+    },
+    {
+      "id": "30509",
+      "school_id": "311",
+      "province": "华东",
+      "rate": "84.90",
+      "num": "0",
+      "sort": "8490",
+      "update_id": "2314",
+      "update_time": "2025-11-26 11:56:53",
+      "year": "2024",
+      "province_name": "华东"
+    }
+  ],
+  "attr": {
+    "教育单位": "47.63",
+    "民营企业": "30.61",
+    "国有企业": "11.54",
+    "三资企业": "4.82",
+    "党政机关/部队": "4.27"
+  },
+  "company": {},
+  "gradute": [
+    {
+      "id": "2624",
+      "school_id": "311",
+      "female_num": "3439",
+      "men_num": "1547",
+      "men_rate": "31.00",
+      "female_rate": "69.00",
+      "update_id": "2314",
+      "update_time": "2025-11-26 11:47:40",
+      "year": "2024"
+    }
+  ],
+  "remark": "",
+  "salary": {
+    "6": "12900"
+  }
+}

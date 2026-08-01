@@ -1,0 +1,65 @@
+{
+  "update_time": "2026-08-01 06:29:01",
+  "school_id": "1010",
+  "school_name": "上海商学院",
+  "jobrateyear": "2024",
+  "jobrate": {
+    "job": {
+      "1": "94.87"
+    },
+    "postgraduate": {
+      "1": "4.24"
+    },
+    "abroad": {
+      "1": "6.59"
+    },
+    "content": {
+      "1": ""
+    }
+  },
+  "province": [
+    {
+      "id": "32280",
+      "school_id": "1010",
+      "province": "其他地区",
+      "rate": "26.16",
+      "num": "624",
+      "sort": "2616",
+      "update_id": "2234",
+      "update_time": "2025-12-01 15:12:16",
+      "year": "2024",
+      "province_name": "其他地区"
+    },
+    {
+      "id": "32269",
+      "school_id": "1010",
+      "province": "上海地区",
+      "rate": "73.84",
+      "num": "1287",
+      "sort": "7384",
+      "update_id": "2234",
+      "update_time": "2025-12-01 15:11:34",
+      "year": "2024",
+      "province_name": "上海地区"
+    }
+  ],
+  "attr": {},
+  "company": {},
+  "gradute": [
+    {
+      "id": "216",
+      "school_id": "1010",
+      "female_num": "1370",
+      "men_num": "506",
+      "men_rate": "26.97",
+      "female_rate": "73.03",
+      "update_id": null,
+      "update_time": null,
+      "year": "2019"
+    }
+  ],
+  "remark": "",
+  "salary": {
+    "6": "12400"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "update_time": "2026-08-01 06:36:45",
+  "school_id": "1915",
+  "school_name": "福州科技职业技术学院",
+  "jobrateyear": "2019",
+  "jobrate": {
+    "job": {
+      "1": "89.36"
+    },
+    "postgraduate": {
+      "1": "9.50"
+    },
+    "abroad": {
+      "1": "0.00"
+    },
+    "content": {
+      "1": ""
+    }
+  },
+  "province": [],
+  "attr": {},
+  "company": {},
+  "gradute": [],
+  "remark": "",
+  "salary": {}
+}

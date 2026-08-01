@@ -1,0 +1,99 @@
+{
+  "update_time": "2026-08-01 06:42:29",
+  "school_id": "2476",
+  "school_name": "张家界学院",
+  "jobrateyear": "2024",
+  "jobrate": {
+    "job": {
+      "1": "91.64"
+    },
+    "postgraduate": {
+      "1": "0.00"
+    },
+    "abroad": {
+      "1": "0.00"
+    },
+    "content": {
+      "1": ""
+    }
+  },
+  "province": [
+    {
+      "id": "32065",
+      "school_id": "2476",
+      "province": "江苏省",
+      "rate": "1.57",
+      "num": "43",
+      "sort": "381",
+      "update_id": "2156",
+      "update_time": "2025-12-01 13:51:16",
+      "year": "2024",
+      "province_name": "江苏省"
+    },
+    {
+      "id": "32064",
+      "school_id": "2476",
+      "province": "浙江省",
+      "rate": "7.36",
+      "num": "202",
+      "sort": "382",
+      "update_id": "2156",
+      "update_time": "2025-12-01 13:51:16",
+      "year": "2024",
+      "province_name": "浙江省"
+    },
+    {
+      "id": "32063",
+      "school_id": "2476",
+      "province": "广东省",
+      "rate": "21.98",
+      "num": "603",
+      "sort": "383",
+      "update_id": "2156",
+      "update_time": "2025-12-01 13:51:16",
+      "year": "2024",
+      "province_name": "广东省"
+    },
+    {
+      "id": "32062",
+      "school_id": "2476",
+      "province": "湖南省",
+      "rate": "59.28",
+      "num": "1626",
+      "sort": "384",
+      "update_id": "2156",
+      "update_time": "2025-12-01 13:51:16",
+      "year": "2024",
+      "province_name": "湖南省"
+    }
+  ],
+  "attr": {
+    "其他企业": "68.10",
+    "医疗卫生单位": "13.99",
+    "其他教学单位": "6.02",
+    "其他": "3.83",
+    "国有企业": "3.68",
+    "其他事业单位": "2.11",
+    "党政机关": "1.35",
+    "部队": "0.66",
+    "高等教育单位": "0.26"
+  },
+  "company": {},
+  "gradute": [
+    {
+      "id": "2755",
+      "school_id": "2476",
+      "female_num": "2753",
+      "men_num": "1304",
+      "men_rate": "32.10",
+      "female_rate": "67.90",
+      "update_id": "2156",
+      "update_time": "2025-12-01 13:49:16",
+      "year": "2024"
+    }
+  ],
+  "remark": "",
+  "salary": {
+    "6": "8100"
+  }
+}

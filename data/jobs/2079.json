@@ -1,0 +1,26 @@
+{
+  "update_time": "2026-08-01 06:38:27",
+  "school_id": "2079",
+  "school_name": "新疆天山职业技术大学",
+  "jobrateyear": "2025",
+  "jobrate": {
+    "job": {
+      "1": "98.27"
+    },
+    "postgraduate": {
+      "1": "0.00"
+    },
+    "abroad": {
+      "1": "0.00"
+    },
+    "content": {
+      "1": "<p><br></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202606/core_1780998360_9766_thumb.png\" title=\"core_1780998360_9766_thumb.png\" alt=\"core_1780998360_9766.png\"></p><p>本科毕业生主要毕业去向为：其他录用形式就业（36 人，占比 1.64%）、协议和劳动合同就业（2085 人 ，占比 94.99% ）</p><p><br></p>"
+    }
+  },
+  "province": [],
+  "attr": {},
+  "company": {},
+  "gradute": [],
+  "remark": "",
+  "salary": {}
+}

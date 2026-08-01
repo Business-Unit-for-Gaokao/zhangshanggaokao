@@ -1,0 +1,89 @@
+{
+  "update_time": "2026-08-01 06:41:56",
+  "school_id": "2427",
+  "school_name": "南昌大学科学技术学院",
+  "jobrateyear": "2024",
+  "jobrate": {
+    "job": {
+      "1": "78.11"
+    },
+    "postgraduate": {
+      "1": "0.00"
+    },
+    "abroad": {
+      "1": "0.00"
+    },
+    "content": {
+      "1": "<p>就业情况</p><p>学院积极落实国家就业创业政策，创新服务机制，毕业生就业创业工作取得较好成效。2024届本科毕业生初次去向落实率达78.11%。其中研究生录取率、公务员、党政机关、事业单位（含学校、科研、医疗卫生单位等）、国家和基层项目工作人员的比例逐年增多，呈现出良好的上升趋势。随着学院在创新创业方面的不断投入，自主创业人数较去年大幅提升（增加50人）。毕业生流向省份（除本省外），东部省份依然是毕业生选择就业的主要地域。</p><p>社会用人单位评价</p><p>为进一步了解用人单位对学院毕业生的总体评价、毕业生的培养质量以及社会对人才培养的要求，学院线上邀请95家用人单位填写“满意度”问卷调查（见表8）。其中调查问卷是由江西省教育厅统一制作，共设计了：思想表现、敬业精神、工作态度、专业知识、实践能力、创新能力、外语、计算机、协作能力、工作实践、心理素质等11个方面的问题。调查问卷结果显示：用人单位对学院毕业生满意度达98.95%，绝大多数毕业生能够胜任目前所从事的工作，用人单位对学院毕业生的具体工作感到满意。</p><p><img src=\"https://static-data.gaokao.cn//upload/image/202606/core_1780996280_8403_thumb.png\" title=\"core_1780996280_8403_thumb.png\" alt=\"core_1780996280_8403.png\"></p><p>毕业生去向</p><p>2024届毕业生总体去向分布如下表（表9、表10）所示</p><p><img src=\"https://static-data.gaokao.cn//upload/image/202606/core_1780996307_2732_thumb.png\" title=\"core_1780996307_2732_thumb.png\" alt=\"core_1780996307_2732.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202606/core_1780996326_8634_thumb.png\" title=\"core_1780996326_8634_thumb.png\" alt=\"core_1780996326_8634.png\"></p>"
+    }
+  },
+  "province": [
+    {
+      "id": "4951",
+      "school_id": "2427",
+      "province": "其他省市",
+      "rate": "12.82",
+      "num": "0",
+      "sort": "0",
+      "update_id": "0",
+      "update_time": "2018-12-18 15:40:15",
+      "year": "2019",
+      "province_name": "其他省市"
+    },
+    {
+      "id": "4949",
+      "school_id": "2427",
+      "province": "西部地区",
+      "rate": "5.33",
+      "num": "148",
+      "sort": "148",
+      "update_id": "0",
+      "update_time": "2018-12-18 15:40:15",
+      "year": "2019",
+      "province_name": "西部地区"
+    },
+    {
+      "id": "4948",
+      "school_id": "2427",
+      "province": "中部地区",
+      "rate": "31.94",
+      "num": "887",
+      "sort": "887",
+      "update_id": "0",
+      "update_time": "2018-12-18 15:40:15",
+      "year": "2019",
+      "province_name": "中部地区"
+    },
+    {
+      "id": "4950",
+      "school_id": "2427",
+      "province": "东部地区",
+      "rate": "49.91",
+      "num": "1386",
+      "sort": "1386",
+      "update_id": "0",
+      "update_time": "2018-12-18 15:40:15",
+      "year": "2019",
+      "province_name": "东部地区"
+    }
+  ],
+  "attr": {},
+  "company": {},
+  "gradute": [
+    {
+      "id": "374",
+      "school_id": "2427",
+      "female_num": "1321",
+      "men_num": "1456",
+      "men_rate": "52.43",
+      "female_rate": "47.57",
+      "update_id": null,
+      "update_time": null,
+      "year": "2019"
+    }
+  ],
+  "remark": "",
+  "salary": {
+    "6": "9300"
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "update_time": "2026-08-01 06:34:46",
+  "school_id": "1728",
+  "school_name": "广西体育高等专科学校",
+  "jobrateyear": "2024",
+  "jobrate": {
+    "job": {
+      "1": "83.60"
+    },
+    "postgraduate": {
+      "1": "26.00"
+    },
+    "abroad": {
+      "1": "0.00"
+    },
+    "content": {
+      "1": ""
+    }
+  },
+  "province": [
+    {
+      "id": "29223",
+      "school_id": "1728",
+      "province": "省外",
+      "rate": "27.50",
+      "num": "0",
+      "sort": "275",
+      "update_id": "2096",
+      "update_time": "2025-11-13 11:59:07",
+      "year": "2024",
+      "province_name": "省外"
+    },
+    {
+      "id": "29222",
+      "school_id": "1728",
+      "province": "广西",
+      "rate": "72.50",
+      "num": "0",
+      "sort": "725",
+      "update_id": "2096",
+      "update_time": "2025-11-13 11:58:35",
+      "year": "2024",
+      "province_name": "广西"
+    }
+  ],
+  "attr": {
+    "民营企业/个体": "67.60",
+    "政府机构/科研或其他事业单位": "21.60",
+    "国有企业": "5.70",
+    "中外合资/外资/独资": "3.40",
+    "民非组织": "1.80"
+  },
+  "company": {},
+  "gradute": [
+    {
+      "id": "2524",
+      "school_id": "1728",
+      "female_num": "1039",
+      "men_num": "3115",
+      "men_rate": "75.00",
+      "female_rate": "25.00",
+      "update_id": "2096",
+      "update_time": "2025-11-13 11:52:46",
+      "year": "2024"
+    }
+  ],
+  "remark": "",
+  "salary": {
+    "6": "7200"
+  }
+}

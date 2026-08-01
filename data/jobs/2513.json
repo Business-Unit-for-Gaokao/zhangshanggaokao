@@ -1,0 +1,63 @@
+{
+  "update_time": "2026-08-01 06:42:51",
+  "school_id": "2513",
+  "school_name": "泰山科技学院",
+  "jobrateyear": "2024",
+  "jobrate": {
+    "job": {
+      "1": "91.76"
+    },
+    "postgraduate": {
+      "1": "0.00"
+    },
+    "abroad": {
+      "1": "0.00"
+    },
+    "content": {
+      "1": "<p><img src=\"https://static-data.gaokao.cn//upload/image/202606/core_1780914671_8164_thumb.png\" title=\"core_1780914671_8164_thumb.png\" alt=\"core_1780914671_8164.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202606/core_1780914692_2981_thumb.png\" title=\"core_1780914692_2981_thumb.png\" alt=\"core_1780914692_2981.png\"></p>"
+    }
+  },
+  "province": [
+    {
+      "id": "5957",
+      "school_id": "2513",
+      "province": "其他省市",
+      "rate": "6.73",
+      "num": "2",
+      "sort": "0",
+      "update_id": "0",
+      "update_time": "2018-12-18 15:40:16",
+      "year": "2019",
+      "province_name": "其他省市"
+    },
+    {
+      "id": "5956",
+      "school_id": "2513",
+      "province": "山东省",
+      "rate": "93.27",
+      "num": "2",
+      "sort": "2",
+      "update_id": "0",
+      "update_time": "2018-12-18 15:40:16",
+      "year": "2019",
+      "province_name": "山东省"
+    }
+  ],
+  "attr": {},
+  "company": {},
+  "gradute": [
+    {
+      "id": "400",
+      "school_id": "2513",
+      "female_num": "884",
+      "men_num": "1216",
+      "men_rate": "57.90",
+      "female_rate": "42.10",
+      "update_id": null,
+      "update_time": null,
+      "year": "2019"
+    }
+  ],
+  "remark": "",
+  "salary": {}
+}

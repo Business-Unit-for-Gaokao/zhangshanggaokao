@@ -1,0 +1,28 @@
+{
+  "update_time": "2026-08-01 06:38:36",
+  "school_id": "2093",
+  "school_name": "济宁学院",
+  "jobrateyear": "2024",
+  "jobrate": {
+    "job": {
+      "1": "86.33"
+    },
+    "postgraduate": {
+      "1": "28.26"
+    },
+    "abroad": {
+      "1": "0.63"
+    },
+    "content": {
+      "1": "<p><img src=\"https://static-data.gaokao.cn//upload/image/202606/core_1780909398_7758_thumb.png\" title=\"core_1780909398_7758_thumb.png\" alt=\"core_1780909398_7758.png\"></p>"
+    }
+  },
+  "province": [],
+  "attr": {},
+  "company": {},
+  "gradute": [],
+  "remark": "",
+  "salary": {
+    "6": "7800"
+  }
+}

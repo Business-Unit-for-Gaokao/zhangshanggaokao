@@ -1,0 +1,99 @@
+{
+  "update_time": "2026-08-01 06:21:51",
+  "school_id": "275",
+  "school_name": "山西财经大学",
+  "jobrateyear": "2024",
+  "jobrate": {
+    "job": {
+      "1": "83.63"
+    },
+    "postgraduate": {
+      "1": "0.00"
+    },
+    "abroad": {
+      "1": "0.00"
+    },
+    "content": {
+      "1": "<p><img src=\"https://static-data.gaokao.cn//upload/image/202606/core_1781167234_4442_thumb.jpg\" xss=removed title=\"core_1781167234_4442_thumb.jpg\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202606/core_1781167234_2372_thumb.jpg\" xss=removed title=\"core_1781167234_2372_thumb.jpg\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202606/core_1781167234_5658_thumb.jpg\" xss=removed title=\"core_1781167234_5658_thumb.jpg\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202606/core_1781167235_2942_thumb.jpg\" xss=removed title=\"core_1781167235_2942_thumb.jpg\"></p><p><br></p>"
+    }
+  },
+  "province": [
+    {
+      "id": "22178",
+      "school_id": "275",
+      "province": "东北地区",
+      "rate": "1.62",
+      "num": "0",
+      "sort": "162",
+      "update_id": "2094",
+      "update_time": "2024-09-20 15:35:19",
+      "year": "2021",
+      "province_name": "东北地区"
+    },
+    {
+      "id": "22177",
+      "school_id": "275",
+      "province": "西部地区",
+      "rate": "16.92",
+      "num": "0",
+      "sort": "1692",
+      "update_id": "2094",
+      "update_time": "2024-09-20 15:35:19",
+      "year": "2021",
+      "province_name": "西部地区"
+    },
+    {
+      "id": "22176",
+      "school_id": "275",
+      "province": "中部地区",
+      "rate": "37.43",
+      "num": "0",
+      "sort": "3743",
+      "update_id": "2094",
+      "update_time": "2024-09-20 15:35:19",
+      "year": "2021",
+      "province_name": "中部地区"
+    },
+    {
+      "id": "22175",
+      "school_id": "275",
+      "province": "东部地区",
+      "rate": "44.03",
+      "num": "0",
+      "sort": "4403",
+      "update_id": "2094",
+      "update_time": "2024-09-20 15:35:19",
+      "year": "2021",
+      "province_name": "东部地区"
+    }
+  ],
+  "attr": {
+    "其他企业": "47.97",
+    "国有企业": "30.48",
+    "国家/地方基层项目": "6.49",
+    "党政机关": "5.56",
+    "其他事业单位": "4.63",
+    "其他": "3.13",
+    "三资企业": "1.51",
+    "中初教育单位": "0.12",
+    "部队": "0.12"
+  },
+  "company": {},
+  "gradute": [
+    {
+      "id": "1951",
+      "school_id": "275",
+      "female_num": "2978",
+      "men_num": "1303",
+      "men_rate": "30.44",
+      "female_rate": "69.56",
+      "update_id": "2094",
+      "update_time": "2024-09-20 14:59:09",
+      "year": "2021"
+    }
+  ],
+  "remark": "",
+  "salary": {
+    "6": "10500"
+  }
+}

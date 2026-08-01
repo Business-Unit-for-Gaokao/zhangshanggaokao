@@ -1,0 +1,28 @@
+{
+  "update_time": "2026-08-01 06:31:41",
+  "school_id": "1336",
+  "school_name": "日照职业技术大学",
+  "jobrateyear": "2024",
+  "jobrate": {
+    "job": {
+      "1": "96.45"
+    },
+    "postgraduate": {
+      "1": "0.00"
+    },
+    "abroad": {
+      "1": "0.00"
+    },
+    "content": {
+      "1": "<p>2024 年学校有毕业生 6197 人，截止于12 月31 日就业情况如下表。</p><p><img src=\"https://static-data.gaokao.cn//upload/image/202606/core_1781319692_8584_thumb.png\" title=\"core_1781319692_8584_thumb.png\" alt=\"core_1781319692_8584.png\"></p>"
+    }
+  },
+  "province": [],
+  "attr": {},
+  "company": {},
+  "gradute": [],
+  "remark": "",
+  "salary": {
+    "6": "7600"
+  }
+}

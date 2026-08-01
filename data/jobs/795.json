@@ -1,0 +1,28 @@
+{
+  "update_time": "2026-08-01 06:27:05",
+  "school_id": "795",
+  "school_name": "四川工程职业技术大学",
+  "jobrateyear": "2019",
+  "jobrate": {
+    "job": {
+      "1": "97.20"
+    },
+    "postgraduate": {
+      "1": "0.00"
+    },
+    "abroad": {
+      "1": "0.00"
+    },
+    "content": {
+      "1": ""
+    }
+  },
+  "province": [],
+  "attr": {},
+  "company": {},
+  "gradute": [],
+  "remark": "",
+  "salary": {
+    "6": "7900"
+  }
+}

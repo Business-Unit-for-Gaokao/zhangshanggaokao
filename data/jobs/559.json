@@ -1,0 +1,45 @@
+{
+  "update_time": "2026-08-01 06:24:53",
+  "school_id": "559",
+  "school_name": "北京城市学院",
+  "jobrateyear": "2020",
+  "jobrate": {
+    "job": {
+      "1": "95.52"
+    },
+    "postgraduate": {
+      "1": "4.40"
+    },
+    "abroad": {
+      "1": "3.40"
+    },
+    "content": {
+      "1": ""
+    }
+  },
+  "province": [],
+  "attr": {
+    "其他企业": "44.09",
+    "其他": "32.04",
+    "国有企业": "10.94",
+    "机关事业单位": "12.92"
+  },
+  "company": {},
+  "gradute": [
+    {
+      "id": "1888",
+      "school_id": "559",
+      "female_num": "3947",
+      "men_num": "2594",
+      "men_rate": "39.60",
+      "female_rate": "60.30",
+      "update_id": "1988",
+      "update_time": "2024-09-13 15:44:14",
+      "year": "2020"
+    }
+  ],
+  "remark": "",
+  "salary": {
+    "6": "11100"
+  }
+}

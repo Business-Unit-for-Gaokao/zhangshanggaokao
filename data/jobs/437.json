@@ -1,0 +1,71 @@
+{
+  "update_time": "2026-08-01 06:23:36",
+  "school_id": "437",
+  "school_name": "湖北中医药大学",
+  "jobrateyear": "2024",
+  "jobrate": {
+    "job": {
+      "1": "89.69"
+    },
+    "postgraduate": {
+      "1": "27.20"
+    },
+    "abroad": {
+      "1": "1.30"
+    },
+    "content": {
+      "1": "<p>学校毕业生一直受到用人单位的欢迎和好评。截止 2024 年 8 月 31 日，学校\r\n有本科毕业生 3684 人，总体就业率达 89.69%。毕业生最主要的毕业去向是企事\r\n业单位，占 59.88%。升学人数（含出国、升硕）1050 人，占本科毕业生人数的\r\n28.50%。详见表 14-16。</p><p>表 14：毕业生就业率统计表</p><p><img src=\"https://static-data.gaokao.cn//upload/image/202606/core_1780908617_7097_thumb.png\" title=\"core_1780908617_7097_thumb.png\" alt=\"core_1780908617_7097.png\"></p><p>统计截至日期：2024 年 8 月 31 日</p><p>表 15：2024 届本科毕业生分专业毕业生去向落实率</p><p><img src=\"https://static-data.gaokao.cn//upload/image/202606/core_1780908642_8271_thumb.png\" title=\"core_1780908642_8271_thumb.png\" alt=\"core_1780908642_8271.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202606/core_1780908660_3382_thumb.png\" title=\"core_1780908660_3382_thumb.png\" alt=\"core_1780908660_3382.png\"></p><p>统计截至日期：2024 年 8 月 31 日</p><p>表 16：毕业生就业去向统计表</p><p><img src=\"https://static-data.gaokao.cn//upload/image/202606/core_1780908688_9401_thumb.png\" title=\"core_1780908688_9401_thumb.png\" alt=\"core_1780908688_9401.png\"></p><p>统计截至日期：2024 年 8 月 31 日</p>"
+    }
+  },
+  "province": [
+    {
+      "id": "26903",
+      "school_id": "437",
+      "province": "中部经济区",
+      "rate": "71.40",
+      "num": "0",
+      "sort": "7140",
+      "update_id": "2094",
+      "update_time": "2025-01-22 10:17:44",
+      "year": "2022",
+      "province_name": "中部经济区"
+    },
+    {
+      "id": "26902",
+      "school_id": "437",
+      "province": "长江经济带",
+      "rate": "83.90",
+      "num": "0",
+      "sort": "8390",
+      "update_id": "2094",
+      "update_time": "2025-01-22 10:17:14",
+      "year": "2022",
+      "province_name": "长江经济带"
+    }
+  ],
+  "attr": {
+    "民营企业/个体": "46.89",
+    "政府机构/科研或其他事业单位": "33.71",
+    "国有企业": "10.92",
+    "中外合资/外资/独资": "6.21",
+    "民办非企业单位（组织）": "2.26"
+  },
+  "company": {},
+  "gradute": [
+    {
+      "id": "2282",
+      "school_id": "437",
+      "female_num": "2452",
+      "men_num": "1083",
+      "men_rate": "30.64",
+      "female_rate": "69.36",
+      "update_id": "2094",
+      "update_time": "2025-01-22 10:09:21",
+      "year": "2022"
+    }
+  ],
+  "remark": "",
+  "salary": {
+    "6": "9700"
+  }
+}

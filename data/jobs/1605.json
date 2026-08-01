@@ -1,0 +1,65 @@
+{
+  "update_time": "2026-08-01 06:33:37",
+  "school_id": "1605",
+  "school_name": "长春金融高等专科学校",
+  "jobrateyear": "2024",
+  "jobrate": {
+    "job": {
+      "1": "96.42"
+    },
+    "postgraduate": {
+      "1": "36.24"
+    },
+    "abroad": {
+      "1": "0.00"
+    },
+    "content": {
+      "1": ""
+    }
+  },
+  "province": [
+    {
+      "id": "27956",
+      "school_id": "1605",
+      "province": "吉林省外",
+      "rate": "31.60",
+      "num": "0",
+      "sort": "316",
+      "update_id": "1988",
+      "update_time": "2025-11-11 09:53:12",
+      "year": "2024",
+      "province_name": "吉林省外"
+    },
+    {
+      "id": "27955",
+      "school_id": "1605",
+      "province": "吉林省内",
+      "rate": "68.40",
+      "num": "0",
+      "sort": "684",
+      "update_id": "1988",
+      "update_time": "2025-11-11 09:52:29",
+      "year": "2024",
+      "province_name": "吉林省内"
+    }
+  ],
+  "attr": {},
+  "company": {},
+  "gradute": [
+    {
+      "id": "2392",
+      "school_id": "1605",
+      "female_num": "1596",
+      "men_num": "1083",
+      "men_rate": "40.40",
+      "female_rate": "59.60",
+      "update_id": "1988",
+      "update_time": "2025-11-11 09:51:38",
+      "year": "2024"
+    }
+  ],
+  "remark": "",
+  "salary": {
+    "6": "7300"
+  }
+}

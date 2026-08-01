@@ -1,0 +1,28 @@
+{
+  "update_time": "2026-08-01 06:25:42",
+  "school_id": "646",
+  "school_name": "深圳职业技术大学",
+  "jobrateyear": "2025",
+  "jobrate": {
+    "job": {
+      "1": "0.00"
+    },
+    "postgraduate": {
+      "1": "0.00"
+    },
+    "abroad": {
+      "1": "0.00"
+    },
+    "content": {
+      "1": "<p><img src=\"https://static-data.gaokao.cn//upload/image/202606/core_1781332656_1526_thumb.png\" title=\"core_1781332656_1526_thumb.png\" alt=\"core_1781332656_1526.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202606/core_1781332666_1064_thumb.png\" title=\"core_1781332666_1064_thumb.png\" alt=\"core_1781332666_1064.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202606/core_1781332675_2747_thumb.png\" title=\"core_1781332675_2747_thumb.png\" alt=\"core_1781332675_2747.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202606/core_1781332688_6441_thumb.png\" title=\"core_1781332688_6441_thumb.png\" alt=\"core_1781332688_6441.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202606/core_1781332697_6356_thumb.png\" title=\"core_1781332697_6356_thumb.png\" alt=\"core_1781332697_6356.png\"></p>"
+    }
+  },
+  "province": [],
+  "attr": {},
+  "company": {},
+  "gradute": [],
+  "remark": "",
+  "salary": {
+    "6": "9600"
+  }
+}

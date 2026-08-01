@@ -1,0 +1,28 @@
+{
+  "update_time": "2026-08-01 06:46:35",
+  "school_id": "3220",
+  "school_name": "惠州城市职业学院",
+  "jobrateyear": "2020",
+  "jobrate": {
+    "job": {
+      "1": "81.90"
+    },
+    "postgraduate": {
+      "1": "9.66"
+    },
+    "abroad": {
+      "1": "0.00"
+    },
+    "content": {
+      "1": ""
+    }
+  },
+  "province": [],
+  "attr": {},
+  "company": {},
+  "gradute": [],
+  "remark": "",
+  "salary": {
+    "6": "7800"
+  }
+}

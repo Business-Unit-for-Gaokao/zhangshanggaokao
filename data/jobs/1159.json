@@ -1,0 +1,113 @@
+{
+  "update_time": "2026-08-01 06:30:15",
+  "school_id": "1159",
+  "school_name": "武汉东湖学院",
+  "jobrateyear": "2024",
+  "jobrate": {
+    "job": {
+      "1": "92.90"
+    },
+    "postgraduate": {
+      "1": "0.00"
+    },
+    "abroad": {
+      "1": "5.15"
+    },
+    "content": {
+      "1": "<p xss=removed>毕业生就业率、满意度</p><p xss=removed>1.就业情况2024年应届本科毕业生4506人，毕业去向落实率为92.90%。其中升学415人（含出国（境）留学232人），占9.21%。</p><p xss=removed>2.用人单位满意度</p><p xss=removed><span xss=removed>用人单位对2024届毕业生的工作表现认可度高，99.70%的受访用人单位对学校毕业生的工作表现感到满意。用人单位对本校毕业生的就业稳定性满意度处于较高水平，其中“很满意”占比67.58%，“比较满意”占比25%，“基本满意”占比7.27%。</span></p><p xss=removed>用人单位继续招聘本校毕业生意愿高，反馈愿意继续招聘本校毕业生的原因主要为“工作能力符合要求，综合素质较高”（64.48%）、“工作认真负责，具有敬业精神”（59.52%）和“学习能力强，具有培养、发展潜力”（55.95%）。</p><p><br></p>"
+    }
+  },
+  "province": [
+    {
+      "id": "7546",
+      "school_id": "1159",
+      "province": "东北地区",
+      "rate": "0.09",
+      "num": "4",
+      "sort": "4",
+      "update_id": "0",
+      "update_time": "2018-12-18 15:40:17",
+      "year": "2019",
+      "province_name": "东北地区"
+    },
+    {
+      "id": "7541",
+      "school_id": "1159",
+      "province": "西北地区",
+      "rate": "0.99",
+      "num": "46",
+      "sort": "46",
+      "update_id": "0",
+      "update_time": "2018-12-18 15:40:17",
+      "year": "2019",
+      "province_name": "西北地区"
+    },
+    {
+      "id": "7540",
+      "school_id": "1159",
+      "province": "西南地区",
+      "rate": "1.01",
+      "num": "47",
+      "sort": "47",
+      "update_id": "0",
+      "update_time": "2018-12-18 15:40:17",
+      "year": "2019",
+      "province_name": "西南地区"
+    },
+    {
+      "id": "7545",
+      "school_id": "1159",
+      "province": "华北地区",
+      "rate": "1.70",
+      "num": "80",
+      "sort": "80",
+      "update_id": "0",
+      "update_time": "2018-12-18 15:40:17",
+      "year": "2019",
+      "province_name": "华北地区"
+    },
+    {
+      "id": "7544",
+      "school_id": "1159",
+      "province": "华东地区",
+      "rate": "9.16",
+      "num": "431",
+      "sort": "431",
+      "update_id": "0",
+      "update_time": "2018-12-18 15:40:17",
+      "year": "2019",
+      "province_name": "华东地区"
+    },
+    {
+      "id": "7543",
+      "school_id": "1159",
+      "province": "华南地区",
+      "rate": "9.58",
+      "num": "450",
+      "sort": "450",
+      "update_id": "0",
+      "update_time": "2018-12-18 15:40:17",
+      "year": "2019",
+      "province_name": "华南地区"
+    },
+    {
+      "id": "7542",
+      "school_id": "1159",
+      "province": "华中地区",
+      "rate": "77.47",
+      "num": "3654",
+      "sort": "3654",
+      "update_id": "0",
+      "update_time": "2018-12-18 15:40:17",
+      "year": "2019",
+      "province_name": "华中地区"
+    }
+  ],
+  "attr": {},
+  "company": {},
+  "gradute": [],
+  "remark": "",
+  "salary": {
+    "6": "9500"
+  }
+}

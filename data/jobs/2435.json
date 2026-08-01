@@ -1,0 +1,77 @@
+{
+  "update_time": "2026-08-01 06:42:02",
+  "school_id": "2435",
+  "school_name": "江西财经大学现代经济管理学院",
+  "jobrateyear": "2019",
+  "jobrate": {
+    "job": {
+      "1": "83.98"
+    },
+    "postgraduate": {
+      "1": "13.00"
+    },
+    "abroad": {
+      "1": "0.00"
+    },
+    "content": {
+      "1": ""
+    }
+  },
+  "province": [
+    {
+      "id": "4332",
+      "school_id": "2435",
+      "province": "其他省市",
+      "rate": "61.90",
+      "num": "213",
+      "sort": "0",
+      "update_id": "0",
+      "update_time": "2018-12-18 15:40:15",
+      "year": "2019",
+      "province_name": "其他省市"
+    },
+    {
+      "id": "4331",
+      "school_id": "2435",
+      "province": "珠三角地区",
+      "rate": "18.24",
+      "num": "304",
+      "sort": "304",
+      "update_id": "0",
+      "update_time": "2018-12-18 15:40:15",
+      "year": "2019",
+      "province_name": "珠三角地区"
+    },
+    {
+      "id": "4333",
+      "school_id": "2435",
+      "province": "江浙沪",
+      "rate": "19.86",
+      "num": "331",
+      "sort": "331",
+      "update_id": "0",
+      "update_time": "2018-12-18 15:40:15",
+      "year": "2019",
+      "province_name": "江浙沪"
+    }
+  ],
+  "attr": {},
+  "company": {},
+  "gradute": [
+    {
+      "id": "381",
+      "school_id": "2435",
+      "female_num": "1007",
+      "men_num": "660",
+      "men_rate": "39.59",
+      "female_rate": "60.41",
+      "update_id": null,
+      "update_time": null,
+      "year": "2019"
+    }
+  ],
+  "remark": "",
+  "salary": {
+    "6": "9400"
+  }
+}

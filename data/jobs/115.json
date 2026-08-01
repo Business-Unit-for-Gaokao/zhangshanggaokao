@@ -1,0 +1,56 @@
+{
+  "update_time": "2026-08-01 06:20:15",
+  "school_id": "115",
+  "school_name": "南京师范大学",
+  "jobrateyear": "2022",
+  "jobrate": {
+    "job": {
+      "1": "91.75"
+    },
+    "postgraduate": {
+      "1": "46.13"
+    },
+    "abroad": {
+      "1": "6.99"
+    },
+    "content": {
+      "1": ""
+    }
+  },
+  "province": [
+    {
+      "id": "14943",
+      "school_id": "115",
+      "province": "江苏省",
+      "rate": "69.51",
+      "num": "0",
+      "sort": "1",
+      "update_id": "1721",
+      "update_time": "2024-05-29 10:47:49",
+      "year": "2022",
+      "province_name": "江苏省"
+    }
+  ],
+  "attr": {
+    "国有企业": "14.26",
+    "中初教育单位": "30.36"
+  },
+  "company": {},
+  "gradute": [
+    {
+      "id": "1439",
+      "school_id": "115",
+      "female_num": "3185",
+      "men_num": "1179",
+      "men_rate": "27.02",
+      "female_rate": "72.98",
+      "update_id": "1721",
+      "update_time": "2024-05-29 10:29:13",
+      "year": "2022"
+    }
+  ],
+  "remark": "",
+  "salary": {
+    "6": "10700"
+  }
+}

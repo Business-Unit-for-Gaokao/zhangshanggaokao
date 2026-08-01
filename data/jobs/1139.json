@@ -1,0 +1,28 @@
+{
+  "update_time": "2026-08-01 06:30:01",
+  "school_id": "1139",
+  "school_name": "南京警察学院",
+  "jobrateyear": "2024",
+  "jobrate": {
+    "job": {
+      "1": "92.99"
+    },
+    "postgraduate": {
+      "1": "0.00"
+    },
+    "abroad": {
+      "1": "0.00"
+    },
+    "content": {
+      "1": "<p>截至2024年9月底，1655名毕业生中已就业1539人（其中5人考研升学），就业率为92.99%，其中91%在公安机关入职。按专业划分，就业情况见表6-3。<img src=\"https://static-data.gaokao.cn//upload/image/202606/core_1781319047_7141_thumb.png\" title=\"core_1781319047_7141_thumb.png\" alt=\"core_1781319047_7141.png\"></p>"
+    }
+  },
+  "province": [],
+  "attr": {},
+  "company": {},
+  "gradute": [],
+  "remark": "",
+  "salary": {
+    "6": "9800"
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "update_time": "2026-08-01 06:25:40",
+  "school_id": "643",
+  "school_name": "广东东软学院",
+  "jobrateyear": "2024",
+  "jobrate": {
+    "job": {
+      "1": "80.67"
+    },
+    "postgraduate": {
+      "1": "0.38"
+    },
+    "abroad": {
+      "1": "1.06"
+    },
+    "content": {
+      "1": "<p><img src=\"https://static-data.gaokao.cn//upload/image/202606/core_1781087243_2740_thumb.png\" title=\"core_1781087243_2740_thumb.png\" alt=\"core_1781087243_2740.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202606/core_1781087269_9061_thumb.png\" title=\"core_1781087269_9061_thumb.png\" alt=\"core_1781087269_9061.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202606/core_1781087284_2233_thumb.png\" title=\"core_1781087284_2233_thumb.png\" alt=\"core_1781087284_2233.png\"></p>"
+    }
+  },
+  "province": [
+    {
+      "id": "20510",
+      "school_id": "643",
+      "province": "广东省外",
+      "rate": "8.10",
+      "num": "357",
+      "sort": "357",
+      "update_id": "1579",
+      "update_time": "2024-07-10 14:16:51",
+      "year": "2023",
+      "province_name": "广东省外"
+    },
+    {
+      "id": "20509",
+      "school_id": "643",
+      "province": "广东省",
+      "rate": "90.90",
+      "num": "3562",
+      "sort": "3562",
+      "update_id": "1579",
+      "update_time": "2024-07-10 14:16:45",
+      "year": "2023",
+      "province_name": "广东省"
+    }
+  ],
+  "attr": {
+    "其他企业": "54.00",
+    "股份制企业": "22.00",
+    "民非企业": "10.00",
+    "国有企业": "7.00",
+    "政府机构科研或其 他事业单位就业": "7.00"
+  },
+  "company": {},
+  "gradute": [
+    {
+      "id": "1862",
+      "school_id": "643",
+      "female_num": "1751",
+      "men_num": "2168",
+      "men_rate": "55.30",
+      "female_rate": "44.70",
+      "update_id": "1988",
+      "update_time": "2024-07-03 13:35:40",
+      "year": "2023"
+    }
+  ],
+  "remark": "",
+  "salary": {
+    "6": "8300"
+  }
+}

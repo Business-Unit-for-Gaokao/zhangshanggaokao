@@ -1,0 +1,135 @@
+{
+  "update_time": "2026-08-01 06:21:00",
+  "school_id": "193",
+  "school_name": "四川外国语大学",
+  "jobrateyear": "2022",
+  "jobrate": {
+    "job": {
+      "1": "82.43"
+    },
+    "postgraduate": {
+      "1": "15.92"
+    },
+    "abroad": {
+      "1": "5.82"
+    },
+    "content": {
+      "1": ""
+    }
+  },
+  "province": [
+    {
+      "id": "15140",
+      "school_id": "193",
+      "province": "上海市",
+      "rate": "2.92",
+      "num": "0",
+      "sort": "2",
+      "update_id": "2004",
+      "update_time": "2024-05-31 16:52:11",
+      "year": "2022",
+      "province_name": "上海市"
+    },
+    {
+      "id": "15139",
+      "school_id": "193",
+      "province": "浙江省",
+      "rate": "3.18",
+      "num": "0",
+      "sort": "3",
+      "update_id": "2004",
+      "update_time": "2024-05-31 16:52:11",
+      "year": "2022",
+      "province_name": "浙江省"
+    },
+    {
+      "id": "15138",
+      "school_id": "193",
+      "province": "江苏省",
+      "rate": "3.07",
+      "num": "0",
+      "sort": "3",
+      "update_id": "2004",
+      "update_time": "2024-05-31 16:52:11",
+      "year": "2022",
+      "province_name": "江苏省"
+    },
+    {
+      "id": "15137",
+      "school_id": "193",
+      "province": "北京市",
+      "rate": "4.18",
+      "num": "0",
+      "sort": "4",
+      "update_id": "2004",
+      "update_time": "2024-05-31 16:52:11",
+      "year": "2022",
+      "province_name": "北京市"
+    },
+    {
+      "id": "15136",
+      "school_id": "193",
+      "province": "四川省",
+      "rate": "5.44",
+      "num": "0",
+      "sort": "5",
+      "update_id": "2004",
+      "update_time": "2024-05-31 16:52:11",
+      "year": "2022",
+      "province_name": "四川省"
+    },
+    {
+      "id": "15135",
+      "school_id": "193",
+      "province": "广东省",
+      "rate": "13.11",
+      "num": "0",
+      "sort": "13",
+      "update_id": "2004",
+      "update_time": "2024-05-31 16:52:11",
+      "year": "2022",
+      "province_name": "广东省"
+    },
+    {
+      "id": "15134",
+      "school_id": "193",
+      "province": "重庆市",
+      "rate": "50.06",
+      "num": "0",
+      "sort": "50",
+      "update_id": "2004",
+      "update_time": "2024-05-31 16:52:11",
+      "year": "2022",
+      "province_name": "重庆市"
+    }
+  ],
+  "attr": {
+    "其他企业": "74.92",
+    "国有企业": "8.77",
+    "三资企业": "8.08",
+    "其他事业单位": "1.85",
+    "机关": "1.77",
+    "高等教育": "0.31",
+    "城镇社区": "0.23",
+    "医疗卫生单位": "0.08",
+    "中初教育": "4.00"
+  },
+  "company": {},
+  "gradute": [
+    {
+      "id": "610",
+      "school_id": "193",
+      "female_num": "2739",
+      "men_num": "605",
+      "men_rate": "18.09",
+      "female_rate": "81.91",
+      "update_id": null,
+      "update_time": null,
+      "year": "2019"
+    }
+  ],
+  "remark": "",
+  "salary": {
+    "6": "11600"
+  }
+}

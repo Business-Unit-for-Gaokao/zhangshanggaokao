@@ -1,0 +1,148 @@
+{
+  "update_time": "2026-08-01 06:26:40",
+  "school_id": "753",
+  "school_name": "石家庄信息工程职业学院",
+  "jobrateyear": "",
+  "jobrate": {},
+  "province": [
+    {
+      "id": "10797",
+      "school_id": "753",
+      "province": "张家口",
+      "rate": "2.63",
+      "num": "67",
+      "sort": "0",
+      "update_id": "825",
+      "update_time": "2021-05-18 17:24:07",
+      "year": "2019",
+      "province_name": "张家口"
+    },
+    {
+      "id": "10798",
+      "school_id": "753",
+      "province": "保定",
+      "rate": "9.84",
+      "num": "501",
+      "sort": "0",
+      "update_id": "825",
+      "update_time": "2021-05-18 17:24:07",
+      "year": "2019",
+      "province_name": "保定"
+    },
+    {
+      "id": "10799",
+      "school_id": "753",
+      "province": "石家庄",
+      "rate": "40.69",
+      "num": "2071",
+      "sort": "0",
+      "update_id": "825",
+      "update_time": "2021-05-18 17:24:07",
+      "year": "2019",
+      "province_name": "石家庄"
+    },
+    {
+      "id": "10800",
+      "school_id": "753",
+      "province": "邢台",
+      "rate": "2.95",
+      "num": "150",
+      "sort": "0",
+      "update_id": "825",
+      "update_time": "2021-05-18 17:24:07",
+      "year": "2019",
+      "province_name": "邢台"
+    },
+    {
+      "id": "10801",
+      "school_id": "753",
+      "province": "邯郸",
+      "rate": "2.50",
+      "num": "127",
+      "sort": "0",
+      "update_id": "825",
+      "update_time": "2021-05-18 17:24:07",
+      "year": "2019",
+      "province_name": "邯郸"
+    },
+    {
+      "id": "10802",
+      "school_id": "753",
+      "province": "承德",
+      "rate": "1.00",
+      "num": "51",
+      "sort": "0",
+      "update_id": "825",
+      "update_time": "2021-05-18 17:24:07",
+      "year": "2019",
+      "province_name": "承德"
+    },
+    {
+      "id": "10803",
+      "school_id": "753",
+      "province": "秦皇岛",
+      "rate": "0.53",
+      "num": "27",
+      "sort": "0",
+      "update_id": "825",
+      "update_time": "2021-05-18 17:24:07",
+      "year": "2019",
+      "province_name": "秦皇岛"
+    },
+    {
+      "id": "10804",
+      "school_id": "753",
+      "province": "唐山",
+      "rate": "1.36",
+      "num": "69",
+      "sort": "0",
+      "update_id": "825",
+      "update_time": "2021-05-18 17:24:07",
+      "year": "2019",
+      "province_name": "唐山"
+    },
+    {
+      "id": "10805",
+      "school_id": "753",
+      "province": "廊坊",
+      "rate": "3.63",
+      "num": "185",
+      "sort": "0",
+      "update_id": "825",
+      "update_time": "2021-05-18 17:24:07",
+      "year": "2019",
+      "province_name": "廊坊"
+    },
+    {
+      "id": "10806",
+      "school_id": "753",
+      "province": "沧州",
+      "rate": "2.77",
+      "num": "141",
+      "sort": "0",
+      "update_id": "825",
+      "update_time": "2021-05-18 17:24:07",
+      "year": "2019",
+      "province_name": "沧州"
+    },
+    {
+      "id": "10807",
+      "school_id": "753",
+      "province": "衡水",
+      "rate": "4.32",
+      "num": "220",
+      "sort": "0",
+      "update_id": "825",
+      "update_time": "2021-05-18 17:24:07",
+      "year": "2019",
+      "province_name": "衡水"
+    }
+  ],
+  "attr": {},
+  "company": {},
+  "gradute": [],
+  "remark": "",
+  "salary": {
+    "6": "6800"
+  }
+}

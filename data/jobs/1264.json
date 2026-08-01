@@ -1,0 +1,65 @@
+{
+  "update_time": "2026-08-01 06:31:11",
+  "school_id": "1264",
+  "school_name": "菏泽学院",
+  "jobrateyear": "2024",
+  "jobrate": {
+    "job": {
+      "1": "77.47"
+    },
+    "postgraduate": {
+      "1": "0.00"
+    },
+    "abroad": {
+      "1": "0.34"
+    },
+    "content": {
+      "1": "<p xss=removed>按照教育部有关高校毕业生毕业去向统计标准，学校2023届毕业生的总体毕业去向以升学、签劳动合同形式就业、签就业协议形式就业等为主。</p><p xss=removed>截至2024年8月31日，学校应届本科毕业生总体就业率达77.47%。毕业生最主要的毕业去向是企业，占57.39%。升学787人，占15.92%，其中出国（境）留学13人，占0.34%。</p><p xss=removed>（一）师范生就业情况</p><p xss=removed>1.师范生就业基本情况</p><p xss=removed>（1）毕业去向</p><p xss=removed>按照教育部有关高校毕业生毕业去向统计标准，学校2023届师范生的总体毕业去向以签劳动合同形式就业、升学、签就业协议形式就业等为主。</p><p xss=removed>（2）毕业去向落实</p><p xss=removed>2024届师范生总体毕业去向落实率81.72%。</p><p xss=removed>（二）非师范生就业情况</p><p xss=removed>1.非师范生就业基本情况</p><p xss=removed>（1）毕业去向</p><p xss=removed>按照教育部有关高校毕业生毕业去向统计标准，学校2023届非师范生的总体毕业去向以升学、公务员、事业单位、企业为主。</p><p xss=removed>（2）毕业去向落实</p><p xss=removed>非师范毕业生的总体就业情况良好，毕业去向主要是升学、公务员、事业单位、企业。截至报告期，2024届非师范生总体毕业去向落实率79.48%。</p><p xss=removed>社会用人单位对毕业生评价</p><p xss=removed>对近三年招聘录用过本校毕业生的用人单位进行满意度调查，共收回有效问卷213份。调查结果显示，用人单位对本校毕业生的总体满意度、工作胜任度以及综合素质能力等评价都比较高。</p><p xss=removed>（一）用人单位对本校毕业生的总体满意度评价</p><p xss=removed>用人单位对本校毕业生的总体满意度为98.59%，其中“很满意”占43.19%，“较满意”占43.66%，“基本满意”占11.74%，“不满意”占1.41%。</p><p xss=removed><img src=\"https://static-data.gaokao.cn//upload/image/202606/core_1781170279_4514_thumb.png\" title=\"core_1781170279_4514_thumb.png\" alt=\"core_1781170279_4514.png\"></p><p xss=removed>图16用人单位对本校毕业生的总体满意度</p><p xss=removed>（二）用人单位对本校毕业生素质能力满意度评价</p><p xss=removed>用人单位对本校毕业生求职态度、工作态度、专业技能、职业能力、职业发展潜力、创新能力、政治素养的满意度如下图所示：</p><p xss=removed><img src=\"https://static-data.gaokao.cn//upload/image/202606/core_1781170287_2146_thumb.png\" title=\"core_1781170287_2146_thumb.png\" alt=\"core_1781170287_2146.png\"></p><p xss=removed>图17用人单位对本校毕业生各项素质能力的满意度</p><p xss=removed>（三）用人单位对本校毕业生的工作表现评价</p><p xss=removed>用人单位评价本校毕业生的工作综合表现，27.23%认为“很好”，63.85%认为“较好”，7.51%认为“一般”。用人单位评价本校毕业生的岗位胜任度为98.59%；用人单位评价本校毕业生的工作稳定度为96.71%。</p><p xss=removed><img src=\"https://static-data.gaokao.cn//upload/image/202606/core_1781170298_4610_thumb.png\" title=\"core_1781170298_4610_thumb.png\" alt=\"core_1781170298_4610.png\"></p><p xss=removed>图18用人单位对本校毕业生的工作表现评价</p><p xss=removed>（四）用人单位对本校毕业生求职过程评价</p><p xss=removed>用人单位反馈本校毕业生存在的不足（此调查为多选题），前两位是“缺乏社会经验”和“就业期望值过高”，比例分别为68.54%和65.26%。</p>"
+    }
+  },
+  "province": [
+    {
+      "id": "2984",
+      "school_id": "1264",
+      "province": "山东省外",
+      "rate": "20.00",
+      "num": "364",
+      "sort": "364",
+      "update_id": "0",
+      "update_time": "2018-12-18 15:40:14",
+      "year": "2019",
+      "province_name": "山东省外"
+    },
+    {
+      "id": "2985",
+      "school_id": "1264",
+      "province": "山东省",
+      "rate": "80.00",
+      "num": "1939",
+      "sort": "1939",
+      "update_id": "0",
+      "update_time": "2018-12-18 15:40:14",
+      "year": "2019",
+      "province_name": "山东省"
+    }
+  ],
+  "attr": {},
+  "company": {},
+  "gradute": [
+    {
+      "id": "799",
+      "school_id": "1264",
+      "female_num": "1952",
+      "men_num": "1025",
+      "men_rate": "34.43",
+      "female_rate": "65.57",
+      "update_id": null,
+      "update_time": null,
+      "year": "2019"
+    }
+  ],
+  "remark": "",
+  "salary": {
+    "6": "8400"
+  }
+}

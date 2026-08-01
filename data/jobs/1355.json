@@ -1,0 +1,149 @@
+{
+  "update_time": "2026-08-01 06:31:50",
+  "school_id": "1355",
+  "school_name": "浙江机电职业技术大学",
+  "jobrateyear": "2024",
+  "jobrate": {
+    "job": {
+      "1": "98.22"
+    },
+    "postgraduate": {
+      "1": "24.55"
+    },
+    "abroad": {
+      "1": "0.00"
+    },
+    "content": {
+      "1": "<p><img src=\"https://static-data.gaokao.cn//upload/image/202607/core_1785465720_3821_thumb.png\" title=\"core_1785465720_3821_thumb.png\" alt=\"core_1785465720_3821.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202607/core_1785465734_3376_thumb.png\" title=\"core_1785465734_3376_thumb.png\" alt=\"core_1785465734_3376.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202607/core_1785465908_7499_thumb.png\" title=\"core_1785465908_7499_thumb.png\" alt=\"core_1785465908_7499.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202607/core_1785465781_4840_thumb.png\" title=\"core_1785465781_4840_thumb.png\" alt=\"core_1785465781_4840.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202607/core_1785465795_2416_thumb.png\" title=\"core_1785465795_2416_thumb.png\" alt=\"core_1785465795_2416.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202607/core_1785465818_5637_thumb.png\" title=\"core_1785465818_5637_thumb.png\" alt=\"core_1785465818_5637.png\"></p>"
+    }
+  },
+  "province": [
+    {
+      "id": "11193",
+      "school_id": "1355",
+      "province": "浙江省内",
+      "rate": "93.49",
+      "num": "2199",
+      "sort": "0",
+      "update_id": "825",
+      "update_time": "2021-11-18 17:10:18",
+      "year": "2019",
+      "province_name": "浙江省内"
+    },
+    {
+      "id": "11194",
+      "school_id": "1355",
+      "province": "杭州市",
+      "rate": "53.87",
+      "num": "1267",
+      "sort": "0",
+      "update_id": "825",
+      "update_time": "2021-11-18 17:10:18",
+      "year": "2019",
+      "province_name": "杭州市"
+    },
+    {
+      "id": "11195",
+      "school_id": "1355",
+      "province": "宁波市",
+      "rate": "8.12",
+      "num": "191",
+      "sort": "0",
+      "update_id": "825",
+      "update_time": "2021-11-18 17:10:18",
+      "year": "2019",
+      "province_name": "宁波市"
+    },
+    {
+      "id": "11196",
+      "school_id": "1355",
+      "province": "温州市",
+      "rate": "5.48",
+      "num": "129",
+      "sort": "0",
+      "update_id": "825",
+      "update_time": "2021-11-18 17:10:18",
+      "year": "2019",
+      "province_name": "温州市"
+    },
+    {
+      "id": "11197",
+      "school_id": "1355",
+      "province": "嘉兴市",
+      "rate": "4.93",
+      "num": "116",
+      "sort": "0",
+      "update_id": "825",
+      "update_time": "2021-11-18 17:10:18",
+      "year": "2019",
+      "province_name": "嘉兴市"
+    },
+    {
+      "id": "11198",
+      "school_id": "1355",
+      "province": "湖州市",
+      "rate": "3.83",
+      "num": "90",
+      "sort": "0",
+      "update_id": "825",
+      "update_time": "2021-11-18 17:10:18",
+      "year": "2019",
+      "province_name": "湖州市"
+    },
+    {
+      "id": "11199",
+      "school_id": "1355",
+      "province": "绍兴市",
+      "rate": "4.04",
+      "num": "95",
+      "sort": "0",
+      "update_id": "825",
+      "update_time": "2021-11-18 17:10:18",
+      "year": "2019",
+      "province_name": "绍兴市"
+    },
+    {
+      "id": "11200",
+      "school_id": "1355",
+      "province": "金华市",
+      "rate": "4.38",
+      "num": "103",
+      "sort": "0",
+      "update_id": "825",
+      "update_time": "2021-11-18 17:10:18",
+      "year": "2019",
+      "province_name": "金华市"
+    },
+    {
+      "id": "11201",
+      "school_id": "1355",
+      "province": "台州市",
+      "rate": "5.14",
+      "num": "121",
+      "sort": "0",
+      "update_id": "825",
+      "update_time": "2021-11-18 17:10:18",
+      "year": "2019",
+      "province_name": "台州市"
+    },
+    {
+      "id": "11202",
+      "school_id": "1355",
+      "province": "浙江省外",
+      "rate": "6.51",
+      "num": "153",
+      "sort": "0",
+      "update_id": "825",
+      "update_time": "2021-11-18 17:10:18",
+      "year": "2019",
+      "province_name": "浙江省外"
+    }
+  ],
+  "attr": {},
+  "company": {},
+  "gradute": [],
+  "remark": "",
+  "salary": {
+    "6": "8100"
+  }
+}

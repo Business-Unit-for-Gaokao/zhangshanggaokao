@@ -1,0 +1,185 @@
+{
+  "update_time": "2026-08-01 06:22:40",
+  "school_id": "354",
+  "school_name": "西安石油大学",
+  "jobrateyear": "2024",
+  "jobrate": {
+    "job": {
+      "1": "91.73"
+    },
+    "postgraduate": {
+      "1": "0.00"
+    },
+    "abroad": {
+      "1": "0.00"
+    },
+    "content": {
+      "1": ""
+    }
+  },
+  "province": [
+    {
+      "id": "11802",
+      "school_id": "354",
+      "province": "贵州",
+      "rate": "0.05",
+      "num": "2",
+      "sort": "2",
+      "update_id": "825",
+      "update_time": "2022-02-25 16:00:37",
+      "year": "2019",
+      "province_name": "贵州"
+    },
+    {
+      "id": "11794",
+      "school_id": "354",
+      "province": "青海",
+      "rate": "0.07",
+      "num": "3",
+      "sort": "3",
+      "update_id": "825",
+      "update_time": "2022-02-25 16:00:37",
+      "year": "2019",
+      "province_name": "青海"
+    },
+    {
+      "id": "11796",
+      "school_id": "354",
+      "province": "西藏",
+      "rate": "0.07",
+      "num": "3",
+      "sort": "3",
+      "update_id": "825",
+      "update_time": "2022-02-25 16:00:37",
+      "year": "2019",
+      "province_name": "西藏"
+    },
+    {
+      "id": "11801",
+      "school_id": "354",
+      "province": "云南",
+      "rate": "0.17",
+      "num": "7",
+      "sort": "7",
+      "update_id": "825",
+      "update_time": "2022-02-25 16:00:37",
+      "year": "2019",
+      "province_name": "云南"
+    },
+    {
+      "id": "11793",
+      "school_id": "354",
+      "province": "宁夏",
+      "rate": "0.20",
+      "num": "8",
+      "sort": "8",
+      "update_id": "825",
+      "update_time": "2022-02-25 16:00:37",
+      "year": "2019",
+      "province_name": "宁夏"
+    },
+    {
+      "id": "11797",
+      "school_id": "354",
+      "province": "内蒙古",
+      "rate": "0.20",
+      "num": "8",
+      "sort": "8",
+      "update_id": "825",
+      "update_time": "2022-02-25 16:00:37",
+      "year": "2019",
+      "province_name": "内蒙古"
+    },
+    {
+      "id": "11799",
+      "school_id": "354",
+      "province": "重庆",
+      "rate": "0.35",
+      "num": "14",
+      "sort": "14",
+      "update_id": "825",
+      "update_time": "2022-02-25 16:00:37",
+      "year": "2019",
+      "province_name": "重庆"
+    },
+    {
+      "id": "11800",
+      "school_id": "354",
+      "province": "广西",
+      "rate": "0.35",
+      "num": "14",
+      "sort": "14",
+      "update_id": "825",
+      "update_time": "2022-02-25 16:00:37",
+      "year": "2019",
+      "province_name": "广西"
+    },
+    {
+      "id": "11792",
+      "school_id": "354",
+      "province": "甘肃",
+      "rate": "0.49",
+      "num": "20",
+      "sort": "20",
+      "update_id": "825",
+      "update_time": "2022-02-25 16:00:37",
+      "year": "2019",
+      "province_name": "甘肃"
+    },
+    {
+      "id": "11798",
+      "school_id": "354",
+      "province": "四川",
+      "rate": "1.51",
+      "num": "61",
+      "sort": "61",
+      "update_id": "825",
+      "update_time": "2022-02-25 16:00:37",
+      "year": "2019",
+      "province_name": "四川"
+    },
+    {
+      "id": "7931",
+      "school_id": "354",
+      "province": "新疆",
+      "rate": "2.24",
+      "num": "98",
+      "sort": "98",
+      "update_id": "825",
+      "update_time": "2022-02-25 16:00:37",
+      "year": "2019",
+      "province_name": "新疆"
+    },
+    {
+      "id": "11795",
+      "school_id": "354",
+      "province": "陕西",
+      "rate": "42.49",
+      "num": "1718",
+      "sort": "1718",
+      "update_id": "825",
+      "update_time": "2022-02-25 16:00:37",
+      "year": "2019",
+      "province_name": "陕西"
+    }
+  ],
+  "attr": {},
+  "company": {},
+  "gradute": [
+    {
+      "id": "2452",
+      "school_id": "354",
+      "female_num": "1552",
+      "men_num": "2526",
+      "men_rate": "61.94",
+      "female_rate": "38.06",
+      "update_id": "2314",
+      "update_time": "2025-11-12 10:26:00",
+      "year": "2024"
+    }
+  ],
+  "remark": "",
+  "salary": {
+    "6": "10400"
+  }
+}

@@ -1,0 +1,124 @@
+{
+  "update_time": "2026-08-01 06:35:01",
+  "school_id": "1752",
+  "school_name": "广西电力职业技术学院",
+  "jobrateyear": "2024",
+  "jobrate": {
+    "job": {
+      "1": "88.90"
+    },
+    "postgraduate": {
+      "1": "28.80"
+    },
+    "abroad": {
+      "1": "0.00"
+    },
+    "content": {
+      "1": ""
+    }
+  },
+  "province": [
+    {
+      "id": "28387",
+      "school_id": "1752",
+      "province": "海南",
+      "rate": "1.00",
+      "num": "53",
+      "sort": "53",
+      "update_id": "2156",
+      "update_time": "2025-11-11 18:06:08",
+      "year": "2024",
+      "province_name": "海南"
+    },
+    {
+      "id": "28388",
+      "school_id": "1752",
+      "province": "湖南",
+      "rate": "1.00",
+      "num": "53",
+      "sort": "53",
+      "update_id": "2156",
+      "update_time": "2025-11-11 18:06:08",
+      "year": "2024",
+      "province_name": "湖南"
+    },
+    {
+      "id": "28386",
+      "school_id": "1752",
+      "province": "福建",
+      "rate": "1.20",
+      "num": "63",
+      "sort": "63",
+      "update_id": "2156",
+      "update_time": "2025-11-11 18:06:08",
+      "year": "2024",
+      "province_name": "福建"
+    },
+    {
+      "id": "28385",
+      "school_id": "1752",
+      "province": "浙江",
+      "rate": "2.00",
+      "num": "106",
+      "sort": "106",
+      "update_id": "2156",
+      "update_time": "2025-11-11 18:06:08",
+      "year": "2024",
+      "province_name": "浙江"
+    },
+    {
+      "id": "28384",
+      "school_id": "1752",
+      "province": "广东",
+      "rate": "33.20",
+      "num": "1769",
+      "sort": "1769",
+      "update_id": "2156",
+      "update_time": "2025-11-11 18:06:08",
+      "year": "2024",
+      "province_name": "广东"
+    },
+    {
+      "id": "28383",
+      "school_id": "1752",
+      "province": "广西",
+      "rate": "55.80",
+      "num": "2973",
+      "sort": "2973",
+      "update_id": "2156",
+      "update_time": "2025-11-11 18:06:08",
+      "year": "2024",
+      "province_name": "广西"
+    }
+  ],
+  "attr": {
+    "电力／能源": "25.10",
+    "电气／电子（不包括计算机）": "10.70",
+    "销售": "7.20",
+    "餐饮／娱乐": "6.80",
+    "机械／仪器仪表": "5.50",
+    "生产／运营": "5.30",
+    "行政／后勤": "4.80",
+    "建筑工程": "4.30",
+    "物流／采购": "3.60",
+    "机动车机械／电子": "2.50"
+  },
+  "company": {},
+  "gradute": [
+    {
+      "id": "2436",
+      "school_id": "1752",
+      "female_num": "1104",
+      "men_num": "4890",
+      "men_rate": "81.60",
+      "female_rate": "18.40",
+      "update_id": "2156",
+      "update_time": "2025-11-11 17:45:49",
+      "year": "2024"
+    }
+  ],
+  "remark": "",
+  "salary": {
+    "6": "7500"
+  }
+}

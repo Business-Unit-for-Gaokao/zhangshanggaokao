@@ -1,0 +1,65 @@
+{
+  "update_time": "2026-08-01 06:20:44",
+  "school_id": "166",
+  "school_name": "南京信息工程大学",
+  "jobrateyear": "2023",
+  "jobrate": {
+    "job": {
+      "1": "95.25"
+    },
+    "postgraduate": {
+      "1": "36.10"
+    },
+    "abroad": {
+      "1": "7.84"
+    },
+    "content": {
+      "1": ""
+    }
+  },
+  "province": [
+    {
+      "id": "26580",
+      "school_id": "166",
+      "province": "江苏省外",
+      "rate": "28.85",
+      "num": "0",
+      "sort": "2885",
+      "update_id": "2096",
+      "update_time": "2025-01-10 14:11:13",
+      "year": "2023",
+      "province_name": "江苏省外"
+    },
+    {
+      "id": "26579",
+      "school_id": "166",
+      "province": "江苏省内",
+      "rate": "71.15",
+      "num": "0",
+      "sort": "7115",
+      "update_id": "2096",
+      "update_time": "2025-01-10 14:10:49",
+      "year": "2023",
+      "province_name": "江苏省内"
+    }
+  ],
+  "attr": {},
+  "company": {},
+  "gradute": [
+    {
+      "id": "1473",
+      "school_id": "166",
+      "female_num": "3796",
+      "men_num": "5250",
+      "men_rate": "58.04",
+      "female_rate": "41.96",
+      "update_id": "2004",
+      "update_time": "2024-06-03 16:53:09",
+      "year": "2023"
+    }
+  ],
+  "remark": "",
+  "salary": {
+    "6": "10200"
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "update_time": "2026-08-01 06:20:47",
+  "school_id": "170",
+  "school_name": "江苏大学",
+  "jobrateyear": "2024",
+  "jobrate": {
+    "job": {
+      "1": "92.99"
+    },
+    "postgraduate": {
+      "1": "0.00"
+    },
+    "abroad": {
+      "1": "0.00"
+    },
+    "content": {
+      "1": ""
+    }
+  },
+  "province": [
+    {
+      "id": "29054",
+      "school_id": "170",
+      "province": "省外",
+      "rate": "24.68",
+      "num": "1709",
+      "sort": "0",
+      "update_id": "2156",
+      "update_time": "2025-11-12 18:03:42",
+      "year": "2024",
+      "province_name": "省外"
+    },
+    {
+      "id": "29053",
+      "school_id": "170",
+      "province": "省内",
+      "rate": "75.32",
+      "num": "5216",
+      "sort": "0",
+      "update_id": "2156",
+      "update_time": "2025-11-12 18:02:45",
+      "year": "2024",
+      "province_name": "省内"
+    }
+  ],
+  "attr": {
+    "其他企业": "56.63",
+    "国有企业": "15.65",
+    "其他（含社会组织等）": "9.47"
+  },
+  "company": {},
+  "gradute": [
+    {
+      "id": "2506",
+      "school_id": "170",
+      "female_num": "4730",
+      "men_num": "6460",
+      "men_rate": "57.73",
+      "female_rate": "42.27",
+      "update_id": "2156",
+      "update_time": "2025-11-12 18:01:11",
+      "year": "2024"
+    }
+  ],
+  "remark": "",
+  "salary": {
+    "6": "9900"
+  }
+}

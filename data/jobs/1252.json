@@ -1,0 +1,428 @@
+{
+  "update_time": "2026-08-01 06:31:04",
+  "school_id": "1252",
+  "school_name": "百色学院",
+  "jobrateyear": "2024",
+  "jobrate": {
+    "job": {
+      "1": "81.51"
+    },
+    "postgraduate": {
+      "1": "0.00"
+    },
+    "abroad": {
+      "1": "0.00"
+    },
+    "content": {
+      "1": "<p xss=removed><span xss=removed><span xss=removed>学校坚持就业工作</span><span xss=removed>“一把手”工程，以服务学生、服务社会为宗旨，完善“以市场为导向、政府调控、学校推荐、学生与用人单位双向选择”的就业工作机制，拓宽工作思路，创新工作方式，精准施策，毕业生就业工作取得良好成效。2023—2024学年，学校本科毕业生人数4921人，截止2024年8月31日，已就业人数4011人，毕业去向落实率为81.51%。</span></span></p><p xss=removed><span xss=removed><span xss=removed>各专业毕业生的具体就业情况见表</span><span xss=removed>5-2。</span></span></p><p xss=removed><strong xss=removed><span xss=removed><span xss=removed>表</span><span xss=removed>5-2 2024年本科专业毕业生毕业去向落实率一览表</span></span></strong></p><table cellspacing=\"0\" width=\"665\"><tbody xss=removed><tr class=\"firstRow\" xss=removed><td width=\"152\" valign=\"center\" rowspan=\"2\" xss=removed><p xss=removed><strong xss=removed>二级学院</strong></p></td><td width=\"239\" valign=\"center\" rowspan=\"2\" xss=removed><p xss=removed><strong xss=removed>专业名称</strong></p></td><td width=\"73\" valign=\"center\" rowspan=\"2\" xss=removed><p xss=removed><strong xss=removed>各专业</strong></p><p xss=removed><strong xss=removed>人数</strong></p></td><td width=\"80\" valign=\"center\" rowspan=\"2\" xss=removed><p xss=removed><strong xss=removed>已落实</strong></p><p xss=removed><strong xss=removed>人数</strong></p></td><td width=\"72\" valign=\"center\" rowspan=\"2\" xss=removed><p xss=removed><strong xss=removed><span xss=removed><span xss=removed>各专业落实率（</span><span xss=removed>%）</span></span></strong></p></td></tr><tr xss=removed></tr><tr xss=removed><td width=\"152\" valign=\"center\" rowspan=\"3\" xss=removed><p xss=removed><span xss=removed>材料科学与工程学院</span></p></td><td width=\"239\" valign=\"center\" xss=removed><p xss=removed><span xss=removed>材料成型及控制工程</span></p></td><td width=\"73\" valign=\"center\" xss=removed><p xss=removed><span xss=removed>46</span></p></td><td width=\"80\" valign=\"center\" xss=removed><p xss=removed><span xss=removed>42</span></p></td><td width=\"72\" valign=\"center\" xss=removed><p xss=removed><span xss=removed>91.30</span></p></td></tr><tr xss=removed><td width=\"239\" valign=\"center\" xss=removed><p xss=removed><span xss=removed>材料化学</span></p></td><td width=\"73\" valign=\"center\" xss=removed><p xss=removed><span xss=removed>44</span></p></td><td width=\"80\" valign=\"center\" xss=removed><p xss=removed><span xss=removed>40</span></p></td><td width=\"72\" valign=\"center\" xss=removed><p xss=removed><span xss=removed>90.91</span></p></td></tr><tr xss=removed><td width=\"239\" valign=\"center\" xss=removed><p xss=removed><span xss=removed>金属材料工程</span></p></td><td width=\"73\" valign=\"center\" xss=removed><p xss=removed><span xss=removed>45</span></p></td><td width=\"80\" valign=\"center\" xss=removed><p xss=removed><span xss=removed>33</span></p></td><td width=\"72\" valign=\"center\" xss=removed><p xss=removed><span xss=removed>73.33</span></p></td></tr><tr xss=removed><td width=\"152\" valign=\"center\" rowspan=\"3\" xss=removed><p xss=removed><span xss=removed>工商管理学院</span></p></td><td width=\"239\" valign=\"center\" xss=removed><p xss=removed><span xss=removed>财务管理</span></p></td><td width=\"73\" valign=\"center\" xss=removed><p xss=removed><span xss=removed>203</span></p></td><td width=\"80\" valign=\"center\" xss=removed><p xss=removed><span xss=removed>173</span></p></td><td width=\"72\" valign=\"center\" xss=removed><p xss=removed><span xss=removed>85.22</span></p></td></tr><tr xss=removed><td width=\"239\" valign=\"center\" xss=removed><p xss=removed><span xss=removed>审计学</span></p></td><td width=\"73\" valign=\"center\" xss=removed><p xss=removed><span xss=removed>93</span></p></td><td width=\"80\" valign=\"center\" xss=removed><p xss=removed><span xss=removed>80</span></p></td><td width=\"72\" valign=\"center\" xss=removed><p xss=removed><span xss=removed>86.02</span></p></td></tr><tr xss=removed><td width=\"239\" valign=\"center\" xss=removed><p xss=removed><span xss=removed>市场营销</span></p></td><td width=\"73\" valign=\"center\" xss=removed><p xss=removed><span xss=removed>142</span></p></td><td width=\"80\" valign=\"center\" xss=removed><p xss=removed><span xss=removed>125</span></p></td><td width=\"72\" valign=\"center\" xss=removed><p xss=removed><span xss=removed>88.03</span></p></td></tr><tr xss=removed><td width=\"152\" valign=\"center\" rowspan=\"3\" xss=removed><p xss=removed><span xss=removed>化学与环境工程学院</span></p></td><td width=\"239\" valign=\"center\" xss=removed><p xss=removed><span xss=removed>化学</span></p></td><td width=\"73\" valign=\"center\" xss=removed><p xss=removed><span xss=removed>104</span></p></td><td width=\"80\" valign=\"center\" xss=removed><p xss=removed><span xss=removed>84</span></p></td><td width=\"72\" valign=\"center\" xss=removed><p xss=removed><span xss=removed>80.77</span></p></td></tr><tr xss=removed><td width=\"239\" valign=\"center\" xss=removed><p xss=removed><span xss=removed>化学工程与工艺</span></p></td><td width=\"73\" valign=\"center\" xss=removed><p xss=removed><span xss=removed>92</span></p></td><td width=\"80\" valign=\"center\" xss=removed><p xss=removed><span xss=removed>74</span></p></td><td width=\"72\" valign=\"center\" xss=removed><p xss=removed><span xss=removed>80.43</span></p></td></tr><tr xss=removed><td width=\"239\" valign=\"center\" xss=removed><p xss=removed><span xss=removed>环境科学与工程</span></p></td><td width=\"73\" valign=\"center\" xss=removed><p xss=removed><span xss=removed>45</span></p></td><td width=\"80\" valign=\"center\" xss=removed><p xss=removed><span xss=removed>43</span></p></td><td width=\"72\" valign=\"center\" xss=removed><p xss=removed><span xss=removed>95.56</span></p></td></tr><tr xss=removed><td width=\"152\" valign=\"center\" rowspan=\"2\" xss=removed><p xss=removed><span xss=removed>教师教育学院</span></p></td><td width=\"239\" valign=\"center\" xss=removed><p xss=removed><span xss=removed>小学教育</span></p></td><td width=\"73\" valign=\"center\" xss=removed><p xss=removed><span xss=removed>199</span></p></td><td width=\"80\" valign=\"center\" xss=removed><p xss=removed><span xss=removed>136</span></p></td><td width=\"72\" valign=\"center\" xss=removed><p xss=removed><span xss=removed>68.34</span></p></td></tr><tr xss=removed><td width=\"239\" valign=\"center\" xss=removed><p xss=removed><span xss=removed>学前教育</span></p></td><td width=\"73\" valign=\"center\" xss=removed><p xss=removed><span xss=removed>191</span></p></td><td width=\"80\" valign=\"center\" xss=removed><p xss=removed><span xss=removed>120</span></p></td><td width=\"72\" valign=\"center\" xss=removed><p xss=removed><span xss=removed>62.83</span></p></td></tr><tr xss=removed><td width=\"152\" valign=\"center\" rowspan=\"4\" xss=removed><p xss=removed><span xss=removed>旅游与电子商务学院</span></p></td><td width=\"239\" valign=\"center\" xss=removed><p xss=removed><span xss=removed>电子商务</span></p></td><td width=\"73\" valign=\"center\" xss=removed><p xss=removed><span xss=removed>96</span></p></td><td width=\"80\" valign=\"center\" xss=removed><p xss=removed><span xss=removed>82</span></p></td><td width=\"72\" valign=\"center\" xss=removed><p xss=removed><span xss=removed>85.42</span></p></td></tr><tr xss=removed><td width=\"239\" valign=\"center\" xss=removed><p xss=removed><span xss=removed>国际经济与贸易</span></p></td><td width=\"73\" valign=\"center\" xss=removed><p xss=removed><span xss=removed>155</span></p></td><td width=\"80\" valign=\"center\" xss=removed><p xss=removed><span xss=removed>121</span></p></td><td width=\"72\" valign=\"center\" xss=removed><p xss=removed><span xss=removed>78.06</span></p></td></tr><tr xss=removed><td width=\"239\" valign=\"center\" xss=removed><p xss=removed><span xss=removed>酒店管理</span></p></td><td width=\"73\" valign=\"center\" xss=removed><p xss=removed><span xss=removed>40</span></p></td><td width=\"80\" valign=\"center\" xss=removed><p xss=removed><span xss=removed>32</span></p></td><td width=\"72\" valign=\"center\" xss=removed><p xss=removed><span xss=removed>80.00</span></p></td></tr><tr xss=removed><td width=\"239\" valign=\"center\" xss=removed><p xss=removed><span xss=removed>旅游管理</span></p></td><td width=\"73\" valign=\"center\" xss=removed><p xss=removed><span xss=removed>202</span></p></td><td width=\"80\" valign=\"center\" xss=removed><p xss=removed><span xss=removed>165</span></p></td><td width=\"72\" valign=\"center\" xss=removed><p xss=removed><span xss=removed>81.68</span></p></td></tr><tr xss=removed><td width=\"152\" valign=\"center\" rowspan=\"2\" xss=removed><p xss=removed><span xss=removed>马克思主义学院</span></p></td><td width=\"239\" valign=\"center\" xss=removed><p xss=removed><span xss=removed>民族学</span></p></td><td width=\"73\" valign=\"center\" xss=removed><p xss=removed><span xss=removed>39</span></p></td><td width=\"80\" valign=\"center\" xss=removed><p xss=removed><span xss=removed>30</span></p></td><td width=\"72\" valign=\"center\" xss=removed><p xss=removed><span xss=removed>76.92</span></p></td></tr><tr xss=removed><td width=\"239\" valign=\"center\" xss=removed><p xss=removed><span xss=removed>思想政治教育</span></p></td><td width=\"73\" valign=\"center\" xss=removed><p xss=removed><span xss=removed>111</span></p></td><td width=\"80\" valign=\"center\" xss=removed><p xss=removed><span xss=removed>104</span></p></td><td width=\"72\" valign=\"center\" xss=removed><p xss=removed><span xss=removed>93.69</span></p></td></tr><tr xss=removed><td width=\"152\" valign=\"center\" rowspan=\"5\" xss=removed><p xss=removed><span xss=removed>美术与设计学院</span></p></td><td width=\"239\" valign=\"center\" xss=removed><p xss=removed><span xss=removed>产品设计</span></p></td><td width=\"73\" valign=\"center\" xss=removed><p xss=removed><span xss=removed>48</span></p></td><td width=\"80\" valign=\"center\" xss=removed><p xss=removed><span xss=removed>39</span></p></td><td width=\"72\" valign=\"center\" xss=removed><p xss=removed><span xss=removed>81.25</span></p></td></tr><tr xss=removed><td width=\"239\" valign=\"center\" xss=removed><p xss=removed><span xss=removed>服装与服饰设计</span></p></td><td width=\"73\" valign=\"center\" xss=removed><p xss=removed><span xss=removed>41</span></p></td><td width=\"80\" valign=\"center\" xss=removed><p xss=removed><span xss=removed>35</span></p></td><td width=\"72\" valign=\"center\" xss=removed><p xss=removed><span xss=removed>85.37</span></p></td></tr><tr xss=removed><td width=\"239\" valign=\"center\" xss=removed><p xss=removed><span xss=removed>环境设计</span></p></td><td width=\"73\" valign=\"center\" xss=removed><p xss=removed><span xss=removed>96</span></p></td><td width=\"80\" valign=\"center\" xss=removed><p xss=removed><span xss=removed>69</span></p></td><td width=\"72\" valign=\"center\" xss=removed><p xss=removed><span xss=removed>71.88</span></p></td></tr><tr xss=removed><td width=\"239\" valign=\"center\" xss=removed><p xss=removed><span xss=removed>美术学</span></p></td><td width=\"73\" valign=\"center\" xss=removed><p xss=removed><span xss=removed>47</span></p></td><td width=\"80\" valign=\"center\" xss=removed><p xss=removed><span xss=removed>39</span></p></td><td width=\"72\" valign=\"center\" xss=removed><p xss=removed><span xss=removed>82.98</span></p></td></tr><tr xss=removed><td width=\"239\" valign=\"center\" xss=removed><p xss=removed><span xss=removed>视觉传达设计</span></p></td><td width=\"73\" valign=\"center\" xss=removed><p xss=removed><span xss=removed>56</span></p></td><td width=\"80\" valign=\"center\" xss=removed><p xss=removed><span xss=removed>43</span></p></td><td width=\"72\" valign=\"center\" xss=removed><p xss=removed><span xss=removed>76.79</span></p></td></tr><tr xss=removed><td width=\"152\" valign=\"center\" rowspan=\"4\" xss=removed><p xss=removed><span xss=removed>农业与食品工程学院</span></p></td><td width=\"239\" valign=\"center\" xss=removed><p xss=removed><span xss=removed>农业资源与环境</span></p></td><td width=\"73\" valign=\"center\" xss=removed><p xss=removed><span xss=removed>37</span></p></td><td width=\"80\" valign=\"center\" xss=removed><p xss=removed><span xss=removed>33</span></p></td><td width=\"72\" valign=\"center\" xss=removed><p xss=removed><span xss=removed>89.19</span></p></td></tr><tr xss=removed><td width=\"239\" valign=\"center\" xss=removed><p xss=removed><span xss=removed>设施农业科学与工程</span></p></td><td width=\"73\" valign=\"center\" xss=removed><p xss=removed><span xss=removed>83</span></p></td><td width=\"80\" valign=\"center\" xss=removed><p xss=removed><span xss=removed>66</span></p></td><td width=\"72\" valign=\"center\" xss=removed><p xss=removed><span xss=removed>79.52</span></p></td></tr><tr xss=removed><td width=\"239\" valign=\"center\" xss=removed><p xss=removed><span xss=removed>生物技术</span></p></td><td width=\"73\" valign=\"center\" xss=removed><p xss=removed><span xss=removed>100</span></p></td><td width=\"80\" valign=\"center\" xss=removed><p xss=removed><span xss=removed>81</span></p></td><td width=\"72\" valign=\"center\" xss=removed><p xss=removed><span xss=removed>81.00</span></p></td></tr><tr xss=removed><td width=\"239\" valign=\"center\" xss=removed><p xss=removed><span xss=removed>食品科学与工程</span></p></td><td width=\"73\" valign=\"center\" xss=removed><p xss=removed><span xss=removed>90</span></p></td><td width=\"80\" valign=\"center\" xss=removed><p xss=removed><span xss=removed>74</span></p></td><td width=\"72\" valign=\"center\" xss=removed><p xss=removed><span xss=removed>82.22</span></p></td></tr><tr xss=removed><td width=\"152\" valign=\"center\" rowspan=\"5\" xss=removed><p xss=removed><span xss=removed>人文与公共管理学院</span></p></td><td width=\"239\" valign=\"center\" xss=removed><p xss=removed><span xss=removed>城市管理</span></p></td><td width=\"73\" valign=\"center\" xss=removed><p xss=removed><span xss=removed>44</span></p></td><td width=\"80\" valign=\"center\" xss=removed><p xss=removed><span xss=removed>35</span></p></td><td width=\"72\" valign=\"center\" xss=removed><p xss=removed><span xss=removed>79.55</span></p></td></tr><tr xss=removed><td width=\"239\" valign=\"center\" xss=removed><p xss=removed><span xss=removed>地理科学</span></p></td><td width=\"73\" valign=\"center\" xss=removed><p xss=removed><span xss=removed>53</span></p></td><td width=\"80\" valign=\"center\" xss=removed><p xss=removed><span xss=removed>45</span></p></td><td width=\"72\" valign=\"center\" xss=removed><p xss=removed><span xss=removed>84.91</span></p></td></tr><tr xss=removed><td width=\"239\" valign=\"center\" xss=removed><p xss=removed><span xss=removed>历史学</span></p></td><td width=\"73\" valign=\"center\" xss=removed><p xss=removed><span xss=removed>52</span></p></td><td width=\"80\" valign=\"center\" xss=removed><p xss=removed><span xss=removed>50</span></p></td><td width=\"72\" valign=\"center\" xss=removed><p xss=removed><span xss=removed>96.15</span></p></td></tr><tr xss=removed><td width=\"239\" valign=\"center\" xss=removed><p xss=removed><span xss=removed>人文地理与城乡规划</span></p></td><td width=\"73\" valign=\"center\" xss=removed><p xss=removed><span xss=removed>50</span></p></td><td width=\"80\" valign=\"center\" xss=removed><p xss=removed><span xss=removed>47</span></p></td><td width=\"72\" valign=\"center\" xss=removed><p xss=removed><span xss=removed>94.00</span></p></td></tr><tr xss=removed><td width=\"239\" valign=\"center\" xss=removed><p xss=removed><span xss=removed>人文教育</span></p></td><td width=\"73\" valign=\"center\" xss=removed><p xss=removed><span xss=removed>49</span></p></td><td width=\"80\" valign=\"center\" xss=removed><p xss=removed><span xss=removed>44</span></p></td><td width=\"72\" valign=\"center\" xss=removed><p xss=removed><span xss=removed>89.80</span></p></td></tr><tr xss=removed><td width=\"152\" valign=\"center\" rowspan=\"3\" xss=removed><p xss=removed><span xss=removed>数理科学与统计学院</span></p></td><td width=\"239\" valign=\"center\" xss=removed><p xss=removed><span xss=removed>数学与应用数学</span></p></td><td width=\"73\" valign=\"center\" xss=removed><p xss=removed><span xss=removed>142</span></p></td><td width=\"80\" valign=\"center\" xss=removed><p xss=removed><span xss=removed>116</span></p></td><td width=\"72\" valign=\"center\" xss=removed><p xss=removed><span xss=removed>81.69</span></p></td></tr><tr xss=removed><td width=\"239\" valign=\"center\" xss=removed><p xss=removed><span xss=removed>物理学</span></p></td><td width=\"73\" valign=\"center\" xss=removed><p xss=removed><span xss=removed>95</span></p></td><td width=\"80\" valign=\"center\" xss=removed><p xss=removed><span xss=removed>82</span></p></td><td width=\"72\" valign=\"center\" xss=removed><p xss=removed><span xss=removed>86.32</span></p></td></tr><tr xss=removed><td width=\"239\" valign=\"center\" xss=removed><p xss=removed><span xss=removed>应用统计学</span></p></td><td width=\"73\" valign=\"center\" xss=removed><p xss=removed><span xss=removed>47</span></p></td><td width=\"80\" valign=\"center\" xss=removed><p xss=removed><span xss=removed>40</span></p></td><td width=\"72\" valign=\"center\" xss=removed><p xss=removed><span xss=removed>85.11</span></p></td></tr><tr xss=removed><td width=\"152\" valign=\"center\" rowspan=\"2\" xss=removed><p xss=removed><span xss=removed>体育学院</span></p></td><td width=\"239\" valign=\"center\" xss=removed><p xss=removed><span xss=removed>社会体育指导与管理</span></p></td><td width=\"73\" valign=\"center\" xss=removed><p xss=removed><span xss=removed>60</span></p></td><td width=\"80\" valign=\"center\" xss=removed><p xss=removed><span xss=removed>57</span></p></td><td width=\"72\" valign=\"center\" xss=removed><p xss=removed><span xss=removed>95.00</span></p></td></tr><tr xss=removed><td width=\"239\" valign=\"center\" xss=removed><p xss=removed><span xss=removed>体育教育</span></p></td><td width=\"73\" valign=\"center\" xss=removed><p xss=removed><span xss=removed>119</span></p></td><td width=\"80\" valign=\"center\" xss=removed><p xss=removed><span xss=removed>113</span></p></td><td width=\"72\" valign=\"center\" xss=removed><p xss=removed><span xss=removed>94.96</span></p></td></tr><tr xss=removed><td width=\"152\" valign=\"center\" rowspan=\"3\" xss=removed><p xss=removed><span xss=removed>土木建筑工程学院</span></p></td><td width=\"239\" valign=\"center\" xss=removed><p xss=removed><span xss=removed>工程管理</span></p></td><td width=\"73\" valign=\"center\" xss=removed><p xss=removed><span xss=removed>210</span></p></td><td width=\"80\" valign=\"center\" xss=removed><p xss=removed><span xss=removed>156</span></p></td><td width=\"72\" valign=\"center\" xss=removed><p xss=removed><span xss=removed>74.29</span></p></td></tr><tr xss=removed><td width=\"239\" valign=\"center\" xss=removed><p xss=removed><span xss=removed>工程造价</span></p></td><td width=\"73\" valign=\"center\" xss=removed><p xss=removed><span xss=removed>181</span></p></td><td valign=\"center\" nowrap=\"\" xss=removed><p xss=removed><span xss=removed>155</span></p></td><td width=\"72\" valign=\"center\" xss=removed><p xss=removed><span xss=removed>85.64</span></p></td></tr><tr xss=removed><td width=\"239\" valign=\"center\" xss=removed><p xss=removed><span xss=removed>土木工程</span></p></td><td width=\"73\" valign=\"center\" xss=removed><p xss=removed><span xss=removed>89</span></p></td><td width=\"80\" valign=\"center\" xss=removed><p xss=removed><span xss=removed>74</span></p></td><td width=\"72\" valign=\"center\" xss=removed><p xss=removed><span xss=removed>83.15</span></p></td></tr><tr xss=removed><td width=\"152\" valign=\"center\" rowspan=\"3\" xss=removed><p xss=removed><span xss=removed>外国语学院</span></p></td><td width=\"239\" valign=\"center\" xss=removed><p xss=removed><span xss=removed>泰语</span></p></td><td width=\"73\" valign=\"center\" xss=removed><p xss=removed><span xss=removed>35</span></p></td><td width=\"80\" valign=\"center\" xss=removed><p xss=removed><span xss=removed>29</span></p></td><td width=\"72\" valign=\"center\" xss=removed><p xss=removed><span xss=removed>82.86</span></p></td></tr><tr xss=removed><td width=\"239\" valign=\"center\" xss=removed><p xss=removed><span xss=removed>英语</span></p></td><td width=\"73\" valign=\"center\" xss=removed><p xss=removed><span xss=removed>143</span></p></td><td width=\"80\" valign=\"center\" xss=removed><p xss=removed><span xss=removed>105</span></p></td><td width=\"72\" valign=\"center\" xss=removed><p xss=removed><span xss=removed>73.43</span></p></td></tr><tr xss=removed><td width=\"239\" valign=\"center\" xss=removed><p xss=removed><span xss=removed>越南语</span></p></td><td width=\"73\" valign=\"center\" xss=removed><p xss=removed><span xss=removed>25</span></p></td><td width=\"80\" valign=\"center\" xss=removed><p xss=removed><span xss=removed>16</span></p></td><td width=\"72\" valign=\"center\" xss=removed><p xss=removed><span xss=removed>64.00</span></p></td></tr><tr xss=removed><td width=\"152\" valign=\"center\" rowspan=\"3\" xss=removed><p xss=removed><span xss=removed>文学与传媒学院</span></p></td><td width=\"239\" valign=\"center\" xss=removed><p xss=removed><span xss=removed>汉语国际教育</span></p></td><td width=\"73\" valign=\"center\" xss=removed><p xss=removed><span xss=removed>102</span></p></td><td width=\"80\" valign=\"center\" xss=removed><p xss=removed><span xss=removed>90</span></p></td><td width=\"72\" valign=\"center\" xss=removed><p xss=removed><span xss=removed>88.24</span></p></td></tr><tr xss=removed><td width=\"239\" valign=\"center\" xss=removed><p xss=removed><span xss=removed>汉语言文学</span></p></td><td width=\"73\" valign=\"center\" xss=removed><p xss=removed><span xss=removed>220</span></p></td><td width=\"80\" valign=\"center\" xss=removed><p xss=removed><span xss=removed>165</span></p></td><td width=\"72\" valign=\"center\" xss=removed><p xss=removed><span xss=removed>75.00</span></p></td></tr><tr xss=removed><td width=\"239\" valign=\"center\" xss=removed><p xss=removed><span xss=removed>新闻学</span></p></td><td width=\"73\" valign=\"center\" xss=removed><p xss=removed><span xss=removed>60</span></p></td><td width=\"80\" valign=\"center\" xss=removed><p xss=removed><span xss=removed>44</span></p></td><td width=\"72\" valign=\"center\" xss=removed><p xss=removed><span xss=removed>73.33</span></p></td></tr><tr xss=removed><td width=\"152\" valign=\"center\" rowspan=\"7\" xss=removed><p xss=removed><span xss=removed>信息工程学院</span></p></td><td width=\"239\" valign=\"center\" xss=removed><p xss=removed><span xss=removed>电气工程及其自动化</span></p></td><td width=\"73\" valign=\"center\" xss=removed><p xss=removed><span xss=removed>53</span></p></td><td width=\"80\" valign=\"center\" xss=removed><p xss=removed><span xss=removed>49</span></p></td><td width=\"72\" valign=\"center\" xss=removed><p xss=removed><span xss=removed>92.45</span></p></td></tr><tr xss=removed><td width=\"239\" valign=\"center\" xss=removed><p xss=removed><span xss=removed>电子信息工程</span></p></td><td width=\"73\" valign=\"center\" xss=removed><p xss=removed><span xss=removed>98</span></p></td><td width=\"80\" valign=\"center\" xss=removed><p xss=removed><span xss=removed>78</span></p></td><td width=\"72\" valign=\"center\" xss=removed><p xss=removed><span xss=removed>79.59</span></p></td></tr><tr xss=removed><td width=\"239\" valign=\"center\" xss=removed><p xss=removed><span xss=removed>计算机科学与技术</span></p></td><td width=\"73\" valign=\"center\" xss=removed><p xss=removed><span xss=removed>101</span></p></td><td width=\"80\" valign=\"center\" xss=removed><p xss=removed><span xss=removed>79</span></p></td><td width=\"72\" valign=\"center\" xss=removed><p xss=removed><span xss=removed>78.22</span></p></td></tr><tr xss=removed><td width=\"239\" valign=\"center\" xss=removed><p xss=removed><span xss=removed>数据科学与大数据技术</span></p></td><td width=\"73\" valign=\"center\" xss=removed><p xss=removed><span xss=removed>44</span></p></td><td width=\"80\" valign=\"center\" xss=removed><p xss=removed><span xss=removed>39</span></p></td><td width=\"72\" valign=\"center\" xss=removed><p xss=removed><span xss=removed>88.64</span></p></td></tr><tr xss=removed><td width=\"239\" valign=\"center\" xss=removed><p xss=removed><span xss=removed>通信工程</span></p></td><td width=\"73\" valign=\"center\" xss=removed><p xss=removed><span xss=removed>54</span></p></td><td width=\"80\" valign=\"center\" xss=removed><p xss=removed><span xss=removed>37</span></p></td><td width=\"72\" valign=\"center\" xss=removed><p xss=removed><span xss=removed>68.52</span></p></td></tr><tr xss=removed><td width=\"239\" valign=\"center\" xss=removed><p xss=removed><span xss=removed>网络工程</span></p></td><td width=\"73\" valign=\"center\" xss=removed><p xss=removed><span xss=removed>49</span></p></td><td width=\"80\" valign=\"center\" xss=removed><p xss=removed><span xss=removed>42</span></p></td><td width=\"72\" valign=\"center\" xss=removed><p xss=removed><span xss=removed>85.71</span></p></td></tr><tr xss=removed><td width=\"239\" valign=\"center\" xss=removed><p xss=removed><span xss=removed>物联网工程</span></p></td><td width=\"73\" valign=\"center\" xss=removed><p xss=removed><span xss=removed>93</span></p></td><td width=\"80\" valign=\"center\" xss=removed><p xss=removed><span xss=removed>70</span></p></td><td width=\"72\" valign=\"center\" xss=removed><p xss=removed><span xss=removed>75.27</span></p></td></tr><tr xss=removed><td width=\"152\" valign=\"center\" rowspan=\"3\" xss=removed><p xss=removed><span xss=removed>音乐与舞蹈学院</span></p></td><td width=\"239\" valign=\"center\" xss=removed><p xss=removed><span xss=removed>舞蹈学</span></p></td><td width=\"73\" valign=\"center\" xss=removed><p xss=removed><span xss=removed>63</span></p></td><td width=\"80\" valign=\"center\" xss=removed><p xss=removed><span xss=removed>62</span></p></td><td width=\"72\" valign=\"center\" xss=removed><p xss=removed><span xss=removed>98.41</span></p></td></tr><tr xss=removed><td width=\"239\" valign=\"center\" xss=removed><p xss=removed><span xss=removed>音乐表演</span></p></td><td width=\"73\" valign=\"center\" xss=removed><p xss=removed><span xss=removed>41</span></p></td><td width=\"80\" valign=\"center\" xss=removed><p xss=removed><span xss=removed>35</span></p></td><td width=\"72\" valign=\"center\" xss=removed><p xss=removed><span xss=removed>85.37</span></p></td></tr><tr xss=removed><td width=\"239\" valign=\"center\" xss=removed><p xss=removed><span xss=removed>音乐学</span></p></td><td width=\"73\" valign=\"center\" xss=removed><p xss=removed><span xss=removed>104</span></p></td><td width=\"80\" valign=\"center\" xss=removed><p xss=removed><span xss=removed>94</span></p></td><td width=\"72\" valign=\"center\" xss=removed><p xss=removed><span xss=removed>90.38</span></p></td></tr><tr xss=removed><td width=\"391\" valign=\"center\" colspan=\"2\" xss=removed><p xss=removed><strong xss=removed>合计</strong></p></td><td width=\"73\" valign=\"center\" xss=removed><p xss=removed><strong xss=removed>4921</strong></p></td><td width=\"80\" valign=\"center\" xss=removed><p xss=removed><strong xss=removed>4011</strong></p></td><td width=\"72\" valign=\"center\" xss=removed><p xss=removed><strong xss=removed>81.51%</strong></p></td></tr></tbody></table><p><span xss=removed>根据相关数据统计显示，学校毕业生具备较强的就业竞争力，就业主要集中在广西和百色市（见图</span><span xss=removed>5-1），主要在生产、管理、服务一线就业（见图5-2），就业地域分布、行业分布与学校建设区域高水平应用型大学的办学定位相符，毕业生专业能力达到要求。</span></p><p><span xss=removed></span></p><p xss=removed><img width=\"522\" height=\"304\" src=\"https://static-data.gaokao.cn/upload/image/20260613/1781331543713211.jpg\" vsbhref=\"vurl\" vurl=\"/_vsl/A86130A91042384385977EF1B58BB941/3605798A/AB14\" vheight=\"304\" vwidth=\"522\" orisrc=\"/__local/A/86/13/0A91042384385977EF1B58BB941_3605798A_AB14.jpg\" class=\"img_vsb_content\" xss=removed></p><p xss=removed><strong xss=removed><span xss=removed><span xss=removed>图</span><span xss=removed>5-1 2024届毕业生就业区域分布</span></span></strong></p><p xss=removed><img width=\"524\" height=\"335\" src=\"https://static-data.gaokao.cn/upload/image/20260613/1781331544130662.jpg\" vsbhref=\"vurl\" vurl=\"/_vsl/BD23B8A0522EA26097E8BC95F7DD0042/0445B2EC/D2D0\" vheight=\"335\" vwidth=\"524\" orisrc=\"/__local/B/D2/3B/8A0522EA26097E8BC95F7DD0042_0445B2EC_D2D0.jpg\" class=\"img_vsb_content\" xss=removed></p><p xss=removed><strong xss=removed><span xss=removed><span xss=removed>图</span><span xss=removed>5-2 2024届毕业生就业单位类型</span></span></strong></p><p xss=removed><span xss=removed><span xss=removed>【注】百分比为占就业总人数（</span><span xss=removed>4011人）的比例。</span></span></p><p xss=removed><span xss=removed><span xss=removed>通过近三届本科毕业生就业岗位与专业相关度的分析，毕业生就业岗位与所学专业相关度较高，见图</span><span xss=removed>5-3。</span></span></p><p xss=removed><img width=\"508\" height=\"289\" src=\"https://static-data.gaokao.cn/upload/image/20260613/1781331544834863.jpg\" vsbhref=\"vurl\" vurl=\"/_vsl/9573C548CC9AA127375F83BD986D1758/55483D07/9339\" vheight=\"289\" vwidth=\"508\" orisrc=\"/__local/9/57/3C/548CC9AA127375F83BD986D1758_55483D07_9339.jpg\" class=\"img_vsb_content\" xss=removed></p><p xss=removed><strong xss=removed><span xss=removed><span xss=removed>图</span><span xss=removed>5-3 近三届毕业生就业岗位与专业相关度</span></span></strong></p><p><span xss=removed><br></span><br></p><p><br></p>"
+    }
+  },
+  "province": [
+    {
+      "id": "20861",
+      "school_id": "1252",
+      "province": "国外",
+      "rate": "0.02",
+      "num": "1",
+      "sort": "1",
+      "update_id": "1988",
+      "update_time": "2024-09-13 10:45:53",
+      "year": "2023",
+      "province_name": "国外"
+    },
+    {
+      "id": "20833",
+      "school_id": "1252",
+      "province": "天津市",
+      "rate": "0.06",
+      "num": "3",
+      "sort": "3",
+      "update_id": "1988",
+      "update_time": "2024-09-13 10:45:53",
+      "year": "2023",
+      "province_name": "天津市"
+    },
+    {
+      "id": "20856",
+      "school_id": "1252",
+      "province": "西藏自治区",
+      "rate": "0.06",
+      "num": "3",
+      "sort": "3",
+      "update_id": "1988",
+      "update_time": "2024-09-13 10:45:53",
+      "year": "2023",
+      "province_name": "西藏自治区"
+    },
+    {
+      "id": "20836",
+      "school_id": "1252",
+      "province": "内蒙古自治区",
+      "rate": "0.14",
+      "num": "7",
+      "sort": "7",
+      "update_id": "1988",
+      "update_time": "2024-09-13 10:45:53",
+      "year": "2023",
+      "province_name": "内蒙古自治区"
+    },
+    {
+      "id": "20838",
+      "school_id": "1252",
+      "province": "吉林省",
+      "rate": "0.16",
+      "num": "8",
+      "sort": "8",
+      "update_id": "1988",
+      "update_time": "2024-09-13 10:45:53",
+      "year": "2023",
+      "province_name": "吉林省"
+    },
+    {
+      "id": "20843",
+      "school_id": "1252",
+      "province": "安徽省",
+      "rate": "0.16",
+      "num": "8",
+      "sort": "8",
+      "update_id": "1988",
+      "update_time": "2024-09-13 10:45:53",
+      "year": "2023",
+      "province_name": "安徽省"
+    },
+    {
+      "id": "20839",
+      "school_id": "1252",
+      "province": "黑龙江省",
+      "rate": "0.18",
+      "num": "9",
+      "sort": "9",
+      "update_id": "1988",
+      "update_time": "2024-09-13 10:45:53",
+      "year": "2023",
+      "province_name": "黑龙江省"
+    },
+    {
+      "id": "20860",
+      "school_id": "1252",
+      "province": "新疆维吾尔自治区",
+      "rate": "0.22",
+      "num": "11",
+      "sort": "11",
+      "update_id": "1988",
+      "update_time": "2024-09-13 10:45:53",
+      "year": "2023",
+      "province_name": "新疆维吾尔自治区"
+    },
+    {
+      "id": "20852",
+      "school_id": "1252",
+      "province": "重庆市",
+      "rate": "0.22",
+      "num": "11",
+      "sort": "11",
+      "update_id": "1988",
+      "update_time": "2024-09-13 10:45:53",
+      "year": "2023",
+      "province_name": "重庆市"
+    },
+    {
+      "id": "20847",
+      "school_id": "1252",
+      "province": "河南省",
+      "rate": "0.30",
+      "num": "15",
+      "sort": "15",
+      "update_id": "1988",
+      "update_time": "2024-09-13 10:45:53",
+      "year": "2023",
+      "province_name": "河南省"
+    },
+    {
+      "id": "20857",
+      "school_id": "1252",
+      "province": "陕西省",
+      "rate": "0.32",
+      "num": "16",
+      "sort": "16",
+      "update_id": "1988",
+      "update_time": "2024-09-13 10:45:53",
+      "year": "2023",
+      "province_name": "陕西省"
+    },
+    {
+      "id": "20846",
+      "school_id": "1252",
+      "province": "山东省",
+      "rate": "0.35",
+      "num": "17",
+      "sort": "17",
+      "update_id": "1988",
+      "update_time": "2024-09-13 10:45:53",
+      "year": "2023",
+      "province_name": "山东省"
+    },
+    {
+      "id": "20859",
+      "school_id": "1252",
+      "province": "宁夏回族自治区",
+      "rate": "0.37",
+      "num": "18",
+      "sort": "18",
+      "update_id": "1988",
+      "update_time": "2024-09-13 10:45:53",
+      "year": "2023",
+      "province_name": "宁夏回族自治区"
+    },
+    {
+      "id": "20837",
+      "school_id": "1252",
+      "province": "辽宁省",
+      "rate": "0.43",
+      "num": "21",
+      "sort": "21",
+      "update_id": "1988",
+      "update_time": "2024-09-13 10:45:53",
+      "year": "2023",
+      "province_name": "辽宁省"
+    },
+    {
+      "id": "20848",
+      "school_id": "1252",
+      "province": "湖北省",
+      "rate": "0.45",
+      "num": "22",
+      "sort": "22",
+      "update_id": "1988",
+      "update_time": "2024-09-13 10:45:53",
+      "year": "2023",
+      "province_name": "湖北省"
+    },
+    {
+      "id": "20845",
+      "school_id": "1252",
+      "province": "江西省",
+      "rate": "0.47",
+      "num": "23",
+      "sort": "23",
+      "update_id": "1988",
+      "update_time": "2024-09-13 10:45:53",
+      "year": "2023",
+      "province_name": "江西省"
+    },
+    {
+      "id": "20854",
+      "school_id": "1252",
+      "province": "贵州省",
+      "rate": "0.51",
+      "num": "25",
+      "sort": "25",
+      "update_id": "1988",
+      "update_time": "2024-09-13 10:45:53",
+      "year": "2023",
+      "province_name": "贵州省"
+    },
+    {
+      "id": "20834",
+      "school_id": "1252",
+      "province": "河北省",
+      "rate": "0.53",
+      "num": "26",
+      "sort": "26",
+      "update_id": "1988",
+      "update_time": "2024-09-13 10:45:53",
+      "year": "2023",
+      "province_name": "河北省"
+    },
+    {
+      "id": "20853",
+      "school_id": "1252",
+      "province": "四川省",
+      "rate": "0.55",
+      "num": "27",
+      "sort": "27",
+      "update_id": "1988",
+      "update_time": "2024-09-13 10:45:53",
+      "year": "2023",
+      "province_name": "四川省"
+    },
+    {
+      "id": "20851",
+      "school_id": "1252",
+      "province": "海南省",
+      "rate": "0.59",
+      "num": "29",
+      "sort": "29",
+      "update_id": "1988",
+      "update_time": "2024-09-13 10:45:53",
+      "year": "2023",
+      "province_name": "海南省"
+    },
+    {
+      "id": "20832",
+      "school_id": "1252",
+      "province": "北京市",
+      "rate": "0.61",
+      "num": "30",
+      "sort": "30",
+      "update_id": "1988",
+      "update_time": "2024-09-13 10:45:53",
+      "year": "2023",
+      "province_name": "北京市"
+    },
+    {
+      "id": "20858",
+      "school_id": "1252",
+      "province": "甘肃省",
+      "rate": "0.73",
+      "num": "36",
+      "sort": "36",
+      "update_id": "1988",
+      "update_time": "2024-09-13 10:45:53",
+      "year": "2023",
+      "province_name": "甘肃省"
+    },
+    {
+      "id": "20835",
+      "school_id": "1252",
+      "province": "山西省",
+      "rate": "0.75",
+      "num": "37",
+      "sort": "37",
+      "update_id": "1988",
+      "update_time": "2024-09-13 10:45:53",
+      "year": "2023",
+      "province_name": "山西省"
+    },
+    {
+      "id": "20841",
+      "school_id": "1252",
+      "province": "江苏省",
+      "rate": "0.79",
+      "num": "39",
+      "sort": "39",
+      "update_id": "1988",
+      "update_time": "2024-09-13 10:45:53",
+      "year": "2023",
+      "province_name": "江苏省"
+    },
+    {
+      "id": "20855",
+      "school_id": "1252",
+      "province": "云南省",
+      "rate": "0.83",
+      "num": "41",
+      "sort": "41",
+      "update_id": "1988",
+      "update_time": "2024-09-13 10:45:53",
+      "year": "2023",
+      "province_name": "云南省"
+    },
+    {
+      "id": "20849",
+      "school_id": "1252",
+      "province": "湖南省",
+      "rate": "0.85",
+      "num": "42",
+      "sort": "42",
+      "update_id": "1988",
+      "update_time": "2024-09-13 10:45:53",
+      "year": "2023",
+      "province_name": "湖南省"
+    },
+    {
+      "id": "20840",
+      "school_id": "1252",
+      "province": "上海市",
+      "rate": "1.14",
+      "num": "56",
+      "sort": "56",
+      "update_id": "1988",
+      "update_time": "2024-09-13 10:45:53",
+      "year": "2023",
+      "province_name": "上海市"
+    },
+    {
+      "id": "20842",
+      "school_id": "1252",
+      "province": "浙江省",
+      "rate": "1.26",
+      "num": "62",
+      "sort": "62",
+      "update_id": "1988",
+      "update_time": "2024-09-13 10:45:53",
+      "year": "2023",
+      "province_name": "浙江省"
+    },
+    {
+      "id": "20844",
+      "school_id": "1252",
+      "province": "福建省",
+      "rate": "1.42",
+      "num": "70",
+      "sort": "70",
+      "update_id": "1988",
+      "update_time": "2024-09-13 10:45:53",
+      "year": "2023",
+      "province_name": "福建省"
+    },
+    {
+      "id": "20850",
+      "school_id": "1252",
+      "province": "广东省",
+      "rate": "16.68",
+      "num": "822",
+      "sort": "822",
+      "update_id": "1988",
+      "update_time": "2024-09-13 10:45:53",
+      "year": "2023",
+      "province_name": "广东省"
+    },
+    {
+      "id": "20862",
+      "school_id": "1252",
+      "province": "广西省内",
+      "rate": "60.84",
+      "num": "2998",
+      "sort": "2998",
+      "update_id": "1988",
+      "update_time": "2024-09-13 10:45:53",
+      "year": "2023",
+      "province_name": "广西省内"
+    }
+  ],
+  "attr": {
+    "私营企业": "44.22",
+    "其他": "27.06",
+    "中等、初等教育单位": "19.72",
+    "国有企业": "3.22",
+    "其他事业单位": "1.76",
+    "党政机关": "1.52",
+    "金融单位": "0.71",
+    "三资企业": "0.58",
+    "非公教学单位": "0.50",
+    "城镇社区": "0.20",
+    "医疗卫生单位": "0.16",
+    "高等学校（含民办）": "0.16",
+    "农村建制村": "0.10",
+    "科研设计单位": "0.02"
+  },
+  "company": {},
+  "gradute": [
+    {
+      "id": "1878",
+      "school_id": "1252",
+      "female_num": "4108",
+      "men_num": "1852",
+      "men_rate": "31.07",
+      "female_rate": "68.93",
+      "update_id": "1988",
+      "update_time": "2024-09-13 10:38:30",
+      "year": "2023"
+    }
+  ],
+  "remark": "",
+  "salary": {
+    "6": "9500"
+  }
+}

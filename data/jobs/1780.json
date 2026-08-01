@@ -1,0 +1,28 @@
+{
+  "update_time": "2026-08-01 06:35:17",
+  "school_id": "1780",
+  "school_name": "杭州职业技术大学",
+  "jobrateyear": "2024",
+  "jobrate": {
+    "job": {
+      "1": "98.88"
+    },
+    "postgraduate": {
+      "1": "0.00"
+    },
+    "abroad": {
+      "1": "0.00"
+    },
+    "content": {
+      "1": "<p>学校 2024 届毕业生 4801 人，初次毕业去向落实率98.88%，其中升学 25.14%，94.24%的毕业生选择在省内就业，服务地方经济发展，就业行业以“制造业”为主。</p><p><img src=\"https://static-data.gaokao.cn//upload/image/202606/core_1781060696_9485_thumb.png\" title=\"core_1781060696_9485_thumb.png\" alt=\"core_1781060696_9485.png\"></p><p>近三年学校毕业生（毕业后一年）总体月均收入水平呈现上升趋势，远高于全省高职平均水平，名列全省高职院校前列，具体如下</p><p><img src=\"https://static-data.gaokao.cn//upload/image/202606/core_1781060710_6104_thumb.png\" title=\"core_1781060710_6104_thumb.png\" alt=\"core_1781060710_6104.png\"></p>"
+    }
+  },
+  "province": [],
+  "attr": {},
+  "company": {},
+  "gradute": [],
+  "remark": "",
+  "salary": {
+    "6": "7900"
+  }
+}

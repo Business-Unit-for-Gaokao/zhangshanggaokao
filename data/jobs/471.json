@@ -1,0 +1,137 @@
+{
+  "update_time": "2026-08-01 06:23:57",
+  "school_id": "471",
+  "school_name": "集美大学",
+  "jobrateyear": "2019",
+  "jobrate": {
+    "job": {
+      "1": "96.60"
+    },
+    "postgraduate": {
+      "1": "5.60"
+    },
+    "abroad": {
+      "1": "2.70"
+    },
+    "content": {
+      "1": ""
+    }
+  },
+  "province": [
+    {
+      "id": "4183",
+      "school_id": "471",
+      "province": "省内其他地区",
+      "rate": "15.20",
+      "num": "838",
+      "sort": "0",
+      "update_id": "0",
+      "update_time": "2018-12-18 15:40:15",
+      "year": "2019",
+      "province_name": "省内其他地区"
+    },
+    {
+      "id": "4186",
+      "school_id": "471",
+      "province": "其他省市",
+      "rate": "12.40",
+      "num": "685",
+      "sort": "0",
+      "update_id": "0",
+      "update_time": "2018-12-18 15:40:15",
+      "year": "2019",
+      "province_name": "其他省市"
+    },
+    {
+      "id": "4190",
+      "school_id": "471",
+      "province": "北京市",
+      "rate": "1.60",
+      "num": "90",
+      "sort": "90",
+      "update_id": "0",
+      "update_time": "2018-12-18 15:40:15",
+      "year": "2019",
+      "province_name": "北京市"
+    },
+    {
+      "id": "4182",
+      "school_id": "471",
+      "province": "浙江省",
+      "rate": "2.00",
+      "num": "109",
+      "sort": "109",
+      "update_id": "0",
+      "update_time": "2018-12-18 15:40:15",
+      "year": "2019",
+      "province_name": "浙江省"
+    },
+    {
+      "id": "4187",
+      "school_id": "471",
+      "province": "江苏省",
+      "rate": "2.30",
+      "num": "129",
+      "sort": "129",
+      "update_id": "0",
+      "update_time": "2018-12-18 15:40:15",
+      "year": "2019",
+      "province_name": "江苏省"
+    },
+    {
+      "id": "4184",
+      "school_id": "471",
+      "province": "上海市",
+      "rate": "3.00",
+      "num": "163",
+      "sort": "163",
+      "update_id": "0",
+      "update_time": "2018-12-18 15:40:15",
+      "year": "2019",
+      "province_name": "上海市"
+    },
+    {
+      "id": "4188",
+      "school_id": "471",
+      "province": "广东省",
+      "rate": "6.30",
+      "num": "349",
+      "sort": "349",
+      "update_id": "0",
+      "update_time": "2018-12-18 15:40:15",
+      "year": "2019",
+      "province_name": "广东省"
+    },
+    {
+      "id": "4189",
+      "school_id": "471",
+      "province": "福州市",
+      "rate": "8.00",
+      "num": "442",
+      "sort": "442",
+      "update_id": "0",
+      "update_time": "2018-12-18 15:40:15",
+      "year": "2019",
+      "province_name": "福州市"
+    },
+    {
+      "id": "4185",
+      "school_id": "471",
+      "province": "厦门市",
+      "rate": "49.20",
+      "num": "2711",
+      "sort": "2711",
+      "update_id": "0",
+      "update_time": "2018-12-18 15:40:15",
+      "year": "2019",
+      "province_name": "厦门市"
+    }
+  ],
+  "attr": {},
+  "company": {},
+  "gradute": [],
+  "remark": "",
+  "salary": {
+    "6": "10900"
+  }
+}

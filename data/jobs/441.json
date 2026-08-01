@@ -1,0 +1,180 @@
+{
+  "update_time": "2026-08-01 06:23:39",
+  "school_id": "441",
+  "school_name": "黑龙江中医药大学",
+  "jobrateyear": "2024",
+  "jobrate": {
+    "job": {
+      "1": "86.13"
+    },
+    "postgraduate": {
+      "1": "0.00"
+    },
+    "abroad": {
+      "1": "0.00"
+    },
+    "content": {
+      "1": "<p>我校2024届毕业生数为3317人，截至8月31日就业人数为2857，毕业去向落实率为86.13%。其中升学（含出国深造）982人，占毕业生总数的29.61%；通过签协议或合同等形式单位就业人数1864人，占毕业生总数56.20%；其中，通过国家或地方政策性就业35人，通过电子商务和线下创立公司等形式进行自主创业落实毕业去向7人。</p><table width=\"108\" cellspacing=\"0\"><tbody><tr class=\"firstRow\" xss=removed><td width=\"100\" nowrap=\"\" valign=\"center\" colspan=\"4\" xss=removed><p xss=removed><strong><span xss=removed>表6  </span></strong><strong><span xss=removed>202</span></strong><strong><span xss=removed>4</span></strong><strong><span xss=removed>届毕业生就业情况</span></strong></p></td></tr><tr xss=removed><td width=\"36\" nowrap=\"\" valign=\"center\" xss=removed><p xss=removed><strong><span xss=removed>校内专业名称</span></strong></p></td><td width=\"12\" nowrap=\"\" valign=\"center\" xss=removed><p xss=removed><strong><span xss=removed>毕业生数</span></strong></p></td><td width=\"27\" nowrap=\"\" valign=\"center\" xss=removed><p xss=removed><strong><span xss=removed>就业去向落实人数</span></strong></p></td><td width=\"23\" nowrap=\"\" valign=\"center\" xss=removed><p xss=removed><strong><span xss=removed>就业去向落实率</span></strong></p></td></tr><tr xss=removed><td width=\"36\" nowrap=\"\" valign=\"center\" xss=removed><p xss=removed><span xss=removed>中医学（5+3一体化）</span></p></td><td width=\"12\" nowrap=\"\" valign=\"center\" xss=removed><p xss=removed><span xss=removed>119</span></p></td><td width=\"27\" nowrap=\"\" valign=\"center\" xss=removed><p xss=removed><span xss=removed>117</span></p></td><td width=\"23\" nowrap=\"\" valign=\"center\" xss=removed><p xss=removed><span xss=removed>98.32%</span></p></td></tr><tr xss=removed><td width=\"36\" nowrap=\"\" valign=\"center\" xss=removed><p xss=removed><span xss=removed>中医学（5+3一体化-儿科）</span></p></td><td width=\"12\" nowrap=\"\" valign=\"center\" xss=removed><p xss=removed><span xss=removed>51</span></p></td><td width=\"27\" nowrap=\"\" valign=\"center\" xss=removed><p xss=removed><span xss=removed>49</span></p></td><td width=\"23\" nowrap=\"\" valign=\"center\" xss=removed><p xss=removed><span xss=removed>96.08%</span></p></td></tr><tr xss=removed><td width=\"36\" nowrap=\"\" valign=\"center\" xss=removed><p xss=removed><span xss=removed>中医学</span></p></td><td width=\"12\" nowrap=\"\" valign=\"center\" xss=removed><p xss=removed><span xss=removed>410</span></p></td><td width=\"27\" nowrap=\"\" valign=\"center\" xss=removed><p xss=removed><span xss=removed>354</span></p></td><td width=\"23\" nowrap=\"\" valign=\"center\" xss=removed><p xss=removed><span xss=removed>86.34%</span></p></td></tr><tr xss=removed><td width=\"36\" nowrap=\"\" valign=\"center\" xss=removed><p xss=removed><span xss=removed>中西医临床医学</span></p></td><td width=\"12\" nowrap=\"\" valign=\"center\" xss=removed><p xss=removed><span xss=removed>276</span></p></td><td width=\"27\" nowrap=\"\" valign=\"center\" xss=removed><p xss=removed><span xss=removed>233</span></p></td><td width=\"23\" nowrap=\"\" valign=\"center\" xss=removed><p xss=removed><span xss=removed>84.42%</span></p></td></tr><tr xss=removed><td width=\"36\" nowrap=\"\" valign=\"center\" xss=removed><p xss=removed><span xss=removed>护理学</span></p></td><td width=\"12\" nowrap=\"\" valign=\"center\" xss=removed><p xss=removed><span xss=removed>133</span></p></td><td width=\"27\" nowrap=\"\" valign=\"center\" xss=removed><p xss=removed><span xss=removed>97</span></p></td><td width=\"23\" nowrap=\"\" valign=\"center\" xss=removed><p xss=removed><span xss=removed>72.93%</span></p></td></tr><tr xss=removed><td width=\"36\" nowrap=\"\" valign=\"center\" xss=removed><p xss=removed><span xss=removed>针灸推拿学</span></p></td><td width=\"12\" nowrap=\"\" valign=\"center\" xss=removed><p xss=removed><span xss=removed>251</span></p></td><td width=\"27\" nowrap=\"\" valign=\"center\" xss=removed><p xss=removed><span xss=removed>224</span></p></td><td width=\"23\" nowrap=\"\" valign=\"center\" xss=removed><p xss=removed><span xss=removed>89.24%</span></p></td></tr><tr xss=removed><td width=\"36\" nowrap=\"\" valign=\"center\" xss=removed><p xss=removed><span xss=removed>中医康复学</span></p></td><td width=\"12\" nowrap=\"\" valign=\"center\" xss=removed><p xss=removed><span xss=removed>60</span></p></td><td width=\"27\" nowrap=\"\" valign=\"center\" xss=removed><p xss=removed><span xss=removed>43</span></p></td><td width=\"23\" nowrap=\"\" valign=\"center\" xss=removed><p xss=removed><span xss=removed>71.67%</span></p></td></tr><tr xss=removed><td width=\"36\" nowrap=\"\" valign=\"center\" xss=removed><p xss=removed><span xss=removed>康复治疗学</span></p></td><td width=\"12\" nowrap=\"\" valign=\"center\" xss=removed><p xss=removed><span xss=removed>162</span></p></td><td width=\"27\" nowrap=\"\" valign=\"center\" xss=removed><p xss=removed><span xss=removed>138</span></p></td><td width=\"23\" nowrap=\"\" valign=\"center\" xss=removed><p xss=removed><span xss=removed>85.19%</span></p></td></tr><tr xss=removed><td width=\"36\" nowrap=\"\" valign=\"center\" xss=removed><p xss=removed><span xss=removed>运动康复</span></p></td><td width=\"12\" nowrap=\"\" valign=\"center\" xss=removed><p xss=removed><span xss=removed>55</span></p></td><td width=\"27\" nowrap=\"\" valign=\"center\" xss=removed><p xss=removed><span xss=removed>49</span></p></td><td width=\"23\" nowrap=\"\" valign=\"center\" xss=removed><p xss=removed><span xss=removed>89.09%</span></p></td></tr><tr xss=removed><td width=\"36\" nowrap=\"\" valign=\"center\" xss=removed><p xss=removed><span xss=removed>生物技术</span></p></td><td width=\"12\" nowrap=\"\" valign=\"center\" xss=removed><p xss=removed><span xss=removed>44</span></p></td><td width=\"27\" nowrap=\"\" valign=\"center\" xss=removed><p xss=removed><span xss=removed>42</span></p></td><td width=\"23\" nowrap=\"\" valign=\"center\" xss=removed><p xss=removed><span xss=removed>95.45%</span></p></td></tr><tr xss=removed><td width=\"36\" nowrap=\"\" valign=\"center\" xss=removed><p xss=removed><span xss=removed>食品科学与工程</span></p></td><td width=\"12\" nowrap=\"\" valign=\"center\" xss=removed><p xss=removed><span xss=removed>41</span></p></td><td width=\"27\" nowrap=\"\" valign=\"center\" xss=removed><p xss=removed><span xss=removed>37</span></p></td><td width=\"23\" nowrap=\"\" valign=\"center\" xss=removed><p xss=removed><span xss=removed>90.24%</span></p></td></tr><tr xss=removed><td width=\"36\" nowrap=\"\" valign=\"center\" xss=removed><p xss=removed><span xss=removed>药物分析</span></p></td><td width=\"12\" nowrap=\"\" valign=\"center\" xss=removed><p xss=removed><span xss=removed>50</span></p></td><td width=\"27\" nowrap=\"\" valign=\"center\" xss=removed><p xss=removed><span xss=removed>37</span></p></td><td width=\"23\" nowrap=\"\" valign=\"center\" xss=removed><p xss=removed><span xss=removed>74.00%</span></p></td></tr><tr xss=removed><td width=\"36\" nowrap=\"\" valign=\"center\" xss=removed><p xss=removed><span xss=removed>药物制剂</span></p></td><td width=\"12\" nowrap=\"\" valign=\"center\" xss=removed><p xss=removed><span xss=removed>154</span></p></td><td width=\"27\" nowrap=\"\" valign=\"center\" xss=removed><p xss=removed><span xss=removed>119</span></p></td><td width=\"23\" nowrap=\"\" valign=\"center\" xss=removed><p xss=removed><span xss=removed>77.27%</span></p></td></tr><tr xss=removed><td width=\"36\" nowrap=\"\" valign=\"center\" xss=removed><p xss=removed><span xss=removed>药学</span></p></td><td width=\"12\" nowrap=\"\" valign=\"center\" xss=removed><p xss=removed><span xss=removed>147</span></p></td><td width=\"27\" nowrap=\"\" valign=\"center\" xss=removed><p xss=removed><span xss=removed>126</span></p></td><td width=\"23\" nowrap=\"\" valign=\"center\" xss=removed><p xss=removed><span xss=removed>85.71%</span></p></td></tr><tr xss=removed><td width=\"36\" nowrap=\"\" valign=\"center\" xss=removed><p xss=removed><span xss=removed>制药工程</span></p></td><td width=\"12\" nowrap=\"\" valign=\"center\" xss=removed><p xss=removed><span xss=removed>84</span></p></td><td width=\"27\" nowrap=\"\" valign=\"center\" xss=removed><p xss=removed><span xss=removed>68</span></p></td><td width=\"23\" nowrap=\"\" valign=\"center\" xss=removed><p xss=removed><span xss=removed>80.95%</span></p></td></tr><tr xss=removed><td width=\"36\" nowrap=\"\" valign=\"center\" xss=removed><p xss=removed><span xss=removed>中药学</span></p></td><td width=\"12\" nowrap=\"\" valign=\"center\" xss=removed><p xss=removed><span xss=removed>106</span></p></td><td width=\"27\" nowrap=\"\" valign=\"center\" xss=removed><p xss=removed><span xss=removed>99</span></p></td><td width=\"23\" nowrap=\"\" valign=\"center\" xss=removed><p xss=removed><span xss=removed>93.40%</span></p></td></tr><tr xss=removed><td width=\"36\" nowrap=\"\" valign=\"center\" xss=removed><p xss=removed><span xss=removed>中药制药</span></p></td><td width=\"12\" nowrap=\"\" valign=\"center\" xss=removed><p xss=removed><span xss=removed>75</span></p></td><td width=\"27\" nowrap=\"\" valign=\"center\" xss=removed><p xss=removed><span xss=removed>74</span></p></td><td width=\"23\" nowrap=\"\" valign=\"center\" xss=removed><p xss=removed><span xss=removed>98.67%</span></p></td></tr><tr xss=removed><td width=\"36\" nowrap=\"\" valign=\"center\" xss=removed><p xss=removed><span xss=removed>中药资源与开发</span></p></td><td width=\"12\" nowrap=\"\" valign=\"center\" xss=removed><p xss=removed><span xss=removed>50</span></p></td><td width=\"27\" nowrap=\"\" valign=\"center\" xss=removed><p xss=removed><span xss=removed>46</span></p></td><td width=\"23\" nowrap=\"\" valign=\"center\" xss=removed><p xss=removed><span xss=removed>92.00%</span></p></td></tr><tr xss=removed><td width=\"36\" nowrap=\"\" valign=\"center\" xss=removed><p xss=removed><span xss=removed>公共事业管理</span></p></td><td width=\"12\" nowrap=\"\" valign=\"center\" xss=removed><p xss=removed><span xss=removed>39</span></p></td><td width=\"27\" nowrap=\"\" valign=\"center\" xss=removed><p xss=removed><span xss=removed>36</span></p></td><td width=\"23\" nowrap=\"\" valign=\"center\" xss=removed><p xss=removed><span xss=removed>92.31%</span></p></td></tr><tr xss=removed><td width=\"36\" nowrap=\"\" valign=\"center\" xss=removed><p xss=removed><span xss=removed>市场营销</span></p></td><td width=\"12\" nowrap=\"\" valign=\"center\" xss=removed><p xss=removed><span xss=removed>34</span></p></td><td width=\"27\" nowrap=\"\" valign=\"center\" xss=removed><p xss=removed><span xss=removed>32</span></p></td><td width=\"23\" nowrap=\"\" valign=\"center\" xss=removed><p xss=removed><span xss=removed>94.12%</span></p></td></tr><tr xss=removed><td width=\"36\" nowrap=\"\" valign=\"center\" xss=removed><p xss=removed><span xss=removed>应用心理学</span></p></td><td width=\"12\" nowrap=\"\" valign=\"center\" xss=removed><p xss=removed><span xss=removed>38</span></p></td><td width=\"27\" nowrap=\"\" valign=\"center\" xss=removed><p xss=removed><span xss=removed>32</span></p></td><td width=\"23\" nowrap=\"\" valign=\"center\" xss=removed><p xss=removed><span xss=removed>84.21%</span></p></td></tr><tr xss=removed><td width=\"36\" nowrap=\"\" valign=\"center\" xss=removed><p xss=removed><span xss=removed>医学信息工程</span></p></td><td width=\"12\" nowrap=\"\" valign=\"center\" xss=removed><p xss=removed><span xss=removed>40</span></p></td><td width=\"27\" nowrap=\"\" valign=\"center\" xss=removed><p xss=removed><span xss=removed>35</span></p></td><td width=\"23\" nowrap=\"\" valign=\"center\" xss=removed><p xss=removed><span xss=removed>87.50%</span></p></td></tr><tr xss=removed><td width=\"36\" nowrap=\"\" valign=\"center\" xss=removed><p xss=removed><span xss=removed>中西医临床医学（联合办学）</span></p></td><td width=\"12\" nowrap=\"\" valign=\"center\" xss=removed><p xss=removed><span xss=removed>50</span></p></td><td width=\"27\" nowrap=\"\" valign=\"center\" xss=removed><p xss=removed><span xss=removed>42</span></p></td><td width=\"23\" nowrap=\"\" valign=\"center\" xss=removed><p xss=removed><span xss=removed>84.00%</span></p></td></tr><tr xss=removed><td width=\"36\" nowrap=\"\" valign=\"center\" xss=removed><p xss=removed><span xss=removed>护理学</span></p></td><td width=\"12\" nowrap=\"\" valign=\"center\" xss=removed><p xss=removed><span xss=removed>204</span></p></td><td width=\"27\" nowrap=\"\" valign=\"center\" xss=removed><p xss=removed><span xss=removed>173</span></p></td><td width=\"23\" nowrap=\"\" valign=\"center\" xss=removed><p xss=removed><span xss=removed>84.80%</span></p></td></tr><tr xss=removed><td width=\"36\" nowrap=\"\" valign=\"center\" xss=removed><p xss=removed><span xss=removed>康复治疗学</span></p></td><td width=\"12\" nowrap=\"\" valign=\"center\" xss=removed><p xss=removed><span xss=removed>117</span></p></td><td width=\"27\" nowrap=\"\" valign=\"center\" xss=removed><p xss=removed><span xss=removed>79</span></p></td><td width=\"23\" nowrap=\"\" valign=\"center\" xss=removed><p xss=removed><span xss=removed>67.52%</span></p></td></tr><tr xss=removed><td width=\"36\" nowrap=\"\" valign=\"center\" xss=removed><p xss=removed><span xss=removed>医学检验技术</span></p></td><td width=\"12\" nowrap=\"\" valign=\"center\" xss=removed><p xss=removed><span xss=removed>143</span></p></td><td width=\"27\" nowrap=\"\" valign=\"center\" xss=removed><p xss=removed><span xss=removed>137</span></p></td><td width=\"23\" nowrap=\"\" valign=\"center\" xss=removed><p xss=removed><span xss=removed>95.80%</span></p></td></tr><tr xss=removed><td width=\"36\" nowrap=\"\" valign=\"center\" xss=removed><p xss=removed><span xss=removed>医学实验技术</span></p></td><td width=\"12\" nowrap=\"\" valign=\"center\" xss=removed><p xss=removed><span xss=removed>131</span></p></td><td width=\"27\" nowrap=\"\" valign=\"center\" xss=removed><p xss=removed><span xss=removed>114</span></p></td><td width=\"23\" nowrap=\"\" valign=\"center\" xss=removed><p xss=removed><span xss=removed>87.02%</span></p></td></tr><tr xss=removed><td width=\"36\" nowrap=\"\" valign=\"center\" xss=removed><p xss=removed><span xss=removed>中药制药</span></p></td><td width=\"12\" nowrap=\"\" valign=\"center\" xss=removed><p xss=removed><span xss=removed>127</span></p></td><td width=\"27\" nowrap=\"\" valign=\"center\" xss=removed><p xss=removed><span xss=removed>119</span></p></td><td width=\"23\" nowrap=\"\" valign=\"center\" xss=removed><p xss=removed><span xss=removed>93.70%</span></p></td></tr><tr xss=removed><td width=\"36\" nowrap=\"\" valign=\"center\" xss=removed><p xss=removed><span xss=removed>助产学</span></p></td><td width=\"12\" nowrap=\"\" valign=\"center\" xss=removed><p xss=removed><span xss=removed>126</span></p></td><td width=\"27\" nowrap=\"\" valign=\"center\" xss=removed><p xss=removed><span xss=removed>106</span></p></td><td width=\"23\" nowrap=\"\" valign=\"center\" xss=removed><p xss=removed><span xss=removed>84.13%</span></p></td></tr><tr xss=removed><td width=\"36\" nowrap=\"\" valign=\"center\" xss=removed><p xss=removed><span xss=removed>总计</span></p></td><td width=\"12\" nowrap=\"\" valign=\"center\" xss=removed><p xss=removed><span xss=removed>3317</span></p></td><td width=\"27\" nowrap=\"\" valign=\"center\" xss=removed><p xss=removed><span xss=removed>2857</span></p></td><td width=\"23\" nowrap=\"\" valign=\"center\" xss=removed><p xss=removed><span xss=removed>86.13%</span></p></td></tr></tbody></table><p><br></p>"
+    }
+  },
+  "province": [
+    {
+      "id": "14532",
+      "school_id": "441",
+      "province": "中原区域",
+      "rate": "2.58",
+      "num": "27",
+      "sort": "27",
+      "update_id": "2004",
+      "update_time": "2024-05-22 16:03:54",
+      "year": "2020",
+      "province_name": "中原区域"
+    },
+    {
+      "id": "14531",
+      "school_id": "441",
+      "province": "陕甘宁青区域",
+      "rate": "3.63",
+      "num": "38",
+      "sort": "38",
+      "update_id": "2004",
+      "update_time": "2024-05-22 16:03:54",
+      "year": "2020",
+      "province_name": "陕甘宁青区域"
+    },
+    {
+      "id": "14530",
+      "school_id": "441",
+      "province": "西部生态区域",
+      "rate": "4.02",
+      "num": "42",
+      "sort": "42",
+      "update_id": "2004",
+      "update_time": "2024-05-22 16:03:54",
+      "year": "2020",
+      "province_name": "西部生态区域"
+    },
+    {
+      "id": "14529",
+      "school_id": "441",
+      "province": "西南区域",
+      "rate": "8.80",
+      "num": "92",
+      "sort": "92",
+      "update_id": "2004",
+      "update_time": "2024-05-22 16:03:54",
+      "year": "2020",
+      "province_name": "西南区域"
+    },
+    {
+      "id": "14528",
+      "school_id": "441",
+      "province": "珠三角区域",
+      "rate": "9.56",
+      "num": "100",
+      "sort": "100",
+      "update_id": "2004",
+      "update_time": "2024-05-22 16:03:54",
+      "year": "2020",
+      "province_name": "珠三角区域"
+    },
+    {
+      "id": "14527",
+      "school_id": "441",
+      "province": "渤海湾区域",
+      "rate": "9.75",
+      "num": "102",
+      "sort": "102",
+      "update_id": "2004",
+      "update_time": "2024-05-22 16:03:54",
+      "year": "2020",
+      "province_name": "渤海湾区域"
+    },
+    {
+      "id": "14526",
+      "school_id": "441",
+      "province": "长三角区域",
+      "rate": "17.02",
+      "num": "178",
+      "sort": "178",
+      "update_id": "2004",
+      "update_time": "2024-05-22 16:03:54",
+      "year": "2020",
+      "province_name": "长三角区域"
+    },
+    {
+      "id": "14525",
+      "school_id": "441",
+      "province": "东北区域",
+      "rate": "44.65",
+      "num": "467",
+      "sort": "467",
+      "update_id": "2004",
+      "update_time": "2024-05-22 16:03:54",
+      "year": "2020",
+      "province_name": "东北区域"
+    }
+  ],
+  "attr": {
+    "其他企业": "29.93",
+    "医疗卫生单位": "13.38",
+    "三资企业": "3.98",
+    "国有企业": "0.96",
+    "党政机关": "0.82",
+    "其他事业单位": "0.38",
+    "国家基层项目": "0.29",
+    "中初教育单位": "0.14",
+    "地方基层项目": "0.14",
+    "高等教育单位": "0.05",
+    "部 队": "0.05"
+  },
+  "company": {
+    "黑龙江中医药大学附属第一医院": "0",
+    "黑龙江中医药大学附属第二医院": "0",
+    "连云港正大天晴医药有限公司": "0",
+    "哈尔滨三联药业股份有限公司": "0",
+    "广州白云山医药集团股份有限公司": "0",
+    "南方医科大学深圳医院": "0",
+    "江苏恒瑞医药股份有限公司": "0",
+    "浙江大学医学院附属第四医院": "0",
+    "江苏科信医药销售有限公司": "0",
+    "深圳市罗湖医院集团": "0",
+    "中山市中医院": "0",
+    "四川新绿色药业科技发展有限公司": "0",
+    "海伦市中医医院": "0",
+    "江苏恩华药业股份有限公司": "0",
+    "上海津石医药科技有限公司": "0",
+    "浙江永宁药业股份有限公司": "0",
+    "神威药业集团有限公司": "0",
+    "珠海润都制药股份有限公司": "0",
+    "江中制药（集团）有限责任公司": "0",
+    "珠海市中西医结合医院": "0",
+    "江苏扬子江药业集团": "0",
+    "马应龙药业集团股份有限公司": "0",
+    "牡丹江市第一人民医院": "0",
+    "江苏新晨医药有限公司": "0",
+    "广州中医药大学深圳医院（福田）": "0",
+    "新疆阿勒泰地区哈萨克医医院": "0",
+    "齐齐哈尔市中医医院": "0",
+    "石药控股集团有限公司": "0",
+    "伊春市卫生健康综合监督执法支队": "0",
+    "山东齐鲁制药集团有限公司": "0"
+  },
+  "gradute": [
+    {
+      "id": "1405",
+      "school_id": "441",
+      "female_num": "1438",
+      "men_num": "647",
+      "men_rate": "31.03",
+      "female_rate": "68.97",
+      "update_id": "2004",
+      "update_time": "2024-05-22 16:06:00",
+      "year": "2020"
+    }
+  ],
+  "remark": "",
+  "salary": {
+    "6": "8300"
+  }
+}

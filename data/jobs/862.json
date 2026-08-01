@@ -1,0 +1,28 @@
+{
+  "update_time": "2026-08-01 06:27:40",
+  "school_id": "862",
+  "school_name": "西安外事学院",
+  "jobrateyear": "2025",
+  "jobrate": {
+    "job": {
+      "1": "85.84"
+    },
+    "postgraduate": {
+      "1": "0.00"
+    },
+    "abroad": {
+      "1": "0.00"
+    },
+    "content": {
+      "1": ""
+    }
+  },
+  "province": [],
+  "attr": {},
+  "company": {},
+  "gradute": [],
+  "remark": "",
+  "salary": {
+    "6": "9800"
+  }
+}

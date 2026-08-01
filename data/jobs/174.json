@@ -1,0 +1,113 @@
+{
+  "update_time": "2026-08-01 06:20:50",
+  "school_id": "174",
+  "school_name": "江西师范大学",
+  "jobrateyear": "2024",
+  "jobrate": {
+    "job": {
+      "1": "83.15"
+    },
+    "postgraduate": {
+      "1": "24.90"
+    },
+    "abroad": {
+      "1": "3.81"
+    },
+    "content": {
+      "1": "<p>截至2024年8月31日，学校应届本科毕业生总体就业率达83.15%。毕业生最主要的毕业去向是企业，占41.06%。升学1681人，占24.90%，其中出国（境）留学214人，占3.81%。</p>"
+    }
+  },
+  "province": [
+    {
+      "id": "4477",
+      "school_id": "174",
+      "province": "其他省市",
+      "rate": "9.90",
+      "num": "0",
+      "sort": "0",
+      "update_id": "0",
+      "update_time": "2018-12-18 15:40:15",
+      "year": "2019",
+      "province_name": "其他省市"
+    },
+    {
+      "id": "4475",
+      "school_id": "174",
+      "province": "西部地区",
+      "rate": "6.65",
+      "num": "441",
+      "sort": "441",
+      "update_id": "0",
+      "update_time": "2018-12-18 15:40:15",
+      "year": "2019",
+      "province_name": "西部地区"
+    },
+    {
+      "id": "4476",
+      "school_id": "174",
+      "province": "海峡两岸经济区",
+      "rate": "7.44",
+      "num": "493",
+      "sort": "493",
+      "update_id": "0",
+      "update_time": "2018-12-18 15:40:15",
+      "year": "2019",
+      "province_name": "海峡两岸经济区"
+    },
+    {
+      "id": "4474",
+      "school_id": "174",
+      "province": "长三角地区",
+      "rate": "10.83",
+      "num": "718",
+      "sort": "718",
+      "update_id": "0",
+      "update_time": "2018-12-18 15:40:15",
+      "year": "2019",
+      "province_name": "长三角地区"
+    },
+    {
+      "id": "4472",
+      "school_id": "174",
+      "province": "珠三角地区",
+      "rate": "11.36",
+      "num": "753",
+      "sort": "753",
+      "update_id": "0",
+      "update_time": "2018-12-18 15:40:15",
+      "year": "2019",
+      "province_name": "珠三角地区"
+    },
+    {
+      "id": "4473",
+      "school_id": "174",
+      "province": "中部地区",
+      "rate": "53.82",
+      "num": "3567",
+      "sort": "3567",
+      "update_id": "0",
+      "update_time": "2018-12-18 15:40:15",
+      "year": "2019",
+      "province_name": "中部地区"
+    }
+  ],
+  "attr": {},
+  "company": {},
+  "gradute": [
+    {
+      "id": "364",
+      "school_id": "174",
+      "female_num": "5034",
+      "men_num": "2329",
+      "men_rate": "31.63",
+      "female_rate": "68.37",
+      "update_id": null,
+      "update_time": null,
+      "year": "2019"
+    }
+  ],
+  "remark": "",
+  "salary": {
+    "6": "10700"
+  }
+}

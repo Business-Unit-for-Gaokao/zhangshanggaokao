@@ -1,0 +1,113 @@
+{
+  "update_time": "2026-08-01 06:20:22",
+  "school_id": "126",
+  "school_name": "山东大学",
+  "jobrateyear": "2021",
+  "jobrate": {
+    "job": {
+      "1": "95.51"
+    },
+    "postgraduate": {
+      "1": "40.99"
+    },
+    "abroad": {
+      "1": "7.13"
+    },
+    "content": {
+      "1": ""
+    }
+  },
+  "province": [
+    {
+      "id": "14075",
+      "school_id": "126",
+      "province": "粤港澳大湾区",
+      "rate": "5.41",
+      "num": "246",
+      "sort": "246",
+      "update_id": "2004",
+      "update_time": "2024-05-21 15:30:41",
+      "year": "2021",
+      "province_name": "粤港澳大湾区"
+    },
+    {
+      "id": "14073",
+      "school_id": "126",
+      "province": "京津冀地区",
+      "rate": "6.80",
+      "num": "309",
+      "sort": "309",
+      "update_id": "2004",
+      "update_time": "2024-05-21 15:30:41",
+      "year": "2021",
+      "province_name": "京津冀地区"
+    },
+    {
+      "id": "14074",
+      "school_id": "126",
+      "province": "西部地区",
+      "rate": "8.23",
+      "num": "374",
+      "sort": "374",
+      "update_id": "2004",
+      "update_time": "2024-05-21 15:30:41",
+      "year": "2021",
+      "province_name": "西部地区"
+    },
+    {
+      "id": "14072",
+      "school_id": "126",
+      "province": "长江经济带地区",
+      "rate": "18.18",
+      "num": "826",
+      "sort": "826",
+      "update_id": "2004",
+      "update_time": "2024-05-21 15:30:41",
+      "year": "2021",
+      "province_name": "长江经济带地区"
+    },
+    {
+      "id": "14071",
+      "school_id": "126",
+      "province": "“一带一路”沿线地区",
+      "rate": "20.49",
+      "num": "931",
+      "sort": "931",
+      "update_id": "2004",
+      "update_time": "2024-05-21 15:30:41",
+      "year": "2021",
+      "province_name": "“一带一路”沿线地区"
+    },
+    {
+      "id": "14070",
+      "school_id": "126",
+      "province": "黄河流域地区",
+      "rate": "65.67",
+      "num": "2984",
+      "sort": "2984",
+      "update_id": "2004",
+      "update_time": "2024-05-21 15:30:41",
+      "year": "2021",
+      "province_name": "黄河流域地区"
+    }
+  ],
+  "attr": {},
+  "company": {},
+  "gradute": [
+    {
+      "id": "1376",
+      "school_id": "126",
+      "female_num": "8454",
+      "men_num": "7925",
+      "men_rate": "48.39",
+      "female_rate": "51.61",
+      "update_id": "2004",
+      "update_time": "2024-05-21 15:36:13",
+      "year": "2021"
+    }
+  ],
+  "remark": "",
+  "salary": {
+    "6": "12300"
+  }
+}

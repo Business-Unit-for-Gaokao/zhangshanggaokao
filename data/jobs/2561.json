@@ -1,0 +1,77 @@
+{
+  "update_time": "2026-08-01 06:43:20",
+  "school_id": "2561",
+  "school_name": "西安工商学院",
+  "jobrateyear": "2024",
+  "jobrate": {
+    "job": {
+      "1": "88.22"
+    },
+    "postgraduate": {
+      "1": "0.72"
+    },
+    "abroad": {
+      "1": "1.80"
+    },
+    "content": {
+      "1": "<p>2024年共有本科毕业生2,581人，实际毕业人数2,581人，毕业率为100.00%，学位授予率为98.37%。截至2024年8月31日，学校应届本科毕业生总体就业率达88.22%。毕业生最主要的毕业去向是企业，占88.89%。升学65人，占2.52%，其中出国(境)留学41人，占1.80%。</p>"
+    }
+  },
+  "province": [
+    {
+      "id": "8068",
+      "school_id": "2561",
+      "province": "中部地区",
+      "rate": "4.27",
+      "num": "72",
+      "sort": "72",
+      "update_id": "0",
+      "update_time": "2018-12-18 15:40:17",
+      "year": "2019",
+      "province_name": "中部地区"
+    },
+    {
+      "id": "8070",
+      "school_id": "2561",
+      "province": "东部地区",
+      "rate": "21.02",
+      "num": "356",
+      "sort": "356",
+      "update_id": "0",
+      "update_time": "2018-12-18 15:40:17",
+      "year": "2019",
+      "province_name": "东部地区"
+    },
+    {
+      "id": "8069",
+      "school_id": "2561",
+      "province": "西部地区",
+      "rate": "74.71",
+      "num": "1268",
+      "sort": "1268",
+      "update_id": "0",
+      "update_time": "2018-12-18 15:40:17",
+      "year": "2019",
+      "province_name": "西部地区"
+    }
+  ],
+  "attr": {},
+  "company": {},
+  "gradute": [
+    {
+      "id": "736",
+      "school_id": "2561",
+      "female_num": "841",
+      "men_num": "1236",
+      "men_rate": "59.35",
+      "female_rate": "40.65",
+      "update_id": null,
+      "update_time": null,
+      "year": "2019"
+    }
+  ],
+  "remark": "",
+  "salary": {
+    "6": "7300"
+  }
+}

@@ -1,0 +1,89 @@
+{
+  "update_time": "2026-08-01 06:36:12",
+  "school_id": "1861",
+  "school_name": "福建商学院",
+  "jobrateyear": "2024",
+  "jobrate": {
+    "job": {
+      "1": "90.20"
+    },
+    "postgraduate": {
+      "1": "2.54"
+    },
+    "abroad": {
+      "1": "0.48"
+    },
+    "content": {
+      "1": "<p>截至 2024 年 8 月 31 日，学校应届本科毕业生总体去向落实率达 90.2%。\r\n毕业生最主要的毕业去向是企业，占 88.95%。升学 90 人，占 3.02%，其中出国\r\n（境）留学 13 人，占 0.48%。详见表 6-2。</p><p><img src=\"https://static-data.gaokao.cn//upload/image/202606/core_1781331375_5720_thumb.png\" title=\"core_1781331375_5720_thumb.png\" alt=\"core_1781331375_5720.png\"></p>"
+    }
+  },
+  "province": [
+    {
+      "id": "1483",
+      "school_id": "1861",
+      "province": "其他省市",
+      "rate": "3.27",
+      "num": "186",
+      "sort": "0",
+      "update_id": "0",
+      "update_time": "2018-12-18 15:40:13",
+      "year": "2019",
+      "province_name": "其他省市"
+    },
+    {
+      "id": "1481",
+      "school_id": "1861",
+      "province": "浙江省",
+      "rate": "0.86",
+      "num": "49",
+      "sort": "49",
+      "update_id": "0",
+      "update_time": "2018-12-18 15:40:13",
+      "year": "2019",
+      "province_name": "浙江省"
+    },
+    {
+      "id": "1484",
+      "school_id": "1861",
+      "province": "广东省",
+      "rate": "0.88",
+      "num": "50",
+      "sort": "50",
+      "update_id": "0",
+      "update_time": "2018-12-18 15:40:13",
+      "year": "2019",
+      "province_name": "广东省"
+    },
+    {
+      "id": "1482",
+      "school_id": "1861",
+      "province": "福建省",
+      "rate": "94.99",
+      "num": "5362",
+      "sort": "5362",
+      "update_id": "0",
+      "update_time": "2018-12-18 15:40:13",
+      "year": "2019",
+      "province_name": "福建省"
+    }
+  ],
+  "attr": {},
+  "company": {},
+  "gradute": [
+    {
+      "id": "345",
+      "school_id": "1861",
+      "female_num": "3466",
+      "men_num": "2466",
+      "men_rate": "41.71",
+      "female_rate": "58.29",
+      "update_id": null,
+      "update_time": null,
+      "year": "2019"
+    }
+  ],
+  "remark": "",
+  "salary": {
+    "6": "7900"
+  }
+}

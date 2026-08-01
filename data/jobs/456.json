@@ -1,0 +1,143 @@
+{
+  "update_time": "2026-08-01 06:23:49",
+  "school_id": "456",
+  "school_name": "黑龙江东方学院",
+  "jobrateyear": "2024",
+  "jobrate": {
+    "job": {
+      "1": "86.40"
+    },
+    "postgraduate": {
+      "1": "3.82"
+    },
+    "abroad": {
+      "1": "1.18"
+    },
+    "content": {
+      "1": "<p xss=removed>2024 届本科毕业生共计 3486 人，截止 2024 年 9 月 1 日，就业人数3012 人，初次毕业去向落实率为 86.40%（分专业毕业生去向详见表 8）。其中签协议形式就业932人，占毕业生总数 26.74%；签劳动合同就业 260 人，占毕业生总数7.46%；其他录用形式就业 1442 人，占毕业生总数 41.37%；应征入伍 30 人，占毕业生总数0.86%；参加国家和地方基层项目 59 人，占毕业生总数 1.69%；升学 133 人，占毕业生总数3.82%；自主创业 10 人，占毕业生总数 0.29%；出国出境 41 人，占毕业生总数1.18%；自由职业105人，占毕业生总数 3.01%。根据全校毕业生就业数据显示，毕业生就业行业流向排名前5 名的分别是制造业、建筑业、批发和零售业、信息传输、软件和信息技术服务业，文化、体育和娱乐业。</p><p xss=removed><img src=\"https://static-data.gaokao.cn//upload/image/202606/core_1781520090_4188_thumb.png\" title=\"core_1781520090_4188_thumb.png\" alt=\"core_1781520090_4188.png\"></p><p xss=removed><img src=\"https://static-data.gaokao.cn//upload/image/202606/core_1781520112_3828_thumb.png\" title=\"core_1781520112_3828_thumb.png\" alt=\"core_1781520112_3828.png\"></p>"
+    }
+  },
+  "province": [
+    {
+      "id": "17014",
+      "school_id": "456",
+      "province": "广东",
+      "rate": "2.78",
+      "num": "0",
+      "sort": "278",
+      "update_id": "2004",
+      "update_time": "2024-06-09 17:31:40",
+      "year": "2023",
+      "province_name": "广东"
+    },
+    {
+      "id": "17013",
+      "school_id": "456",
+      "province": "上海",
+      "rate": "2.81",
+      "num": "0",
+      "sort": "281",
+      "update_id": "2004",
+      "update_time": "2024-06-09 17:31:40",
+      "year": "2023",
+      "province_name": "上海"
+    },
+    {
+      "id": "17012",
+      "school_id": "456",
+      "province": "辽宁",
+      "rate": "2.98",
+      "num": "0",
+      "sort": "298",
+      "update_id": "2004",
+      "update_time": "2024-06-09 17:31:40",
+      "year": "2023",
+      "province_name": "辽宁"
+    },
+    {
+      "id": "17011",
+      "school_id": "456",
+      "province": "北京",
+      "rate": "3.25",
+      "num": "0",
+      "sort": "325",
+      "update_id": "2004",
+      "update_time": "2024-06-09 17:31:40",
+      "year": "2023",
+      "province_name": "北京"
+    },
+    {
+      "id": "17007",
+      "school_id": "456",
+      "province": "黑龙江",
+      "rate": "47.70",
+      "num": "0",
+      "sort": "477",
+      "update_id": "2004",
+      "update_time": "2024-06-09 17:31:40",
+      "year": "2023",
+      "province_name": "黑龙江"
+    },
+    {
+      "id": "17010",
+      "school_id": "456",
+      "province": "江苏",
+      "rate": "5.05",
+      "num": "0",
+      "sort": "505",
+      "update_id": "2004",
+      "update_time": "2024-06-09 17:31:40",
+      "year": "2023",
+      "province_name": "江苏"
+    },
+    {
+      "id": "17009",
+      "school_id": "456",
+      "province": "山东",
+      "rate": "5.32",
+      "num": "0",
+      "sort": "532",
+      "update_id": "2004",
+      "update_time": "2024-06-09 17:31:40",
+      "year": "2023",
+      "province_name": "山东"
+    },
+    {
+      "id": "17008",
+      "school_id": "456",
+      "province": "浙江",
+      "rate": "10.54",
+      "num": "0",
+      "sort": "1054",
+      "update_id": "2004",
+      "update_time": "2024-06-09 17:31:40",
+      "year": "2023",
+      "province_name": "浙江"
+    }
+  ],
+  "attr": {
+    "民营企业/个体": "73.79",
+    "政府机构/科研或其他事业单位": "10.03",
+    "国有企业": "9.95",
+    "中外合资/外资/独资": "4.76",
+    "民非组织": "1.47"
+  },
+  "company": {},
+  "gradute": [
+    {
+      "id": "1583",
+      "school_id": "456",
+      "female_num": "1842",
+      "men_num": "1563",
+      "men_rate": "45.90",
+      "female_rate": "54.10",
+      "update_id": "2004",
+      "update_time": "2024-06-09 17:31:57",
+      "year": "2023"
+    }
+  ],
+  "remark": "",
+  "salary": {
+    "6": "9600"
+  }
+}

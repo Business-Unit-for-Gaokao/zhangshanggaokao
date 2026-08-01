@@ -1,0 +1,144 @@
+{
+  "update_time": "2026-08-01 06:38:15",
+  "school_id": "2056",
+  "school_name": "广州华立学院",
+  "jobrateyear": "2024",
+  "jobrate": {
+    "job": {
+      "1": "81.33"
+    },
+    "postgraduate": {
+      "1": "0.00"
+    },
+    "abroad": {
+      "1": "0.00"
+    },
+    "content": {
+      "1": "<p>根据国家教育部就业监测平台和广东省就业智慧平台统计数据，截止到2024 年 9 月 1 日，我校 2024 届毕业生就业率为 81.33%。其中攻读国内研究生37 人，国内升学单位包括华南师范大学、杭州电子科技大学、广东工业大学、广东财经大学等知名高校，出国（境）留学读研 71 人，在境外升学（深造）（含港澳台）单位包括悉尼大学、纽卡斯尔大学、墨尔本大学、约克大学、诺丁汉大学、西英格兰大学、巴塞罗那大学等境外知名高校。具体如图9 所示。</p><p><img src=\"https://static-data.gaokao.cn//upload/image/202606/core_1781085332_8829_thumb.png\" title=\"core_1781085332_8829_thumb.png\" alt=\"core_1781085332_8829.png\"></p>"
+    }
+  },
+  "province": [
+    {
+      "id": "24677",
+      "school_id": "2056",
+      "province": "江门",
+      "rate": "1.46",
+      "num": "37",
+      "sort": "37",
+      "update_id": "1988",
+      "update_time": "2025-01-06 15:00:26",
+      "year": "2020",
+      "province_name": "江门"
+    },
+    {
+      "id": "24678",
+      "school_id": "2056",
+      "province": "珠海",
+      "rate": "2.17",
+      "num": "55",
+      "sort": "55",
+      "update_id": "1988",
+      "update_time": "2025-01-06 15:00:26",
+      "year": "2020",
+      "province_name": "珠海"
+    },
+    {
+      "id": "24679",
+      "school_id": "2056",
+      "province": "中山",
+      "rate": "2.41",
+      "num": "61",
+      "sort": "61",
+      "update_id": "1988",
+      "update_time": "2025-01-06 15:00:26",
+      "year": "2020",
+      "province_name": "中山"
+    },
+    {
+      "id": "24680",
+      "school_id": "2056",
+      "province": "惠州",
+      "rate": "4.50",
+      "num": "114",
+      "sort": "114",
+      "update_id": "1988",
+      "update_time": "2025-01-06 15:00:26",
+      "year": "2020",
+      "province_name": "惠州"
+    },
+    {
+      "id": "24681",
+      "school_id": "2056",
+      "province": "东莞",
+      "rate": "6.47",
+      "num": "164",
+      "sort": "164",
+      "update_id": "1988",
+      "update_time": "2025-01-06 15:00:26",
+      "year": "2020",
+      "province_name": "东莞"
+    },
+    {
+      "id": "24676",
+      "school_id": "2056",
+      "province": "佛山",
+      "rate": "10.03",
+      "num": "254",
+      "sort": "254",
+      "update_id": "1988",
+      "update_time": "2025-01-06 15:00:26",
+      "year": "2020",
+      "province_name": "佛山"
+    },
+    {
+      "id": "24675",
+      "school_id": "2056",
+      "province": "深圳市",
+      "rate": "20.13",
+      "num": "510",
+      "sort": "510",
+      "update_id": "1988",
+      "update_time": "2025-01-06 15:00:26",
+      "year": "2020",
+      "province_name": "深圳市"
+    },
+    {
+      "id": "24674",
+      "school_id": "2056",
+      "province": "广州",
+      "rate": "52.80",
+      "num": "1338",
+      "sort": "1338",
+      "update_id": "1988",
+      "update_time": "2025-01-06 15:00:26",
+      "year": "2020",
+      "province_name": "广州"
+    }
+  ],
+  "attr": {
+    "企业单位": "90.19",
+    "自由职业": "2.41",
+    "事业单位": "1.99",
+    "国家机构": "1.83",
+    "三支一扶": "1.11",
+    "自主创业": "0.49"
+  },
+  "company": {},
+  "gradute": [
+    {
+      "id": "1283",
+      "school_id": "2056",
+      "female_num": "2331",
+      "men_num": "2478",
+      "men_rate": "51.53",
+      "female_rate": "48.47",
+      "update_id": "825",
+      "update_time": "2022-06-21 17:45:33",
+      "year": "2019"
+    }
+  ],
+  "remark": "",
+  "salary": {
+    "6": "9800"
+  }
+}

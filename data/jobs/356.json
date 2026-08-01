@@ -1,0 +1,71 @@
+{
+  "update_time": "2026-08-01 06:22:42",
+  "school_id": "356",
+  "school_name": "云南财经大学",
+  "jobrateyear": "2024",
+  "jobrate": {
+    "job": {
+      "1": "75.80"
+    },
+    "postgraduate": {
+      "1": "8.12"
+    },
+    "abroad": {
+      "1": "3.14"
+    },
+    "content": {
+      "1": "<p xss=\"removed\"><span xss=\"removed\">2024 届共有本科毕业生 7589 人，实际毕业人数 7177 人，毕业率为 94.57%，学 </span><span xss=\"removed\">位授予率为 100%。截至 2024 年 8 月 31 日，学校应届本科毕业生总体就业率达 75.8%。 </span><span xss=\"removed\">毕业生最主要的毕业去向是企业，占 56.71%。升学 808 人，占 11.26%，其中出国（境） </span><span xss=\"removed\">留学 171 人，占 3.14%。</span></p>"
+    }
+  },
+  "province": [
+    {
+      "id": "24249",
+      "school_id": "356",
+      "province": "云南省外",
+      "rate": "25.70",
+      "num": "0",
+      "sort": "2570",
+      "update_id": "2094",
+      "update_time": "2025-01-02 17:17:21",
+      "year": "2021",
+      "province_name": "云南省外"
+    },
+    {
+      "id": "24248",
+      "school_id": "356",
+      "province": "云南省内",
+      "rate": "74.30",
+      "num": "0",
+      "sort": "7430",
+      "update_id": "2094",
+      "update_time": "2025-01-02 17:17:06",
+      "year": "2021",
+      "province_name": "云南省内"
+    }
+  ],
+  "attr": {
+    "民营企业/个体": "48.00",
+    "国有企业": "31.00",
+    "政府机构/科研或其他事业单位": "16.00",
+    "中外合资/外资/独资": "4.00",
+    "非政府或非营利组织（NGO等）": "1.00"
+  },
+  "company": {},
+  "gradute": [
+    {
+      "id": "2122",
+      "school_id": "356",
+      "female_num": "4830",
+      "men_num": "2390",
+      "men_rate": "33.10",
+      "female_rate": "66.90",
+      "update_id": "2094",
+      "update_time": "2025-01-02 11:54:33",
+      "year": "2021"
+    }
+  ],
+  "remark": "",
+  "salary": {
+    "6": "9700"
+  }
+}

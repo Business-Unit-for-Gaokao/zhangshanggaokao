@@ -1,0 +1,65 @@
+{
+  "update_time": "2026-08-01 06:30:03",
+  "school_id": "1142",
+  "school_name": "山东中医药大学",
+  "jobrateyear": "2024",
+  "jobrate": {
+    "job": {
+      "1": "0.00"
+    },
+    "postgraduate": {
+      "1": "0.00"
+    },
+    "abroad": {
+      "1": "0.00"
+    },
+    "content": {
+      "1": "<p><img src=\"https://static-data.gaokao.cn//upload/image/202606/core_1781595418_1613_thumb.jpg\" xss=removed title=\"core_1781595418_1613_thumb.jpg\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202606/core_1781595418_4709_thumb.jpg\" xss=removed title=\"core_1781595418_4709_thumb.jpg\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202606/core_1781595418_4230_thumb.jpg\" xss=removed title=\"core_1781595418_4230_thumb.jpg\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202606/core_1781595419_6890_thumb.jpg\" xss=removed title=\"core_1781595419_6890_thumb.jpg\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202606/core_1781595419_9885_thumb.jpg\" xss=removed title=\"core_1781595419_9885_thumb.jpg\"></p><p><br></p>"
+    }
+  },
+  "province": [
+    {
+      "id": "6022",
+      "school_id": "1142",
+      "province": "其他省市",
+      "rate": "15.00",
+      "num": "520",
+      "sort": "0",
+      "update_id": "0",
+      "update_time": "2018-12-18 15:40:16",
+      "year": "2019",
+      "province_name": "其他省市"
+    },
+    {
+      "id": "6023",
+      "school_id": "1142",
+      "province": "山东省",
+      "rate": "85.00",
+      "num": "3298",
+      "sort": "3298",
+      "update_id": "0",
+      "update_time": "2018-12-18 15:40:16",
+      "year": "2019",
+      "province_name": "山东省"
+    }
+  ],
+  "attr": {},
+  "company": {},
+  "gradute": [
+    {
+      "id": "393",
+      "school_id": "1142",
+      "female_num": "3405",
+      "men_num": "1313",
+      "men_rate": "27.83",
+      "female_rate": "72.17",
+      "update_id": null,
+      "update_time": null,
+      "year": "2019"
+    }
+  ],
+  "remark": "",
+  "salary": {
+    "6": "9500"
+  }
+}

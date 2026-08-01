@@ -1,0 +1,89 @@
+{
+  "update_time": "2026-08-01 06:41:10",
+  "school_id": "2352",
+  "school_name": "辽宁财贸学院",
+  "jobrateyear": "2024",
+  "jobrate": {
+    "job": {
+      "1": "84.11"
+    },
+    "postgraduate": {
+      "1": "1.27"
+    },
+    "abroad": {
+      "1": "0.21"
+    },
+    "content": {
+      "1": "<p>截至 2024 年 8 月 31 日，学校应届本科毕业生总体就业率达84.11%。毕业生最主要的毕业去向是企业，占 83.58%。升学 42 人，占1.48%，其中出国（境）留学 5 人，占 0.21%。</p><p> ※以上数据来源：表 6-5 应届本科毕业生去向落实情况。</p>"
+    }
+  },
+  "province": [
+    {
+      "id": "10444",
+      "school_id": "2352",
+      "province": "辽宁",
+      "rate": "45.48",
+      "num": "1128",
+      "sort": "0",
+      "update_id": "929",
+      "update_time": "2020-07-07 09:41:05",
+      "year": "2019",
+      "province_name": "辽宁"
+    },
+    {
+      "id": "10445",
+      "school_id": "2352",
+      "province": "海南",
+      "rate": "12.10",
+      "num": "300",
+      "sort": "0",
+      "update_id": "929",
+      "update_time": "2020-07-07 09:41:05",
+      "year": "2019",
+      "province_name": "海南"
+    },
+    {
+      "id": "10446",
+      "school_id": "2352",
+      "province": "内蒙古",
+      "rate": "10.20",
+      "num": "253",
+      "sort": "0",
+      "update_id": "929",
+      "update_time": "2020-07-07 09:41:05",
+      "year": "2019",
+      "province_name": "内蒙古"
+    },
+    {
+      "id": "10447",
+      "school_id": "2352",
+      "province": "其他",
+      "rate": "32.32",
+      "num": "799",
+      "sort": "0",
+      "update_id": "929",
+      "update_time": "2020-07-07 09:41:05",
+      "year": "2019",
+      "province_name": "其他"
+    }
+  ],
+  "attr": {},
+  "company": {},
+  "gradute": [
+    {
+      "id": "925",
+      "school_id": "2352",
+      "female_num": "1352",
+      "men_num": "1128",
+      "men_rate": "45.48",
+      "female_rate": "54.52",
+      "update_id": "929",
+      "update_time": "2020-07-06 15:01:37",
+      "year": "2019"
+    }
+  ],
+  "remark": "",
+  "salary": {
+    "6": "8000"
+  }
+}

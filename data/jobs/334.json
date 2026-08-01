@@ -1,0 +1,77 @@
+{
+  "update_time": "2026-08-01 06:22:27",
+  "school_id": "334",
+  "school_name": "陕西师范大学",
+  "jobrateyear": "2022",
+  "jobrate": {
+    "job": {
+      "1": "85.10"
+    },
+    "postgraduate": {
+      "1": "0.00"
+    },
+    "abroad": {
+      "1": "0.00"
+    },
+    "content": {
+      "1": ""
+    }
+  },
+  "province": [
+    {
+      "id": "6227",
+      "school_id": "334",
+      "province": "县级市或县城",
+      "rate": "21.66",
+      "num": "882",
+      "sort": "882",
+      "update_id": "0",
+      "update_time": "2018-12-18 15:40:16",
+      "year": "2019",
+      "province_name": "县级市或县城"
+    },
+    {
+      "id": "6229",
+      "school_id": "334",
+      "province": "地市级城区",
+      "rate": "34.91",
+      "num": "1421",
+      "sort": "1421",
+      "update_id": "0",
+      "update_time": "2018-12-18 15:40:16",
+      "year": "2019",
+      "province_name": "地市级城区"
+    },
+    {
+      "id": "6228",
+      "school_id": "334",
+      "province": "省会城市",
+      "rate": "43.43",
+      "num": "1768",
+      "sort": "1768",
+      "update_id": "0",
+      "update_time": "2018-12-18 15:40:16",
+      "year": "2019",
+      "province_name": "省会城市"
+    }
+  ],
+  "attr": {},
+  "company": {},
+  "gradute": [
+    {
+      "id": "964",
+      "school_id": "334",
+      "female_num": "5996",
+      "men_num": "1983",
+      "men_rate": "24.86",
+      "female_rate": "75.14",
+      "update_id": "825",
+      "update_time": "2021-03-17 11:09:10",
+      "year": "2020"
+    }
+  ],
+  "remark": "",
+  "salary": {
+    "6": "9300"
+  }
+}

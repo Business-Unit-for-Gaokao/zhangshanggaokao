@@ -1,0 +1,110 @@
+{
+  "update_time": "2026-08-01 06:29:50",
+  "school_id": "1110",
+  "school_name": "北京金融科技学院",
+  "jobrateyear": "2022",
+  "jobrate": {
+    "job": {
+      "1": "97.23"
+    },
+    "postgraduate": {
+      "1": "0.70"
+    },
+    "abroad": {
+      "1": "36.33"
+    },
+    "content": {
+      "1": ""
+    }
+  },
+  "province": [
+    {
+      "id": "23267",
+      "school_id": "1110",
+      "province": "东北地区",
+      "rate": "6.49",
+      "num": "0",
+      "sort": "649",
+      "update_id": "1988",
+      "update_time": "2024-10-17 18:06:47",
+      "year": "2022",
+      "province_name": "东北地区"
+    },
+    {
+      "id": "23265",
+      "school_id": "1110",
+      "province": "中部地区",
+      "rate": "12.21",
+      "num": "0",
+      "sort": "1221",
+      "update_id": "1988",
+      "update_time": "2024-10-17 18:06:04",
+      "year": "2022",
+      "province_name": "中部地区"
+    },
+    {
+      "id": "23266",
+      "school_id": "1110",
+      "province": "西部地区",
+      "rate": "12.21",
+      "num": "0",
+      "sort": "1221",
+      "update_id": "1988",
+      "update_time": "2024-10-17 18:06:32",
+      "year": "2022",
+      "province_name": "西部地区"
+    },
+    {
+      "id": "23264",
+      "school_id": "1110",
+      "province": "东部地区",
+      "rate": "31.87",
+      "num": "0",
+      "sort": "3187",
+      "update_id": "1988",
+      "update_time": "2024-10-17 18:05:45",
+      "year": "2022",
+      "province_name": "东部地区"
+    },
+    {
+      "id": "23263",
+      "school_id": "1110",
+      "province": "北京市",
+      "rate": "37.21",
+      "num": "0",
+      "sort": "3721",
+      "update_id": "1988",
+      "update_time": "2024-10-17 18:05:21",
+      "year": "2022",
+      "province_name": "北京市"
+    }
+  ],
+  "attr": {
+    "其他企业": "58.43",
+    "国有企业": "21.26",
+    "机关": "7.09",
+    "其他事业单位": "4.79",
+    "其他": "4.60",
+    "三资企业": "1.92",
+    "部队": "1.72",
+    "其他地方基层": "0.19"
+  },
+  "company": {},
+  "gradute": [
+    {
+      "id": "2041",
+      "school_id": "1110",
+      "female_num": "410",
+      "men_num": "457",
+      "men_rate": "52.71",
+      "female_rate": "47.29",
+      "update_id": "1988",
+      "update_time": "2024-10-17 18:04:14",
+      "year": "2022"
+    }
+  ],
+  "remark": "",
+  "salary": {
+    "6": "10900"
+  }
+}

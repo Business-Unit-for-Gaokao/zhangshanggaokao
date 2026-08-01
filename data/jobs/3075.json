@@ -1,0 +1,28 @@
+{
+  "update_time": "2026-08-01 06:45:49",
+  "school_id": "3075",
+  "school_name": "重庆科技职业学院",
+  "jobrateyear": "2024",
+  "jobrate": {
+    "job": {
+      "1": "90.16"
+    },
+    "postgraduate": {
+      "1": "9.10"
+    },
+    "abroad": {
+      "1": "0.00"
+    },
+    "content": {
+      "1": ""
+    }
+  },
+  "province": [],
+  "attr": {},
+  "company": {},
+  "gradute": [],
+  "remark": "",
+  "salary": {
+    "6": "7900"
+  }
+}

@@ -1,0 +1,95 @@
+{
+  "update_time": "2026-08-01 06:22:22",
+  "school_id": "325",
+  "school_name": "皖南医科大学",
+  "jobrateyear": "2024",
+  "jobrate": {
+    "job": {
+      "1": "90.38"
+    },
+    "postgraduate": {
+      "1": "28.05"
+    },
+    "abroad": {
+      "1": "0.00"
+    },
+    "content": {
+      "1": "<p><img src=\"https://static-data.gaokao.cn//upload/image/202607/core_1785316806_4717_thumb.png\" title=\"core_1785316806_4717_thumb.png\" alt=\"core_1785316806_4717.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202607/core_1785316822_1490_thumb.png\" title=\"core_1785316822_1490_thumb.png\" alt=\"core_1785316822_1490.png\"></p><p><br></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202607/core_1785316853_2971_thumb.png\" title=\"core_1785316853_2971_thumb.png\" alt=\"core_1785316853_2971.png\"></p>"
+    }
+  },
+  "province": [
+    {
+      "id": "15981",
+      "school_id": "325",
+      "province": "新一线城市",
+      "rate": "32.56",
+      "num": "0",
+      "sort": "33",
+      "update_id": "2004",
+      "update_time": "2024-06-05 14:58:10",
+      "year": "2023",
+      "province_name": "新一线城市"
+    },
+    {
+      "id": "15980",
+      "school_id": "325",
+      "province": "中部经济区",
+      "rate": "65.85",
+      "num": "0",
+      "sort": "66",
+      "update_id": "2004",
+      "update_time": "2024-06-05 14:58:10",
+      "year": "2023",
+      "province_name": "中部经济区"
+    },
+    {
+      "id": "15979",
+      "school_id": "325",
+      "province": "长三角地区",
+      "rate": "95.61",
+      "num": "0",
+      "sort": "96",
+      "update_id": "2004",
+      "update_time": "2024-06-05 14:58:10",
+      "year": "2023",
+      "province_name": "长三角地区"
+    },
+    {
+      "id": "15978",
+      "school_id": "325",
+      "province": "长江经济带",
+      "rate": "96.46",
+      "num": "0",
+      "sort": "96",
+      "update_id": "2004",
+      "update_time": "2024-06-05 14:58:10",
+      "year": "2023",
+      "province_name": "长江经济带"
+    }
+  ],
+  "attr": {
+    "政府机构/科研或其他事业单位": "50.25",
+    "民营企业/个体": "33.12",
+    "国有企业": "13.60",
+    "中外合资/外资/独资": "2.02",
+    "民非组织": "1.01"
+  },
+  "company": {},
+  "gradute": [
+    {
+      "id": "1526",
+      "school_id": "325",
+      "female_num": "2449",
+      "men_num": "1708",
+      "men_rate": "41.09",
+      "female_rate": "58.91",
+      "update_id": "2004",
+      "update_time": "2024-06-05 14:58:44",
+      "year": "2023"
+    }
+  ],
+  "remark": "",
+  "salary": {
+    "6": "9800"
+  }
+}

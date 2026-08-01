@@ -1,0 +1,289 @@
+{
+  "update_time": "2026-08-01 06:21:19",
+  "school_id": "223",
+  "school_name": "辽宁石油化工大学",
+  "jobrateyear": "2024",
+  "jobrate": {
+    "job": {
+      "1": "0.00"
+    },
+    "postgraduate": {
+      "1": "13.10"
+    },
+    "abroad": {
+      "1": "0.50"
+    },
+    "content": {
+      "1": "<p>毕业生就业结构</p><p>本科生毕业去向总计：升学502人、就业2811人、境外留学21人、参军27人、自主创业7人，就业结构如图所示。</p><p><img src=\"https://static-data.gaokao.cn//upload/image/202606/core_1780997819_6897_thumb.png\" title=\"core_1780997819_6897_thumb.png\" alt=\"core_1780997819_6897.png\"></p><p>用人单位行业分布情况</p><p>对用人单位所在行业进行统计，其行业分布以石油、化工和能源、建筑类为主，占比分别为石油化工类37.69%、建筑能源类15.73%，情况分布如图。</p><p><img src=\"https://static-data.gaokao.cn//upload/image/202606/core_1780997828_3990_thumb.png\" title=\"core_1780997828_3990_thumb.png\" alt=\"core_1780997828_3990.png\"></p><p>毕业生就业单位性质流向</p><p>学校2024届入职毕业生中，约九成本科生进入各类企业，其中国有企业占比达近五成。</p><p><img src=\"https://static-data.gaokao.cn//upload/image/202606/core_1780997851_3933_thumb.png\" title=\"core_1780997851_3933_thumb.png\" alt=\"core_1780997851_3933.png\"></p><p>社会用人单位对毕业生的评价</p><p>2023年末，学校开展了2023届毕业生社会满意度调查和用人单位访谈。调查和访谈结果如下图所示：就业单位对我校毕业生的满意度为97.75%，其中：“非常满意”为74.44%、“比较满意”为23.31%。</p><p><img src=\"https://static-data.gaokao.cn//upload/image/202606/core_1780997891_7212_thumb.png\" title=\"core_1780997891_7212_thumb.png\" alt=\"core_1780997891_7212.png\"></p><p><br></p>"
+    }
+  },
+  "province": [
+    {
+      "id": "16305",
+      "school_id": "223",
+      "province": "河南",
+      "rate": "1.00",
+      "num": "0",
+      "sort": "1",
+      "update_id": "2004",
+      "update_time": "2024-06-06 17:48:21",
+      "year": "2022",
+      "province_name": "河南"
+    },
+    {
+      "id": "16310",
+      "school_id": "223",
+      "province": "福建",
+      "rate": "0.54",
+      "num": "0",
+      "sort": "54",
+      "update_id": "2004",
+      "update_time": "2024-06-06 17:48:21",
+      "year": "2022",
+      "province_name": "福建"
+    },
+    {
+      "id": "16309",
+      "school_id": "223",
+      "province": "四川",
+      "rate": "0.82",
+      "num": "0",
+      "sort": "82",
+      "update_id": "2004",
+      "update_time": "2024-06-06 17:48:21",
+      "year": "2022",
+      "province_name": "四川"
+    },
+    {
+      "id": "16308",
+      "school_id": "223",
+      "province": "安徽",
+      "rate": "0.95",
+      "num": "0",
+      "sort": "95",
+      "update_id": "2004",
+      "update_time": "2024-06-06 17:48:21",
+      "year": "2022",
+      "province_name": "安徽"
+    },
+    {
+      "id": "16307",
+      "school_id": "223",
+      "province": "陕西",
+      "rate": "0.97",
+      "num": "0",
+      "sort": "97",
+      "update_id": "2004",
+      "update_time": "2024-06-06 17:48:21",
+      "year": "2022",
+      "province_name": "陕西"
+    },
+    {
+      "id": "16306",
+      "school_id": "223",
+      "province": "湖北",
+      "rate": "0.97",
+      "num": "0",
+      "sort": "97",
+      "update_id": "2004",
+      "update_time": "2024-06-06 17:48:21",
+      "year": "2022",
+      "province_name": "湖北"
+    },
+    {
+      "id": "16304",
+      "school_id": "223",
+      "province": "吉林",
+      "rate": "1.03",
+      "num": "0",
+      "sort": "103",
+      "update_id": "2004",
+      "update_time": "2024-06-06 17:48:21",
+      "year": "2022",
+      "province_name": "吉林"
+    },
+    {
+      "id": "16303",
+      "school_id": "223",
+      "province": "黑龙江",
+      "rate": "1.64",
+      "num": "0",
+      "sort": "164",
+      "update_id": "2004",
+      "update_time": "2024-06-06 17:48:21",
+      "year": "2022",
+      "province_name": "黑龙江"
+    },
+    {
+      "id": "16302",
+      "school_id": "223",
+      "province": "新疆",
+      "rate": "1.79",
+      "num": "0",
+      "sort": "179",
+      "update_id": "2004",
+      "update_time": "2024-06-06 17:48:21",
+      "year": "2022",
+      "province_name": "新疆"
+    },
+    {
+      "id": "16301",
+      "school_id": "223",
+      "province": "上海",
+      "rate": "2.13",
+      "num": "0",
+      "sort": "213",
+      "update_id": "2004",
+      "update_time": "2024-06-06 17:48:21",
+      "year": "2022",
+      "province_name": "上海"
+    },
+    {
+      "id": "16300",
+      "school_id": "223",
+      "province": "河北",
+      "rate": "2.87",
+      "num": "0",
+      "sort": "287",
+      "update_id": "2004",
+      "update_time": "2024-06-06 17:48:21",
+      "year": "2022",
+      "province_name": "河北"
+    },
+    {
+      "id": "16299",
+      "school_id": "223",
+      "province": "浙江",
+      "rate": "3.77",
+      "num": "0",
+      "sort": "377",
+      "update_id": "2004",
+      "update_time": "2024-06-06 17:48:21",
+      "year": "2022",
+      "province_name": "浙江"
+    },
+    {
+      "id": "16298",
+      "school_id": "223",
+      "province": "广东",
+      "rate": "3.92",
+      "num": "0",
+      "sort": "392",
+      "update_id": "2004",
+      "update_time": "2024-06-06 17:48:21",
+      "year": "2022",
+      "province_name": "广东"
+    },
+    {
+      "id": "16297",
+      "school_id": "223",
+      "province": "江苏",
+      "rate": "4.67",
+      "num": "0",
+      "sort": "467",
+      "update_id": "2004",
+      "update_time": "2024-06-06 17:48:21",
+      "year": "2022",
+      "province_name": "江苏"
+    },
+    {
+      "id": "16296",
+      "school_id": "223",
+      "province": "北京",
+      "rate": "4.69",
+      "num": "0",
+      "sort": "469",
+      "update_id": "2004",
+      "update_time": "2024-06-06 17:48:21",
+      "year": "2022",
+      "province_name": "北京"
+    },
+    {
+      "id": "16295",
+      "school_id": "223",
+      "province": "天津",
+      "rate": "5.05",
+      "num": "0",
+      "sort": "505",
+      "update_id": "2004",
+      "update_time": "2024-06-06 17:48:21",
+      "year": "2022",
+      "province_name": "天津"
+    },
+    {
+      "id": "16294",
+      "school_id": "223",
+      "province": "山东",
+      "rate": "8.59",
+      "num": "0",
+      "sort": "859",
+      "update_id": "2004",
+      "update_time": "2024-06-06 17:48:21",
+      "year": "2022",
+      "province_name": "山东"
+    },
+    {
+      "id": "16293",
+      "school_id": "223",
+      "province": "辽宁",
+      "rate": "50.83",
+      "num": "0",
+      "sort": "5083",
+      "update_id": "2004",
+      "update_time": "2024-06-06 17:48:21",
+      "year": "2022",
+      "province_name": "辽宁"
+    }
+  ],
+  "attr": {
+    "国有企业": "50.54",
+    "其他企业": "40.93",
+    "地方基层项目": "5.98",
+    "部队": "1.12",
+    "三资企业": "0.56",
+    "党政机关": "0.38",
+    "中初教育单位": "0.21",
+    "其他事业单位": "0.14",
+    "国家基层项目": "0.03",
+    "高等教育单位": "0.10"
+  },
+  "company": {
+    "中国华润有限公司": "291",
+    "中国石油化工集团有限公司": "291",
+    "中国石油天然气集团有限公司": "242",
+    "中国建筑集团有限公司": "234",
+    "中国铁路工程集团有限公司": "95",
+    "中国海洋石油集团有限公司": "94",
+    "山东能源集团有限公司": "47",
+    "中国交通建设集团有限公司": "35",
+    "盛虹控股集团有限公司": "34",
+    "中国中化控股有限责任公司": "28",
+    "恒力集团有限公司": "25",
+    "中国核工业集团有限公司": "25",
+    "中国农业银行股份有限公司": "23",
+    "国家电网有限公司": "17",
+    "浙江荣盛控股集团有限公司": "15",
+    "中国电子科技集团有限公司": "12",
+    "埃克森美孚": "10",
+    "中国邮政集团有限公司": "9",
+    "中国工商银行股份有限公司": "4",
+    "中国建设银行股份有限公司": "2"
+  },
+  "gradute": [
+    {
+      "id": "1550",
+      "school_id": "223",
+      "female_num": "1677",
+      "men_num": "2593",
+      "men_rate": "60.73",
+      "female_rate": "39.27",
+      "update_id": "2004",
+      "update_time": "2024-06-06 17:49:01",
+      "year": "2022"
+    }
+  ],
+  "remark": "",
+  "salary": {
+    "6": "9100"
+  }
+}

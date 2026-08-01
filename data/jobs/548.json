@@ -1,0 +1,125 @@
+{
+  "update_time": "2026-08-01 06:24:47",
+  "school_id": "548",
+  "school_name": "山东体育学院",
+  "jobrateyear": "2024",
+  "jobrate": {
+    "job": {
+      "1": "90.67"
+    },
+    "postgraduate": {
+      "1": "7.63"
+    },
+    "abroad": {
+      "1": "0.91"
+    },
+    "content": {
+      "1": "<p>截至2023年8月31日，学校应届本科毕业生总体毕业去向落实率达90.67%。</p><p>毕业生最主要的毕业去向是企业，占56.66%。升学148人，占7.63%，其中出国（境）</p><p>留学16人，占0.91%。</p><p><br></p>"
+    }
+  },
+  "province": [
+    {
+      "id": "5995",
+      "school_id": "548",
+      "province": "其他省市",
+      "rate": "3.96",
+      "num": "60",
+      "sort": "0",
+      "update_id": "0",
+      "update_time": "2018-12-18 15:40:16",
+      "year": "2019",
+      "province_name": "其他省市"
+    },
+    {
+      "id": "5992",
+      "school_id": "548",
+      "province": "潍坊市",
+      "rate": "3.42",
+      "num": "52",
+      "sort": "52",
+      "update_id": "0",
+      "update_time": "2018-12-18 15:40:16",
+      "year": "2019",
+      "province_name": "潍坊市"
+    },
+    {
+      "id": "5996",
+      "school_id": "548",
+      "province": "聊城市",
+      "rate": "6.10",
+      "num": "93",
+      "sort": "93",
+      "update_id": "0",
+      "update_time": "2018-12-18 15:40:16",
+      "year": "2019",
+      "province_name": "聊城市"
+    },
+    {
+      "id": "5993",
+      "school_id": "548",
+      "province": "威海市",
+      "rate": "6.52",
+      "num": "99",
+      "sort": "99",
+      "update_id": "0",
+      "update_time": "2018-12-18 15:40:16",
+      "year": "2019",
+      "province_name": "威海市"
+    },
+    {
+      "id": "5991",
+      "school_id": "548",
+      "province": "烟台市",
+      "rate": "7.10",
+      "num": "108",
+      "sort": "108",
+      "update_id": "0",
+      "update_time": "2018-12-18 15:40:16",
+      "year": "2019",
+      "province_name": "烟台市"
+    },
+    {
+      "id": "5994",
+      "school_id": "548",
+      "province": "青岛市",
+      "rate": "30.20",
+      "num": "460",
+      "sort": "460",
+      "update_id": "0",
+      "update_time": "2018-12-18 15:40:16",
+      "year": "2019",
+      "province_name": "青岛市"
+    },
+    {
+      "id": "5997",
+      "school_id": "548",
+      "province": "济南市",
+      "rate": "42.70",
+      "num": "651",
+      "sort": "651",
+      "update_id": "0",
+      "update_time": "2018-12-18 15:40:16",
+      "year": "2019",
+      "province_name": "济南市"
+    }
+  ],
+  "attr": {},
+  "company": {},
+  "gradute": [
+    {
+      "id": "802",
+      "school_id": "548",
+      "female_num": "514",
+      "men_num": "1118",
+      "men_rate": "68.50",
+      "female_rate": "31.50",
+      "update_id": null,
+      "update_time": null,
+      "year": "2019"
+    }
+  ],
+  "remark": "",
+  "salary": {
+    "6": "8300"
+  }
+}

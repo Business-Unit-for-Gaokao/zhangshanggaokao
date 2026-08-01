@@ -1,0 +1,40 @@
+{
+  "update_time": "2026-08-01 06:19:51",
+  "school_id": "73",
+  "school_name": "同济大学",
+  "jobrateyear": "2024",
+  "jobrate": {
+    "job": {
+      "1": "94.55"
+    },
+    "postgraduate": {
+      "1": "54.58"
+    },
+    "abroad": {
+      "1": "16.17"
+    },
+    "content": {
+      "1": ""
+    }
+  },
+  "province": [],
+  "attr": {},
+  "company": {},
+  "gradute": [
+    {
+      "id": "1358",
+      "school_id": "73",
+      "female_num": "1590",
+      "men_num": "2756",
+      "men_rate": "63.41",
+      "female_rate": "35.59",
+      "update_id": "1721",
+      "update_time": "2024-05-21 13:56:45",
+      "year": "2023"
+    }
+  ],
+  "remark": "",
+  "salary": {
+    "6": "16300"
+  }
+}

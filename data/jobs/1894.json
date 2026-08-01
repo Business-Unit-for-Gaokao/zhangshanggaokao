@@ -1,0 +1,101 @@
+{
+  "update_time": "2026-08-01 06:36:33",
+  "school_id": "1894",
+  "school_name": "福建农林大学金山学院",
+  "jobrateyear": "2024",
+  "jobrate": {
+    "job": {
+      "1": "86.47"
+    },
+    "postgraduate": {
+      "1": "0.00"
+    },
+    "abroad": {
+      "1": "0.00"
+    },
+    "content": {
+      "1": "<p>2024 年共有本科毕业生 3378 人（不包含 2 名港澳台学生），实际毕业人数3336 人，毕业率为 98.76%，学位授予率为 98.40%。截至 2024 年 8 月 31 日，学校应届本科毕业生总体就业率达 86.47%。毕业生最主要的毕业去向是企业，占82.99%，升学 162 人，占 4.80%。</p><p><br></p>"
+    }
+  },
+  "province": [
+    {
+      "id": "1480",
+      "school_id": "1894",
+      "province": "其他省市",
+      "rate": "19.46",
+      "num": "265",
+      "sort": "0",
+      "update_id": "0",
+      "update_time": "2018-12-18 15:40:13",
+      "year": "2019",
+      "province_name": "其他省市"
+    },
+    {
+      "id": "1476",
+      "school_id": "1894",
+      "province": "珠三角地区",
+      "rate": "4.21",
+      "num": "97",
+      "sort": "97",
+      "update_id": "0",
+      "update_time": "2018-12-18 15:40:13",
+      "year": "2019",
+      "province_name": "珠三角地区"
+    },
+    {
+      "id": "1477",
+      "school_id": "1894",
+      "province": "长三角地区",
+      "rate": "9.09",
+      "num": "210",
+      "sort": "210",
+      "update_id": "0",
+      "update_time": "2018-12-18 15:40:13",
+      "year": "2019",
+      "province_name": "长三角地区"
+    },
+    {
+      "id": "1479",
+      "school_id": "1894",
+      "province": "山区片",
+      "rate": "20.07",
+      "num": "464",
+      "sort": "464",
+      "update_id": "0",
+      "update_time": "2018-12-18 15:40:13",
+      "year": "2019",
+      "province_name": "山区片"
+    },
+    {
+      "id": "1478",
+      "school_id": "1894",
+      "province": "沿海地区",
+      "rate": "47.17",
+      "num": "1091",
+      "sort": "1091",
+      "update_id": "0",
+      "update_time": "2018-12-18 15:40:13",
+      "year": "2019",
+      "province_name": "沿海地区"
+    }
+  ],
+  "attr": {},
+  "company": {},
+  "gradute": [
+    {
+      "id": "353",
+      "school_id": "1894",
+      "female_num": "1109",
+      "men_num": "1337",
+      "men_rate": "54.66",
+      "female_rate": "45.34",
+      "update_id": null,
+      "update_time": null,
+      "year": "2019"
+    }
+  ],
+  "remark": "",
+  "salary": {
+    "6": "8200"
+  }
+}
