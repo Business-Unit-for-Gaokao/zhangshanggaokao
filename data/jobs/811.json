@@ -1,9 +1,22 @@
 {
-  "update_time": "2026-08-01 06:27:14",
+  "update_time": "2026-09-01 09:05:49",
   "school_id": "811",
   "school_name": "湖北中医药高等专科学校",
-  "jobrateyear": "",
-  "jobrate": {},
+  "jobrateyear": "2023",
+  "jobrate": {
+    "job": {
+      "1": "95.47"
+    },
+    "postgraduate": {
+      "1": "19.53"
+    },
+    "abroad": {
+      "1": "0.05"
+    },
+    "content": {
+      "1": "<p><img src=\"https://static-data.gaokao.cn//upload/image/202608/core_1787021827_4134_thumb.png\" title=\"core_1787021827_4134_thumb.png\" alt=\"core_1787021827_4134.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202608/core_1787021836_6216_thumb.png\" title=\"core_1787021836_6216_thumb.png\" alt=\"core_1787021836_6216.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202608/core_1787021847_8894_thumb.png\" title=\"core_1787021847_8894_thumb.png\" alt=\"core_1787021847_8894.png\"></p>"
+    }
+  },
   "province": [],
   "attr": {},
   "company": {},

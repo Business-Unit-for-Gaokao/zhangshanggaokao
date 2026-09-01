@@ -1,9 +1,22 @@
 {
-  "update_time": "2026-08-01 06:26:09",
+  "update_time": "2026-09-01 09:04:45",
   "school_id": "696",
   "school_name": "张家口职业技术学院",
-  "jobrateyear": "",
-  "jobrate": {},
+  "jobrateyear": "2025",
+  "jobrate": {
+    "job": {
+      "1": "95.41"
+    },
+    "postgraduate": {
+      "1": "11.30"
+    },
+    "abroad": {
+      "1": "0.00"
+    },
+    "content": {
+      "1": "<p><img src=\"https://static-data.gaokao.cn//upload/image/202608/core_1787017971_2649_thumb.png\" title=\"core_1787017971_2649_thumb.png\" alt=\"core_1787017971_2649.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202608/core_1787017984_1554_thumb.png\" title=\"core_1787017984_1554_thumb.png\" alt=\"core_1787017984_1554.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202608/core_1787017998_1809_thumb.png\" title=\"core_1787017998_1809_thumb.png\" alt=\"core_1787017998_1809.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202608/core_1787018012_1455_thumb.png\" title=\"core_1787018012_1455_thumb.png\" alt=\"core_1787018012_1455.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202608/core_1787018031_1768_thumb.png\" title=\"core_1787018031_1768_thumb.png\" alt=\"core_1787018031_1768.png\"></p>"
+    }
+  },
   "province": [],
   "attr": {},
   "company": {},

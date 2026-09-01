@@ -1,9 +1,22 @@
 {
-  "update_time": "2026-08-01 06:36:13",
+  "update_time": "2026-09-01 09:14:52",
   "school_id": "1863",
   "school_name": "泉州医学高等专科学校",
-  "jobrateyear": "",
-  "jobrate": {},
+  "jobrateyear": "2025",
+  "jobrate": {
+    "job": {
+      "1": "98.40"
+    },
+    "postgraduate": {
+      "1": "8.53"
+    },
+    "abroad": {
+      "1": "0.00"
+    },
+    "content": {
+      "1": "<p><img src=\"https://static-data.gaokao.cn//upload/image/202608/core_1787119595_7863_thumb.png\" title=\"core_1787119595_7863_thumb.png\" alt=\"core_1787119595_7863.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202608/core_1787119614_1105_thumb.png\" title=\"core_1787119614_1105_thumb.png\" alt=\"core_1787119614_1105.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202608/core_1787119623_6205_thumb.png\" title=\"core_1787119623_6205_thumb.png\" alt=\"core_1787119623_6205.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202608/core_1787119629_1875_thumb.png\" title=\"core_1787119629_1875_thumb.png\" alt=\"core_1787119629_1875.png\"></p>"
+    }
+  },
   "province": [],
   "attr": {},
   "company": {},

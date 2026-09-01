@@ -1,9 +1,22 @@
 {
-  "update_time": "2026-08-01 06:22:08",
+  "update_time": "2026-09-01 09:00:51",
   "school_id": "302",
   "school_name": "广东财经大学",
-  "jobrateyear": "",
-  "jobrate": {},
+  "jobrateyear": "2024",
+  "jobrate": {
+    "job": {
+      "1": "93.37"
+    },
+    "postgraduate": {
+      "1": "6.28"
+    },
+    "abroad": {
+      "1": "5.76"
+    },
+    "content": {
+      "1": "<p><img src=\"https://static-data.gaokao.cn//upload/image/202608/core_1785898259_5436_thumb.png\" title=\"core_1785898259_5436_thumb.png\" alt=\"core_1785898259_5436.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202608/core_1785898272_1497_thumb.png\" title=\"core_1785898272_1497_thumb.png\" alt=\"core_1785898272_1497.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202608/core_1785898281_4526_thumb.png\" title=\"core_1785898281_4526_thumb.png\" alt=\"core_1785898281_4526.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202608/core_1785898293_4417_thumb.png\" title=\"core_1785898293_4417_thumb.png\" alt=\"core_1785898293_4417.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202608/core_1785898304_1544_thumb.png\" title=\"core_1785898304_1544_thumb.png\" alt=\"core_1785898304_1544.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202608/core_1785898315_8219_thumb.png\" title=\"core_1785898315_8219_thumb.png\" alt=\"core_1785898315_8219.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202608/core_1785898325_9091_thumb.png\" title=\"core_1785898325_9091_thumb.png\" alt=\"core_1785898325_9091.png\"></p>"
+    }
+  },
   "province": [],
   "attr": {},
   "company": {},

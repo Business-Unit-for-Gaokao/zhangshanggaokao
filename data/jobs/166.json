@@ -1,20 +1,20 @@
 {
-  "update_time": "2026-08-01 06:20:44",
+  "update_time": "2026-09-01 08:59:25",
   "school_id": "166",
   "school_name": "南京信息工程大学",
-  "jobrateyear": "2023",
+  "jobrateyear": "2024",
   "jobrate": {
     "job": {
-      "1": "95.25"
+      "1": "95.33"
     },
     "postgraduate": {
-      "1": "36.10"
+      "1": "38.22"
     },
     "abroad": {
-      "1": "7.84"
+      "1": "10.40"
     },
     "content": {
-      "1": ""
+      "1": "<p><img src=\"https://static-data.gaokao.cn//upload/image/202608/core_1785838058_2039_thumb.png\" title=\"core_1785838058_2039_thumb.png\" alt=\"core_1785838058_2039.png\"></p>"
     }
   },
   "province": [

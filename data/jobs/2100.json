@@ -1,9 +1,22 @@
 {
-  "update_time": "2026-08-01 06:38:41",
+  "update_time": "2026-09-01 09:17:18",
   "school_id": "2100",
   "school_name": "山东劳动职业技术学院",
-  "jobrateyear": "",
-  "jobrate": {},
+  "jobrateyear": "2024",
+  "jobrate": {
+    "job": {
+      "1": "90.16"
+    },
+    "postgraduate": {
+      "1": "11.19"
+    },
+    "abroad": {
+      "1": "0.00"
+    },
+    "content": {
+      "1": "<p><img src=\"https://static-data.gaokao.cn//upload/image/202608/core_1787197630_9858_thumb.png\" title=\"core_1787197630_9858_thumb.png\" alt=\"core_1787197630_9858.png\"></p>"
+    }
+  },
   "province": [],
   "attr": {},
   "company": {},

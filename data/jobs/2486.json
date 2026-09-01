@@ -1,9 +1,22 @@
 {
-  "update_time": "2026-08-01 06:42:35",
+  "update_time": "2026-09-01 09:21:14",
   "school_id": "2486",
   "school_name": "新疆职业大学",
-  "jobrateyear": "",
-  "jobrate": {},
+  "jobrateyear": "2023",
+  "jobrate": {
+    "job": {
+      "1": "93.70"
+    },
+    "postgraduate": {
+      "1": "0.00"
+    },
+    "abroad": {
+      "1": "0.00"
+    },
+    "content": {
+      "1": "<p><img src=\"https://static-data.gaokao.cn//upload/image/202608/core_1787019135_2525_thumb.png\" title=\"core_1787019135_2525_thumb.png\" alt=\"core_1787019135_2525.png\"></p>"
+    }
+  },
   "province": [],
   "attr": {},
   "company": {},

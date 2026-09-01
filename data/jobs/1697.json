@@ -1,20 +1,20 @@
 {
-  "update_time": "2026-08-01 06:34:30",
+  "update_time": "2026-09-01 09:13:08",
   "school_id": "1697",
   "school_name": "沈阳工学院",
-  "jobrateyear": "2023",
+  "jobrateyear": "2024",
   "jobrate": {
     "job": {
-      "1": "88.85"
+      "1": "91.58"
     },
     "postgraduate": {
-      "1": "11.74"
+      "1": "11.63"
     },
     "abroad": {
-      "1": "0.02"
+      "1": "0.33"
     },
     "content": {
-      "1": ""
+      "1": "<p xss=removed><span xss=removed>2024年共有本科毕业生4374人，实际毕业人数4199人，毕业率为96.00%,学位授予率为</span><span xss=removed>97.31%</span><span xss=removed>，各专业本科生毕业率、学位授予率见附件。</span></p><p xss=removed><span xss=removed><span xss=removed>我校以就业为导向，以服务为宗旨，构建以就业为目标的人才培养模式取得</span> <span xss=removed>了一定的成效，为提高学生的就业能力、提高学生的就业数量与质量奠定了坚实</span> <span xss=removed>的基础。</span></span><span xss=removed>2024年学校应届本科毕业生总体毕业去向落实率为91.58%。毕业生最主要的毕业去向是企业，占87.57%。升学502人，占11.96%，其中出国（境）留学14人，占0.33%。</span></p><p><br></p>"
     }
   },
   "province": [

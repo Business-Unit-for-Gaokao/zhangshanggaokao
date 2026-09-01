@@ -1,9 +1,22 @@
 {
-  "update_time": "2026-08-01 06:35:44",
+  "update_time": "2026-09-01 09:14:25",
   "school_id": "1820",
   "school_name": "安徽电子信息职业技术学院",
-  "jobrateyear": "",
-  "jobrate": {},
+  "jobrateyear": "2025",
+  "jobrate": {
+    "job": {
+      "1": "95.04"
+    },
+    "postgraduate": {
+      "1": "10.13"
+    },
+    "abroad": {
+      "1": "0.00"
+    },
+    "content": {
+      "1": "<p><img src=\"https://static-data.gaokao.cn//upload/image/202608/core_1787020426_2009_thumb.png\" title=\"core_1787020426_2009_thumb.png\" alt=\"core_1787020426_2009.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202608/core_1787020440_2556_thumb.png\" title=\"core_1787020440_2556_thumb.png\" alt=\"core_1787020440_2556.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202608/core_1787020451_1442_thumb.png\" title=\"core_1787020451_1442_thumb.png\" alt=\"core_1787020451_1442.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202608/core_1787020463_6657_thumb.png\" title=\"core_1787020463_6657_thumb.png\" alt=\"core_1787020463_6657.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202608/core_1787020473_2823_thumb.png\" title=\"core_1787020473_2823_thumb.png\" alt=\"core_1787020473_2823.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202608/core_1787020483_4055_thumb.png\" title=\"core_1787020483_4055_thumb.png\" alt=\"core_1787020483_4055.png\"></p>"
+    }
+  },
   "province": [],
   "attr": {},
   "company": {},

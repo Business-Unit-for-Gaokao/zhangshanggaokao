@@ -1,9 +1,22 @@
 {
-  "update_time": "2026-08-01 06:44:14",
+  "update_time": "2026-09-01 09:22:53",
   "school_id": "2691",
   "school_name": "重庆交通职业学院",
-  "jobrateyear": "",
-  "jobrate": {},
+  "jobrateyear": "2023",
+  "jobrate": {
+    "job": {
+      "1": "85.99"
+    },
+    "postgraduate": {
+      "1": "11.82"
+    },
+    "abroad": {
+      "1": "0.00"
+    },
+    "content": {
+      "1": "<p><img src=\"https://static-data.gaokao.cn//upload/image/202608/core_1787039623_6049_thumb.png\" title=\"core_1787039623_6049_thumb.png\" alt=\"core_1787039623_6049.png\"></p>"
+    }
+  },
   "province": [],
   "attr": {},
   "company": {},

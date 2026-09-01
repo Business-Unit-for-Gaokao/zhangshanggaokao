@@ -1,20 +1,20 @@
 {
-  "update_time": "2026-08-01 06:30:20",
+  "update_time": "2026-09-01 09:08:54",
   "school_id": "1167",
   "school_name": "保定理工学院",
-  "jobrateyear": "2019",
+  "jobrateyear": "2023",
   "jobrate": {
     "job": {
-      "1": "96.00"
+      "1": "81.55"
     },
     "postgraduate": {
-      "1": "4.00"
+      "1": "0.00"
     },
     "abroad": {
       "1": "0.00"
     },
     "content": {
-      "1": ""
+      "1": "<p><img src=\"https://static-data.gaokao.cn//upload/image/202608/core_1785809014_2406_thumb.png\" title=\"core_1785809014_2406_thumb.png\" alt=\"core_1785809014_2406.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202608/core_1785809034_4109_thumb.png\" title=\"core_1785809034_4109_thumb.png\" alt=\"core_1785809034_4109.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202608/core_1785809071_8701_thumb.png\" title=\"core_1785809071_8701_thumb.png\" alt=\"core_1785809071_8701.png\"></p>"
     }
   },
   "province": [

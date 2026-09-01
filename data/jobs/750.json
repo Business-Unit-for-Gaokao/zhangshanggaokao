@@ -1,9 +1,22 @@
 {
-  "update_time": "2026-08-01 06:26:39",
+  "update_time": "2026-09-01 09:05:14",
   "school_id": "750",
   "school_name": "石家庄工程职业学院",
-  "jobrateyear": "",
-  "jobrate": {},
+  "jobrateyear": "2023",
+  "jobrate": {
+    "job": {
+      "1": "87.20"
+    },
+    "postgraduate": {
+      "1": "4.00"
+    },
+    "abroad": {
+      "1": "0.02"
+    },
+    "content": {
+      "1": "<p><img src=\"https://static-data.gaokao.cn//upload/image/202608/core_1787211210_1353_thumb.png\" title=\"core_1787211210_1353_thumb.png\" alt=\"core_1787211210_1353.png\"></p>"
+    }
+  },
   "province": [],
   "attr": {},
   "company": {},

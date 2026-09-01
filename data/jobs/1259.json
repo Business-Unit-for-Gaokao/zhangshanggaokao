@@ -1,20 +1,20 @@
 {
-  "update_time": "2026-08-01 06:31:08",
+  "update_time": "2026-09-01 09:09:42",
   "school_id": "1259",
   "school_name": "贺州学院",
-  "jobrateyear": "2022",
+  "jobrateyear": "2024",
   "jobrate": {
     "job": {
-      "1": "82.86"
+      "1": "75.02"
     },
     "postgraduate": {
-      "1": "0.00"
+      "1": "2.91"
     },
     "abroad": {
-      "1": "0.00"
+      "1": "0.18"
     },
     "content": {
-      "1": ""
+      "1": "<p><img src=\"https://static-data.gaokao.cn//upload/image/202608/core_1785827242_5932_thumb.png\" title=\"core_1785827242_5932_thumb.png\" alt=\"core_1785827242_5932.png\"></p>"
     }
   },
   "province": [

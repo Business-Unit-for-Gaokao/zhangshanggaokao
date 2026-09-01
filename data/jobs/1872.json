@@ -1,9 +1,22 @@
 {
-  "update_time": "2026-08-01 06:36:19",
+  "update_time": "2026-09-01 09:14:58",
   "school_id": "1872",
   "school_name": "福建农业职业技术学院",
-  "jobrateyear": "",
-  "jobrate": {},
+  "jobrateyear": "2024",
+  "jobrate": {
+    "job": {
+      "1": "100.00"
+    },
+    "postgraduate": {
+      "1": "10.88"
+    },
+    "abroad": {
+      "1": "0.04"
+    },
+    "content": {
+      "1": "<p></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202608/core_1787198126_1839_thumb.png\" title=\"core_1787198126_1839_thumb.png\" alt=\"core_1787198126_1839.png\"></p>"
+    }
+  },
   "province": [],
   "attr": {},
   "company": {},

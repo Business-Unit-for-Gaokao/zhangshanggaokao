@@ -1,20 +1,20 @@
 {
-  "update_time": "2026-08-01 06:22:36",
+  "update_time": "2026-09-01 09:01:18",
   "school_id": "347",
   "school_name": "昆明医科大学",
-  "jobrateyear": "2022",
+  "jobrateyear": "2024",
   "jobrate": {
     "job": {
-      "1": "75.29"
+      "1": "71.99"
     },
     "postgraduate": {
-      "1": "27.40"
+      "1": "31.18"
     },
     "abroad": {
-      "1": "0.24"
+      "1": "0.35"
     },
     "content": {
-      "1": ""
+      "1": "<p><img src=\"https://static-data.gaokao.cn//upload/image/202608/core_1785918978_3550_thumb.png\" title=\"core_1785918978_3550_thumb.png\" alt=\"core_1785918978_3550.png\"></p>"
     }
   },
   "province": [

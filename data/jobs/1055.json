@@ -1,20 +1,20 @@
 {
-  "update_time": "2026-08-01 06:29:24",
+  "update_time": "2026-09-01 09:08:01",
   "school_id": "1055",
   "school_name": "保险职业学院",
-  "jobrateyear": "2019",
+  "jobrateyear": "2025",
   "jobrate": {
     "job": {
-      "1": "79.03"
+      "1": "89.72"
     },
     "postgraduate": {
-      "1": "7.55"
+      "1": "9.66"
     },
     "abroad": {
-      "1": "0.10"
+      "1": "0.13"
     },
     "content": {
-      "1": ""
+      "1": "<p><img src=\"https://static-data.gaokao.cn//upload/image/202608/core_1787036196_8943_thumb.png\" title=\"core_1787036196_8943_thumb.png\" alt=\"core_1787036196_8943.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202608/core_1787036214_4039_thumb.png\" title=\"core_1787036214_4039_thumb.png\" alt=\"core_1787036214_4039.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202608/core_1787036224_9356_thumb.png\" title=\"core_1787036224_9356_thumb.png\" alt=\"core_1787036224_9356.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202608/core_1787036233_5493_thumb.png\" title=\"core_1787036233_5493_thumb.png\" alt=\"core_1787036233_5493.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202608/core_1787036247_3206_thumb.png\" title=\"core_1787036247_3206_thumb.png\" alt=\"core_1787036247_3206.png\"></p>"
     }
   },
   "province": [

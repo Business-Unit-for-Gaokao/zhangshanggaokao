@@ -1,20 +1,20 @@
 {
-  "update_time": "2026-08-01 06:47:56",
+  "update_time": "2026-09-01 09:26:38",
   "school_id": "3368",
   "school_name": "三门峡社会管理职业学院",
-  "jobrateyear": "2023",
+  "jobrateyear": "2024",
   "jobrate": {
     "job": {
-      "1": "96.41"
+      "1": "89.50"
     },
     "postgraduate": {
-      "1": "13.47"
+      "1": "13.86"
     },
     "abroad": {
       "1": "0.00"
     },
     "content": {
-      "1": ""
+      "1": "<p><br></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788233581_8770_thumb.png\" title=\"core_1788233581_8770_thumb.png\" alt=\"core_1788233581_8770.png\"></p>"
     }
   },
   "province": [

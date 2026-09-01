@@ -1,9 +1,22 @@
 {
-  "update_time": "2026-08-01 06:39:41",
+  "update_time": "2026-09-01 09:18:22",
   "school_id": "2201",
   "school_name": "镇江市高等专科学校",
-  "jobrateyear": "",
-  "jobrate": {},
+  "jobrateyear": "2024",
+  "jobrate": {
+    "job": {
+      "1": "92.40"
+    },
+    "postgraduate": {
+      "1": "16.29"
+    },
+    "abroad": {
+      "1": "0.00"
+    },
+    "content": {
+      "1": "<p><img src=\"https://static-data.gaokao.cn//upload/image/202608/core_1786935652_1333_thumb.png\" title=\"core_1786935652_1333_thumb.png\" alt=\"core_1786935652_1333.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202608/core_1786935664_9383_thumb.png\" title=\"core_1786935664_9383_thumb.png\" alt=\"core_1786935664_9383.png\"></p>"
+    }
+  },
   "province": [],
   "attr": {},
   "company": {},

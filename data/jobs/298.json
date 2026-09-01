@@ -1,20 +1,20 @@
 {
-  "update_time": "2026-08-01 06:22:06",
+  "update_time": "2026-09-01 09:00:48",
   "school_id": "298",
   "school_name": "韶关学院",
-  "jobrateyear": "2023",
+  "jobrateyear": "2024",
   "jobrate": {
     "job": {
-      "1": "89.08"
+      "1": "80.66"
     },
     "postgraduate": {
-      "1": "0.00"
+      "1": "9.87"
     },
     "abroad": {
-      "1": "0.00"
+      "1": "1.00"
     },
     "content": {
-      "1": ""
+      "1": "<p><img src=\"https://static-data.gaokao.cn//upload/image/202608/core_1785897572_6811_thumb.png\" title=\"core_1785897572_6811_thumb.png\" alt=\"core_1785897572_6811.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202608/core_1785897593_7700_thumb.png\" title=\"core_1785897593_7700_thumb.png\" alt=\"core_1785897593_7700.png\"></p>"
     }
   },
   "province": [

@@ -1,9 +1,22 @@
 {
-  "update_time": "2026-08-01 06:36:26",
+  "update_time": "2026-09-01 09:15:05",
   "school_id": "1884",
   "school_name": "宁德职业技术学院",
-  "jobrateyear": "",
-  "jobrate": {},
+  "jobrateyear": "2025",
+  "jobrate": {
+    "job": {
+      "1": "94.50"
+    },
+    "postgraduate": {
+      "1": "0.00"
+    },
+    "abroad": {
+      "1": "0.00"
+    },
+    "content": {
+      "1": "<p><img src=\"https://static-data.gaokao.cn//upload/image/202608/core_1787021471_5015_thumb.png\" title=\"core_1787021471_5015_thumb.png\" alt=\"core_1787021471_5015.png\"></p>"
+    }
+  },
   "province": [],
   "attr": {},
   "company": {},

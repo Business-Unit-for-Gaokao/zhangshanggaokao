@@ -1,20 +1,20 @@
 {
-  "update_time": "2026-08-01 06:24:11",
+  "update_time": "2026-09-01 09:02:50",
   "school_id": "492",
   "school_name": "甘肃农业大学",
-  "jobrateyear": "2019",
+  "jobrateyear": "2024",
   "jobrate": {
     "job": {
-      "1": "94.79"
+      "1": "82.98"
     },
     "postgraduate": {
-      "1": "35.42"
+      "1": "30.23"
     },
     "abroad": {
       "1": "0.00"
     },
     "content": {
-      "1": ""
+      "1": "<p xss=removed>2024 年学校总体就业质量稳步提高，以教育部“全国高校毕业生就业管理与监测系统”的数据为准，截止 8 月 31 日，2024 届 4466 名毕业生中，落实就业单位 3706 人，初次毕业去向落实率为 82.98%，较 2023 届提高2.23%。已就业的毕业生中，签就业协议及劳动合同形式就业占比 57.18%，研究生升学占比34.65%。从毕业生的单位流向来看，学校 2024 届毕业生仍以其他企业（主要为民营企业）为主，占比 54.24%；国有企业次之，占比24.72%。</p><p xss=removed><img src=\"https://static-data.gaokao.cn//upload/image/202608/core_1785982111_1295_thumb.png\" title=\"core_1785982111_1295_thumb.png\" alt=\"core_1785982111_1295.png\"></p><p xss=removed><img src=\"https://static-data.gaokao.cn//upload/image/202608/core_1785982137_9978_thumb.png\" title=\"core_1785982137_9978_thumb.png\" alt=\"core_1785982137_9978.png\"></p>"
     }
   },
   "province": [

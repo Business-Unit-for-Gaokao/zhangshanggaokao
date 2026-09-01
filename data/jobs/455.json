@@ -1,20 +1,20 @@
 {
-  "update_time": "2026-08-01 06:23:48",
+  "update_time": "2026-09-01 09:02:28",
   "school_id": "455",
   "school_name": "武汉音乐学院",
-  "jobrateyear": "2023",
+  "jobrateyear": "2024",
   "jobrate": {
     "job": {
-      "1": "93.09"
+      "1": "89.36"
     },
     "postgraduate": {
-      "1": "11.78"
+      "1": "13.76"
     },
     "abroad": {
-      "1": "7.71"
+      "1": "11.00"
     },
     "content": {
-      "1": ""
+      "1": "<p><img src=\"https://static-data.gaokao.cn//upload/image/202608/core_1785987864_5902_thumb.png\" title=\"core_1785987864_5902_thumb.png\" alt=\"core_1785987864_5902.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202608/core_1785987873_5121_thumb.png\" title=\"core_1785987873_5121_thumb.png\" alt=\"core_1785987873_5121.png\"></p>"
     }
   },
   "province": [

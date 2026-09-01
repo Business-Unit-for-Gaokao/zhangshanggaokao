@@ -1,20 +1,20 @@
 {
-  "update_time": "2026-08-01 06:32:37",
+  "update_time": "2026-09-01 09:11:11",
   "school_id": "1476",
   "school_name": "重庆移通学院",
-  "jobrateyear": "2023",
+  "jobrateyear": "2024",
   "jobrate": {
     "job": {
-      "1": "91.76"
+      "1": "88.82"
     },
     "postgraduate": {
-      "1": "4.03"
+      "1": "1.26"
     },
     "abroad": {
-      "1": "1.07"
+      "1": "0.61"
     },
     "content": {
-      "1": ""
+      "1": "<p><img src=\"https://static-data.gaokao.cn//upload/image/202608/core_1785988436_7874_thumb.png\" title=\"core_1785988436_7874_thumb.png\" alt=\"core_1785988436_7874.png\"></p>"
     }
   },
   "province": [

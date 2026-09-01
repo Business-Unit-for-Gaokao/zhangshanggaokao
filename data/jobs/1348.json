@@ -1,9 +1,22 @@
 {
-  "update_time": "2026-08-01 06:31:45",
+  "update_time": "2026-09-01 09:10:19",
   "school_id": "1348",
   "school_name": "重庆科创职业学院",
-  "jobrateyear": "",
-  "jobrate": {},
+  "jobrateyear": "2025",
+  "jobrate": {
+    "job": {
+      "1": "96.32"
+    },
+    "postgraduate": {
+      "1": "16.09"
+    },
+    "abroad": {
+      "1": "0.00"
+    },
+    "content": {
+      "1": "<p><img src=\"https://static-data.gaokao.cn//upload/image/202608/core_1787539175_4434_thumb.png\" title=\"core_1787539175_4434_thumb.png\" alt=\"core_1787539175_4434.png\"></p><p><br></p>"
+    }
+  },
   "province": [],
   "attr": {},
   "company": {},

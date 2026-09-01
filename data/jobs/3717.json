@@ -1,9 +1,22 @@
 {
-  "update_time": "2026-08-01 06:51:06",
+  "update_time": "2026-09-01 09:29:51",
   "school_id": "3717",
   "school_name": "宿迁幼儿师范高等专科学校",
-  "jobrateyear": "",
-  "jobrate": {},
+  "jobrateyear": "2025",
+  "jobrate": {
+    "job": {
+      "1": "96.44"
+    },
+    "postgraduate": {
+      "1": "8.50"
+    },
+    "abroad": {
+      "1": "0.00"
+    },
+    "content": {
+      "1": "<p><img src=\"https://static-data.gaokao.cn//upload/image/202608/core_1787019762_3700_thumb.png\" title=\"core_1787019762_3700_thumb.png\" alt=\"core_1787019762_3700.png\"></p>"
+    }
+  },
   "province": [],
   "attr": {},
   "company": {},

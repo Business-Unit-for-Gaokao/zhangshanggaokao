@@ -1,9 +1,22 @@
 {
-  "update_time": "2026-08-01 06:26:24",
+  "update_time": "2026-09-01 09:05:01",
   "school_id": "724",
   "school_name": "河北艺术职业学院",
-  "jobrateyear": "",
-  "jobrate": {},
+  "jobrateyear": "2024",
+  "jobrate": {
+    "job": {
+      "1": "90.20"
+    },
+    "postgraduate": {
+      "1": "10.90"
+    },
+    "abroad": {
+      "1": "0.00"
+    },
+    "content": {
+      "1": "<p><img src=\"https://static-data.gaokao.cn//upload/image/202608/core_1787197464_3759_thumb.png\" title=\"core_1787197464_3759_thumb.png\" alt=\"core_1787197464_3759.png\"></p>"
+    }
+  },
   "province": [],
   "attr": {},
   "company": {},

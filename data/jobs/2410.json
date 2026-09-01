@@ -1,20 +1,20 @@
 {
-  "update_time": "2026-08-01 06:41:45",
+  "update_time": "2026-09-01 09:20:26",
   "school_id": "2410",
   "school_name": "蚌埠工商学院",
-  "jobrateyear": "2023",
+  "jobrateyear": "2024",
   "jobrate": {
     "job": {
-      "1": "96.09"
+      "1": "94.93"
     },
     "postgraduate": {
-      "1": "0.00"
+      "1": "2.55"
     },
     "abroad": {
-      "1": "0.00"
+      "1": "0.33"
     },
     "content": {
-      "1": ""
+      "1": "<p><img src=\"https://static-data.gaokao.cn//upload/image/202608/core_1785923846_2177_thumb.png\" title=\"core_1785923846_2177_thumb.png\" alt=\"core_1785923846_2177.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202608/core_1785923854_3589_thumb.png\" title=\"core_1785923854_3589_thumb.png\" alt=\"core_1785923854_3589.png\"></p>"
     }
   },
   "province": [

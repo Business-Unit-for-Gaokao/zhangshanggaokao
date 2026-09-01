@@ -1,9 +1,22 @@
 {
-  "update_time": "2026-08-01 06:27:00",
+  "update_time": "2026-09-01 09:05:36",
   "school_id": "787",
   "school_name": "南通大学",
-  "jobrateyear": "",
-  "jobrate": {},
+  "jobrateyear": "2023",
+  "jobrate": {
+    "job": {
+      "1": "80.91"
+    },
+    "postgraduate": {
+      "1": "24.03"
+    },
+    "abroad": {
+      "1": "2.88"
+    },
+    "content": {
+      "1": "<p><img src=\"https://static-data.gaokao.cn//upload/image/202608/core_1785981546_3009_thumb.png\" title=\"core_1785981546_3009_thumb.png\" alt=\"core_1785981546_3009.png\"></p>"
+    }
+  },
   "province": [],
   "attr": {},
   "company": {},

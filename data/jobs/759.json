@@ -1,9 +1,22 @@
 {
-  "update_time": "2026-08-01 06:26:42",
+  "update_time": "2026-09-01 09:05:18",
   "school_id": "759",
   "school_name": "黑龙江司法警官职业学院",
-  "jobrateyear": "",
-  "jobrate": {},
+  "jobrateyear": "2024",
+  "jobrate": {
+    "job": {
+      "1": "86.58"
+    },
+    "postgraduate": {
+      "1": "31.07"
+    },
+    "abroad": {
+      "1": "0.00"
+    },
+    "content": {
+      "1": "<p><img src=\"https://static-data.gaokao.cn//upload/image/202608/core_1786936100_6728_thumb.png\" title=\"core_1786936100_6728_thumb.png\" alt=\"core_1786936100_6728.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202608/core_1786936111_8779_thumb.png\" title=\"core_1786936111_8779_thumb.png\" alt=\"core_1786936111_8779.png\"></p><p><br></p>"
+    }
+  },
   "province": [],
   "attr": {},
   "company": {},

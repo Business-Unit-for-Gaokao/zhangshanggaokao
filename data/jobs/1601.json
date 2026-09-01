@@ -1,20 +1,20 @@
 {
-  "update_time": "2026-08-01 06:33:34",
+  "update_time": "2026-09-01 09:12:10",
   "school_id": "1601",
   "school_name": "天津仁爱学院",
-  "jobrateyear": "2023",
+  "jobrateyear": "2025",
   "jobrate": {
     "job": {
-      "1": "92.08"
+      "1": "95.18"
     },
     "postgraduate": {
-      "1": "5.86"
+      "1": "5.35"
     },
     "abroad": {
-      "1": "1.60"
+      "1": "2.60"
     },
     "content": {
-      "1": ""
+      "1": "<p><img src=\"https://static-data.gaokao.cn//upload/image/202608/core_1785835373_6506_thumb.png\" title=\"core_1785835373_6506_thumb.png\" alt=\"core_1785835373_6506.png\"></p>"
     }
   },
   "province": [

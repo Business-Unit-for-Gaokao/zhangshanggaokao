@@ -1,20 +1,20 @@
 {
-  "update_time": "2026-08-01 06:41:04",
+  "update_time": "2026-09-01 09:19:45",
   "school_id": "2342",
   "school_name": "辽宁师范大学海华学院",
-  "jobrateyear": "2019",
+  "jobrateyear": "2024",
   "jobrate": {
     "job": {
-      "1": "93.23"
+      "1": "86.94"
     },
     "postgraduate": {
-      "1": "3.84"
+      "1": "5.32"
     },
     "abroad": {
-      "1": "0.59"
+      "1": "0.83"
     },
     "content": {
-      "1": ""
+      "1": "<p><img src=\"https://static-data.gaokao.cn//upload/image/202608/core_1785826947_3611_thumb.png\" title=\"core_1785826947_3611_thumb.png\" alt=\"core_1785826947_3611.png\"></p>"
     }
   },
   "province": [

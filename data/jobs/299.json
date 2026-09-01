@@ -1,9 +1,22 @@
 {
-  "update_time": "2026-08-01 06:22:06",
+  "update_time": "2026-09-01 09:00:49",
   "school_id": "299",
   "school_name": "岭南师范学院",
-  "jobrateyear": "",
-  "jobrate": {},
+  "jobrateyear": "2024",
+  "jobrate": {
+    "job": {
+      "1": "96.60"
+    },
+    "postgraduate": {
+      "1": "9.70"
+    },
+    "abroad": {
+      "1": "1.70"
+    },
+    "content": {
+      "1": "<p><img src=\"https://static-data.gaokao.cn//upload/image/202608/core_1785924076_5405_thumb.png\" title=\"core_1785924076_5405_thumb.png\" alt=\"core_1785924076_5405.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202608/core_1785924086_7372_thumb.png\" title=\"core_1785924086_7372_thumb.png\" alt=\"core_1785924086_7372.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202608/core_1785924095_5425_thumb.png\" title=\"core_1785924095_5425_thumb.png\" alt=\"core_1785924095_5425.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202608/core_1785924104_3974_thumb.png\" title=\"core_1785924104_3974_thumb.png\" alt=\"core_1785924104_3974.png\"></p>"
+    }
+  },
   "province": [],
   "attr": {},
   "company": {},

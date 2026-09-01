@@ -1,20 +1,20 @@
 {
-  "update_time": "2026-08-01 06:31:07",
+  "update_time": "2026-09-01 09:09:41",
   "school_id": "1258",
   "school_name": "河北科技师范学院",
-  "jobrateyear": "2023",
+  "jobrateyear": "2024",
   "jobrate": {
     "job": {
-      "1": "89.37"
+      "1": "88.15"
     },
     "postgraduate": {
-      "1": "15.91"
+      "1": "18.14"
     },
     "abroad": {
-      "1": "0.38"
+      "1": "0.29"
     },
     "content": {
-      "1": ""
+      "1": "<p><img src=\"https://static-data.gaokao.cn//upload/image/202608/core_1785896112_1997_thumb.png\" title=\"core_1785896112_1997_thumb.png\" alt=\"core_1785896112_1997.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202608/core_1785896132_6402_thumb.png\" title=\"core_1785896132_6402_thumb.png\" alt=\"core_1785896132_6402.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202608/core_1785896145_7708_thumb.png\" title=\"core_1785896145_7708_thumb.png\" alt=\"core_1785896145_7708.png\"></p>"
     }
   },
   "province": [

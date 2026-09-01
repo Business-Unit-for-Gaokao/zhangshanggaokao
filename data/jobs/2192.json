@@ -1,9 +1,22 @@
 {
-  "update_time": "2026-08-01 06:39:37",
+  "update_time": "2026-09-01 09:18:17",
   "school_id": "2192",
   "school_name": "黑龙江幼儿师范高等专科学校",
-  "jobrateyear": "",
-  "jobrate": {},
+  "jobrateyear": "2024",
+  "jobrate": {
+    "job": {
+      "1": "81.74"
+    },
+    "postgraduate": {
+      "1": "30.79"
+    },
+    "abroad": {
+      "1": "0.00"
+    },
+    "content": {
+      "1": "<p><img src=\"https://static-data.gaokao.cn//upload/image/202608/core_1787210942_2789_thumb.png\" title=\"core_1787210942_2789_thumb.png\" alt=\"core_1787210942_2789.png\"></p>"
+    }
+  },
   "province": [],
   "attr": {},
   "company": {},

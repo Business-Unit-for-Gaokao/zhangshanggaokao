@@ -1,9 +1,22 @@
 {
-  "update_time": "2026-08-01 06:34:44",
+  "update_time": "2026-09-01 09:13:23",
   "school_id": "1724",
   "school_name": "上海电影艺术职业学院",
-  "jobrateyear": "",
-  "jobrate": {},
+  "jobrateyear": "2023",
+  "jobrate": {
+    "job": {
+      "1": "98.01"
+    },
+    "postgraduate": {
+      "1": "0.00"
+    },
+    "abroad": {
+      "1": "0.00"
+    },
+    "content": {
+      "1": "<p><img src=\"https://static-data.gaokao.cn//upload/image/202608/core_1787018292_3322_thumb.png\" title=\"core_1787018292_3322_thumb.png\" alt=\"core_1787018292_3322.png\"></p><p><br></p>"
+    }
+  },
   "province": [],
   "attr": {},
   "company": {},

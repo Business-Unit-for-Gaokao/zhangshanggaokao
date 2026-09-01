@@ -1,20 +1,20 @@
 {
-  "update_time": "2026-08-01 06:49:27",
+  "update_time": "2026-09-01 09:28:09",
   "school_id": "3539",
   "school_name": "红河职业技术学院",
-  "jobrateyear": "2023",
+  "jobrateyear": "2024",
   "jobrate": {
     "job": {
-      "1": "90.76"
+      "1": "92.87"
     },
     "postgraduate": {
-      "1": "8.86"
+      "1": "31.89"
     },
     "abroad": {
-      "1": "0.00"
+      "1": "0.06"
     },
     "content": {
-      "1": ""
+      "1": "<p><img src=\"https://static-data.gaokao.cn//upload/image/202608/core_1788169842_6930_thumb.png\" title=\"core_1788169842_6930_thumb.png\" alt=\"core_1788169842_6930.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202608/core_1788169858_1968_thumb.png\" title=\"core_1788169858_1968_thumb.png\" alt=\"core_1788169858_1968.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202608/core_1788169875_4675_thumb.png\" title=\"core_1788169875_4675_thumb.png\" alt=\"core_1788169875_4675.png\"></p>"
     }
   },
   "province": [

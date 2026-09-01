@@ -1,20 +1,20 @@
 {
-  "update_time": "2026-08-01 06:41:33",
+  "update_time": "2026-09-01 09:20:14",
   "school_id": "2391",
   "school_name": "湖州学院",
-  "jobrateyear": "2023",
+  "jobrateyear": "2024",
   "jobrate": {
     "job": {
-      "1": "93.15"
+      "1": "95.65"
     },
     "postgraduate": {
-      "1": "6.99"
+      "1": "0.00"
     },
     "abroad": {
-      "1": "0.69"
+      "1": "0.00"
     },
     "content": {
-      "1": ""
+      "1": "<p><img src=\"https://static-data.gaokao.cn//upload/image/202608/core_1785919168_6885_thumb.png\" title=\"core_1785919168_6885_thumb.png\" alt=\"core_1785919168_6885.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202608/core_1785919183_8996_thumb.png\" title=\"core_1785919183_8996_thumb.png\" alt=\"core_1785919183_8996.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202608/core_1785919193_9636_thumb.png\" title=\"core_1785919193_9636_thumb.png\" alt=\"core_1785919193_9636.png\"></p>"
     }
   },
   "province": [

@@ -1,9 +1,22 @@
 {
-  "update_time": "2026-08-01 06:26:50",
+  "update_time": "2026-09-01 09:05:26",
   "school_id": "772",
   "school_name": "成都农业科技职业学院",
-  "jobrateyear": "",
-  "jobrate": {},
+  "jobrateyear": "2025",
+  "jobrate": {
+    "job": {
+      "1": "95.66"
+    },
+    "postgraduate": {
+      "1": "15.64"
+    },
+    "abroad": {
+      "1": "0.00"
+    },
+    "content": {
+      "1": "<p><img src=\"https://static-data.gaokao.cn//upload/image/202608/core_1787539680_2473_thumb.png\" title=\"core_1787539680_2473_thumb.png\" alt=\"core_1787539680_2473.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202608/core_1787539693_1297_thumb.png\" title=\"core_1787539693_1297_thumb.png\" alt=\"core_1787539693_1297.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202608/core_1787539706_8968_thumb.png\" title=\"core_1787539706_8968_thumb.png\" alt=\"core_1787539706_8968.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202608/core_1787539723_3962_thumb.png\" title=\"core_1787539723_3962_thumb.png\" alt=\"core_1787539723_3962.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202608/core_1787539738_8492_thumb.png\" title=\"core_1787539738_8492_thumb.png\" alt=\"core_1787539738_8492.png\"></p>"
+    }
+  },
   "province": [],
   "attr": {},
   "company": {},

@@ -1,9 +1,22 @@
 {
-  "update_time": "2026-08-01 06:34:36",
+  "update_time": "2026-09-01 09:13:15",
   "school_id": "1711",
   "school_name": "兰州文理学院",
-  "jobrateyear": "",
-  "jobrate": {},
+  "jobrateyear": "2023",
+  "jobrate": {
+    "job": {
+      "1": "72.06"
+    },
+    "postgraduate": {
+      "1": "2.67"
+    },
+    "abroad": {
+      "1": "0.00"
+    },
+    "content": {
+      "1": "<p><img src=\"https://static-data.gaokao.cn//upload/image/202608/core_1786002134_3773_thumb.png\" title=\"core_1786002134_3773_thumb.png\" alt=\"core_1786002134_3773.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202608/core_1786002151_2959_thumb.png\" title=\"core_1786002151_2959_thumb.png\" alt=\"core_1786002151_2959.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202608/core_1786002160_2007_thumb.png\" title=\"core_1786002160_2007_thumb.png\" alt=\"core_1786002160_2007.png\"></p>"
+    }
+  },
   "province": [],
   "attr": {},
   "company": {},

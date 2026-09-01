@@ -1,9 +1,22 @@
 {
-  "update_time": "2026-08-01 06:35:50",
+  "update_time": "2026-09-01 09:14:31",
   "school_id": "1829",
   "school_name": "安徽冶金科技职业学院",
-  "jobrateyear": "",
-  "jobrate": {},
+  "jobrateyear": "2025",
+  "jobrate": {
+    "job": {
+      "1": "90.13"
+    },
+    "postgraduate": {
+      "1": "0.00"
+    },
+    "abroad": {
+      "1": "0.00"
+    },
+    "content": {
+      "1": "<p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788231843_7101_thumb.png\" title=\"core_1788231843_7101_thumb.png\" alt=\"core_1788231843_7101.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788231869_5422_thumb.png\" title=\"core_1788231869_5422_thumb.png\" alt=\"core_1788231869_5422.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788231883_7615_thumb.png\" title=\"core_1788231883_7615_thumb.png\" alt=\"core_1788231883_7615.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788231898_6515_thumb.png\" title=\"core_1788231898_6515_thumb.png\" alt=\"core_1788231898_6515.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788231910_2716_thumb.png\" title=\"core_1788231910_2716_thumb.png\" alt=\"core_1788231910_2716.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788231924_3525_thumb.png\" title=\"core_1788231924_3525_thumb.png\" alt=\"core_1788231924_3525.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788231937_1414_thumb.png\" title=\"core_1788231937_1414_thumb.png\" alt=\"core_1788231937_1414.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788231945_4144_thumb.png\" title=\"core_1788231945_4144_thumb.png\" alt=\"core_1788231945_4144.png\"></p><p><br></p>"
+    }
+  },
   "province": [],
   "attr": {},
   "company": {},

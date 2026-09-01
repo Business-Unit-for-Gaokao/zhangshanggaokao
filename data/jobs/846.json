@@ -1,11 +1,11 @@
 {
-  "update_time": "2026-08-01 06:27:31",
+  "update_time": "2026-09-01 09:06:05",
   "school_id": "846",
   "school_name": "天津职业大学",
-  "jobrateyear": "2023",
+  "jobrateyear": "2024",
   "jobrate": {
     "job": {
-      "1": "94.60"
+      "1": "92.90"
     },
     "postgraduate": {
       "1": "0.00"
@@ -14,7 +14,7 @@
       "1": "0.00"
     },
     "content": {
-      "1": ""
+      "1": "<p><img src=\"https://static-data.gaokao.cn//upload/image/202608/core_1786002280_6617_thumb.png\" title=\"core_1786002280_6617_thumb.png\" alt=\"core_1786002280_6617.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202608/core_1786002291_5611_thumb.png\" title=\"core_1786002291_5611_thumb.png\" alt=\"core_1786002291_5611.png\"></p>"
     }
   },
   "province": [

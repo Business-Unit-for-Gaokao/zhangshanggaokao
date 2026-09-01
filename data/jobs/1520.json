@@ -1,9 +1,22 @@
 {
-  "update_time": "2026-08-01 06:32:58",
+  "update_time": "2026-09-01 09:11:34",
   "school_id": "1520",
   "school_name": "开封大学",
-  "jobrateyear": "",
-  "jobrate": {},
+  "jobrateyear": "2025",
+  "jobrate": {
+    "job": {
+      "1": "95.11"
+    },
+    "postgraduate": {
+      "1": "0.00"
+    },
+    "abroad": {
+      "1": "0.00"
+    },
+    "content": {
+      "1": "<p><img src=\"https://static-data.gaokao.cn//upload/image/202608/core_1787712657_9834_thumb.png\" title=\"core_1787712657_9834_thumb.png\" alt=\"core_1787712657_9834.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202608/core_1787712667_8989_thumb.png\" title=\"core_1787712667_8989_thumb.png\" alt=\"core_1787712667_8989.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202608/core_1787712679_9937_thumb.png\" title=\"core_1787712679_9937_thumb.png\" alt=\"core_1787712679_9937.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202608/core_1787712691_5964_thumb.png\" title=\"core_1787712691_5964_thumb.png\" alt=\"core_1787712691_5964.png\"></p>"
+    }
+  },
   "province": [],
   "attr": {},
   "company": {},

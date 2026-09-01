@@ -1,9 +1,22 @@
 {
-  "update_time": "2026-08-01 06:32:28",
+  "update_time": "2026-09-01 09:11:03",
   "school_id": "1451",
   "school_name": "遵义医药高等专科学校",
-  "jobrateyear": "",
-  "jobrate": {},
+  "jobrateyear": "2025",
+  "jobrate": {
+    "job": {
+      "1": "95.02"
+    },
+    "postgraduate": {
+      "1": "35.58"
+    },
+    "abroad": {
+      "1": "0.00"
+    },
+    "content": {
+      "1": "<p><img src=\"https://static-data.gaokao.cn//upload/image/202608/core_1787035516_4380_thumb.png\" title=\"core_1787035516_4380_thumb.png\" alt=\"core_1787035516_4380.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202608/core_1787035525_4608_thumb.png\" title=\"core_1787035525_4608_thumb.png\" alt=\"core_1787035525_4608.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202608/core_1787035534_3519_thumb.png\" title=\"core_1787035534_3519_thumb.png\" alt=\"core_1787035534_3519.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202608/core_1787035544_9179_thumb.png\" title=\"core_1787035544_9179_thumb.png\" alt=\"core_1787035544_9179.png\"></p>"
+    }
+  },
   "province": [],
   "attr": {},
   "company": {},

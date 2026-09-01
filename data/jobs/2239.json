@@ -1,9 +1,22 @@
 {
-  "update_time": "2026-08-01 06:40:04",
+  "update_time": "2026-09-01 09:18:46",
   "school_id": "2239",
   "school_name": "陕西铁路工程职业技术学院",
-  "jobrateyear": "",
-  "jobrate": {},
+  "jobrateyear": "2024",
+  "jobrate": {
+    "job": {
+      "1": "95.85"
+    },
+    "postgraduate": {
+      "1": "0.00"
+    },
+    "abroad": {
+      "1": "0.00"
+    },
+    "content": {
+      "1": "<p><img src=\"https://static-data.gaokao.cn//upload/image/202608/core_1787215096_2314_thumb.png\" title=\"core_1787215096_2314_thumb.png\" alt=\"core_1787215096_2314.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202608/core_1787215108_8961_thumb.png\" title=\"core_1787215108_8961_thumb.png\" alt=\"core_1787215108_8961.png\"></p><p><br></p>"
+    }
+  },
   "province": [],
   "attr": {},
   "company": {},

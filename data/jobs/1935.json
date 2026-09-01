@@ -1,9 +1,22 @@
 {
-  "update_time": "2026-08-01 06:36:58",
+  "update_time": "2026-09-01 09:15:37",
   "school_id": "1935",
   "school_name": "永城职业学院",
-  "jobrateyear": "",
-  "jobrate": {},
+  "jobrateyear": "2025",
+  "jobrate": {
+    "job": {
+      "1": "88.44"
+    },
+    "postgraduate": {
+      "1": "11.26"
+    },
+    "abroad": {
+      "1": "0.00"
+    },
+    "content": {
+      "1": "<p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788253415_5951_thumb.png\" title=\"core_1788253415_5951_thumb.png\" alt=\"core_1788253415_5951.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788253426_4223_thumb.png\" title=\"core_1788253426_4223_thumb.png\" alt=\"core_1788253426_4223.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788253461_5312_thumb.png\" title=\"core_1788253461_5312_thumb.png\" alt=\"core_1788253461_5312.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788253469_5244_thumb.png\" title=\"core_1788253469_5244_thumb.png\" alt=\"core_1788253469_5244.png\"></p><p><br></p>"
+    }
+  },
   "province": [],
   "attr": {},
   "company": {},

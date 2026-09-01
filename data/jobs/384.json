@@ -1,20 +1,20 @@
 {
-  "update_time": "2026-08-01 06:23:01",
+  "update_time": "2026-09-01 09:01:42",
   "school_id": "384",
   "school_name": "吉林农业大学",
-  "jobrateyear": "2022",
+  "jobrateyear": "2024",
   "jobrate": {
     "job": {
-      "1": "79.97"
+      "1": "87.61"
     },
     "postgraduate": {
-      "1": "32.70"
+      "1": "45.97"
     },
     "abroad": {
-      "1": "0.46"
+      "1": "0.77"
     },
     "content": {
-      "1": ""
+      "1": "<p><img src=\"https://static-data.gaokao.cn//upload/image/202608/core_1785918133_1679_thumb.png\" title=\"core_1785918133_1679_thumb.png\" alt=\"core_1785918133_1679.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202608/core_1785918145_6789_thumb.png\" title=\"core_1785918145_6789_thumb.png\" alt=\"core_1785918145_6789.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202608/core_1785918156_2040_thumb.png\" title=\"core_1785918156_2040_thumb.png\" alt=\"core_1785918156_2040.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202608/core_1785918175_4047_thumb.png\" title=\"core_1785918175_4047_thumb.png\" alt=\"core_1785918175_4047.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202608/core_1785918209_5850_thumb.png\" title=\"core_1785918209_5850_thumb.png\" alt=\"core_1785918209_5850.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202608/core_1785918223_2571_thumb.png\" title=\"core_1785918223_2571_thumb.png\" alt=\"core_1785918223_2571.png\"></p>"
     }
   },
   "province": [

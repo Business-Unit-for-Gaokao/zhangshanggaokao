@@ -1,20 +1,20 @@
 {
-  "update_time": "2026-08-01 06:43:25",
+  "update_time": "2026-09-01 09:22:03",
   "school_id": "2568",
   "school_name": "毕节职业技术学院",
-  "jobrateyear": "2019",
+  "jobrateyear": "2024",
   "jobrate": {
     "job": {
-      "1": "79.66"
+      "1": "94.80"
     },
     "postgraduate": {
-      "1": "9.31"
+      "1": "13.70"
     },
     "abroad": {
       "1": "0.00"
     },
     "content": {
-      "1": ""
+      "1": "<p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788229048_1141_thumb.png\" title=\"core_1788229048_1141_thumb.png\" alt=\"core_1788229048_1141.png\"></p>"
     }
   },
   "province": [],

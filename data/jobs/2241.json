@@ -1,9 +1,22 @@
 {
-  "update_time": "2026-08-01 06:40:05",
+  "update_time": "2026-09-01 09:18:47",
   "school_id": "2241",
   "school_name": "陕西邮电职业技术学院",
-  "jobrateyear": "",
-  "jobrate": {},
+  "jobrateyear": "2024",
+  "jobrate": {
+    "job": {
+      "1": "83.13"
+    },
+    "postgraduate": {
+      "1": "13.65"
+    },
+    "abroad": {
+      "1": "0.00"
+    },
+    "content": {
+      "1": "<p><img src=\"https://static-data.gaokao.cn//upload/image/202608/core_1787556467_5398_thumb.png\" title=\"core_1787556467_5398_thumb.png\" alt=\"core_1787556467_5398.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202608/core_1787556477_6971_thumb.png\" title=\"core_1787556477_6971_thumb.png\" alt=\"core_1787556477_6971.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202608/core_1787556487_8525_thumb.png\" title=\"core_1787556487_8525_thumb.png\" alt=\"core_1787556487_8525.png\"></p>"
+    }
+  },
   "province": [],
   "attr": {},
   "company": {},

@@ -1,9 +1,22 @@
 {
-  "update_time": "2026-08-01 06:31:58",
+  "update_time": "2026-09-01 09:10:31",
   "school_id": "1376",
   "school_name": "南京信息职业技术学院",
-  "jobrateyear": "",
-  "jobrate": {},
+  "jobrateyear": "2024",
+  "jobrate": {
+    "job": {
+      "1": "98.17"
+    },
+    "postgraduate": {
+      "1": "36.37"
+    },
+    "abroad": {
+      "1": "0.00"
+    },
+    "content": {
+      "1": "<p><img src=\"https://static-data.gaokao.cn//upload/image/202608/core_1787040634_5432_thumb.png\" title=\"core_1787040634_5432_thumb.png\" alt=\"core_1787040634_5432.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202608/core_1787040651_5973_thumb.png\" title=\"core_1787040651_5973_thumb.png\" alt=\"core_1787040651_5973.png\"></p>"
+    }
+  },
   "province": [],
   "attr": {},
   "company": {},

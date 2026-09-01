@@ -1,9 +1,22 @@
 {
-  "update_time": "2026-08-01 06:27:32",
+  "update_time": "2026-09-01 09:06:05",
   "school_id": "847",
   "school_name": "天津交通职业学院",
-  "jobrateyear": "",
-  "jobrate": {},
+  "jobrateyear": "2024",
+  "jobrate": {
+    "job": {
+      "1": "96.64"
+    },
+    "postgraduate": {
+      "1": "0.00"
+    },
+    "abroad": {
+      "1": "0.00"
+    },
+    "content": {
+      "1": "<p><img src=\"https://static-data.gaokao.cn//upload/image/202608/core_1787535605_4461_thumb.png\" title=\"core_1787535605_4461_thumb.png\" alt=\"core_1787535605_4461.png\"></p>"
+    }
+  },
   "province": [],
   "attr": {},
   "company": {},
