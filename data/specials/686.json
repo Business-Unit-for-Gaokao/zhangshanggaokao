@@ -1,10 +1,10 @@
 {
-  "update_time": "2026-08-01 07:38:40",
+  "update_time": "2026-09-01 09:57:01",
   "school_id": "686",
   "school_name": "上海行健职业学院",
   "source_url": "https://static-data.gaokao.cn/www/2.0/school/686/pc_special.json?a=www.gaokao.cn",
-  "time": "2026-08-01 03:15:49",
-  "md5": "981014710ff081ffd49e044c3081eb5f",
+  "time": "2026-09-01 03:09:16",
+  "md5": "9724edccd79396cf14dc39556d5fb5ba",
   "group_keys": [
     "2"
   ],
@@ -17,7 +17,7 @@
     "3",
     "4"
   ],
-  "special_group_count": 13,
+  "special_group_count": 12,
   "nation_feature_count": 0,
   "educational_strength": {
     "num_doctor": "0",
@@ -1000,32 +1000,6 @@
           "code": "5208"
         },
         {
-          "id": "1693576",
-          "school_id": "686",
-          "special_id": "9009",
-          "nation_feature": "2",
-          "province_feature": "2",
-          "is_important": "2",
-          "limit_year": "三年",
-          "year": "2022",
-          "level3_weight": "0",
-          "nation_first_class": "2",
-          "xueke_rank": "0",
-          "xueke_rank_score": "",
-          "ruanke_rank": "9999",
-          "ruanke_level": "",
-          "is_video": 2,
-          "special_name": "飞行器数字化制造技术（飞机制造技术方向）",
-          "special_type": "2",
-          "type_name": "专科(高职)",
-          "level3_name": "航空装备类",
-          "level3_code": "162",
-          "level2_name": "装备制造大类",
-          "level2_id": "20",
-          "level2_code": "46",
-          "code": "4606"
-        },
-        {
           "id": "2056844",
           "school_id": "686",
           "special_id": "1312",
@@ -1216,39 +1190,6 @@
             "level2_id": "20",
             "level2_code": "46",
             "code": "4603"
-          }
-        ]
-      },
-      {
-        "level3_weight": "0",
-        "code": "4606",
-        "name": "航空装备类(专)",
-        "special": [
-          {
-            "id": "1693576",
-            "school_id": "686",
-            "special_id": "9009",
-            "nation_feature": "2",
-            "province_feature": "2",
-            "is_important": "2",
-            "limit_year": "三年",
-            "year": "2022",
-            "level3_weight": "0",
-            "nation_first_class": "2",
-            "xueke_rank": "0",
-            "xueke_rank_score": "",
-            "ruanke_rank": "9999",
-            "ruanke_level": "",
-            "is_video": 2,
-            "special_name": "飞行器数字化制造技术（飞机制造技术方向）",
-            "special_type": "2",
-            "type_name": "专科(高职)",
-            "level3_name": "航空装备类",
-            "level3_code": "162",
-            "level2_name": "装备制造大类",
-            "level2_id": "20",
-            "level2_code": "46",
-            "code": "4606"
           }
         ]
       },

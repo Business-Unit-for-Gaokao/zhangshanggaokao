@@ -1,10 +1,10 @@
 {
-  "update_time": "2026-08-01 07:34:43",
+  "update_time": "2026-09-01 09:54:04",
   "school_id": "364",
   "school_name": "西藏大学",
   "source_url": "https://static-data.gaokao.cn/www/2.0/school/364/pc_special.json?a=www.gaokao.cn",
-  "time": "2026-08-01 03:16:15",
-  "md5": "482fdb803af6d2567eadc6f1cf9864a4",
+  "time": "2026-09-01 02:06:01",
+  "md5": "31d84f6c0a241cb11cbefb69c9169e86",
   "group_keys": [
     "1"
   ],
@@ -17,7 +17,7 @@
     "3",
     "4"
   ],
-  "special_group_count": 34,
+  "special_group_count": 33,
   "nation_feature_count": 4,
   "educational_strength": {
     "num_doctor": "3",
@@ -1363,32 +1363,6 @@
           "code": "0203"
         },
         {
-          "id": "115315",
-          "school_id": "364",
-          "special_id": "32",
-          "nation_feature": "2",
-          "province_feature": "2",
-          "is_important": "2",
-          "limit_year": "四年",
-          "year": "2022",
-          "level3_weight": "0",
-          "nation_first_class": "2",
-          "xueke_rank": "0",
-          "xueke_rank_score": "",
-          "ruanke_rank": "113",
-          "ruanke_level": "B+",
-          "is_video": 2,
-          "special_name": "学前教育",
-          "special_type": "1",
-          "type_name": "本科(普通)",
-          "level3_name": "教育学类",
-          "level3_code": "45",
-          "level2_name": "教育学",
-          "level2_id": "6",
-          "level2_code": "04",
-          "code": "0401"
-        },
-        {
           "id": "2161789",
           "school_id": "364",
           "special_id": "325",
@@ -1855,39 +1829,6 @@
             "level2_id": "5",
             "level2_code": "03",
             "code": "0305"
-          }
-        ]
-      },
-      {
-        "level3_weight": "0",
-        "code": "0401",
-        "name": "教育学类(本)",
-        "special": [
-          {
-            "id": "115315",
-            "school_id": "364",
-            "special_id": "32",
-            "nation_feature": "2",
-            "province_feature": "2",
-            "is_important": "2",
-            "limit_year": "四年",
-            "year": "2022",
-            "level3_weight": "0",
-            "nation_first_class": "2",
-            "xueke_rank": "0",
-            "xueke_rank_score": "",
-            "ruanke_rank": "113",
-            "ruanke_level": "B+",
-            "is_video": 2,
-            "special_name": "学前教育",
-            "special_type": "1",
-            "type_name": "本科(普通)",
-            "level3_name": "教育学类",
-            "level3_code": "45",
-            "level2_name": "教育学",
-            "level2_id": "6",
-            "level2_code": "04",
-            "code": "0401"
           }
         ]
       },

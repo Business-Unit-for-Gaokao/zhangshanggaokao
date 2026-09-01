@@ -1,10 +1,10 @@
 {
-  "update_time": "2026-08-01 07:45:51",
+  "update_time": "2026-09-01 10:02:42",
   "school_id": "1387",
   "school_name": "河北传媒学院",
   "source_url": "https://static-data.gaokao.cn/www/2.0/school/1387/pc_special.json?a=www.gaokao.cn",
-  "time": "2026-08-01 03:15:02",
-  "md5": "a6cd7a5f378d1d0cb6344ef5140525f3",
+  "time": "2026-09-01 03:08:46",
+  "md5": "bf079541546bec57ad897f42614cb9e6",
   "group_keys": [
     "1",
     "2"
@@ -18,7 +18,7 @@
     "3",
     "4"
   ],
-  "special_group_count": 18,
+  "special_group_count": 17,
   "nation_feature_count": 0,
   "educational_strength": {
     "num_doctor": "0",
@@ -1755,32 +1755,6 @@
           "code": "0809"
         },
         {
-          "id": "2013170",
-          "school_id": "1387",
-          "special_id": "8808",
-          "nation_feature": "2",
-          "province_feature": "2",
-          "is_important": "2",
-          "limit_year": "四年",
-          "year": "2022",
-          "level3_weight": "0",
-          "nation_first_class": "2",
-          "xueke_rank": "0",
-          "xueke_rank_score": "",
-          "ruanke_rank": "9999",
-          "ruanke_level": "",
-          "is_video": 2,
-          "special_name": "智能工程与创意设计",
-          "special_type": "1",
-          "type_name": "本科(普通)",
-          "level3_name": "自动化类",
-          "level3_code": "70",
-          "level2_name": "工学",
-          "level2_id": "10",
-          "level2_code": "08",
-          "code": "0808"
-        },
-        {
           "id": "1800439",
           "school_id": "1387",
           "special_id": "8438",
@@ -2379,39 +2353,6 @@
             "level2_id": "10",
             "level2_code": "08",
             "code": "0807"
-          }
-        ]
-      },
-      {
-        "level3_weight": "0",
-        "code": "0808",
-        "name": "自动化类(本)",
-        "special": [
-          {
-            "id": "2013170",
-            "school_id": "1387",
-            "special_id": "8808",
-            "nation_feature": "2",
-            "province_feature": "2",
-            "is_important": "2",
-            "limit_year": "四年",
-            "year": "2022",
-            "level3_weight": "0",
-            "nation_first_class": "2",
-            "xueke_rank": "0",
-            "xueke_rank_score": "",
-            "ruanke_rank": "9999",
-            "ruanke_level": "",
-            "is_video": 2,
-            "special_name": "智能工程与创意设计",
-            "special_type": "1",
-            "type_name": "本科(普通)",
-            "level3_name": "自动化类",
-            "level3_code": "70",
-            "level2_name": "工学",
-            "level2_id": "10",
-            "level2_code": "08",
-            "code": "0808"
           }
         ]
       },

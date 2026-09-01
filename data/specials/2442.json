@@ -1,10 +1,10 @@
 {
-  "update_time": "2026-08-01 07:58:07",
+  "update_time": "2026-09-01 10:12:14",
   "school_id": "2442",
   "school_name": "江西枫林涉外经贸职业学院",
   "source_url": "https://static-data.gaokao.cn/www/2.0/school/2442/pc_special.json?a=www.gaokao.cn",
-  "time": "2026-08-01 03:13:42",
-  "md5": "b7594efccd433700713c799e63e22a0a",
+  "time": "2026-09-01 02:03:00",
+  "md5": "acf83af917c78a73aa50fc4c338e22bd",
   "group_keys": [
     "2"
   ],
@@ -17,7 +17,7 @@
     "3",
     "4"
   ],
-  "special_group_count": 21,
+  "special_group_count": 20,
   "nation_feature_count": 0,
   "educational_strength": {
     "num_doctor": "0",
@@ -398,9 +398,9 @@
         "code": "5102"
       },
       {
-        "id": "140668",
+        "id": "140671",
         "school_id": "2442",
-        "special_id": "539",
+        "special_id": "523",
         "nation_feature": "2",
         "province_feature": "2",
         "is_important": "2",
@@ -413,15 +413,15 @@
         "ruanke_rank": "9999",
         "ruanke_level": "",
         "is_video": 2,
-        "special_name": "工程造价",
+        "special_name": "园林工程技术",
         "special_type": "2",
         "type_name": "专科(高职)",
-        "level3_name": "建设工程管理类",
-        "level3_code": "150",
+        "level3_name": "建筑设计类",
+        "level3_code": "146",
         "level2_name": "土木建筑大类",
         "level2_id": "18",
         "level2_code": "44",
-        "code": "4405"
+        "code": "4401"
       }
     ],
     "special_detail": {
@@ -792,32 +792,6 @@
           "code": "5102"
         },
         {
-          "id": "140668",
-          "school_id": "2442",
-          "special_id": "539",
-          "nation_feature": "2",
-          "province_feature": "2",
-          "is_important": "2",
-          "limit_year": "三年",
-          "year": "2022",
-          "level3_weight": "0",
-          "nation_first_class": "2",
-          "xueke_rank": "0",
-          "xueke_rank_score": "",
-          "ruanke_rank": "9999",
-          "ruanke_level": "",
-          "is_video": 2,
-          "special_name": "工程造价",
-          "special_type": "2",
-          "type_name": "专科(高职)",
-          "level3_name": "建设工程管理类",
-          "level3_code": "150",
-          "level2_name": "土木建筑大类",
-          "level2_id": "18",
-          "level2_code": "44",
-          "code": "4405"
-        },
-        {
           "id": "140671",
           "school_id": "2442",
           "special_id": "523",
@@ -972,32 +946,6 @@
           "level2_id": "20",
           "level2_code": "46",
           "code": "4607"
-        },
-        {
-          "id": "2156718",
-          "school_id": "2442",
-          "special_id": "8970",
-          "nation_feature": "2",
-          "province_feature": "2",
-          "is_important": "2",
-          "limit_year": "三年",
-          "year": "2022",
-          "level3_weight": "0",
-          "nation_first_class": "2",
-          "xueke_rank": "0",
-          "xueke_rank_score": "",
-          "ruanke_rank": "9999",
-          "ruanke_level": "",
-          "is_video": 2,
-          "special_name": "智能建造技术",
-          "special_type": "2",
-          "type_name": "专科(高职)",
-          "level3_name": "土建施工类",
-          "level3_code": "148",
-          "level2_name": "土木建筑大类",
-          "level2_id": "18",
-          "level2_code": "44",
-          "code": "4403"
         },
         {
           "id": "2156719",
@@ -1457,65 +1405,6 @@
             "level2_id": "18",
             "level2_code": "44",
             "code": "4403"
-          },
-          {
-            "id": "2156718",
-            "school_id": "2442",
-            "special_id": "8970",
-            "nation_feature": "2",
-            "province_feature": "2",
-            "is_important": "2",
-            "limit_year": "三年",
-            "year": "2022",
-            "level3_weight": "0",
-            "nation_first_class": "2",
-            "xueke_rank": "0",
-            "xueke_rank_score": "",
-            "ruanke_rank": "9999",
-            "ruanke_level": "",
-            "is_video": 2,
-            "special_name": "智能建造技术",
-            "special_type": "2",
-            "type_name": "专科(高职)",
-            "level3_name": "土建施工类",
-            "level3_code": "148",
-            "level2_name": "土木建筑大类",
-            "level2_id": "18",
-            "level2_code": "44",
-            "code": "4403"
-          }
-        ]
-      },
-      {
-        "level3_weight": "0",
-        "code": "4405",
-        "name": "建设工程管理类(专)",
-        "special": [
-          {
-            "id": "140668",
-            "school_id": "2442",
-            "special_id": "539",
-            "nation_feature": "2",
-            "province_feature": "2",
-            "is_important": "2",
-            "limit_year": "三年",
-            "year": "2022",
-            "level3_weight": "0",
-            "nation_first_class": "2",
-            "xueke_rank": "0",
-            "xueke_rank_score": "",
-            "ruanke_rank": "9999",
-            "ruanke_level": "",
-            "is_video": 2,
-            "special_name": "工程造价",
-            "special_type": "2",
-            "type_name": "专科(高职)",
-            "level3_name": "建设工程管理类",
-            "level3_code": "150",
-            "level2_name": "土木建筑大类",
-            "level2_id": "18",
-            "level2_code": "44",
-            "code": "4405"
           }
         ]
       },
@@ -2831,9 +2720,9 @@
       "code": "5102"
     },
     {
-      "id": "140668",
+      "id": "140671",
       "school_id": "2442",
-      "special_id": "539",
+      "special_id": "523",
       "nation_feature": "2",
       "province_feature": "2",
       "is_important": "2",
@@ -2846,15 +2735,15 @@
       "ruanke_rank": "9999",
       "ruanke_level": "",
       "is_video": 2,
-      "special_name": "工程造价",
+      "special_name": "园林工程技术",
       "special_type": "2",
       "type_name": "专科(高职)",
-      "level3_name": "建设工程管理类",
-      "level3_code": "150",
+      "level3_name": "建筑设计类",
+      "level3_code": "146",
       "level2_name": "土木建筑大类",
       "level2_id": "18",
       "level2_code": "44",
-      "code": "4405"
+      "code": "4401"
     }
   ]
 }

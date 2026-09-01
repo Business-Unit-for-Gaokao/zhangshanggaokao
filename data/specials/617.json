@@ -1,10 +1,10 @@
 {
-  "update_time": "2026-08-01 07:37:57",
+  "update_time": "2026-09-01 09:56:28",
   "school_id": "617",
   "school_name": "广东交通职业技术学院",
   "source_url": "https://static-data.gaokao.cn/www/2.0/school/617/pc_special.json?a=www.gaokao.cn",
-  "time": "2026-08-01 03:15:53",
-  "md5": "14de7d8e2fcd57e22136aca24ce25e44",
+  "time": "2026-09-01 03:09:36",
+  "md5": "756da7065579de3a3c1ffadf9d4e7e50",
   "group_keys": [
     "2"
   ],
@@ -17,7 +17,7 @@
     "3",
     "4"
   ],
-  "special_group_count": 28,
+  "special_group_count": 27,
   "nation_feature_count": 0,
   "educational_strength": {
     "num_doctor": "0",
@@ -1182,32 +1182,6 @@
           "code": "5003"
         },
         {
-          "id": "1520608",
-          "school_id": "617",
-          "special_id": "589",
-          "nation_feature": "2",
-          "province_feature": "2",
-          "is_important": "2",
-          "limit_year": "三年",
-          "year": "2022",
-          "level3_weight": "0",
-          "nation_first_class": "2",
-          "xueke_rank": "0",
-          "xueke_rank_score": "",
-          "ruanke_rank": "9999",
-          "ruanke_level": "",
-          "is_video": 2,
-          "special_name": "制冷与空调技术",
-          "special_type": "2",
-          "type_name": "专科(高职)",
-          "level3_name": "机电设备类",
-          "level3_code": "158",
-          "level2_name": "装备制造大类",
-          "level2_id": "20",
-          "level2_code": "46",
-          "code": "4602"
-        },
-        {
           "id": "1034275",
           "school_id": "617",
           "special_id": "595",
@@ -1754,32 +1728,6 @@
           "code": "5003"
         },
         {
-          "id": "1691979",
-          "school_id": "617",
-          "special_id": "9076",
-          "nation_feature": "2",
-          "province_feature": "2",
-          "is_important": "2",
-          "limit_year": "三年",
-          "year": "2022",
-          "level3_weight": "0",
-          "nation_first_class": "2",
-          "xueke_rank": "0",
-          "xueke_rank_score": "",
-          "ruanke_rank": "9999",
-          "ruanke_level": "",
-          "is_video": 2,
-          "special_name": "婴幼儿托育服务与管理",
-          "special_type": "2",
-          "type_name": "专科(高职)",
-          "level3_name": "健康管理与促进类",
-          "level3_code": "192",
-          "level2_name": "医药卫生大类",
-          "level2_id": "26",
-          "level2_code": "52",
-          "code": "5208"
-        },
-        {
           "id": "2056616",
           "school_id": "617",
           "special_id": "1982",
@@ -2304,32 +2252,6 @@
         "code": "4602",
         "name": "机电设备类(专)",
         "special": [
-          {
-            "id": "1520608",
-            "school_id": "617",
-            "special_id": "589",
-            "nation_feature": "2",
-            "province_feature": "2",
-            "is_important": "2",
-            "limit_year": "三年",
-            "year": "2022",
-            "level3_weight": "0",
-            "nation_first_class": "2",
-            "xueke_rank": "0",
-            "xueke_rank_score": "",
-            "ruanke_rank": "9999",
-            "ruanke_level": "",
-            "is_video": 2,
-            "special_name": "制冷与空调技术",
-            "special_type": "2",
-            "type_name": "专科(高职)",
-            "level3_name": "机电设备类",
-            "level3_code": "158",
-            "level2_name": "装备制造大类",
-            "level2_id": "20",
-            "level2_code": "46",
-            "code": "4602"
-          },
           {
             "id": "2176972",
             "school_id": "617",
@@ -3590,39 +3512,6 @@
             "level2_id": "25",
             "level2_code": "51",
             "code": "5103"
-          }
-        ]
-      },
-      {
-        "level3_weight": "0",
-        "code": "5208",
-        "name": "健康管理与促进类(专)",
-        "special": [
-          {
-            "id": "1691979",
-            "school_id": "617",
-            "special_id": "9076",
-            "nation_feature": "2",
-            "province_feature": "2",
-            "is_important": "2",
-            "limit_year": "三年",
-            "year": "2022",
-            "level3_weight": "0",
-            "nation_first_class": "2",
-            "xueke_rank": "0",
-            "xueke_rank_score": "",
-            "ruanke_rank": "9999",
-            "ruanke_level": "",
-            "is_video": 2,
-            "special_name": "婴幼儿托育服务与管理",
-            "special_type": "2",
-            "type_name": "专科(高职)",
-            "level3_name": "健康管理与促进类",
-            "level3_code": "192",
-            "level2_name": "医药卫生大类",
-            "level2_id": "26",
-            "level2_code": "52",
-            "code": "5208"
           }
         ]
       },

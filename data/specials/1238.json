@@ -1,10 +1,10 @@
 {
-  "update_time": "2026-08-01 07:44:35",
+  "update_time": "2026-09-01 10:01:43",
   "school_id": "1238",
   "school_name": "济宁医学院",
   "source_url": "https://static-data.gaokao.cn/www/2.0/school/1238/pc_special.json?a=www.gaokao.cn",
-  "time": "2026-08-01 03:15:10",
-  "md5": "584cf3b4eebaf854aed50d9c540905b1",
+  "time": "2026-09-01 02:04:37",
+  "md5": "ec942f51099efc47cfc45e32670bb73c",
   "group_keys": [
     "1"
   ],
@@ -17,7 +17,7 @@
     "3",
     "4"
   ],
-  "special_group_count": 22,
+  "special_group_count": 21,
   "nation_feature_count": 2,
   "educational_strength": {
     "num_doctor": "0",
@@ -1051,32 +1051,6 @@
           "code": "0826"
         },
         {
-          "id": "51202",
-          "school_id": "1238",
-          "special_id": "1161",
-          "nation_feature": "2",
-          "province_feature": "2",
-          "is_important": "2",
-          "limit_year": "四年",
-          "year": "2022",
-          "level3_weight": "0",
-          "nation_first_class": "2",
-          "xueke_rank": "0",
-          "xueke_rank_score": "",
-          "ruanke_rank": "9999",
-          "ruanke_level": "",
-          "is_video": 2,
-          "special_name": "医学信息工程",
-          "special_type": "1",
-          "type_name": "本科(普通)",
-          "level3_name": "电子信息类",
-          "level3_code": "69",
-          "level2_name": "工学",
-          "level2_id": "10",
-          "level2_code": "08",
-          "code": "0807"
-        },
-        {
           "id": "1800994",
           "school_id": "1238",
           "special_id": "138",
@@ -1438,39 +1412,6 @@
             "level2_id": "9",
             "level2_code": "07",
             "code": "0711"
-          }
-        ]
-      },
-      {
-        "level3_weight": "0",
-        "code": "0807",
-        "name": "电子信息类(本)",
-        "special": [
-          {
-            "id": "51202",
-            "school_id": "1238",
-            "special_id": "1161",
-            "nation_feature": "2",
-            "province_feature": "2",
-            "is_important": "2",
-            "limit_year": "四年",
-            "year": "2022",
-            "level3_weight": "0",
-            "nation_first_class": "2",
-            "xueke_rank": "0",
-            "xueke_rank_score": "",
-            "ruanke_rank": "9999",
-            "ruanke_level": "",
-            "is_video": 2,
-            "special_name": "医学信息工程",
-            "special_type": "1",
-            "type_name": "本科(普通)",
-            "level3_name": "电子信息类",
-            "level3_code": "69",
-            "level2_name": "工学",
-            "level2_id": "10",
-            "level2_code": "08",
-            "code": "0807"
           }
         ]
       },

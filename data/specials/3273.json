@@ -1,10 +1,10 @@
 {
-  "update_time": "2026-08-01 08:04:06",
+  "update_time": "2026-09-01 10:16:52",
   "school_id": "3273",
   "school_name": "江苏护理职业学院",
   "source_url": "https://static-data.gaokao.cn/www/2.0/school/3273/pc_special.json?a=www.gaokao.cn",
-  "time": "2026-08-01 03:13:03",
-  "md5": "dd24512e4ef2d324e9e2204aabf723c8",
+  "time": "2026-09-01 03:07:25",
+  "md5": "28b83fc1bdbfeb880e24565540f2a07e",
   "group_keys": [
     "2"
   ],
@@ -398,9 +398,9 @@
         "code": "5208"
       },
       {
-        "id": "1790073",
+        "id": "1790076",
         "school_id": "3273",
-        "special_id": "840",
+        "special_id": "835",
         "nation_feature": "2",
         "province_feature": "2",
         "is_important": "2",
@@ -413,15 +413,15 @@
         "ruanke_rank": "9999",
         "ruanke_level": "",
         "is_video": 2,
-        "special_name": "中医养生保健",
+        "special_name": "卫生信息管理",
         "special_type": "2",
         "type_name": "专科(高职)",
-        "level3_name": "中医药类",
-        "level3_code": "225",
+        "level3_name": "公共卫生与卫生管理类",
+        "level3_code": "190",
         "level2_name": "医药卫生大类",
         "level2_id": "26",
         "level2_code": "52",
-        "code": "5204"
+        "code": "5207"
       }
     ],
     "special_detail": {
@@ -790,32 +790,6 @@
           "level2_id": "26",
           "level2_code": "52",
           "code": "5208"
-        },
-        {
-          "id": "1790073",
-          "school_id": "3273",
-          "special_id": "840",
-          "nation_feature": "2",
-          "province_feature": "2",
-          "is_important": "2",
-          "limit_year": "三年",
-          "year": "2022",
-          "level3_weight": "0",
-          "nation_first_class": "2",
-          "xueke_rank": "0",
-          "xueke_rank_score": "",
-          "ruanke_rank": "9999",
-          "ruanke_level": "",
-          "is_video": 2,
-          "special_name": "中医养生保健",
-          "special_type": "2",
-          "type_name": "专科(高职)",
-          "level3_name": "中医药类",
-          "level3_code": "225",
-          "level2_name": "医药卫生大类",
-          "level2_id": "26",
-          "level2_code": "52",
-          "code": "5204"
         },
         {
           "id": "1790076",
@@ -1307,32 +1281,6 @@
             "ruanke_level": "",
             "is_video": 2,
             "special_name": "中药学",
-            "special_type": "2",
-            "type_name": "专科(高职)",
-            "level3_name": "中医药类",
-            "level3_code": "225",
-            "level2_name": "医药卫生大类",
-            "level2_id": "26",
-            "level2_code": "52",
-            "code": "5204"
-          },
-          {
-            "id": "1790073",
-            "school_id": "3273",
-            "special_id": "840",
-            "nation_feature": "2",
-            "province_feature": "2",
-            "is_important": "2",
-            "limit_year": "三年",
-            "year": "2022",
-            "level3_weight": "0",
-            "nation_first_class": "2",
-            "xueke_rank": "0",
-            "xueke_rank_score": "",
-            "ruanke_rank": "9999",
-            "ruanke_level": "",
-            "is_video": 2,
-            "special_name": "中医养生保健",
             "special_type": "2",
             "type_name": "专科(高职)",
             "level3_name": "中医药类",
@@ -2175,9 +2123,9 @@
       "code": "5208"
     },
     {
-      "id": "1790073",
+      "id": "1790076",
       "school_id": "3273",
-      "special_id": "840",
+      "special_id": "835",
       "nation_feature": "2",
       "province_feature": "2",
       "is_important": "2",
@@ -2190,15 +2138,15 @@
       "ruanke_rank": "9999",
       "ruanke_level": "",
       "is_video": 2,
-      "special_name": "中医养生保健",
+      "special_name": "卫生信息管理",
       "special_type": "2",
       "type_name": "专科(高职)",
-      "level3_name": "中医药类",
-      "level3_code": "225",
+      "level3_name": "公共卫生与卫生管理类",
+      "level3_code": "190",
       "level2_name": "医药卫生大类",
       "level2_id": "26",
       "level2_code": "52",
-      "code": "5204"
+      "code": "5207"
     }
   ]
 }

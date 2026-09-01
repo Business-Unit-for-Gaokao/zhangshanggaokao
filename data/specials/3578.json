@@ -1,10 +1,10 @@
 {
-  "update_time": "2026-08-01 08:07:17",
+  "update_time": "2026-09-01 10:19:25",
   "school_id": "3578",
   "school_name": "滨州科技职业学院",
   "source_url": "https://static-data.gaokao.cn/www/2.0/school/3578/pc_special.json?a=www.gaokao.cn",
-  "time": "2026-08-01 03:12:41",
-  "md5": "ed1d3d22164a4e9e0d710b9901523bbd",
+  "time": "2026-09-01 02:01:55",
+  "md5": "9c5c5d301f33b56becddd9a4cab600fd",
   "group_keys": [
     "2"
   ],
@@ -17,7 +17,7 @@
     "3",
     "4"
   ],
-  "special_group_count": 24,
+  "special_group_count": 23,
   "nation_feature_count": 0,
   "educational_strength": {
     "num_doctor": "0",
@@ -1364,32 +1364,6 @@
           "code": "5307"
         },
         {
-          "id": "1471726",
-          "school_id": "3578",
-          "special_id": "9076",
-          "nation_feature": "2",
-          "province_feature": "2",
-          "is_important": "2",
-          "limit_year": "三年",
-          "year": "2022",
-          "level3_weight": "0",
-          "nation_first_class": "2",
-          "xueke_rank": "0",
-          "xueke_rank_score": "",
-          "ruanke_rank": "9999",
-          "ruanke_level": "",
-          "is_video": 1,
-          "special_name": "婴幼儿托育服务与管理",
-          "special_type": "2",
-          "type_name": "专科(高职)",
-          "level3_name": "健康管理与促进类",
-          "level3_code": "192",
-          "level2_name": "医药卫生大类",
-          "level2_id": "26",
-          "level2_code": "52",
-          "code": "5208"
-        },
-        {
           "id": "1860087",
           "school_id": "3578",
           "special_id": "593",
@@ -2314,39 +2288,6 @@
             "level2_id": "26",
             "level2_code": "52",
             "code": "5206"
-          }
-        ]
-      },
-      {
-        "level3_weight": "0",
-        "code": "5208",
-        "name": "健康管理与促进类(专)",
-        "special": [
-          {
-            "id": "1471726",
-            "school_id": "3578",
-            "special_id": "9076",
-            "nation_feature": "2",
-            "province_feature": "2",
-            "is_important": "2",
-            "limit_year": "三年",
-            "year": "2022",
-            "level3_weight": "0",
-            "nation_first_class": "2",
-            "xueke_rank": "0",
-            "xueke_rank_score": "",
-            "ruanke_rank": "9999",
-            "ruanke_level": "",
-            "is_video": 1,
-            "special_name": "婴幼儿托育服务与管理",
-            "special_type": "2",
-            "type_name": "专科(高职)",
-            "level3_name": "健康管理与促进类",
-            "level3_code": "192",
-            "level2_name": "医药卫生大类",
-            "level2_id": "26",
-            "level2_code": "52",
-            "code": "5208"
           }
         ]
       },

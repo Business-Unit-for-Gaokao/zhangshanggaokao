@@ -1,10 +1,10 @@
 {
-  "update_time": "2026-08-01 07:38:56",
+  "update_time": "2026-09-01 09:57:13",
   "school_id": "708",
   "school_name": "大庆职业学院",
   "source_url": "https://static-data.gaokao.cn/www/2.0/school/708/pc_special.json?a=www.gaokao.cn",
-  "time": "2026-08-01 03:15:47",
-  "md5": "515bd10a3e326747f0a332daedef0495",
+  "time": "2026-09-01 02:05:23",
+  "md5": "1afa0578cb71d642e07063746abc44a5",
   "group_keys": [
     "2"
   ],
@@ -17,7 +17,7 @@
     "3",
     "4"
   ],
-  "special_group_count": 14,
+  "special_group_count": 13,
   "nation_feature_count": 0,
   "educational_strength": {
     "num_doctor": "0",
@@ -818,32 +818,6 @@
           "code": "5102"
         },
         {
-          "id": "130995",
-          "school_id": "708",
-          "special_id": "882",
-          "nation_feature": "2",
-          "province_feature": "2",
-          "is_important": "2",
-          "limit_year": "三年",
-          "year": "2022",
-          "level3_weight": "0",
-          "nation_first_class": "2",
-          "xueke_rank": "0",
-          "xueke_rank_score": "",
-          "ruanke_rank": "9999",
-          "ruanke_level": "",
-          "is_video": 2,
-          "special_name": "市场营销",
-          "special_type": "2",
-          "type_name": "专科(高职)",
-          "level3_name": "工商管理类",
-          "level3_code": "198",
-          "level2_name": "财经商贸大类",
-          "level2_id": "27",
-          "level2_code": "53",
-          "code": "5306"
-        },
-        {
           "id": "131005",
           "school_id": "708",
           "special_id": "784",
@@ -1076,32 +1050,6 @@
           "level2_id": "20",
           "level2_code": "46",
           "code": "4601"
-        },
-        {
-          "id": "1469180",
-          "school_id": "708",
-          "special_id": "9171",
-          "nation_feature": "2",
-          "province_feature": "2",
-          "is_important": "2",
-          "limit_year": "三年",
-          "year": "2022",
-          "level3_weight": "0",
-          "nation_first_class": "2",
-          "xueke_rank": "0",
-          "xueke_rank_score": "",
-          "ruanke_rank": "9999",
-          "ruanke_level": "",
-          "is_video": 2,
-          "special_name": "汽车检测与维修技术",
-          "special_type": "2",
-          "type_name": "专科(高职)",
-          "level3_name": "道路运输类",
-          "level3_code": "176",
-          "level2_name": "交通运输大类",
-          "level2_id": "24",
-          "level2_code": "50",
-          "code": "5002"
         },
         {
           "id": "1469182",
@@ -1598,32 +1546,6 @@
         "name": "道路运输类(专)",
         "special": [
           {
-            "id": "1469180",
-            "school_id": "708",
-            "special_id": "9171",
-            "nation_feature": "2",
-            "province_feature": "2",
-            "is_important": "2",
-            "limit_year": "三年",
-            "year": "2022",
-            "level3_weight": "0",
-            "nation_first_class": "2",
-            "xueke_rank": "0",
-            "xueke_rank_score": "",
-            "ruanke_rank": "9999",
-            "ruanke_level": "",
-            "is_video": 2,
-            "special_name": "汽车检测与维修技术",
-            "special_type": "2",
-            "type_name": "专科(高职)",
-            "level3_name": "道路运输类",
-            "level3_code": "176",
-            "level2_name": "交通运输大类",
-            "level2_id": "24",
-            "level2_code": "50",
-            "code": "5002"
-          },
-          {
             "id": "1469182",
             "school_id": "708",
             "special_id": "9049",
@@ -1818,39 +1740,6 @@
             "level2_id": "27",
             "level2_code": "53",
             "code": "5303"
-          }
-        ]
-      },
-      {
-        "level3_weight": "0",
-        "code": "5306",
-        "name": "工商管理类(专)",
-        "special": [
-          {
-            "id": "130995",
-            "school_id": "708",
-            "special_id": "882",
-            "nation_feature": "2",
-            "province_feature": "2",
-            "is_important": "2",
-            "limit_year": "三年",
-            "year": "2022",
-            "level3_weight": "0",
-            "nation_first_class": "2",
-            "xueke_rank": "0",
-            "xueke_rank_score": "",
-            "ruanke_rank": "9999",
-            "ruanke_level": "",
-            "is_video": 2,
-            "special_name": "市场营销",
-            "special_type": "2",
-            "type_name": "专科(高职)",
-            "level3_name": "工商管理类",
-            "level3_code": "198",
-            "level2_name": "财经商贸大类",
-            "level2_id": "27",
-            "level2_code": "53",
-            "code": "5306"
           }
         ]
       },

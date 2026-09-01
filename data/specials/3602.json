@@ -1,10 +1,10 @@
 {
-  "update_time": "2026-08-01 08:07:34",
+  "update_time": "2026-09-01 10:19:41",
   "school_id": "3602",
   "school_name": "烟台科技学院",
   "source_url": "https://static-data.gaokao.cn/www/2.0/school/3602/pc_special.json?a=www.gaokao.cn",
-  "time": "2026-08-01 03:12:39",
-  "md5": "01b13135af19117bd2e00be2abb49114",
+  "time": "2026-09-01 03:07:05",
+  "md5": "0200cf74b6e0c9d79930ac7464596425",
   "group_keys": [
     "1",
     "2"
@@ -18,7 +18,7 @@
     "3",
     "4"
   ],
-  "special_group_count": 32,
+  "special_group_count": 30,
   "nation_feature_count": 0,
   "educational_strength": {
     "num_doctor": "0",
@@ -398,9 +398,9 @@
         "code": "1303"
       },
       {
-        "id": "56472",
+        "id": "56482",
         "school_id": "3602",
-        "special_id": "9",
+        "special_id": "173",
         "nation_feature": "2",
         "province_feature": "2",
         "is_important": "2",
@@ -413,15 +413,15 @@
         "ruanke_rank": "9999",
         "ruanke_level": "",
         "is_video": 2,
-        "special_name": "金融工程",
+        "special_name": "软件工程",
         "special_type": "1",
         "type_name": "本科(普通)",
-        "level3_name": "金融学类",
-        "level3_code": "37",
-        "level2_name": "经济学",
-        "level2_id": "4",
-        "level2_code": "02",
-        "code": "0203"
+        "level3_name": "计算机类",
+        "level3_code": "71",
+        "level2_name": "工学",
+        "level2_id": "10",
+        "level2_code": "08",
+        "code": "0809"
       }
     ],
     "2": [
@@ -1183,32 +1183,6 @@
           "code": "1303"
         },
         {
-          "id": "56472",
-          "school_id": "3602",
-          "special_id": "9",
-          "nation_feature": "2",
-          "province_feature": "2",
-          "is_important": "2",
-          "limit_year": "四年",
-          "year": "2022",
-          "level3_weight": "0",
-          "nation_first_class": "2",
-          "xueke_rank": "0",
-          "xueke_rank_score": "",
-          "ruanke_rank": "9999",
-          "ruanke_level": "",
-          "is_video": 2,
-          "special_name": "金融工程",
-          "special_type": "1",
-          "type_name": "本科(普通)",
-          "level3_name": "金融学类",
-          "level3_code": "37",
-          "level2_name": "经济学",
-          "level2_id": "4",
-          "level2_code": "02",
-          "code": "0203"
-        },
-        {
           "id": "56482",
           "school_id": "3602",
           "special_id": "173",
@@ -1389,32 +1363,6 @@
           "level2_id": "10",
           "level2_code": "08",
           "code": "0809"
-        },
-        {
-          "id": "2164007",
-          "school_id": "3602",
-          "special_id": "143",
-          "nation_feature": "2",
-          "province_feature": "2",
-          "is_important": "2",
-          "limit_year": "四年",
-          "year": "2022",
-          "level3_weight": "0",
-          "nation_first_class": "2",
-          "xueke_rank": "0",
-          "xueke_rank_score": "",
-          "ruanke_rank": "9999",
-          "ruanke_level": "",
-          "is_video": 2,
-          "special_name": "应用统计学",
-          "special_type": "1",
-          "type_name": "本科(普通)",
-          "level3_name": "统计学类",
-          "level3_code": "62",
-          "level2_name": "理学",
-          "level2_id": "9",
-          "level2_code": "07",
-          "code": "0712"
         },
         {
           "id": "2164008",
@@ -2394,39 +2342,6 @@
       },
       {
         "level3_weight": "0",
-        "code": "0203",
-        "name": "金融学类(本)",
-        "special": [
-          {
-            "id": "56472",
-            "school_id": "3602",
-            "special_id": "9",
-            "nation_feature": "2",
-            "province_feature": "2",
-            "is_important": "2",
-            "limit_year": "四年",
-            "year": "2022",
-            "level3_weight": "0",
-            "nation_first_class": "2",
-            "xueke_rank": "0",
-            "xueke_rank_score": "",
-            "ruanke_rank": "9999",
-            "ruanke_level": "",
-            "is_video": 2,
-            "special_name": "金融工程",
-            "special_type": "1",
-            "type_name": "本科(普通)",
-            "level3_name": "金融学类",
-            "level3_code": "37",
-            "level2_name": "经济学",
-            "level2_id": "4",
-            "level2_code": "02",
-            "code": "0203"
-          }
-        ]
-      },
-      {
-        "level3_weight": "0",
         "code": "0204",
         "name": "经济与贸易类(本)",
         "special": [
@@ -2606,39 +2521,6 @@
             "level2_id": "7",
             "level2_code": "05",
             "code": "0503"
-          }
-        ]
-      },
-      {
-        "level3_weight": "0",
-        "code": "0712",
-        "name": "统计学类(本)",
-        "special": [
-          {
-            "id": "2164007",
-            "school_id": "3602",
-            "special_id": "143",
-            "nation_feature": "2",
-            "province_feature": "2",
-            "is_important": "2",
-            "limit_year": "四年",
-            "year": "2022",
-            "level3_weight": "0",
-            "nation_first_class": "2",
-            "xueke_rank": "0",
-            "xueke_rank_score": "",
-            "ruanke_rank": "9999",
-            "ruanke_level": "",
-            "is_video": 2,
-            "special_name": "应用统计学",
-            "special_type": "1",
-            "type_name": "本科(普通)",
-            "level3_name": "统计学类",
-            "level3_code": "62",
-            "level2_name": "理学",
-            "level2_id": "9",
-            "level2_code": "07",
-            "code": "0712"
           }
         ]
       },
@@ -4445,9 +4327,9 @@
       "code": "1303"
     },
     {
-      "id": "56472",
+      "id": "56482",
       "school_id": "3602",
-      "special_id": "9",
+      "special_id": "173",
       "nation_feature": "2",
       "province_feature": "2",
       "is_important": "2",
@@ -4460,15 +4342,15 @@
       "ruanke_rank": "9999",
       "ruanke_level": "",
       "is_video": 2,
-      "special_name": "金融工程",
+      "special_name": "软件工程",
       "special_type": "1",
       "type_name": "本科(普通)",
-      "level3_name": "金融学类",
-      "level3_code": "37",
-      "level2_name": "经济学",
-      "level2_id": "4",
-      "level2_code": "02",
-      "code": "0203"
+      "level3_name": "计算机类",
+      "level3_code": "71",
+      "level2_name": "工学",
+      "level2_id": "10",
+      "level2_code": "08",
+      "code": "0809"
     },
     {
       "id": "56467",

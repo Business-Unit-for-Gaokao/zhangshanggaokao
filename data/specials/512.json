@@ -1,25 +1,24 @@
 {
-  "update_time": "2026-08-01 07:36:40",
+  "update_time": "2026-09-01 09:55:30",
   "school_id": "512",
   "school_name": "海南医科大学",
   "source_url": "https://static-data.gaokao.cn/www/2.0/school/512/pc_special.json?a=www.gaokao.cn",
-  "time": "2026-08-01 03:16:02",
-  "md5": "1e869843c64284127d0d7105316ca412",
+  "time": "2026-09-01 02:05:43",
+  "md5": "b70bce0ed940e9e1dda599b73f81a2a8",
   "group_keys": [
-    "1",
-    "2"
+    "1"
   ],
-  "group_count": 2,
-  "nonempty_group_count": 2,
-  "data_count": 16,
+  "group_count": 1,
+  "nonempty_group_count": 1,
+  "data_count": 15,
   "special_detail_keys": [
     "1",
     "2",
     "3",
     "4"
   ],
-  "special_group_count": 14,
-  "nation_feature_count": 6,
+  "special_group_count": 13,
+  "nation_feature_count": 5,
   "educational_strength": {
     "num_doctor": "4",
     "num_doctor2": "0",
@@ -29,7 +28,7 @@
     "gbh_num": "0",
     "a_subject": "0",
     "dualclass": 0,
-    "nation_feature": 6
+    "nation_feature": 5
   },
   "data": {
     "1": [
@@ -424,34 +423,7 @@
         "code": "1010"
       }
     ],
-    "2": [
-      {
-        "id": "27950",
-        "school_id": "512",
-        "special_id": "803",
-        "nation_feature": "1",
-        "province_feature": "2",
-        "is_important": "2",
-        "limit_year": "三年",
-        "year": "2022",
-        "level3_weight": "0",
-        "nation_first_class": "2",
-        "xueke_rank": "0",
-        "xueke_rank_score": "",
-        "ruanke_rank": "9999",
-        "ruanke_level": "",
-        "is_video": 2,
-        "special_name": "临床医学",
-        "special_type": "2",
-        "type_name": "专科(高职)",
-        "level3_name": "临床医学类",
-        "level3_code": "185",
-        "level2_name": "医药卫生大类",
-        "level2_id": "26",
-        "level2_code": "52",
-        "code": "5201"
-      }
-    ],
+    "2": "",
     "special_detail": {
       "1": [
         {
@@ -1261,34 +1233,7 @@
           "code": "1002"
         }
       ],
-      "2": [
-        {
-          "id": "27950",
-          "school_id": "512",
-          "special_id": "803",
-          "nation_feature": "1",
-          "province_feature": "2",
-          "is_important": "2",
-          "limit_year": "三年",
-          "year": "2022",
-          "level3_weight": "0",
-          "nation_first_class": "2",
-          "xueke_rank": "0",
-          "xueke_rank_score": "",
-          "ruanke_rank": "9999",
-          "ruanke_level": "",
-          "is_video": 2,
-          "special_name": "临床医学",
-          "special_type": "2",
-          "type_name": "专科(高职)",
-          "level3_name": "临床医学类",
-          "level3_code": "185",
-          "level2_name": "医药卫生大类",
-          "level2_id": "26",
-          "level2_code": "52",
-          "code": "5201"
-        }
-      ],
+      "2": [],
       "3": "",
       "4": []
     },
@@ -2189,39 +2134,6 @@
             "code": "1204"
           }
         ]
-      },
-      {
-        "level3_weight": "0",
-        "code": "5201",
-        "name": "临床医学类(专)",
-        "special": [
-          {
-            "id": "27950",
-            "school_id": "512",
-            "special_id": "803",
-            "nation_feature": "1",
-            "province_feature": "2",
-            "is_important": "2",
-            "limit_year": "三年",
-            "year": "2022",
-            "level3_weight": "0",
-            "nation_first_class": "2",
-            "xueke_rank": "0",
-            "xueke_rank_score": "",
-            "ruanke_rank": "9999",
-            "ruanke_level": "",
-            "is_video": 2,
-            "special_name": "临床医学",
-            "special_type": "2",
-            "type_name": "专科(高职)",
-            "level3_name": "临床医学类",
-            "level3_code": "185",
-            "level2_name": "医药卫生大类",
-            "level2_id": "26",
-            "level2_code": "52",
-            "code": "5201"
-          }
-        ]
       }
     ],
     "nation_feature": [
@@ -2359,33 +2271,6 @@
         "level2_id": "12",
         "level2_code": "10",
         "code": "1007"
-      },
-      {
-        "id": "27950",
-        "school_id": "512",
-        "special_id": "803",
-        "nation_feature": "1",
-        "province_feature": "2",
-        "is_important": "2",
-        "limit_year": "三年",
-        "year": "2022",
-        "level3_weight": "0",
-        "nation_first_class": "2",
-        "xueke_rank": "0",
-        "xueke_rank_score": "",
-        "ruanke_rank": "9999",
-        "ruanke_level": "",
-        "is_video": 2,
-        "special_name": "临床医学",
-        "special_type": "2",
-        "type_name": "专科(高职)",
-        "level3_name": "临床医学类",
-        "level3_id": "185",
-        "level3_code": "185",
-        "level2_name": "医药卫生大类",
-        "level2_id": "26",
-        "level2_code": "52",
-        "code": "5201"
       }
     ],
     "educational_strength": {
@@ -2397,7 +2282,7 @@
       "gbh_num": "0",
       "a_subject": "0",
       "dualclass": 0,
-      "nation_feature": 6
+      "nation_feature": 5
     }
   },
   "items": [
@@ -2790,32 +2675,6 @@
       "level2_id": "12",
       "level2_code": "10",
       "code": "1010"
-    },
-    {
-      "id": "27950",
-      "school_id": "512",
-      "special_id": "803",
-      "nation_feature": "1",
-      "province_feature": "2",
-      "is_important": "2",
-      "limit_year": "三年",
-      "year": "2022",
-      "level3_weight": "0",
-      "nation_first_class": "2",
-      "xueke_rank": "0",
-      "xueke_rank_score": "",
-      "ruanke_rank": "9999",
-      "ruanke_level": "",
-      "is_video": 2,
-      "special_name": "临床医学",
-      "special_type": "2",
-      "type_name": "专科(高职)",
-      "level3_name": "临床医学类",
-      "level3_code": "185",
-      "level2_name": "医药卫生大类",
-      "level2_id": "26",
-      "level2_code": "52",
-      "code": "5201"
     }
   ]
 }

@@ -1,10 +1,10 @@
 {
-  "update_time": "2026-08-01 08:00:56",
+  "update_time": "2026-09-01 10:14:23",
   "school_id": "2820",
   "school_name": "重庆公共运输职业学院",
   "source_url": "https://static-data.gaokao.cn/www/2.0/school/2820/pc_special.json?a=www.gaokao.cn",
-  "time": "2026-08-01 03:13:24",
-  "md5": "dc792f6c536a713242184d10b0523991",
+  "time": "2026-09-01 03:07:32",
+  "md5": "0120f717be59854148d5b48241e25ff1",
   "group_keys": [
     "2"
   ],
@@ -17,7 +17,7 @@
     "3",
     "4"
   ],
-  "special_group_count": 21,
+  "special_group_count": 20,
   "nation_feature_count": 0,
   "educational_strength": {
     "num_doctor": "0",
@@ -1234,32 +1234,6 @@
           "code": "5102"
         },
         {
-          "id": "1675742",
-          "school_id": "2820",
-          "special_id": "9089",
-          "nation_feature": "2",
-          "province_feature": "2",
-          "is_important": "2",
-          "limit_year": "三年",
-          "year": "2022",
-          "level3_weight": "0",
-          "nation_first_class": "2",
-          "xueke_rank": "0",
-          "xueke_rank_score": "",
-          "ruanke_rank": "9999",
-          "ruanke_level": "",
-          "is_video": 2,
-          "special_name": "关务与外贸服务",
-          "special_type": "2",
-          "type_name": "专科(高职)",
-          "level3_name": "经济贸易类",
-          "level3_code": "197",
-          "level2_name": "财经商贸大类",
-          "level2_id": "27",
-          "level2_code": "53",
-          "code": "5305"
-        },
-        {
           "id": "1675746",
           "school_id": "2820",
           "special_id": "8990",
@@ -1284,32 +1258,6 @@
           "level2_id": "20",
           "level2_code": "46",
           "code": "4601"
-        },
-        {
-          "id": "1675747",
-          "school_id": "2820",
-          "special_id": "9166",
-          "nation_feature": "2",
-          "province_feature": "2",
-          "is_important": "2",
-          "limit_year": "三年",
-          "year": "2022",
-          "level3_weight": "0",
-          "nation_first_class": "2",
-          "xueke_rank": "0",
-          "xueke_rank_score": "",
-          "ruanke_rank": "9999",
-          "ruanke_level": "",
-          "is_video": 2,
-          "special_name": "汽车制造与试验技术",
-          "special_type": "2",
-          "type_name": "专科(高职)",
-          "level3_name": "汽车制造类",
-          "level3_code": "163",
-          "level2_name": "装备制造大类",
-          "level2_id": "20",
-          "level2_code": "46",
-          "code": "4607"
         },
         {
           "id": "1675748",
@@ -1941,32 +1889,6 @@
             "level2_id": "20",
             "level2_code": "46",
             "code": "4607"
-          },
-          {
-            "id": "1675747",
-            "school_id": "2820",
-            "special_id": "9166",
-            "nation_feature": "2",
-            "province_feature": "2",
-            "is_important": "2",
-            "limit_year": "三年",
-            "year": "2022",
-            "level3_weight": "0",
-            "nation_first_class": "2",
-            "xueke_rank": "0",
-            "xueke_rank_score": "",
-            "ruanke_rank": "9999",
-            "ruanke_level": "",
-            "is_video": 2,
-            "special_name": "汽车制造与试验技术",
-            "special_type": "2",
-            "type_name": "专科(高职)",
-            "level3_name": "汽车制造类",
-            "level3_code": "163",
-            "level2_name": "装备制造大类",
-            "level2_id": "20",
-            "level2_code": "46",
-            "code": "4607"
           }
         ]
       },
@@ -2536,39 +2458,6 @@
             "level2_id": "27",
             "level2_code": "53",
             "code": "5301"
-          }
-        ]
-      },
-      {
-        "level3_weight": "0",
-        "code": "5305",
-        "name": "经济贸易类(专)",
-        "special": [
-          {
-            "id": "1675742",
-            "school_id": "2820",
-            "special_id": "9089",
-            "nation_feature": "2",
-            "province_feature": "2",
-            "is_important": "2",
-            "limit_year": "三年",
-            "year": "2022",
-            "level3_weight": "0",
-            "nation_first_class": "2",
-            "xueke_rank": "0",
-            "xueke_rank_score": "",
-            "ruanke_rank": "9999",
-            "ruanke_level": "",
-            "is_video": 2,
-            "special_name": "关务与外贸服务",
-            "special_type": "2",
-            "type_name": "专科(高职)",
-            "level3_name": "经济贸易类",
-            "level3_code": "197",
-            "level2_name": "财经商贸大类",
-            "level2_id": "27",
-            "level2_code": "53",
-            "code": "5305"
           }
         ]
       },

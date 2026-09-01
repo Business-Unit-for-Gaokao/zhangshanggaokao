@@ -1,10 +1,10 @@
 {
-  "update_time": "2026-08-01 07:39:49",
+  "update_time": "2026-09-01 09:57:55",
   "school_id": "788",
   "school_name": "四川托普信息技术职业学院",
   "source_url": "https://static-data.gaokao.cn/www/2.0/school/788/pc_special.json?a=www.gaokao.cn",
-  "time": "2026-08-01 03:15:41",
-  "md5": "40afc3c300a27dc5680edb909cd98a71",
+  "time": "2026-09-01 02:05:16",
+  "md5": "ffd6896aa49ff17bc8df48d428d449bb",
   "group_keys": [
     "2"
   ],
@@ -17,7 +17,7 @@
     "3",
     "4"
   ],
-  "special_group_count": 25,
+  "special_group_count": 24,
   "nation_feature_count": 0,
   "educational_strength": {
     "num_doctor": "0",
@@ -922,32 +922,6 @@
           "code": "5208"
         },
         {
-          "id": "1958406",
-          "school_id": "788",
-          "special_id": "8971",
-          "nation_feature": "2",
-          "province_feature": "2",
-          "is_important": "2",
-          "limit_year": "三年",
-          "year": "2022",
-          "level3_weight": "0",
-          "nation_first_class": "2",
-          "xueke_rank": "0",
-          "xueke_rank_score": "",
-          "ruanke_rank": "9999",
-          "ruanke_level": "",
-          "is_video": 2,
-          "special_name": "建筑消防技术",
-          "special_type": "2",
-          "type_name": "专科(高职)",
-          "level3_name": "建筑设备类",
-          "level3_code": "149",
-          "level2_name": "土木建筑大类",
-          "level2_id": "18",
-          "level2_code": "44",
-          "code": "4404"
-        },
-        {
           "id": "1375250",
           "school_id": "788",
           "special_id": "813",
@@ -1679,39 +1653,6 @@
             "level2_id": "18",
             "level2_code": "44",
             "code": "4403"
-          }
-        ]
-      },
-      {
-        "level3_weight": "0",
-        "code": "4404",
-        "name": "建筑设备类(专)",
-        "special": [
-          {
-            "id": "1958406",
-            "school_id": "788",
-            "special_id": "8971",
-            "nation_feature": "2",
-            "province_feature": "2",
-            "is_important": "2",
-            "limit_year": "三年",
-            "year": "2022",
-            "level3_weight": "0",
-            "nation_first_class": "2",
-            "xueke_rank": "0",
-            "xueke_rank_score": "",
-            "ruanke_rank": "9999",
-            "ruanke_level": "",
-            "is_video": 2,
-            "special_name": "建筑消防技术",
-            "special_type": "2",
-            "type_name": "专科(高职)",
-            "level3_name": "建筑设备类",
-            "level3_code": "149",
-            "level2_name": "土木建筑大类",
-            "level2_id": "18",
-            "level2_code": "44",
-            "code": "4404"
           }
         ]
       },

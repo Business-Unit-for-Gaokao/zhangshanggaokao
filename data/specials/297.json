@@ -1,10 +1,10 @@
 {
-  "update_time": "2026-08-01 07:33:51",
+  "update_time": "2026-09-01 09:53:24",
   "school_id": "297",
   "school_name": "韩山师范学院",
   "source_url": "https://static-data.gaokao.cn/www/2.0/school/297/pc_special.json?a=www.gaokao.cn",
-  "time": "2026-08-01 03:16:21",
-  "md5": "ef078fd3a1ef99c754292731cfa44500",
+  "time": "2026-09-01 02:06:09",
+  "md5": "e9215434b845cc7550c87b5906dc170d",
   "group_keys": [
     "1"
   ],
@@ -17,7 +17,7 @@
     "3",
     "4"
   ],
-  "special_group_count": 33,
+  "special_group_count": 31,
   "nation_feature_count": 2,
   "educational_strength": {
     "num_doctor": "0",
@@ -1727,32 +1727,6 @@
           "code": "2701"
         },
         {
-          "id": "2167068",
-          "school_id": "297",
-          "special_id": "9631",
-          "nation_feature": "2",
-          "province_feature": "2",
-          "is_important": "2",
-          "limit_year": "",
-          "year": "2022",
-          "level3_weight": "0",
-          "nation_first_class": "2",
-          "xueke_rank": "0",
-          "xueke_rank_score": "",
-          "ruanke_rank": "9999",
-          "ruanke_level": "",
-          "is_video": 2,
-          "special_name": "烹饪与餐饮管理",
-          "special_type": 230,
-          "type_name": "本科(职业)",
-          "level3_name": "餐饮类",
-          "level3_code": "330",
-          "level2_name": "旅游大类",
-          "level2_id": "326",
-          "level2_code": "34",
-          "code": "3402"
-        },
-        {
           "id": "116789",
           "school_id": "297",
           "special_id": "142",
@@ -1855,32 +1829,6 @@
           "level2_id": "14",
           "level2_code": "13",
           "code": "1304"
-        },
-        {
-          "id": "2177762",
-          "school_id": "297",
-          "special_id": "9453",
-          "nation_feature": "2",
-          "province_feature": "2",
-          "is_important": "2",
-          "limit_year": "四年",
-          "year": "2022",
-          "level3_weight": "0",
-          "nation_first_class": "2",
-          "xueke_rank": "0",
-          "xueke_rank_score": "",
-          "ruanke_rank": "9999",
-          "ruanke_level": "",
-          "is_video": 2,
-          "special_name": "智能制造工程技术",
-          "special_type": 230,
-          "type_name": "本科(职业)",
-          "level3_name": "机械设计制造类",
-          "level3_code": "251",
-          "level2_name": "装备制造大类",
-          "level2_id": "249",
-          "level2_code": "26",
-          "code": "2601"
         },
         {
           "id": "1864955",
@@ -3530,39 +3478,6 @@
       },
       {
         "level3_weight": "0",
-        "code": "2601",
-        "name": "机械设计制造类(本)",
-        "special": [
-          {
-            "id": "2177762",
-            "school_id": "297",
-            "special_id": "9453",
-            "nation_feature": "2",
-            "province_feature": "2",
-            "is_important": "2",
-            "limit_year": "四年",
-            "year": "2022",
-            "level3_weight": "0",
-            "nation_first_class": "2",
-            "xueke_rank": "0",
-            "xueke_rank_score": "",
-            "ruanke_rank": "9999",
-            "ruanke_level": "",
-            "is_video": 2,
-            "special_name": "智能制造工程技术",
-            "special_type": 230,
-            "type_name": "本科(职业)",
-            "level3_name": "机械设计制造类",
-            "level3_code": "251",
-            "level2_name": "装备制造大类",
-            "level2_id": "249",
-            "level2_code": "26",
-            "code": "2601"
-          }
-        ]
-      },
-      {
-        "level3_weight": "0",
         "code": "2701",
         "name": "生物技术类(本)",
         "special": [
@@ -3591,39 +3506,6 @@
             "level2_id": "333",
             "level2_code": "27",
             "code": "2701"
-          }
-        ]
-      },
-      {
-        "level3_weight": "0",
-        "code": "3402",
-        "name": "餐饮类(本)",
-        "special": [
-          {
-            "id": "2167068",
-            "school_id": "297",
-            "special_id": "9631",
-            "nation_feature": "2",
-            "province_feature": "2",
-            "is_important": "2",
-            "limit_year": "",
-            "year": "2022",
-            "level3_weight": "0",
-            "nation_first_class": "2",
-            "xueke_rank": "0",
-            "xueke_rank_score": "",
-            "ruanke_rank": "9999",
-            "ruanke_level": "",
-            "is_video": 2,
-            "special_name": "烹饪与餐饮管理",
-            "special_type": 230,
-            "type_name": "本科(职业)",
-            "level3_name": "餐饮类",
-            "level3_code": "330",
-            "level2_name": "旅游大类",
-            "level2_id": "326",
-            "level2_code": "34",
-            "code": "3402"
           }
         ]
       }

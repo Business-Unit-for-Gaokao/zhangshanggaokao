@@ -1,10 +1,10 @@
 {
-  "update_time": "2026-08-01 07:42:08",
+  "update_time": "2026-09-01 09:59:49",
   "school_id": "998",
   "school_name": "汕尾职业技术学院",
   "source_url": "https://static-data.gaokao.cn/www/2.0/school/998/pc_special.json?a=www.gaokao.cn",
-  "time": "2026-08-01 03:15:26",
-  "md5": "9664ecd3f70e5785baa238507a7a8754",
+  "time": "2026-09-01 02:04:56",
+  "md5": "7b3b0324a7c43ccb1975bf84fc33cfe5",
   "group_keys": [
     "2"
   ],
@@ -17,7 +17,7 @@
     "3",
     "4"
   ],
-  "special_group_count": 23,
+  "special_group_count": 22,
   "nation_feature_count": 0,
   "educational_strength": {
     "num_doctor": "0",
@@ -870,32 +870,6 @@
           "code": "5701"
         },
         {
-          "id": "2157435",
-          "school_id": "998",
-          "special_id": "981",
-          "nation_feature": "2",
-          "province_feature": "2",
-          "is_important": "2",
-          "limit_year": "三年",
-          "year": "2022",
-          "level3_weight": "0",
-          "nation_first_class": "2",
-          "xueke_rank": "0",
-          "xueke_rank_score": "",
-          "ruanke_rank": "9999",
-          "ruanke_level": "",
-          "is_video": 2,
-          "special_name": "影视多媒体技术",
-          "special_type": "2",
-          "type_name": "专科(高职)",
-          "level3_name": "广播影视类",
-          "level3_code": "210",
-          "level2_name": "新闻传播大类",
-          "level2_id": "30",
-          "level2_code": "56",
-          "code": "5602"
-        },
-        {
           "id": "1794436",
           "school_id": "998",
           "special_id": "9170",
@@ -1206,32 +1180,6 @@
           "level2_id": "20",
           "level2_code": "46",
           "code": "4603"
-        },
-        {
-          "id": "159971",
-          "school_id": "998",
-          "special_id": "789",
-          "nation_feature": "2",
-          "province_feature": "2",
-          "is_important": "2",
-          "limit_year": "三年",
-          "year": "2022",
-          "level3_weight": "0",
-          "nation_first_class": "2",
-          "xueke_rank": "0",
-          "xueke_rank_score": "",
-          "ruanke_rank": "9999",
-          "ruanke_level": "",
-          "is_video": 2,
-          "special_name": "动漫制作技术",
-          "special_type": "2",
-          "type_name": "专科(高职)",
-          "level3_name": "计算机类",
-          "level3_code": "183",
-          "level2_name": "电子与信息大类",
-          "level2_id": "25",
-          "level2_code": "51",
-          "code": "5102"
         },
         {
           "id": "159973",
@@ -1754,32 +1702,6 @@
             "code": "5102"
           },
           {
-            "id": "159971",
-            "school_id": "998",
-            "special_id": "789",
-            "nation_feature": "2",
-            "province_feature": "2",
-            "is_important": "2",
-            "limit_year": "三年",
-            "year": "2022",
-            "level3_weight": "0",
-            "nation_first_class": "2",
-            "xueke_rank": "0",
-            "xueke_rank_score": "",
-            "ruanke_rank": "9999",
-            "ruanke_level": "",
-            "is_video": 2,
-            "special_name": "动漫制作技术",
-            "special_type": "2",
-            "type_name": "专科(高职)",
-            "level3_name": "计算机类",
-            "level3_code": "183",
-            "level2_name": "电子与信息大类",
-            "level2_id": "25",
-            "level2_code": "51",
-            "code": "5102"
-          },
-          {
             "id": "1698789",
             "school_id": "998",
             "special_id": "9177",
@@ -2290,39 +2212,6 @@
             "level2_id": "30",
             "level2_code": "56",
             "code": "5601"
-          }
-        ]
-      },
-      {
-        "level3_weight": "0",
-        "code": "5602",
-        "name": "广播影视类(专)",
-        "special": [
-          {
-            "id": "2157435",
-            "school_id": "998",
-            "special_id": "981",
-            "nation_feature": "2",
-            "province_feature": "2",
-            "is_important": "2",
-            "limit_year": "三年",
-            "year": "2022",
-            "level3_weight": "0",
-            "nation_first_class": "2",
-            "xueke_rank": "0",
-            "xueke_rank_score": "",
-            "ruanke_rank": "9999",
-            "ruanke_level": "",
-            "is_video": 2,
-            "special_name": "影视多媒体技术",
-            "special_type": "2",
-            "type_name": "专科(高职)",
-            "level3_name": "广播影视类",
-            "level3_code": "210",
-            "level2_name": "新闻传播大类",
-            "level2_id": "30",
-            "level2_code": "56",
-            "code": "5602"
           }
         ]
       },

@@ -1,10 +1,10 @@
 {
-  "update_time": "2026-08-01 07:44:34",
+  "update_time": "2026-09-01 10:01:43",
   "school_id": "1236",
   "school_name": "贵州工程应用技术学院",
   "source_url": "https://static-data.gaokao.cn/www/2.0/school/1236/pc_special.json?a=www.gaokao.cn",
-  "time": "2026-08-01 03:15:10",
-  "md5": "4878499ca5f1f71377ebc57590244b4d",
+  "time": "2026-09-01 02:04:37",
+  "md5": "4499c2d6035f0cd1afda383821aeb9b0",
   "group_keys": [
     "1"
   ],
@@ -17,7 +17,7 @@
     "3",
     "4"
   ],
-  "special_group_count": 30,
+  "special_group_count": 28,
   "nation_feature_count": 0,
   "educational_strength": {
     "num_doctor": "0",
@@ -1233,32 +1233,6 @@
           "code": "2702"
         },
         {
-          "id": "692544",
-          "school_id": "1236",
-          "special_id": "243",
-          "nation_feature": "2",
-          "province_feature": "2",
-          "is_important": "2",
-          "limit_year": "四年",
-          "year": "2022",
-          "level3_weight": "0",
-          "nation_first_class": "2",
-          "xueke_rank": "0",
-          "xueke_rank_score": "",
-          "ruanke_rank": "9999",
-          "ruanke_level": "",
-          "is_video": 2,
-          "special_name": "风景园林",
-          "special_type": "1",
-          "type_name": "本科(普通)",
-          "level3_name": "建筑类",
-          "level3_code": "90",
-          "level2_name": "工学",
-          "level2_id": "10",
-          "level2_code": "08",
-          "code": "0828"
-        },
-        {
           "id": "692546",
           "school_id": "1236",
           "special_id": "182",
@@ -1543,32 +1517,6 @@
           "level2_id": "10",
           "level2_code": "08",
           "code": "0802"
-        },
-        {
-          "id": "2178516",
-          "school_id": "1236",
-          "special_id": "9493",
-          "nation_feature": "2",
-          "province_feature": "2",
-          "is_important": "2",
-          "limit_year": "四年",
-          "year": "2022",
-          "level3_weight": "0",
-          "nation_first_class": "2",
-          "xueke_rank": "0",
-          "xueke_rank_score": "",
-          "ruanke_rank": "9999",
-          "ruanke_level": "",
-          "is_video": 2,
-          "special_name": "人工智能工程技术",
-          "special_type": 230,
-          "type_name": "本科(职业)",
-          "level3_name": "计算机类",
-          "level3_code": "261",
-          "level2_name": "电子与信息大类",
-          "level2_id": "259",
-          "level2_code": "31",
-          "code": "3102"
         },
         {
           "id": "118000",
@@ -2635,39 +2583,6 @@
       },
       {
         "level3_weight": "0",
-        "code": "0828",
-        "name": "建筑类(本)",
-        "special": [
-          {
-            "id": "692544",
-            "school_id": "1236",
-            "special_id": "243",
-            "nation_feature": "2",
-            "province_feature": "2",
-            "is_important": "2",
-            "limit_year": "四年",
-            "year": "2022",
-            "level3_weight": "0",
-            "nation_first_class": "2",
-            "xueke_rank": "0",
-            "xueke_rank_score": "",
-            "ruanke_rank": "9999",
-            "ruanke_level": "",
-            "is_video": 2,
-            "special_name": "风景园林",
-            "special_type": "1",
-            "type_name": "本科(普通)",
-            "level3_name": "建筑类",
-            "level3_code": "90",
-            "level2_name": "工学",
-            "level2_id": "10",
-            "level2_code": "08",
-            "code": "0828"
-          }
-        ]
-      },
-      {
-        "level3_weight": "0",
         "code": "0829",
         "name": "安全科学与工程类(本)",
         "special": [
@@ -2998,39 +2913,6 @@
             "level2_id": "333",
             "level2_code": "27",
             "code": "2702"
-          }
-        ]
-      },
-      {
-        "level3_weight": "0",
-        "code": "3102",
-        "name": "计算机类(本)",
-        "special": [
-          {
-            "id": "2178516",
-            "school_id": "1236",
-            "special_id": "9493",
-            "nation_feature": "2",
-            "province_feature": "2",
-            "is_important": "2",
-            "limit_year": "四年",
-            "year": "2022",
-            "level3_weight": "0",
-            "nation_first_class": "2",
-            "xueke_rank": "0",
-            "xueke_rank_score": "",
-            "ruanke_rank": "9999",
-            "ruanke_level": "",
-            "is_video": 2,
-            "special_name": "人工智能工程技术",
-            "special_type": 230,
-            "type_name": "本科(职业)",
-            "level3_name": "计算机类",
-            "level3_code": "261",
-            "level2_name": "电子与信息大类",
-            "level2_id": "259",
-            "level2_code": "31",
-            "code": "3102"
           }
         ]
       }

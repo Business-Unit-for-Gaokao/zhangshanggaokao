@@ -1,10 +1,10 @@
 {
-  "update_time": "2026-08-01 07:39:23",
+  "update_time": "2026-09-01 09:57:35",
   "school_id": "751",
   "school_name": "石家庄工商职业学院",
   "source_url": "https://static-data.gaokao.cn/www/2.0/school/751/pc_special.json?a=www.gaokao.cn",
-  "time": "2026-08-01 03:15:44",
-  "md5": "280ad09f11c4aa8cf904aa26f3766524",
+  "time": "2026-08-13 15:06:14",
+  "md5": "c0a7460a0b6e718ab9a919aa17c4874c",
   "group_keys": [
     "2"
   ],
@@ -17,7 +17,7 @@
     "3",
     "4"
   ],
-  "special_group_count": 28,
+  "special_group_count": 27,
   "nation_feature_count": 0,
   "educational_strength": {
     "num_doctor": "0",
@@ -188,32 +188,6 @@
         "level2_id": "29",
         "level2_code": "55",
         "code": "5501"
-      },
-      {
-        "id": "36500",
-        "school_id": "751",
-        "special_id": "519",
-        "nation_feature": "2",
-        "province_feature": "2",
-        "is_important": "2",
-        "limit_year": "三年",
-        "year": "2022",
-        "level3_weight": "0",
-        "nation_first_class": "2",
-        "xueke_rank": "0",
-        "xueke_rank_score": "",
-        "ruanke_rank": "9999",
-        "ruanke_level": "",
-        "is_video": 2,
-        "special_name": "建筑装饰工程技术",
-        "special_type": "2",
-        "type_name": "专科(高职)",
-        "level3_name": "建筑设计类",
-        "level3_code": "146",
-        "level2_name": "土木建筑大类",
-        "level2_id": "18",
-        "level2_code": "44",
-        "code": "4401"
       },
       {
         "id": "36499",
@@ -422,6 +396,32 @@
         "level2_id": "30",
         "level2_code": "56",
         "code": "5602"
+      },
+      {
+        "id": "1680400",
+        "school_id": "751",
+        "special_id": "9166",
+        "nation_feature": "2",
+        "province_feature": "2",
+        "is_important": "2",
+        "limit_year": "三年",
+        "year": "2022",
+        "level3_weight": "0",
+        "nation_first_class": "2",
+        "xueke_rank": "0",
+        "xueke_rank_score": "",
+        "ruanke_rank": "9999",
+        "ruanke_level": "",
+        "is_video": 2,
+        "special_name": "汽车制造与试验技术",
+        "special_type": "2",
+        "type_name": "专科(高职)",
+        "level3_name": "汽车制造类",
+        "level3_code": "163",
+        "level2_name": "装备制造大类",
+        "level2_id": "20",
+        "level2_code": "46",
+        "code": "4607"
       }
     ],
     "special_detail": {
@@ -582,32 +582,6 @@
           "level2_id": "29",
           "level2_code": "55",
           "code": "5501"
-        },
-        {
-          "id": "36500",
-          "school_id": "751",
-          "special_id": "519",
-          "nation_feature": "2",
-          "province_feature": "2",
-          "is_important": "2",
-          "limit_year": "三年",
-          "year": "2022",
-          "level3_weight": "0",
-          "nation_first_class": "2",
-          "xueke_rank": "0",
-          "xueke_rank_score": "",
-          "ruanke_rank": "9999",
-          "ruanke_level": "",
-          "is_video": 2,
-          "special_name": "建筑装饰工程技术",
-          "special_type": "2",
-          "type_name": "专科(高职)",
-          "level3_name": "建筑设计类",
-          "level3_code": "146",
-          "level2_name": "土木建筑大类",
-          "level2_id": "18",
-          "level2_code": "44",
-          "code": "4401"
         },
         {
           "id": "36499",
@@ -1810,39 +1784,6 @@
       "4": []
     },
     "special": [
-      {
-        "level3_weight": "0",
-        "code": "4401",
-        "name": "建筑设计类(专)",
-        "special": [
-          {
-            "id": "36500",
-            "school_id": "751",
-            "special_id": "519",
-            "nation_feature": "2",
-            "province_feature": "2",
-            "is_important": "2",
-            "limit_year": "三年",
-            "year": "2022",
-            "level3_weight": "0",
-            "nation_first_class": "2",
-            "xueke_rank": "0",
-            "xueke_rank_score": "",
-            "ruanke_rank": "9999",
-            "ruanke_level": "",
-            "is_video": 2,
-            "special_name": "建筑装饰工程技术",
-            "special_type": "2",
-            "type_name": "专科(高职)",
-            "level3_name": "建筑设计类",
-            "level3_code": "146",
-            "level2_name": "土木建筑大类",
-            "level2_id": "18",
-            "level2_code": "44",
-            "code": "4401"
-          }
-        ]
-      },
       {
         "level3_weight": "0",
         "code": "4403",
@@ -3556,32 +3497,6 @@
       "code": "5501"
     },
     {
-      "id": "36500",
-      "school_id": "751",
-      "special_id": "519",
-      "nation_feature": "2",
-      "province_feature": "2",
-      "is_important": "2",
-      "limit_year": "三年",
-      "year": "2022",
-      "level3_weight": "0",
-      "nation_first_class": "2",
-      "xueke_rank": "0",
-      "xueke_rank_score": "",
-      "ruanke_rank": "9999",
-      "ruanke_level": "",
-      "is_video": 2,
-      "special_name": "建筑装饰工程技术",
-      "special_type": "2",
-      "type_name": "专科(高职)",
-      "level3_name": "建筑设计类",
-      "level3_code": "146",
-      "level2_name": "土木建筑大类",
-      "level2_id": "18",
-      "level2_code": "44",
-      "code": "4401"
-    },
-    {
       "id": "36499",
       "school_id": "751",
       "special_id": "528",
@@ -3788,6 +3703,32 @@
       "level2_id": "30",
       "level2_code": "56",
       "code": "5602"
+    },
+    {
+      "id": "1680400",
+      "school_id": "751",
+      "special_id": "9166",
+      "nation_feature": "2",
+      "province_feature": "2",
+      "is_important": "2",
+      "limit_year": "三年",
+      "year": "2022",
+      "level3_weight": "0",
+      "nation_first_class": "2",
+      "xueke_rank": "0",
+      "xueke_rank_score": "",
+      "ruanke_rank": "9999",
+      "ruanke_level": "",
+      "is_video": 2,
+      "special_name": "汽车制造与试验技术",
+      "special_type": "2",
+      "type_name": "专科(高职)",
+      "level3_name": "汽车制造类",
+      "level3_code": "163",
+      "level2_name": "装备制造大类",
+      "level2_id": "20",
+      "level2_code": "46",
+      "code": "4607"
     }
   ]
 }

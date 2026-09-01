@@ -1,10 +1,10 @@
 {
-  "update_time": "2026-08-01 07:54:17",
+  "update_time": "2026-09-01 10:09:19",
   "school_id": "2128",
   "school_name": "山东城市建设职业学院",
   "source_url": "https://static-data.gaokao.cn/www/2.0/school/2128/pc_special.json?a=www.gaokao.cn",
-  "time": "2026-08-01 03:14:07",
-  "md5": "f37c2428d1407b2fef4f6d40ef1c4b47",
+  "time": "2026-09-01 03:07:58",
+  "md5": "83f21914981499d2712892537bdd843c",
   "group_keys": [
     "2"
   ],
@@ -17,7 +17,7 @@
     "3",
     "4"
   ],
-  "special_group_count": 17,
+  "special_group_count": 16,
   "nation_feature_count": 0,
   "educational_strength": {
     "num_doctor": "0",
@@ -920,32 +920,6 @@
           "level2_id": "18",
           "level2_code": "44",
           "code": "4403"
-        },
-        {
-          "id": "71807",
-          "school_id": "2128",
-          "special_id": "760",
-          "nation_feature": "2",
-          "province_feature": "2",
-          "is_important": "2",
-          "limit_year": "三年",
-          "year": "2022",
-          "level3_weight": "0",
-          "nation_first_class": "2",
-          "xueke_rank": "0",
-          "xueke_rank_score": "",
-          "ruanke_rank": "9999",
-          "ruanke_level": "",
-          "is_video": 2,
-          "special_name": "城市轨道交通工程技术",
-          "special_type": "2",
-          "type_name": "专科(高职)",
-          "level3_name": "城市轨道交通类",
-          "level3_code": "180",
-          "level2_name": "交通运输大类",
-          "level2_id": "24",
-          "level2_code": "50",
-          "code": "5006"
         },
         {
           "id": "71808",
@@ -2437,39 +2411,6 @@
             "level2_id": "18",
             "level2_code": "44",
             "code": "4407"
-          }
-        ]
-      },
-      {
-        "level3_weight": "0",
-        "code": "5006",
-        "name": "城市轨道交通类(专)",
-        "special": [
-          {
-            "id": "71807",
-            "school_id": "2128",
-            "special_id": "760",
-            "nation_feature": "2",
-            "province_feature": "2",
-            "is_important": "2",
-            "limit_year": "三年",
-            "year": "2022",
-            "level3_weight": "0",
-            "nation_first_class": "2",
-            "xueke_rank": "0",
-            "xueke_rank_score": "",
-            "ruanke_rank": "9999",
-            "ruanke_level": "",
-            "is_video": 2,
-            "special_name": "城市轨道交通工程技术",
-            "special_type": "2",
-            "type_name": "专科(高职)",
-            "level3_name": "城市轨道交通类",
-            "level3_code": "180",
-            "level2_name": "交通运输大类",
-            "level2_id": "24",
-            "level2_code": "50",
-            "code": "5006"
           }
         ]
       },

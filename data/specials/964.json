@@ -1,10 +1,10 @@
 {
-  "update_time": "2026-08-01 07:41:43",
+  "update_time": "2026-09-01 09:59:31",
   "school_id": "964",
   "school_name": "广东技术师范大学",
   "source_url": "https://static-data.gaokao.cn/www/2.0/school/964/pc_special.json?a=www.gaokao.cn",
-  "time": "2026-08-01 03:15:28",
-  "md5": "2afe174448b415530065165c0fbf941f",
+  "time": "2026-09-01 02:04:58",
+  "md5": "a69840242c19cfcb01aac2052e440015",
   "group_keys": [
     "1"
   ],
@@ -17,7 +17,7 @@
     "3",
     "4"
   ],
-  "special_group_count": 31,
+  "special_group_count": 30,
   "nation_feature_count": 1,
   "educational_strength": {
     "num_doctor": "0",
@@ -1155,32 +1155,6 @@
           "code": "0501"
         },
         {
-          "id": "43493",
-          "school_id": "964",
-          "special_id": "51",
-          "nation_feature": "2",
-          "province_feature": "2",
-          "is_important": "2",
-          "limit_year": "四年",
-          "year": "2022",
-          "level3_weight": "0",
-          "nation_first_class": "2",
-          "xueke_rank": "0",
-          "xueke_rank_score": "",
-          "ruanke_rank": "232",
-          "ruanke_level": "B",
-          "is_video": 2,
-          "special_name": "日语",
-          "special_type": "1",
-          "type_name": "本科(普通)",
-          "level3_name": "外国语言文学类",
-          "level3_code": "48",
-          "level2_name": "文学",
-          "level2_id": "7",
-          "level2_code": "05",
-          "code": "0502"
-        },
-        {
           "id": "43517",
           "school_id": "964",
           "special_id": "106",
@@ -2065,32 +2039,6 @@
           "code": "0401"
         },
         {
-          "id": "2177763",
-          "school_id": "964",
-          "special_id": "9467",
-          "nation_feature": "2",
-          "province_feature": "2",
-          "is_important": "2",
-          "limit_year": "四年",
-          "year": "2022",
-          "level3_weight": "0",
-          "nation_first_class": "2",
-          "xueke_rank": "0",
-          "xueke_rank_score": "",
-          "ruanke_rank": "9999",
-          "ruanke_level": "",
-          "is_video": 2,
-          "special_name": "机器人技术",
-          "special_type": 230,
-          "type_name": "本科(职业)",
-          "level3_name": "自动化类",
-          "level3_code": "253",
-          "level2_name": "装备制造大类",
-          "level2_id": "249",
-          "level2_code": "26",
-          "code": "2603"
-        },
-        {
           "id": "2161892",
           "school_id": "964",
           "special_id": "346",
@@ -2592,32 +2540,6 @@
         "code": "0502",
         "name": "外国语言文学类(本)",
         "special": [
-          {
-            "id": "43493",
-            "school_id": "964",
-            "special_id": "51",
-            "nation_feature": "2",
-            "province_feature": "2",
-            "is_important": "2",
-            "limit_year": "四年",
-            "year": "2022",
-            "level3_weight": "0",
-            "nation_first_class": "2",
-            "xueke_rank": "0",
-            "xueke_rank_score": "",
-            "ruanke_rank": "232",
-            "ruanke_level": "B",
-            "is_video": 2,
-            "special_name": "日语",
-            "special_type": "1",
-            "type_name": "本科(普通)",
-            "level3_name": "外国语言文学类",
-            "level3_code": "48",
-            "level2_name": "文学",
-            "level2_id": "7",
-            "level2_code": "05",
-            "code": "0502"
-          },
           {
             "id": "43517",
             "school_id": "964",
@@ -4220,39 +4142,6 @@
             "level2_id": "14",
             "level2_code": "13",
             "code": "1305"
-          }
-        ]
-      },
-      {
-        "level3_weight": "0",
-        "code": "2603",
-        "name": "自动化类(本)",
-        "special": [
-          {
-            "id": "2177763",
-            "school_id": "964",
-            "special_id": "9467",
-            "nation_feature": "2",
-            "province_feature": "2",
-            "is_important": "2",
-            "limit_year": "四年",
-            "year": "2022",
-            "level3_weight": "0",
-            "nation_first_class": "2",
-            "xueke_rank": "0",
-            "xueke_rank_score": "",
-            "ruanke_rank": "9999",
-            "ruanke_level": "",
-            "is_video": 2,
-            "special_name": "机器人技术",
-            "special_type": 230,
-            "type_name": "本科(职业)",
-            "level3_name": "自动化类",
-            "level3_code": "253",
-            "level2_name": "装备制造大类",
-            "level2_id": "249",
-            "level2_code": "26",
-            "code": "2603"
           }
         ]
       },

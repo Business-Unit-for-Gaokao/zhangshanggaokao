@@ -1,10 +1,10 @@
 {
-  "update_time": "2026-08-01 08:00:26",
+  "update_time": "2026-09-01 10:14:03",
   "school_id": "2672",
   "school_name": "河南艺术职业学院",
   "source_url": "https://static-data.gaokao.cn/www/2.0/school/2672/pc_special.json?a=www.gaokao.cn",
-  "time": "2026-08-01 03:13:27",
-  "md5": "aea0457d5d40a26a28274d16cb2af630",
+  "time": "2026-09-01 02:02:42",
+  "md5": "db535056a1aad81d4a0189f23ad96a59",
   "group_keys": [
     "2"
   ],
@@ -17,7 +17,7 @@
     "3",
     "4"
   ],
-  "special_group_count": 12,
+  "special_group_count": 11,
   "nation_feature_count": 0,
   "educational_strength": {
     "num_doctor": "0",
@@ -1026,32 +1026,6 @@
           "code": "5601"
         },
         {
-          "id": "1383734",
-          "school_id": "2672",
-          "special_id": "595",
-          "nation_feature": "2",
-          "province_feature": "2",
-          "is_important": "2",
-          "limit_year": "三年",
-          "year": "2022",
-          "level3_weight": "0",
-          "nation_first_class": "2",
-          "xueke_rank": "0",
-          "xueke_rank_score": "",
-          "ruanke_rank": "9999",
-          "ruanke_level": "",
-          "is_video": 2,
-          "special_name": "智能控制技术",
-          "special_type": "2",
-          "type_name": "专科(高职)",
-          "level3_name": "自动化类",
-          "level3_code": "159",
-          "level2_name": "装备制造大类",
-          "level2_id": "20",
-          "level2_code": "46",
-          "code": "4603"
-        },
-        {
           "id": "1472596",
           "school_id": "2672",
           "special_id": "9114",
@@ -1576,39 +1550,6 @@
       "4": []
     },
     "special": [
-      {
-        "level3_weight": "0",
-        "code": "4603",
-        "name": "自动化类(专)",
-        "special": [
-          {
-            "id": "1383734",
-            "school_id": "2672",
-            "special_id": "595",
-            "nation_feature": "2",
-            "province_feature": "2",
-            "is_important": "2",
-            "limit_year": "三年",
-            "year": "2022",
-            "level3_weight": "0",
-            "nation_first_class": "2",
-            "xueke_rank": "0",
-            "xueke_rank_score": "",
-            "ruanke_rank": "9999",
-            "ruanke_level": "",
-            "is_video": 2,
-            "special_name": "智能控制技术",
-            "special_type": "2",
-            "type_name": "专科(高职)",
-            "level3_name": "自动化类",
-            "level3_code": "159",
-            "level2_name": "装备制造大类",
-            "level2_id": "20",
-            "level2_code": "46",
-            "code": "4603"
-          }
-        ]
-      },
       {
         "level3_weight": "0",
         "code": "4801",

@@ -1,10 +1,10 @@
 {
-  "update_time": "2026-08-01 07:35:39",
+  "update_time": "2026-09-01 09:54:43",
   "school_id": "431",
   "school_name": "三峡大学",
   "source_url": "https://static-data.gaokao.cn/www/2.0/school/431/pc_special.json?a=www.gaokao.cn",
-  "time": "2026-08-01 03:16:09",
-  "md5": "0baa0c3a6583539cf4faedcbf1a1adde",
+  "time": "2026-09-01 02:05:53",
+  "md5": "6bee747d5c5666257026b88b23351e55",
   "group_keys": [
     "1"
   ],
@@ -983,7 +983,7 @@
           "year": "2022",
           "level3_weight": "0",
           "nation_first_class": "1",
-          "xueke_rank": "139",
+          "xueke_rank": "8",
           "xueke_rank_score": "",
           "ruanke_rank": "122",
           "ruanke_level": "B+",
@@ -3368,7 +3368,7 @@
             "year": "2022",
             "level3_weight": "0",
             "nation_first_class": "1",
-            "xueke_rank": "139",
+            "xueke_rank": "8",
             "xueke_rank_score": "",
             "ruanke_rank": "122",
             "ruanke_level": "B+",

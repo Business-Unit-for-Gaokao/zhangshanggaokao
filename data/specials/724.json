@@ -1,10 +1,10 @@
 {
-  "update_time": "2026-08-01 07:39:07",
+  "update_time": "2026-09-01 09:57:21",
   "school_id": "724",
   "school_name": "河北艺术职业学院",
   "source_url": "https://static-data.gaokao.cn/www/2.0/school/724/pc_special.json?a=www.gaokao.cn",
-  "time": "2026-08-01 03:15:46",
-  "md5": "86329937fcf064c5be77bb1d6e6c7664",
+  "time": "2026-09-01 03:09:15",
+  "md5": "bb1efb7052ee11cda76524684396c779",
   "group_keys": [
     "2"
   ],
@@ -17,7 +17,7 @@
     "3",
     "4"
   ],
-  "special_group_count": 7,
+  "special_group_count": 6,
   "nation_feature_count": 0,
   "educational_strength": {
     "num_doctor": "0",
@@ -1000,32 +1000,6 @@
           "code": "5502"
         },
         {
-          "id": "218831",
-          "school_id": "724",
-          "special_id": "976",
-          "nation_feature": "2",
-          "province_feature": "2",
-          "is_important": "2",
-          "limit_year": "三年",
-          "year": "2022",
-          "level3_weight": "0",
-          "nation_first_class": "2",
-          "xueke_rank": "0",
-          "xueke_rank_score": "",
-          "ruanke_rank": "9999",
-          "ruanke_level": "",
-          "is_video": 2,
-          "special_name": "广播影视节目制作",
-          "special_type": "2",
-          "type_name": "专科(高职)",
-          "level3_name": "广播影视类",
-          "level3_code": "210",
-          "level2_name": "新闻传播大类",
-          "level2_id": "30",
-          "level2_code": "56",
-          "code": "5602"
-        },
-        {
           "id": "1029076",
           "school_id": "724",
           "special_id": "943",
@@ -1686,39 +1660,6 @@
             "level2_id": "29",
             "level2_code": "55",
             "code": "5504"
-          }
-        ]
-      },
-      {
-        "level3_weight": "0",
-        "code": "5602",
-        "name": "广播影视类(专)",
-        "special": [
-          {
-            "id": "218831",
-            "school_id": "724",
-            "special_id": "976",
-            "nation_feature": "2",
-            "province_feature": "2",
-            "is_important": "2",
-            "limit_year": "三年",
-            "year": "2022",
-            "level3_weight": "0",
-            "nation_first_class": "2",
-            "xueke_rank": "0",
-            "xueke_rank_score": "",
-            "ruanke_rank": "9999",
-            "ruanke_level": "",
-            "is_video": 2,
-            "special_name": "广播影视节目制作",
-            "special_type": "2",
-            "type_name": "专科(高职)",
-            "level3_name": "广播影视类",
-            "level3_code": "210",
-            "level2_name": "新闻传播大类",
-            "level2_id": "30",
-            "level2_code": "56",
-            "code": "5602"
           }
         ]
       },

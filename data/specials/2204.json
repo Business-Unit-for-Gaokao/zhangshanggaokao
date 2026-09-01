@@ -1,10 +1,10 @@
 {
-  "update_time": "2026-08-01 07:55:10",
+  "update_time": "2026-09-01 10:10:01",
   "school_id": "2204",
   "school_name": "南通职业大学",
   "source_url": "https://static-data.gaokao.cn/www/2.0/school/2204/pc_special.json?a=www.gaokao.cn",
-  "time": "2026-08-01 03:14:00",
-  "md5": "5f5d559ced965e07c02baa3a1df98f48",
+  "time": "2026-09-01 02:03:20",
+  "md5": "bc9f3335417a26c6bd9b2e0bf06e68fc",
   "group_keys": [
     "2"
   ],
@@ -17,7 +17,7 @@
     "3",
     "4"
   ],
-  "special_group_count": 22,
+  "special_group_count": 18,
   "nation_feature_count": 0,
   "educational_strength": {
     "num_doctor": "0",
@@ -398,9 +398,9 @@
         "code": "5501"
       },
       {
-        "id": "1798209",
+        "id": "1736523",
         "school_id": "2204",
-        "special_id": "9076",
+        "special_id": "454",
         "nation_feature": "2",
         "province_feature": "2",
         "is_important": "2",
@@ -413,15 +413,15 @@
         "ruanke_rank": "9999",
         "ruanke_level": "",
         "is_video": 2,
-        "special_name": "婴幼儿托育服务与管理",
+        "special_name": "环境工程技术",
         "special_type": "2",
         "type_name": "专科(高职)",
-        "level3_name": "健康管理与促进类",
-        "level3_code": "192",
-        "level2_name": "医药卫生大类",
-        "level2_id": "26",
-        "level2_code": "52",
-        "code": "5208"
+        "level3_name": "环境保护类",
+        "level3_code": "137",
+        "level2_name": "资源环境与安全大类",
+        "level2_id": "16",
+        "level2_code": "42",
+        "code": "4208"
       }
     ],
     "special_detail": {
@@ -792,32 +792,6 @@
           "code": "5501"
         },
         {
-          "id": "1798209",
-          "school_id": "2204",
-          "special_id": "9076",
-          "nation_feature": "2",
-          "province_feature": "2",
-          "is_important": "2",
-          "limit_year": "三年",
-          "year": "2022",
-          "level3_weight": "0",
-          "nation_first_class": "2",
-          "xueke_rank": "0",
-          "xueke_rank_score": "",
-          "ruanke_rank": "9999",
-          "ruanke_level": "",
-          "is_video": 2,
-          "special_name": "婴幼儿托育服务与管理",
-          "special_type": "2",
-          "type_name": "专科(高职)",
-          "level3_name": "健康管理与促进类",
-          "level3_code": "192",
-          "level2_name": "医药卫生大类",
-          "level2_id": "26",
-          "level2_code": "52",
-          "code": "5208"
-        },
-        {
           "id": "1736523",
           "school_id": "2204",
           "special_id": "454",
@@ -922,32 +896,6 @@
           "code": "5102"
         },
         {
-          "id": "1736537",
-          "school_id": "2204",
-          "special_id": "9183",
-          "nation_feature": "2",
-          "province_feature": "2",
-          "is_important": "2",
-          "limit_year": "三年",
-          "year": "2022",
-          "level3_weight": "0",
-          "nation_first_class": "2",
-          "xueke_rank": "0",
-          "xueke_rank_score": "",
-          "ruanke_rank": "9999",
-          "ruanke_level": "",
-          "is_video": 2,
-          "special_name": "全媒体广告策划与营销",
-          "special_type": "2",
-          "type_name": "专科(高职)",
-          "level3_name": "广播影视类",
-          "level3_code": "210",
-          "level2_name": "新闻传播大类",
-          "level2_id": "30",
-          "level2_code": "56",
-          "code": "5602"
-        },
-        {
           "id": "1736539",
           "school_id": "2204",
           "special_id": "521",
@@ -1024,32 +972,6 @@
           "level2_id": "25",
           "level2_code": "51",
           "code": "5102"
-        },
-        {
-          "id": "1745302",
-          "school_id": "2204",
-          "special_id": "528",
-          "nation_feature": "2",
-          "province_feature": "2",
-          "is_important": "2",
-          "limit_year": "三年",
-          "year": "2022",
-          "level3_weight": "0",
-          "nation_first_class": "2",
-          "xueke_rank": "0",
-          "xueke_rank_score": "",
-          "ruanke_rank": "9999",
-          "ruanke_level": "",
-          "is_video": 2,
-          "special_name": "建筑工程技术",
-          "special_type": "2",
-          "type_name": "专科(高职)",
-          "level3_name": "土建施工类",
-          "level3_code": "148",
-          "level2_name": "土木建筑大类",
-          "level2_id": "18",
-          "level2_code": "44",
-          "code": "4403"
         },
         {
           "id": "1745303",
@@ -1416,32 +1338,6 @@
           "code": "5702"
         },
         {
-          "id": "1957834",
-          "school_id": "2204",
-          "special_id": "9040",
-          "nation_feature": "2",
-          "province_feature": "2",
-          "is_important": "2",
-          "limit_year": "三年",
-          "year": "2022",
-          "level3_weight": "0",
-          "nation_first_class": "2",
-          "xueke_rank": "0",
-          "xueke_rank_score": "",
-          "ruanke_rank": "9999",
-          "ruanke_level": "",
-          "is_video": 2,
-          "special_name": "高速铁路客运服务",
-          "special_type": "2",
-          "type_name": "专科(高职)",
-          "level3_name": "铁道运输类",
-          "level3_code": "175",
-          "level2_name": "交通运输大类",
-          "level2_id": "24",
-          "level2_code": "50",
-          "code": "5001"
-        },
-        {
           "id": "1741010",
           "school_id": "2204",
           "special_id": "630",
@@ -1672,39 +1568,6 @@
             "level2_id": "18",
             "level2_code": "44",
             "code": "4401"
-          }
-        ]
-      },
-      {
-        "level3_weight": "0",
-        "code": "4403",
-        "name": "土建施工类(专)",
-        "special": [
-          {
-            "id": "1745302",
-            "school_id": "2204",
-            "special_id": "528",
-            "nation_feature": "2",
-            "province_feature": "2",
-            "is_important": "2",
-            "limit_year": "三年",
-            "year": "2022",
-            "level3_weight": "0",
-            "nation_first_class": "2",
-            "xueke_rank": "0",
-            "xueke_rank_score": "",
-            "ruanke_rank": "9999",
-            "ruanke_level": "",
-            "is_video": 2,
-            "special_name": "建筑工程技术",
-            "special_type": "2",
-            "type_name": "专科(高职)",
-            "level3_name": "土建施工类",
-            "level3_code": "148",
-            "level2_name": "土木建筑大类",
-            "level2_id": "18",
-            "level2_code": "44",
-            "code": "4403"
           }
         ]
       },
@@ -2123,39 +1986,6 @@
       },
       {
         "level3_weight": "0",
-        "code": "5001",
-        "name": "铁道运输类(专)",
-        "special": [
-          {
-            "id": "1957834",
-            "school_id": "2204",
-            "special_id": "9040",
-            "nation_feature": "2",
-            "province_feature": "2",
-            "is_important": "2",
-            "limit_year": "三年",
-            "year": "2022",
-            "level3_weight": "0",
-            "nation_first_class": "2",
-            "xueke_rank": "0",
-            "xueke_rank_score": "",
-            "ruanke_rank": "9999",
-            "ruanke_level": "",
-            "is_video": 2,
-            "special_name": "高速铁路客运服务",
-            "special_type": "2",
-            "type_name": "专科(高职)",
-            "level3_name": "铁道运输类",
-            "level3_code": "175",
-            "level2_name": "交通运输大类",
-            "level2_id": "24",
-            "level2_code": "50",
-            "code": "5001"
-          }
-        ]
-      },
-      {
-        "level3_weight": "0",
         "code": "5006",
         "name": "城市轨道交通类(专)",
         "special": [
@@ -2463,39 +2293,6 @@
       },
       {
         "level3_weight": "0",
-        "code": "5208",
-        "name": "健康管理与促进类(专)",
-        "special": [
-          {
-            "id": "1798209",
-            "school_id": "2204",
-            "special_id": "9076",
-            "nation_feature": "2",
-            "province_feature": "2",
-            "is_important": "2",
-            "limit_year": "三年",
-            "year": "2022",
-            "level3_weight": "0",
-            "nation_first_class": "2",
-            "xueke_rank": "0",
-            "xueke_rank_score": "",
-            "ruanke_rank": "9999",
-            "ruanke_level": "",
-            "is_video": 2,
-            "special_name": "婴幼儿托育服务与管理",
-            "special_type": "2",
-            "type_name": "专科(高职)",
-            "level3_name": "健康管理与促进类",
-            "level3_code": "192",
-            "level2_name": "医药卫生大类",
-            "level2_id": "26",
-            "level2_code": "52",
-            "code": "5208"
-          }
-        ]
-      },
-      {
-        "level3_weight": "0",
         "code": "5303",
         "name": "财务会计类(专)",
         "special": [
@@ -2779,39 +2576,6 @@
             "level2_id": "29",
             "level2_code": "55",
             "code": "5501"
-          }
-        ]
-      },
-      {
-        "level3_weight": "0",
-        "code": "5602",
-        "name": "广播影视类(专)",
-        "special": [
-          {
-            "id": "1736537",
-            "school_id": "2204",
-            "special_id": "9183",
-            "nation_feature": "2",
-            "province_feature": "2",
-            "is_important": "2",
-            "limit_year": "三年",
-            "year": "2022",
-            "level3_weight": "0",
-            "nation_first_class": "2",
-            "xueke_rank": "0",
-            "xueke_rank_score": "",
-            "ruanke_rank": "9999",
-            "ruanke_level": "",
-            "is_video": 2,
-            "special_name": "全媒体广告策划与营销",
-            "special_type": "2",
-            "type_name": "专科(高职)",
-            "level3_name": "广播影视类",
-            "level3_code": "210",
-            "level2_name": "新闻传播大类",
-            "level2_id": "30",
-            "level2_code": "56",
-            "code": "5602"
           }
         ]
       },
@@ -3254,9 +3018,9 @@
       "code": "5501"
     },
     {
-      "id": "1798209",
+      "id": "1736523",
       "school_id": "2204",
-      "special_id": "9076",
+      "special_id": "454",
       "nation_feature": "2",
       "province_feature": "2",
       "is_important": "2",
@@ -3269,15 +3033,15 @@
       "ruanke_rank": "9999",
       "ruanke_level": "",
       "is_video": 2,
-      "special_name": "婴幼儿托育服务与管理",
+      "special_name": "环境工程技术",
       "special_type": "2",
       "type_name": "专科(高职)",
-      "level3_name": "健康管理与促进类",
-      "level3_code": "192",
-      "level2_name": "医药卫生大类",
-      "level2_id": "26",
-      "level2_code": "52",
-      "code": "5208"
+      "level3_name": "环境保护类",
+      "level3_code": "137",
+      "level2_name": "资源环境与安全大类",
+      "level2_id": "16",
+      "level2_code": "42",
+      "code": "4208"
     }
   ]
 }

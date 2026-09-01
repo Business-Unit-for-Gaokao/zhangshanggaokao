@@ -1,10 +1,10 @@
 {
-  "update_time": "2026-08-01 07:48:49",
+  "update_time": "2026-09-01 10:05:03",
   "school_id": "1691",
   "school_name": "辽宁经济职业技术学院",
   "source_url": "https://static-data.gaokao.cn/www/2.0/school/1691/pc_special.json?a=www.gaokao.cn",
-  "time": "2026-08-01 03:14:42",
-  "md5": "b7bcc9ffed85281f3e156850a70090c4",
+  "time": "2026-09-01 02:04:04",
+  "md5": "8bc50885845925896b5753197eb52629",
   "group_keys": [
     "2"
   ],
@@ -17,7 +17,7 @@
     "3",
     "4"
   ],
-  "special_group_count": 21,
+  "special_group_count": 20,
   "nation_feature_count": 0,
   "educational_strength": {
     "num_doctor": "0",
@@ -1182,32 +1182,6 @@
           "code": "5302"
         },
         {
-          "id": "2022542",
-          "school_id": "1691",
-          "special_id": "741",
-          "nation_feature": "2",
-          "province_feature": "2",
-          "is_important": "2",
-          "limit_year": "三年",
-          "year": "2022",
-          "level3_weight": "0",
-          "nation_first_class": "2",
-          "xueke_rank": "0",
-          "xueke_rank_score": "",
-          "ruanke_rank": "9999",
-          "ruanke_level": "",
-          "is_video": 2,
-          "special_name": "民航安全技术管理",
-          "special_type": "2",
-          "type_name": "专科(高职)",
-          "level3_name": "航空运输类",
-          "level3_code": "178",
-          "level2_name": "交通运输大类",
-          "level2_id": "24",
-          "level2_code": "50",
-          "code": "5004"
-        },
-        {
           "id": "1365672",
           "school_id": "1691",
           "special_id": "1312",
@@ -1388,32 +1362,6 @@
           "level2_id": "27",
           "level2_code": "53",
           "code": "5303"
-        },
-        {
-          "id": "1798859",
-          "school_id": "1691",
-          "special_id": "9170",
-          "nation_feature": "2",
-          "province_feature": "2",
-          "is_important": "2",
-          "limit_year": "三年",
-          "year": "2022",
-          "level3_weight": "0",
-          "nation_first_class": "2",
-          "xueke_rank": "0",
-          "xueke_rank_score": "",
-          "ruanke_rank": "9999",
-          "ruanke_level": "",
-          "is_video": 2,
-          "special_name": "食品检验检测技术",
-          "special_type": "2",
-          "type_name": "专科(高职)",
-          "level3_name": "食品类",
-          "level3_code": "170",
-          "level2_name": "食品药品与粮食大类",
-          "level2_id": "23",
-          "level2_code": "49",
-          "code": "4901"
         },
         {
           "id": "2152914",
@@ -1641,32 +1589,6 @@
             "level2_id": "23",
             "level2_code": "49",
             "code": "4901"
-          },
-          {
-            "id": "1798859",
-            "school_id": "1691",
-            "special_id": "9170",
-            "nation_feature": "2",
-            "province_feature": "2",
-            "is_important": "2",
-            "limit_year": "三年",
-            "year": "2022",
-            "level3_weight": "0",
-            "nation_first_class": "2",
-            "xueke_rank": "0",
-            "xueke_rank_score": "",
-            "ruanke_rank": "9999",
-            "ruanke_level": "",
-            "is_video": 2,
-            "special_name": "食品检验检测技术",
-            "special_type": "2",
-            "type_name": "专科(高职)",
-            "level3_name": "食品类",
-            "level3_code": "170",
-            "level2_name": "食品药品与粮食大类",
-            "level2_id": "23",
-            "level2_code": "49",
-            "code": "4901"
           }
         ]
       },
@@ -1733,39 +1655,6 @@
             "level2_id": "24",
             "level2_code": "50",
             "code": "5002"
-          }
-        ]
-      },
-      {
-        "level3_weight": "0",
-        "code": "5004",
-        "name": "航空运输类(专)",
-        "special": [
-          {
-            "id": "2022542",
-            "school_id": "1691",
-            "special_id": "741",
-            "nation_feature": "2",
-            "province_feature": "2",
-            "is_important": "2",
-            "limit_year": "三年",
-            "year": "2022",
-            "level3_weight": "0",
-            "nation_first_class": "2",
-            "xueke_rank": "0",
-            "xueke_rank_score": "",
-            "ruanke_rank": "9999",
-            "ruanke_level": "",
-            "is_video": 2,
-            "special_name": "民航安全技术管理",
-            "special_type": "2",
-            "type_name": "专科(高职)",
-            "level3_name": "航空运输类",
-            "level3_code": "178",
-            "level2_name": "交通运输大类",
-            "level2_id": "24",
-            "level2_code": "50",
-            "code": "5004"
           }
         ]
       },

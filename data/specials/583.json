@@ -1,24 +1,24 @@
 {
-  "update_time": "2026-08-01 07:37:32",
+  "update_time": "2026-09-01 09:56:11",
   "school_id": "583",
   "school_name": "首钢工学院",
   "source_url": "https://static-data.gaokao.cn/www/2.0/school/583/pc_special.json?a=www.gaokao.cn",
-  "time": "2026-08-01 03:15:56",
-  "md5": "cfb1f588548a44b5f9acb0d3b0269ca5",
+  "time": "2026-09-01 03:09:37",
+  "md5": "019e77c6a9f0efe5c4f5be717f7a1bb3",
   "group_keys": [
     "1",
     "2"
   ],
   "group_count": 2,
   "nonempty_group_count": 2,
-  "data_count": 18,
+  "data_count": 17,
   "special_detail_keys": [
     "1",
     "2",
     "3",
     "4"
   ],
-  "special_group_count": 15,
+  "special_group_count": 14,
   "nation_feature_count": 0,
   "educational_strength": {
     "num_doctor": "0",
@@ -136,32 +136,6 @@
         "level2_id": "10",
         "level2_code": "08",
         "code": "0804"
-      },
-      {
-        "id": "881888",
-        "school_id": "583",
-        "special_id": "171",
-        "nation_feature": "2",
-        "province_feature": "2",
-        "is_important": "2",
-        "limit_year": "四年",
-        "year": "2022",
-        "level3_weight": "0",
-        "nation_first_class": "2",
-        "xueke_rank": "0",
-        "xueke_rank_score": "",
-        "ruanke_rank": "9999",
-        "ruanke_level": "",
-        "is_video": 2,
-        "special_name": "自动化",
-        "special_type": "1",
-        "type_name": "本科(普通)",
-        "level3_name": "自动化类",
-        "level3_code": "70",
-        "level2_name": "工学",
-        "level2_id": "10",
-        "level2_code": "08",
-        "code": "0808"
       }
     ],
     "2": [
@@ -609,32 +583,6 @@
           "level2_id": "10",
           "level2_code": "08",
           "code": "0804"
-        },
-        {
-          "id": "881888",
-          "school_id": "583",
-          "special_id": "171",
-          "nation_feature": "2",
-          "province_feature": "2",
-          "is_important": "2",
-          "limit_year": "四年",
-          "year": "2022",
-          "level3_weight": "0",
-          "nation_first_class": "2",
-          "xueke_rank": "0",
-          "xueke_rank_score": "",
-          "ruanke_rank": "9999",
-          "ruanke_level": "",
-          "is_video": 2,
-          "special_name": "自动化",
-          "special_type": "1",
-          "type_name": "本科(普通)",
-          "level3_name": "自动化类",
-          "level3_code": "70",
-          "level2_name": "工学",
-          "level2_id": "10",
-          "level2_code": "08",
-          "code": "0808"
         }
       ],
       "2": [
@@ -1011,39 +959,6 @@
             "level2_id": "10",
             "level2_code": "08",
             "code": "0804"
-          }
-        ]
-      },
-      {
-        "level3_weight": "0",
-        "code": "0808",
-        "name": "自动化类(本)",
-        "special": [
-          {
-            "id": "881888",
-            "school_id": "583",
-            "special_id": "171",
-            "nation_feature": "2",
-            "province_feature": "2",
-            "is_important": "2",
-            "limit_year": "四年",
-            "year": "2022",
-            "level3_weight": "0",
-            "nation_first_class": "2",
-            "xueke_rank": "0",
-            "xueke_rank_score": "",
-            "ruanke_rank": "9999",
-            "ruanke_level": "",
-            "is_video": 2,
-            "special_name": "自动化",
-            "special_type": "1",
-            "type_name": "本科(普通)",
-            "level3_name": "自动化类",
-            "level3_code": "70",
-            "level2_name": "工学",
-            "level2_id": "10",
-            "level2_code": "08",
-            "code": "0808"
           }
         ]
       },
@@ -1672,32 +1587,6 @@
       "level2_id": "10",
       "level2_code": "08",
       "code": "0804"
-    },
-    {
-      "id": "881888",
-      "school_id": "583",
-      "special_id": "171",
-      "nation_feature": "2",
-      "province_feature": "2",
-      "is_important": "2",
-      "limit_year": "四年",
-      "year": "2022",
-      "level3_weight": "0",
-      "nation_first_class": "2",
-      "xueke_rank": "0",
-      "xueke_rank_score": "",
-      "ruanke_rank": "9999",
-      "ruanke_level": "",
-      "is_video": 2,
-      "special_name": "自动化",
-      "special_type": "1",
-      "type_name": "本科(普通)",
-      "level3_name": "自动化类",
-      "level3_code": "70",
-      "level2_name": "工学",
-      "level2_id": "10",
-      "level2_code": "08",
-      "code": "0808"
     },
     {
       "id": "31186",

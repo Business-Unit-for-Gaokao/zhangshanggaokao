@@ -1,10 +1,10 @@
 {
-  "update_time": "2026-08-01 07:49:16",
+  "update_time": "2026-09-01 10:05:24",
   "school_id": "1730",
   "school_name": "桂林师范学院",
   "source_url": "https://static-data.gaokao.cn/www/2.0/school/1730/pc_special.json?a=www.gaokao.cn",
-  "time": "2026-08-01 03:14:39",
-  "md5": "3c4625db427e44e9a798a1a84cf6817e",
+  "time": "2026-09-01 02:04:01",
+  "md5": "6b71970756db55761fee46d7857cc33a",
   "group_keys": [
     "1",
     "2"
@@ -18,7 +18,7 @@
     "3",
     "4"
   ],
-  "special_group_count": 26,
+  "special_group_count": 25,
   "nation_feature_count": 0,
   "educational_strength": {
     "num_doctor": "0",
@@ -1471,32 +1471,6 @@
           "code": "5103"
         },
         {
-          "id": "1698679",
-          "school_id": "1730",
-          "special_id": "9168",
-          "nation_feature": "2",
-          "province_feature": "2",
-          "is_important": "2",
-          "limit_year": "三年",
-          "year": "2022",
-          "level3_weight": "0",
-          "nation_first_class": "2",
-          "xueke_rank": "0",
-          "xueke_rank_score": "",
-          "ruanke_rank": "9999",
-          "ruanke_level": "",
-          "is_video": 2,
-          "special_name": "分析检验技术",
-          "special_type": "2",
-          "type_name": "专科(高职)",
-          "level3_name": "化工技术类",
-          "level3_code": "165",
-          "level2_name": "生物与化工大类",
-          "level2_id": "21",
-          "level2_code": "47",
-          "code": "4702"
-        },
-        {
           "id": "1741435",
           "school_id": "1730",
           "special_id": "764",
@@ -2452,39 +2426,6 @@
             "level2_id": "20",
             "level2_code": "46",
             "code": "4603"
-          }
-        ]
-      },
-      {
-        "level3_weight": "0",
-        "code": "4702",
-        "name": "化工技术类(专)",
-        "special": [
-          {
-            "id": "1698679",
-            "school_id": "1730",
-            "special_id": "9168",
-            "nation_feature": "2",
-            "province_feature": "2",
-            "is_important": "2",
-            "limit_year": "三年",
-            "year": "2022",
-            "level3_weight": "0",
-            "nation_first_class": "2",
-            "xueke_rank": "0",
-            "xueke_rank_score": "",
-            "ruanke_rank": "9999",
-            "ruanke_level": "",
-            "is_video": 2,
-            "special_name": "分析检验技术",
-            "special_type": "2",
-            "type_name": "专科(高职)",
-            "level3_name": "化工技术类",
-            "level3_code": "165",
-            "level2_name": "生物与化工大类",
-            "level2_id": "21",
-            "level2_code": "47",
-            "code": "4702"
           }
         ]
       },

@@ -1,24 +1,24 @@
 {
-  "update_time": "2026-08-01 07:58:05",
+  "update_time": "2026-09-01 10:12:13",
   "school_id": "2439",
   "school_name": "南昌大学共青学院",
   "source_url": "https://static-data.gaokao.cn/www/2.0/school/2439/pc_special.json?a=www.gaokao.cn",
-  "time": "2026-08-01 03:13:42",
-  "md5": "cb2e229d920082e71df50e896014c677",
+  "time": "2026-09-01 03:07:51",
+  "md5": "e3978d5def6bfe41ed34d406f96c9b86",
   "group_keys": [
     "1",
     "2"
   ],
   "group_count": 2,
   "nonempty_group_count": 2,
-  "data_count": 19,
+  "data_count": 18,
   "special_detail_keys": [
     "1",
     "2",
     "3",
     "4"
   ],
-  "special_group_count": 18,
+  "special_group_count": 17,
   "nation_feature_count": 0,
   "educational_strength": {
     "num_doctor": "0",
@@ -502,32 +502,6 @@
         "level2_id": "29",
         "level2_code": "55",
         "code": "5501"
-      },
-      {
-        "id": "1471491",
-        "school_id": "2439",
-        "special_id": "9085",
-        "nation_feature": "2",
-        "province_feature": "2",
-        "is_important": "2",
-        "limit_year": "三年",
-        "year": "2022",
-        "level3_weight": "0",
-        "nation_first_class": "2",
-        "xueke_rank": "0",
-        "xueke_rank_score": "",
-        "ruanke_rank": "9999",
-        "ruanke_level": "",
-        "is_video": 2,
-        "special_name": "大数据与会计",
-        "special_type": "2",
-        "type_name": "专科(高职)",
-        "level3_name": "财务会计类",
-        "level3_code": "195",
-        "level2_name": "财经商贸大类",
-        "level2_id": "27",
-        "level2_code": "53",
-        "code": "5303"
       }
     ],
     "special_detail": {
@@ -1209,32 +1183,6 @@
           "level2_id": "29",
           "level2_code": "55",
           "code": "5501"
-        },
-        {
-          "id": "1471491",
-          "school_id": "2439",
-          "special_id": "9085",
-          "nation_feature": "2",
-          "province_feature": "2",
-          "is_important": "2",
-          "limit_year": "三年",
-          "year": "2022",
-          "level3_weight": "0",
-          "nation_first_class": "2",
-          "xueke_rank": "0",
-          "xueke_rank_score": "",
-          "ruanke_rank": "9999",
-          "ruanke_level": "",
-          "is_video": 2,
-          "special_name": "大数据与会计",
-          "special_type": "2",
-          "type_name": "专科(高职)",
-          "level3_name": "财务会计类",
-          "level3_code": "195",
-          "level2_name": "财经商贸大类",
-          "level2_id": "27",
-          "level2_code": "53",
-          "code": "5303"
         }
       ],
       "3": "",
@@ -1946,39 +1894,6 @@
       },
       {
         "level3_weight": "0",
-        "code": "5303",
-        "name": "财务会计类(专)",
-        "special": [
-          {
-            "id": "1471491",
-            "school_id": "2439",
-            "special_id": "9085",
-            "nation_feature": "2",
-            "province_feature": "2",
-            "is_important": "2",
-            "limit_year": "三年",
-            "year": "2022",
-            "level3_weight": "0",
-            "nation_first_class": "2",
-            "xueke_rank": "0",
-            "xueke_rank_score": "",
-            "ruanke_rank": "9999",
-            "ruanke_level": "",
-            "is_video": 2,
-            "special_name": "大数据与会计",
-            "special_type": "2",
-            "type_name": "专科(高职)",
-            "level3_name": "财务会计类",
-            "level3_code": "195",
-            "level2_name": "财经商贸大类",
-            "level2_id": "27",
-            "level2_code": "53",
-            "code": "5303"
-          }
-        ]
-      },
-      {
-        "level3_weight": "0",
         "code": "5501",
         "name": "艺术设计类(专)",
         "special": [
@@ -2551,32 +2466,6 @@
       "level2_id": "29",
       "level2_code": "55",
       "code": "5501"
-    },
-    {
-      "id": "1471491",
-      "school_id": "2439",
-      "special_id": "9085",
-      "nation_feature": "2",
-      "province_feature": "2",
-      "is_important": "2",
-      "limit_year": "三年",
-      "year": "2022",
-      "level3_weight": "0",
-      "nation_first_class": "2",
-      "xueke_rank": "0",
-      "xueke_rank_score": "",
-      "ruanke_rank": "9999",
-      "ruanke_level": "",
-      "is_video": 2,
-      "special_name": "大数据与会计",
-      "special_type": "2",
-      "type_name": "专科(高职)",
-      "level3_name": "财务会计类",
-      "level3_code": "195",
-      "level2_name": "财经商贸大类",
-      "level2_id": "27",
-      "level2_code": "53",
-      "code": "5303"
     }
   ]
 }

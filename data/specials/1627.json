@@ -1,10 +1,10 @@
 {
-  "update_time": "2026-08-01 07:48:06",
+  "update_time": "2026-09-01 10:04:30",
   "school_id": "1627",
   "school_name": "包头轻工职业技术学院",
   "source_url": "https://static-data.gaokao.cn/www/2.0/school/1627/pc_special.json?a=www.gaokao.cn",
-  "time": "2026-08-01 03:14:47",
-  "md5": "ad9ab1003dde55dab20c0a9f83c3f776",
+  "time": "2026-09-01 03:08:41",
+  "md5": "16ba089fd0dc49f2880818d2d597e365",
   "group_keys": [
     "2"
   ],
@@ -17,7 +17,7 @@
     "3",
     "4"
   ],
-  "special_group_count": 28,
+  "special_group_count": 27,
   "nation_feature_count": 0,
   "educational_strength": {
     "num_doctor": "0",
@@ -1182,32 +1182,6 @@
           "code": "5001"
         },
         {
-          "id": "2159511",
-          "school_id": "1627",
-          "special_id": "510",
-          "nation_feature": "2",
-          "province_feature": "2",
-          "is_important": "2",
-          "limit_year": "三年",
-          "year": "2022",
-          "level3_weight": "0",
-          "nation_first_class": "2",
-          "xueke_rank": "0",
-          "xueke_rank_score": "",
-          "ruanke_rank": "9999",
-          "ruanke_level": "",
-          "is_video": 2,
-          "special_name": "硅材料制备技术",
-          "special_type": "2",
-          "type_name": "专科(高职)",
-          "level3_name": "非金属材料类",
-          "level3_code": "144",
-          "level2_name": "能源动力与材料大类",
-          "level2_id": "17",
-          "level2_code": "43",
-          "code": "4306"
-        },
-        {
           "id": "2159512",
           "school_id": "1627",
           "special_id": "8961",
@@ -1771,39 +1745,6 @@
             "level2_id": "17",
             "level2_code": "43",
             "code": "4305"
-          }
-        ]
-      },
-      {
-        "level3_weight": "0",
-        "code": "4306",
-        "name": "非金属材料类(专)",
-        "special": [
-          {
-            "id": "2159511",
-            "school_id": "1627",
-            "special_id": "510",
-            "nation_feature": "2",
-            "province_feature": "2",
-            "is_important": "2",
-            "limit_year": "三年",
-            "year": "2022",
-            "level3_weight": "0",
-            "nation_first_class": "2",
-            "xueke_rank": "0",
-            "xueke_rank_score": "",
-            "ruanke_rank": "9999",
-            "ruanke_level": "",
-            "is_video": 2,
-            "special_name": "硅材料制备技术",
-            "special_type": "2",
-            "type_name": "专科(高职)",
-            "level3_name": "非金属材料类",
-            "level3_code": "144",
-            "level2_name": "能源动力与材料大类",
-            "level2_id": "17",
-            "level2_code": "43",
-            "code": "4306"
           }
         ]
       },

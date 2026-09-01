@@ -1,10 +1,10 @@
 {
-  "update_time": "2026-08-01 07:42:54",
+  "update_time": "2026-09-01 10:00:27",
   "school_id": "1070",
   "school_name": "湖南人文科技学院",
   "source_url": "https://static-data.gaokao.cn/www/2.0/school/1070/pc_special.json?a=www.gaokao.cn",
-  "time": "2026-08-01 03:15:21",
-  "md5": "6c19cc7446db493d9e3896c739984a84",
+  "time": "2026-09-01 02:04:48",
+  "md5": "1b2fd5fe6e5d513ade0eb917001cde8f",
   "group_keys": [
     "1"
   ],
@@ -17,7 +17,7 @@
     "3",
     "4"
   ],
-  "special_group_count": 29,
+  "special_group_count": 28,
   "nation_feature_count": 2,
   "educational_strength": {
     "num_doctor": "0",
@@ -947,32 +947,6 @@
           "code": "0802"
         },
         {
-          "id": "234923",
-          "school_id": "1070",
-          "special_id": "157",
-          "nation_feature": "2",
-          "province_feature": "1",
-          "is_important": "2",
-          "limit_year": "四年",
-          "year": "2022",
-          "level3_weight": "0",
-          "nation_first_class": "2",
-          "xueke_rank": "0",
-          "xueke_rank_score": "",
-          "ruanke_rank": "9999",
-          "ruanke_level": "",
-          "is_video": 2,
-          "special_name": "材料化学",
-          "special_type": "1",
-          "type_name": "本科(普通)",
-          "level3_name": "材料类",
-          "level3_code": "66",
-          "level2_name": "工学",
-          "level2_id": "10",
-          "level2_code": "08",
-          "code": "0804"
-        },
-        {
           "id": "47000",
           "school_id": "1070",
           "special_id": "320",
@@ -1153,32 +1127,6 @@
           "level2_id": "7",
           "level2_code": "05",
           "code": "0502"
-        },
-        {
-          "id": "47017",
-          "school_id": "1070",
-          "special_id": "9",
-          "nation_feature": "2",
-          "province_feature": "2",
-          "is_important": "2",
-          "limit_year": "四年",
-          "year": "2022",
-          "level3_weight": "0",
-          "nation_first_class": "2",
-          "xueke_rank": "0",
-          "xueke_rank_score": "",
-          "ruanke_rank": "9999",
-          "ruanke_level": "",
-          "is_video": 2,
-          "special_name": "金融工程",
-          "special_type": "1",
-          "type_name": "本科(普通)",
-          "level3_name": "金融学类",
-          "level3_code": "37",
-          "level2_name": "经济学",
-          "level2_id": "4",
-          "level2_code": "02",
-          "code": "0203"
         },
         {
           "id": "748489",
@@ -1554,39 +1502,6 @@
             "level2_id": "4",
             "level2_code": "02",
             "code": "0201"
-          }
-        ]
-      },
-      {
-        "level3_weight": "0",
-        "code": "0203",
-        "name": "金融学类(本)",
-        "special": [
-          {
-            "id": "47017",
-            "school_id": "1070",
-            "special_id": "9",
-            "nation_feature": "2",
-            "province_feature": "2",
-            "is_important": "2",
-            "limit_year": "四年",
-            "year": "2022",
-            "level3_weight": "0",
-            "nation_first_class": "2",
-            "xueke_rank": "0",
-            "xueke_rank_score": "",
-            "ruanke_rank": "9999",
-            "ruanke_level": "",
-            "is_video": 2,
-            "special_name": "金融工程",
-            "special_type": "1",
-            "type_name": "本科(普通)",
-            "level3_name": "金融学类",
-            "level3_code": "37",
-            "level2_name": "经济学",
-            "level2_id": "4",
-            "level2_code": "02",
-            "code": "0203"
           }
         ]
       },
@@ -2109,32 +2024,6 @@
         "code": "0804",
         "name": "材料类(本)",
         "special": [
-          {
-            "id": "234923",
-            "school_id": "1070",
-            "special_id": "157",
-            "nation_feature": "2",
-            "province_feature": "1",
-            "is_important": "2",
-            "limit_year": "四年",
-            "year": "2022",
-            "level3_weight": "0",
-            "nation_first_class": "2",
-            "xueke_rank": "0",
-            "xueke_rank_score": "",
-            "ruanke_rank": "9999",
-            "ruanke_level": "",
-            "is_video": 2,
-            "special_name": "材料化学",
-            "special_type": "1",
-            "type_name": "本科(普通)",
-            "level3_name": "材料类",
-            "level3_code": "66",
-            "level2_name": "工学",
-            "level2_id": "10",
-            "level2_code": "08",
-            "code": "0804"
-          },
           {
             "id": "152250",
             "school_id": "1070",

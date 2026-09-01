@@ -1,10 +1,10 @@
 {
-  "update_time": "2026-08-01 07:37:58",
+  "update_time": "2026-09-01 09:56:29",
   "school_id": "619",
   "school_name": "广东省外语艺术职业学院",
   "source_url": "https://static-data.gaokao.cn/www/2.0/school/619/pc_special.json?a=www.gaokao.cn",
-  "time": "2026-08-01 03:15:53",
-  "md5": "e06970912ff9c516b73fc6dcf636c5b0",
+  "time": "2026-08-13 15:05:24",
+  "md5": "81d12f40a9636c686fda08fcfa5ac8ce",
   "group_keys": [
     "2"
   ],
@@ -17,7 +17,7 @@
     "3",
     "4"
   ],
-  "special_group_count": 21,
+  "special_group_count": 20,
   "nation_feature_count": 0,
   "educational_strength": {
     "num_doctor": "0",
@@ -974,32 +974,6 @@
           "code": "5702"
         },
         {
-          "id": "1462342",
-          "school_id": "619",
-          "special_id": "877",
-          "nation_feature": "2",
-          "province_feature": "2",
-          "is_important": "2",
-          "limit_year": "三年",
-          "year": "2022",
-          "level3_weight": "0",
-          "nation_first_class": "2",
-          "xueke_rank": "0",
-          "xueke_rank_score": "",
-          "ruanke_rank": "9999",
-          "ruanke_level": "",
-          "is_video": 2,
-          "special_name": "商务管理",
-          "special_type": "2",
-          "type_name": "专科(高职)",
-          "level3_name": "工商管理类",
-          "level3_code": "198",
-          "level2_name": "财经商贸大类",
-          "level2_id": "27",
-          "level2_code": "53",
-          "code": "5306"
-        },
-        {
           "id": "1691996",
           "school_id": "619",
           "special_id": "869",
@@ -1806,32 +1780,6 @@
           "code": "5307"
         },
         {
-          "id": "1866182",
-          "school_id": "619",
-          "special_id": "9084",
-          "nation_feature": "2",
-          "province_feature": "2",
-          "is_important": "2",
-          "limit_year": "三年",
-          "year": "2022",
-          "level3_weight": "0",
-          "nation_first_class": "2",
-          "xueke_rank": "0",
-          "xueke_rank_score": "",
-          "ruanke_rank": "9999",
-          "ruanke_level": "",
-          "is_video": 2,
-          "special_name": "大数据与财务管理",
-          "special_type": "2",
-          "type_name": "专科(高职)",
-          "level3_name": "财务会计类",
-          "level3_code": "195",
-          "level2_name": "财经商贸大类",
-          "level2_id": "27",
-          "level2_code": "53",
-          "code": "5303"
-        },
-        {
           "id": "1866183",
           "school_id": "619",
           "special_id": "9180",
@@ -2213,32 +2161,6 @@
             "level2_id": "27",
             "level2_code": "53",
             "code": "5303"
-          },
-          {
-            "id": "1866182",
-            "school_id": "619",
-            "special_id": "9084",
-            "nation_feature": "2",
-            "province_feature": "2",
-            "is_important": "2",
-            "limit_year": "三年",
-            "year": "2022",
-            "level3_weight": "0",
-            "nation_first_class": "2",
-            "xueke_rank": "0",
-            "xueke_rank_score": "",
-            "ruanke_rank": "9999",
-            "ruanke_level": "",
-            "is_video": 2,
-            "special_name": "大数据与财务管理",
-            "special_type": "2",
-            "type_name": "专科(高职)",
-            "level3_name": "财务会计类",
-            "level3_code": "195",
-            "level2_name": "财经商贸大类",
-            "level2_id": "27",
-            "level2_code": "53",
-            "code": "5303"
           }
         ]
       },
@@ -2272,39 +2194,6 @@
             "level2_id": "27",
             "level2_code": "53",
             "code": "5305"
-          }
-        ]
-      },
-      {
-        "level3_weight": "0",
-        "code": "5306",
-        "name": "工商管理类(专)",
-        "special": [
-          {
-            "id": "1462342",
-            "school_id": "619",
-            "special_id": "877",
-            "nation_feature": "2",
-            "province_feature": "2",
-            "is_important": "2",
-            "limit_year": "三年",
-            "year": "2022",
-            "level3_weight": "0",
-            "nation_first_class": "2",
-            "xueke_rank": "0",
-            "xueke_rank_score": "",
-            "ruanke_rank": "9999",
-            "ruanke_level": "",
-            "is_video": 2,
-            "special_name": "商务管理",
-            "special_type": "2",
-            "type_name": "专科(高职)",
-            "level3_name": "工商管理类",
-            "level3_code": "198",
-            "level2_name": "财经商贸大类",
-            "level2_id": "27",
-            "level2_code": "53",
-            "code": "5306"
           }
         ]
       },

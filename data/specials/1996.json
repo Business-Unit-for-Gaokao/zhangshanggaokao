@@ -1,10 +1,10 @@
 {
-  "update_time": "2026-08-01 07:52:39",
+  "update_time": "2026-09-01 10:08:01",
   "school_id": "1996",
   "school_name": "湖南大众传媒职业技术学院",
   "source_url": "https://static-data.gaokao.cn/www/2.0/school/1996/pc_special.json?a=www.gaokao.cn",
-  "time": "2026-08-01 03:14:18",
-  "md5": "9e104d5e3a1d93988fa717918d40669a",
+  "time": "2026-09-01 02:03:37",
+  "md5": "a4b033af39273ee866f74032ed095ef7",
   "group_keys": [
     "2"
   ],
@@ -17,7 +17,7 @@
     "3",
     "4"
   ],
-  "special_group_count": 14,
+  "special_group_count": 12,
   "nation_feature_count": 0,
   "educational_strength": {
     "num_doctor": "0",
@@ -1156,58 +1156,6 @@
           "code": "4606"
         },
         {
-          "id": "1515699",
-          "school_id": "1996",
-          "special_id": "9185",
-          "nation_feature": "2",
-          "province_feature": "2",
-          "is_important": "2",
-          "limit_year": "三年",
-          "year": "2022",
-          "level3_weight": "0",
-          "nation_first_class": "2",
-          "xueke_rank": "0",
-          "xueke_rank_score": "",
-          "ruanke_rank": "9999",
-          "ruanke_level": "",
-          "is_video": 2,
-          "special_name": "现代文秘",
-          "special_type": "2",
-          "type_name": "专科(高职)",
-          "level3_name": "文秘类",
-          "level3_code": "229",
-          "level2_name": "公共管理与服务大类",
-          "level2_id": "33",
-          "level2_code": "59",
-          "code": "5904"
-        },
-        {
-          "id": "1691840",
-          "school_id": "1996",
-          "special_id": "9180",
-          "nation_feature": "2",
-          "province_feature": "2",
-          "is_important": "2",
-          "limit_year": "三年",
-          "year": "2022",
-          "level3_weight": "0",
-          "nation_first_class": "2",
-          "xueke_rank": "0",
-          "xueke_rank_score": "",
-          "ruanke_rank": "9999",
-          "ruanke_level": "",
-          "is_video": 2,
-          "special_name": "金融服务与管理",
-          "special_type": "2",
-          "type_name": "专科(高职)",
-          "level3_name": "金融类",
-          "level3_code": "194",
-          "level2_name": "财经商贸大类",
-          "level2_id": "27",
-          "level2_code": "53",
-          "code": "5302"
-        },
-        {
           "id": "791493",
           "school_id": "1996",
           "special_id": "979",
@@ -1457,39 +1405,6 @@
             "level2_id": "25",
             "level2_code": "51",
             "code": "5102"
-          }
-        ]
-      },
-      {
-        "level3_weight": "0",
-        "code": "5302",
-        "name": "金融类(专)",
-        "special": [
-          {
-            "id": "1691840",
-            "school_id": "1996",
-            "special_id": "9180",
-            "nation_feature": "2",
-            "province_feature": "2",
-            "is_important": "2",
-            "limit_year": "三年",
-            "year": "2022",
-            "level3_weight": "0",
-            "nation_first_class": "2",
-            "xueke_rank": "0",
-            "xueke_rank_score": "",
-            "ruanke_rank": "9999",
-            "ruanke_level": "",
-            "is_video": 2,
-            "special_name": "金融服务与管理",
-            "special_type": "2",
-            "type_name": "专科(高职)",
-            "level3_name": "金融类",
-            "level3_code": "194",
-            "level2_name": "财经商贸大类",
-            "level2_id": "27",
-            "level2_code": "53",
-            "code": "5302"
           }
         ]
       },
@@ -2210,39 +2125,6 @@
             "level2_id": "31",
             "level2_code": "57",
             "code": "5703"
-          }
-        ]
-      },
-      {
-        "level3_weight": "0",
-        "code": "5904",
-        "name": "文秘类(专)",
-        "special": [
-          {
-            "id": "1515699",
-            "school_id": "1996",
-            "special_id": "9185",
-            "nation_feature": "2",
-            "province_feature": "2",
-            "is_important": "2",
-            "limit_year": "三年",
-            "year": "2022",
-            "level3_weight": "0",
-            "nation_first_class": "2",
-            "xueke_rank": "0",
-            "xueke_rank_score": "",
-            "ruanke_rank": "9999",
-            "ruanke_level": "",
-            "is_video": 2,
-            "special_name": "现代文秘",
-            "special_type": "2",
-            "type_name": "专科(高职)",
-            "level3_name": "文秘类",
-            "level3_code": "229",
-            "level2_name": "公共管理与服务大类",
-            "level2_id": "33",
-            "level2_code": "59",
-            "code": "5904"
           }
         ]
       }

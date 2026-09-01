@@ -1,10 +1,10 @@
 {
-  "update_time": "2026-08-01 07:47:24",
+  "update_time": "2026-09-01 10:03:55",
   "school_id": "1564",
   "school_name": "贵州商学院",
   "source_url": "https://static-data.gaokao.cn/www/2.0/school/1564/pc_special.json?a=www.gaokao.cn",
-  "time": "2026-08-01 03:14:51",
-  "md5": "1e7761d614ee78e03d37fe57bc467f14",
+  "time": "2026-09-01 02:04:13",
+  "md5": "5d38f53e8ba8084b160a961720d1b9d0",
   "group_keys": [
     "1"
   ],
@@ -17,7 +17,7 @@
     "3",
     "4"
   ],
-  "special_group_count": 19,
+  "special_group_count": 18,
   "nation_feature_count": 0,
   "educational_strength": {
     "num_doctor": "0",
@@ -1051,32 +1051,6 @@
           "code": "0802"
         },
         {
-          "id": "2164525",
-          "school_id": "1564",
-          "special_id": "236",
-          "nation_feature": "2",
-          "province_feature": "2",
-          "is_important": "2",
-          "limit_year": "四年",
-          "year": "2022",
-          "level3_weight": "0",
-          "nation_first_class": "2",
-          "xueke_rank": "0",
-          "xueke_rank_score": "",
-          "ruanke_rank": "9999",
-          "ruanke_level": "",
-          "is_video": 2,
-          "special_name": "食品科学与工程",
-          "special_type": "1",
-          "type_name": "本科(普通)",
-          "level3_name": "食品科学与工程类",
-          "level3_code": "89",
-          "level2_name": "工学",
-          "level2_id": "10",
-          "level2_code": "08",
-          "code": "0827"
-        },
-        {
           "id": "2178373",
           "school_id": "1564",
           "special_id": "8701",
@@ -2014,39 +1988,6 @@
             "level2_id": "10",
             "level2_code": "08",
             "code": "0809"
-          }
-        ]
-      },
-      {
-        "level3_weight": "0",
-        "code": "0827",
-        "name": "食品科学与工程类(本)",
-        "special": [
-          {
-            "id": "2164525",
-            "school_id": "1564",
-            "special_id": "236",
-            "nation_feature": "2",
-            "province_feature": "2",
-            "is_important": "2",
-            "limit_year": "四年",
-            "year": "2022",
-            "level3_weight": "0",
-            "nation_first_class": "2",
-            "xueke_rank": "0",
-            "xueke_rank_score": "",
-            "ruanke_rank": "9999",
-            "ruanke_level": "",
-            "is_video": 2,
-            "special_name": "食品科学与工程",
-            "special_type": "1",
-            "type_name": "本科(普通)",
-            "level3_name": "食品科学与工程类",
-            "level3_code": "89",
-            "level2_name": "工学",
-            "level2_id": "10",
-            "level2_code": "08",
-            "code": "0827"
           }
         ]
       },

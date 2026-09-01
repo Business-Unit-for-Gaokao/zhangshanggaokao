@@ -1,10 +1,10 @@
 {
-  "update_time": "2026-08-01 08:03:30",
+  "update_time": "2026-09-01 10:16:25",
   "school_id": "3217",
   "school_name": "烟台黄金职业学院",
   "source_url": "https://static-data.gaokao.cn/www/2.0/school/3217/pc_special.json?a=www.gaokao.cn",
-  "time": "2026-08-01 03:13:07",
-  "md5": "6c6309d01773734a14032e0d8ae7b4e4",
+  "time": "2026-09-01 03:07:27",
+  "md5": "1ea1f38764328dc84b19c803338747ce",
   "group_keys": [
     "2"
   ],
@@ -398,9 +398,9 @@
         "code": "5302"
       },
       {
-        "id": "1981994",
+        "id": "1981995",
         "school_id": "3217",
-        "special_id": "1982",
+        "special_id": "911",
         "nation_feature": "2",
         "province_feature": "2",
         "is_important": "2",
@@ -413,15 +413,15 @@
         "ruanke_rank": "9999",
         "ruanke_level": "",
         "is_video": 2,
-        "special_name": "跨境电子商务",
+        "special_name": "数字媒体艺术设计",
         "special_type": "2",
         "type_name": "专科(高职)",
-        "level3_name": "电子商务类",
-        "level3_code": "200",
-        "level2_name": "财经商贸大类",
-        "level2_id": "27",
-        "level2_code": "53",
-        "code": "5307"
+        "level3_name": "艺术设计类",
+        "level3_code": "205",
+        "level2_name": "文化艺术大类",
+        "level2_id": "29",
+        "level2_code": "55",
+        "code": "5501"
       }
     ],
     "special_detail": {
@@ -790,32 +790,6 @@
           "level2_id": "27",
           "level2_code": "53",
           "code": "5302"
-        },
-        {
-          "id": "1981994",
-          "school_id": "3217",
-          "special_id": "1982",
-          "nation_feature": "2",
-          "province_feature": "2",
-          "is_important": "2",
-          "limit_year": "三年",
-          "year": "2022",
-          "level3_weight": "0",
-          "nation_first_class": "2",
-          "xueke_rank": "0",
-          "xueke_rank_score": "",
-          "ruanke_rank": "9999",
-          "ruanke_level": "",
-          "is_video": 2,
-          "special_name": "跨境电子商务",
-          "special_type": "2",
-          "type_name": "专科(高职)",
-          "level3_name": "电子商务类",
-          "level3_code": "200",
-          "level2_name": "财经商贸大类",
-          "level2_id": "27",
-          "level2_code": "53",
-          "code": "5307"
         },
         {
           "id": "1981995",
@@ -2448,32 +2422,6 @@
         "name": "电子商务类(专)",
         "special": [
           {
-            "id": "1981994",
-            "school_id": "3217",
-            "special_id": "1982",
-            "nation_feature": "2",
-            "province_feature": "2",
-            "is_important": "2",
-            "limit_year": "三年",
-            "year": "2022",
-            "level3_weight": "0",
-            "nation_first_class": "2",
-            "xueke_rank": "0",
-            "xueke_rank_score": "",
-            "ruanke_rank": "9999",
-            "ruanke_level": "",
-            "is_video": 2,
-            "special_name": "跨境电子商务",
-            "special_type": "2",
-            "type_name": "专科(高职)",
-            "level3_name": "电子商务类",
-            "level3_code": "200",
-            "level2_name": "财经商贸大类",
-            "level2_id": "27",
-            "level2_code": "53",
-            "code": "5307"
-          },
-          {
             "id": "2175292",
             "school_id": "3217",
             "special_id": "9091",
@@ -3202,9 +3150,9 @@
       "code": "5302"
     },
     {
-      "id": "1981994",
+      "id": "1981995",
       "school_id": "3217",
-      "special_id": "1982",
+      "special_id": "911",
       "nation_feature": "2",
       "province_feature": "2",
       "is_important": "2",
@@ -3217,15 +3165,15 @@
       "ruanke_rank": "9999",
       "ruanke_level": "",
       "is_video": 2,
-      "special_name": "跨境电子商务",
+      "special_name": "数字媒体艺术设计",
       "special_type": "2",
       "type_name": "专科(高职)",
-      "level3_name": "电子商务类",
-      "level3_code": "200",
-      "level2_name": "财经商贸大类",
-      "level2_id": "27",
-      "level2_code": "53",
-      "code": "5307"
+      "level3_name": "艺术设计类",
+      "level3_code": "205",
+      "level2_name": "文化艺术大类",
+      "level2_id": "29",
+      "level2_code": "55",
+      "code": "5501"
     }
   ]
 }

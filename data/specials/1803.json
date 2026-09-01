@@ -1,10 +1,10 @@
 {
-  "update_time": "2026-08-01 07:50:09",
+  "update_time": "2026-09-01 10:06:07",
   "school_id": "1803",
   "school_name": "马鞍山师范高等专科学校",
   "source_url": "https://static-data.gaokao.cn/www/2.0/school/1803/pc_special.json?a=www.gaokao.cn",
-  "time": "2026-08-01 03:14:33",
-  "md5": "a929a9c84a84b3d3f636a007af06ceae",
+  "time": "2026-09-01 02:03:54",
+  "md5": "fe5e201a602240ae08bb34cb20275c3c",
   "group_keys": [
     "2"
   ],
@@ -398,9 +398,9 @@
         "code": "5306"
       },
       {
-        "id": "62799",
+        "id": "2159108",
         "school_id": "1803",
-        "special_id": "974",
+        "special_id": "886",
         "nation_feature": "2",
         "province_feature": "2",
         "is_important": "2",
@@ -413,15 +413,15 @@
         "ruanke_rank": "9999",
         "ruanke_level": "",
         "is_video": 2,
-        "special_name": "新闻采编与制作",
+        "special_name": "电子商务",
         "special_type": "2",
         "type_name": "专科(高职)",
-        "level3_name": "广播影视类",
-        "level3_code": "210",
-        "level2_name": "新闻传播大类",
-        "level2_id": "30",
-        "level2_code": "56",
-        "code": "5602"
+        "level3_name": "电子商务类",
+        "level3_code": "200",
+        "level2_name": "财经商贸大类",
+        "level2_id": "27",
+        "level2_code": "53",
+        "code": "5307"
       }
     ],
     "special_detail": {
@@ -790,32 +790,6 @@
           "level2_id": "27",
           "level2_code": "53",
           "code": "5306"
-        },
-        {
-          "id": "62799",
-          "school_id": "1803",
-          "special_id": "974",
-          "nation_feature": "2",
-          "province_feature": "2",
-          "is_important": "2",
-          "limit_year": "三年",
-          "year": "2022",
-          "level3_weight": "0",
-          "nation_first_class": "2",
-          "xueke_rank": "0",
-          "xueke_rank_score": "",
-          "ruanke_rank": "9999",
-          "ruanke_level": "",
-          "is_video": 2,
-          "special_name": "新闻采编与制作",
-          "special_type": "2",
-          "type_name": "专科(高职)",
-          "level3_name": "广播影视类",
-          "level3_code": "210",
-          "level2_name": "新闻传播大类",
-          "level2_id": "30",
-          "level2_code": "56",
-          "code": "5602"
         },
         {
           "id": "2159108",
@@ -2087,32 +2061,6 @@
         "name": "广播影视类(专)",
         "special": [
           {
-            "id": "62799",
-            "school_id": "1803",
-            "special_id": "974",
-            "nation_feature": "2",
-            "province_feature": "2",
-            "is_important": "2",
-            "limit_year": "三年",
-            "year": "2022",
-            "level3_weight": "0",
-            "nation_first_class": "2",
-            "xueke_rank": "0",
-            "xueke_rank_score": "",
-            "ruanke_rank": "9999",
-            "ruanke_level": "",
-            "is_video": 2,
-            "special_name": "新闻采编与制作",
-            "special_type": "2",
-            "type_name": "专科(高职)",
-            "level3_name": "广播影视类",
-            "level3_code": "210",
-            "level2_name": "新闻传播大类",
-            "level2_id": "30",
-            "level2_code": "56",
-            "code": "5602"
-          },
-          {
             "id": "2169141",
             "school_id": "1803",
             "special_id": "9123",
@@ -2879,9 +2827,9 @@
       "code": "5306"
     },
     {
-      "id": "62799",
+      "id": "2159108",
       "school_id": "1803",
-      "special_id": "974",
+      "special_id": "886",
       "nation_feature": "2",
       "province_feature": "2",
       "is_important": "2",
@@ -2894,15 +2842,15 @@
       "ruanke_rank": "9999",
       "ruanke_level": "",
       "is_video": 2,
-      "special_name": "新闻采编与制作",
+      "special_name": "电子商务",
       "special_type": "2",
       "type_name": "专科(高职)",
-      "level3_name": "广播影视类",
-      "level3_code": "210",
-      "level2_name": "新闻传播大类",
-      "level2_id": "30",
-      "level2_code": "56",
-      "code": "5602"
+      "level3_name": "电子商务类",
+      "level3_code": "200",
+      "level2_name": "财经商贸大类",
+      "level2_id": "27",
+      "level2_code": "53",
+      "code": "5307"
     }
   ]
 }

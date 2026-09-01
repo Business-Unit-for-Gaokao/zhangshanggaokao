@@ -1,10 +1,10 @@
 {
-  "update_time": "2026-08-01 08:04:23",
+  "update_time": "2026-09-01 10:17:07",
   "school_id": "3298",
   "school_name": "贵州电子商务职业技术学院",
   "source_url": "https://static-data.gaokao.cn/www/2.0/school/3298/pc_special.json?a=www.gaokao.cn",
-  "time": "2026-08-01 03:13:01",
-  "md5": "8d310addd24b06d72625f526dbff1491",
+  "time": "2026-09-01 02:02:13",
+  "md5": "050121403eb2cb41e208ba837f2b6d12",
   "group_keys": [
     "2"
   ],
@@ -17,7 +17,7 @@
     "3",
     "4"
   ],
-  "special_group_count": 15,
+  "special_group_count": 14,
   "nation_feature_count": 0,
   "educational_strength": {
     "num_doctor": "0",
@@ -398,9 +398,9 @@
         "code": "5302"
       },
       {
-        "id": "2008711",
+        "id": "2008713",
         "school_id": "3298",
-        "special_id": "9096",
+        "special_id": "782",
         "nation_feature": "2",
         "province_feature": "2",
         "is_important": "2",
@@ -413,15 +413,15 @@
         "ruanke_rank": "9999",
         "ruanke_level": "",
         "is_video": 2,
-        "special_name": "供应链运营",
+        "special_name": "物联网应用技术",
         "special_type": "2",
         "type_name": "专科(高职)",
-        "level3_name": "物流类",
-        "level3_code": "201",
-        "level2_name": "财经商贸大类",
-        "level2_id": "27",
-        "level2_code": "53",
-        "code": "5308"
+        "level3_name": "电子信息类",
+        "level3_code": "182",
+        "level2_name": "电子与信息大类",
+        "level2_id": "25",
+        "level2_code": "51",
+        "code": "5101"
       }
     ],
     "special_detail": {
@@ -792,32 +792,6 @@
           "code": "5302"
         },
         {
-          "id": "2008711",
-          "school_id": "3298",
-          "special_id": "9096",
-          "nation_feature": "2",
-          "province_feature": "2",
-          "is_important": "2",
-          "limit_year": "三年",
-          "year": "2022",
-          "level3_weight": "0",
-          "nation_first_class": "2",
-          "xueke_rank": "0",
-          "xueke_rank_score": "",
-          "ruanke_rank": "9999",
-          "ruanke_level": "",
-          "is_video": 2,
-          "special_name": "供应链运营",
-          "special_type": "2",
-          "type_name": "专科(高职)",
-          "level3_name": "物流类",
-          "level3_code": "201",
-          "level2_name": "财经商贸大类",
-          "level2_id": "27",
-          "level2_code": "53",
-          "code": "5308"
-        },
-        {
           "id": "2008713",
           "school_id": "3298",
           "special_id": "782",
@@ -868,32 +842,6 @@
           "level2_id": "25",
           "level2_code": "51",
           "code": "5102"
-        },
-        {
-          "id": "2123961",
-          "school_id": "3298",
-          "special_id": "867",
-          "nation_feature": "2",
-          "province_feature": "2",
-          "is_important": "2",
-          "limit_year": "三年",
-          "year": "2022",
-          "level3_weight": "0",
-          "nation_first_class": "2",
-          "xueke_rank": "0",
-          "xueke_rank_score": "",
-          "ruanke_rank": "9999",
-          "ruanke_level": "",
-          "is_video": 2,
-          "special_name": "统计与会计核算",
-          "special_type": "2",
-          "type_name": "专科(高职)",
-          "level3_name": "统计类",
-          "level3_code": "196",
-          "level2_name": "财经商贸大类",
-          "level2_id": "27",
-          "level2_code": "53",
-          "code": "5304"
         },
         {
           "id": "2174397",
@@ -1764,39 +1712,6 @@
       },
       {
         "level3_weight": "0",
-        "code": "5304",
-        "name": "统计类(专)",
-        "special": [
-          {
-            "id": "2123961",
-            "school_id": "3298",
-            "special_id": "867",
-            "nation_feature": "2",
-            "province_feature": "2",
-            "is_important": "2",
-            "limit_year": "三年",
-            "year": "2022",
-            "level3_weight": "0",
-            "nation_first_class": "2",
-            "xueke_rank": "0",
-            "xueke_rank_score": "",
-            "ruanke_rank": "9999",
-            "ruanke_level": "",
-            "is_video": 2,
-            "special_name": "统计与会计核算",
-            "special_type": "2",
-            "type_name": "专科(高职)",
-            "level3_name": "统计类",
-            "level3_code": "196",
-            "level2_name": "财经商贸大类",
-            "level2_id": "27",
-            "level2_code": "53",
-            "code": "5304"
-          }
-        ]
-      },
-      {
-        "level3_weight": "0",
         "code": "5307",
         "name": "电子商务类(专)",
         "special": [
@@ -1928,32 +1843,6 @@
             "ruanke_level": "",
             "is_video": 2,
             "special_name": "智能物流技术",
-            "special_type": "2",
-            "type_name": "专科(高职)",
-            "level3_name": "物流类",
-            "level3_code": "201",
-            "level2_name": "财经商贸大类",
-            "level2_id": "27",
-            "level2_code": "53",
-            "code": "5308"
-          },
-          {
-            "id": "2008711",
-            "school_id": "3298",
-            "special_id": "9096",
-            "nation_feature": "2",
-            "province_feature": "2",
-            "is_important": "2",
-            "limit_year": "三年",
-            "year": "2022",
-            "level3_weight": "0",
-            "nation_first_class": "2",
-            "xueke_rank": "0",
-            "xueke_rank_score": "",
-            "ruanke_rank": "9999",
-            "ruanke_level": "",
-            "is_video": 2,
-            "special_name": "供应链运营",
             "special_type": "2",
             "type_name": "专科(高职)",
             "level3_name": "物流类",
@@ -2685,9 +2574,9 @@
       "code": "5302"
     },
     {
-      "id": "2008711",
+      "id": "2008713",
       "school_id": "3298",
-      "special_id": "9096",
+      "special_id": "782",
       "nation_feature": "2",
       "province_feature": "2",
       "is_important": "2",
@@ -2700,15 +2589,15 @@
       "ruanke_rank": "9999",
       "ruanke_level": "",
       "is_video": 2,
-      "special_name": "供应链运营",
+      "special_name": "物联网应用技术",
       "special_type": "2",
       "type_name": "专科(高职)",
-      "level3_name": "物流类",
-      "level3_code": "201",
-      "level2_name": "财经商贸大类",
-      "level2_id": "27",
-      "level2_code": "53",
-      "code": "5308"
+      "level3_name": "电子信息类",
+      "level3_code": "182",
+      "level2_name": "电子与信息大类",
+      "level2_id": "25",
+      "level2_code": "51",
+      "code": "5101"
     }
   ]
 }

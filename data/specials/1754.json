@@ -1,10 +1,10 @@
 {
-  "update_time": "2026-08-01 07:49:32",
+  "update_time": "2026-09-01 10:05:37",
   "school_id": "1754",
   "school_name": "百色职业学院",
   "source_url": "https://static-data.gaokao.cn/www/2.0/school/1754/pc_special.json?a=www.gaokao.cn",
-  "time": "2026-08-01 03:14:37",
-  "md5": "d85f462957ebc002001d24e40b5967d5",
+  "time": "2026-09-01 02:03:58",
+  "md5": "499c6a01bc0276e28dc7047bbf1e287b",
   "group_keys": [
     "2"
   ],
@@ -17,7 +17,7 @@
     "3",
     "4"
   ],
-  "special_group_count": 22,
+  "special_group_count": 21,
   "nation_feature_count": 0,
   "educational_strength": {
     "num_doctor": "0",
@@ -1156,32 +1156,6 @@
           "code": "4403"
         },
         {
-          "id": "125664",
-          "school_id": "1754",
-          "special_id": "867",
-          "nation_feature": "2",
-          "province_feature": "2",
-          "is_important": "2",
-          "limit_year": "三年",
-          "year": "2022",
-          "level3_weight": "0",
-          "nation_first_class": "2",
-          "xueke_rank": "0",
-          "xueke_rank_score": "",
-          "ruanke_rank": "9999",
-          "ruanke_level": "",
-          "is_video": 2,
-          "special_name": "统计与会计核算",
-          "special_type": "2",
-          "type_name": "专科(高职)",
-          "level3_name": "统计类",
-          "level3_code": "196",
-          "level2_name": "财经商贸大类",
-          "level2_id": "27",
-          "level2_code": "53",
-          "code": "5304"
-        },
-        {
           "id": "125669",
           "school_id": "1754",
           "special_id": "886",
@@ -2082,39 +2056,6 @@
             "level2_id": "27",
             "level2_code": "53",
             "code": "5303"
-          }
-        ]
-      },
-      {
-        "level3_weight": "0",
-        "code": "5304",
-        "name": "统计类(专)",
-        "special": [
-          {
-            "id": "125664",
-            "school_id": "1754",
-            "special_id": "867",
-            "nation_feature": "2",
-            "province_feature": "2",
-            "is_important": "2",
-            "limit_year": "三年",
-            "year": "2022",
-            "level3_weight": "0",
-            "nation_first_class": "2",
-            "xueke_rank": "0",
-            "xueke_rank_score": "",
-            "ruanke_rank": "9999",
-            "ruanke_level": "",
-            "is_video": 2,
-            "special_name": "统计与会计核算",
-            "special_type": "2",
-            "type_name": "专科(高职)",
-            "level3_name": "统计类",
-            "level3_code": "196",
-            "level2_name": "财经商贸大类",
-            "level2_id": "27",
-            "level2_code": "53",
-            "code": "5304"
           }
         ]
       },

@@ -1,10 +1,10 @@
 {
-  "update_time": "2026-08-01 07:43:04",
+  "update_time": "2026-09-01 10:00:34",
   "school_id": "1091",
   "school_name": "塔里木大学",
   "source_url": "https://static-data.gaokao.cn/www/2.0/school/1091/pc_special.json?a=www.gaokao.cn",
-  "time": "2026-08-01 03:15:19",
-  "md5": "2f7fbc99b0e35d5e864c2ab7a8942b63",
+  "time": "2026-09-01 02:04:47",
+  "md5": "20d0a85c0144178768ea3909ede191ff",
   "group_keys": [
     "1"
   ],
@@ -17,7 +17,7 @@
     "3",
     "4"
   ],
-  "special_group_count": 48,
+  "special_group_count": 47,
   "nation_feature_count": 4,
   "educational_strength": {
     "num_doctor": "3",
@@ -2401,32 +2401,6 @@
           "level2_id": "12",
           "level2_code": "10",
           "code": "1004"
-        },
-        {
-          "id": "1801878",
-          "school_id": "1091",
-          "special_id": "1234",
-          "nation_feature": "2",
-          "province_feature": "2",
-          "is_important": "2",
-          "limit_year": "四年",
-          "year": "2022",
-          "level3_weight": "0",
-          "nation_first_class": "2",
-          "xueke_rank": "0",
-          "xueke_rank_score": "",
-          "ruanke_rank": "9999",
-          "ruanke_level": "",
-          "is_video": 2,
-          "special_name": "保密管理",
-          "special_type": "1",
-          "type_name": "本科(普通)",
-          "level3_name": "管理科学与工程类",
-          "level3_code": "112",
-          "level2_name": "管理学",
-          "level2_id": "13",
-          "level2_code": "12",
-          "code": "1201"
         },
         {
           "id": "1801879",
@@ -5377,39 +5351,6 @@
             "level2_id": "12",
             "level2_code": "10",
             "code": "1011"
-          }
-        ]
-      },
-      {
-        "level3_weight": "0",
-        "code": "1201",
-        "name": "管理科学与工程类(本)",
-        "special": [
-          {
-            "id": "1801878",
-            "school_id": "1091",
-            "special_id": "1234",
-            "nation_feature": "2",
-            "province_feature": "2",
-            "is_important": "2",
-            "limit_year": "四年",
-            "year": "2022",
-            "level3_weight": "0",
-            "nation_first_class": "2",
-            "xueke_rank": "0",
-            "xueke_rank_score": "",
-            "ruanke_rank": "9999",
-            "ruanke_level": "",
-            "is_video": 2,
-            "special_name": "保密管理",
-            "special_type": "1",
-            "type_name": "本科(普通)",
-            "level3_name": "管理科学与工程类",
-            "level3_code": "112",
-            "level2_name": "管理学",
-            "level2_id": "13",
-            "level2_code": "12",
-            "code": "1201"
           }
         ]
       },

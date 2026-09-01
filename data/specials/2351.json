@@ -1,24 +1,24 @@
 {
-  "update_time": "2026-08-01 07:57:01",
+  "update_time": "2026-09-01 10:11:23",
   "school_id": "2351",
   "school_name": "大连东软信息学院",
   "source_url": "https://static-data.gaokao.cn/www/2.0/school/2351/pc_special.json?a=www.gaokao.cn",
-  "time": "2026-08-01 03:13:49",
-  "md5": "31794631111405c17cb31fc513249fa9",
+  "time": "2026-09-01 02:03:08",
+  "md5": "ec249b6b2e53d4de3b7559a2854c5a74",
   "group_keys": [
     "1",
     "2"
   ],
   "group_count": 2,
   "nonempty_group_count": 2,
-  "data_count": 24,
+  "data_count": 23,
   "special_detail_keys": [
     "1",
     "2",
     "3",
     "4"
   ],
-  "special_group_count": 19,
+  "special_group_count": 18,
   "nation_feature_count": 0,
   "educational_strength": {
     "num_doctor": "0",
@@ -502,32 +502,6 @@
         "level2_id": "20",
         "level2_code": "46",
         "code": "4603"
-      },
-      {
-        "id": "156776",
-        "school_id": "2351",
-        "special_id": "886",
-        "nation_feature": "2",
-        "province_feature": "2",
-        "is_important": "2",
-        "limit_year": "三年",
-        "year": "2022",
-        "level3_weight": "0",
-        "nation_first_class": "2",
-        "xueke_rank": "0",
-        "xueke_rank_score": "",
-        "ruanke_rank": "9999",
-        "ruanke_level": "",
-        "is_video": 2,
-        "special_name": "电子商务",
-        "special_type": "2",
-        "type_name": "专科(高职)",
-        "level3_name": "电子商务类",
-        "level3_code": "200",
-        "level2_name": "财经商贸大类",
-        "level2_id": "27",
-        "level2_code": "53",
-        "code": "5307"
       },
       {
         "id": "2165658",
@@ -1625,32 +1599,6 @@
           "level2_id": "20",
           "level2_code": "46",
           "code": "4603"
-        },
-        {
-          "id": "156776",
-          "school_id": "2351",
-          "special_id": "886",
-          "nation_feature": "2",
-          "province_feature": "2",
-          "is_important": "2",
-          "limit_year": "三年",
-          "year": "2022",
-          "level3_weight": "0",
-          "nation_first_class": "2",
-          "xueke_rank": "0",
-          "xueke_rank_score": "",
-          "ruanke_rank": "9999",
-          "ruanke_level": "",
-          "is_video": 2,
-          "special_name": "电子商务",
-          "special_type": "2",
-          "type_name": "专科(高职)",
-          "level3_name": "电子商务类",
-          "level3_code": "200",
-          "level2_name": "财经商贸大类",
-          "level2_id": "27",
-          "level2_code": "53",
-          "code": "5307"
         },
         {
           "id": "2165658",
@@ -3004,39 +2952,6 @@
             "code": "5208"
           }
         ]
-      },
-      {
-        "level3_weight": "0",
-        "code": "5307",
-        "name": "电子商务类(专)",
-        "special": [
-          {
-            "id": "156776",
-            "school_id": "2351",
-            "special_id": "886",
-            "nation_feature": "2",
-            "province_feature": "2",
-            "is_important": "2",
-            "limit_year": "三年",
-            "year": "2022",
-            "level3_weight": "0",
-            "nation_first_class": "2",
-            "xueke_rank": "0",
-            "xueke_rank_score": "",
-            "ruanke_rank": "9999",
-            "ruanke_level": "",
-            "is_video": 2,
-            "special_name": "电子商务",
-            "special_type": "2",
-            "type_name": "专科(高职)",
-            "level3_name": "电子商务类",
-            "level3_code": "200",
-            "level2_name": "财经商贸大类",
-            "level2_id": "27",
-            "level2_code": "53",
-            "code": "5307"
-          }
-        ]
       }
     ],
     "nation_feature": [],
@@ -3520,32 +3435,6 @@
       "level2_id": "20",
       "level2_code": "46",
       "code": "4603"
-    },
-    {
-      "id": "156776",
-      "school_id": "2351",
-      "special_id": "886",
-      "nation_feature": "2",
-      "province_feature": "2",
-      "is_important": "2",
-      "limit_year": "三年",
-      "year": "2022",
-      "level3_weight": "0",
-      "nation_first_class": "2",
-      "xueke_rank": "0",
-      "xueke_rank_score": "",
-      "ruanke_rank": "9999",
-      "ruanke_level": "",
-      "is_video": 2,
-      "special_name": "电子商务",
-      "special_type": "2",
-      "type_name": "专科(高职)",
-      "level3_name": "电子商务类",
-      "level3_code": "200",
-      "level2_name": "财经商贸大类",
-      "level2_id": "27",
-      "level2_code": "53",
-      "code": "5307"
     },
     {
       "id": "2165658",

@@ -1,10 +1,10 @@
 {
-  "update_time": "2026-08-01 08:02:55",
+  "update_time": "2026-09-01 10:15:57",
   "school_id": "3114",
   "school_name": "河南工业和信息化职业学院",
   "source_url": "https://static-data.gaokao.cn/www/2.0/school/3114/pc_special.json?a=www.gaokao.cn",
-  "time": "2026-08-01 03:13:11",
-  "md5": "56f8363b63aa9bef96d33e02f42c9725",
+  "time": "2026-09-01 03:07:28",
+  "md5": "5cb34bd53e8abe97c5672c1d50788437",
   "group_keys": [
     "2"
   ],
@@ -17,7 +17,7 @@
     "3",
     "4"
   ],
-  "special_group_count": 23,
+  "special_group_count": 22,
   "nation_feature_count": 0,
   "educational_strength": {
     "num_doctor": "0",
@@ -398,9 +398,9 @@
         "code": "5101"
       },
       {
-        "id": "2158648",
+        "id": "2163005",
         "school_id": "3114",
-        "special_id": "8969",
+        "special_id": "929",
         "nation_feature": "2",
         "province_feature": "2",
         "is_important": "2",
@@ -413,15 +413,15 @@
         "ruanke_rank": "9999",
         "ruanke_level": "",
         "is_video": 2,
-        "special_name": "装配式建筑工程技术",
+        "special_name": "人物形象设计",
         "special_type": "2",
         "type_name": "专科(高职)",
-        "level3_name": "土建施工类",
-        "level3_code": "148",
-        "level2_name": "土木建筑大类",
-        "level2_id": "18",
-        "level2_code": "44",
-        "code": "4403"
+        "level3_name": "艺术设计类",
+        "level3_code": "205",
+        "level2_name": "文化艺术大类",
+        "level2_id": "29",
+        "level2_code": "55",
+        "code": "5501"
       }
     ],
     "special_detail": {
@@ -792,32 +792,6 @@
           "code": "5101"
         },
         {
-          "id": "2158648",
-          "school_id": "3114",
-          "special_id": "8969",
-          "nation_feature": "2",
-          "province_feature": "2",
-          "is_important": "2",
-          "limit_year": "三年",
-          "year": "2022",
-          "level3_weight": "0",
-          "nation_first_class": "2",
-          "xueke_rank": "0",
-          "xueke_rank_score": "",
-          "ruanke_rank": "9999",
-          "ruanke_level": "",
-          "is_video": 2,
-          "special_name": "装配式建筑工程技术",
-          "special_type": "2",
-          "type_name": "专科(高职)",
-          "level3_name": "土建施工类",
-          "level3_code": "148",
-          "level2_name": "土木建筑大类",
-          "level2_id": "18",
-          "level2_code": "44",
-          "code": "4403"
-        },
-        {
           "id": "2163005",
           "school_id": "3114",
           "special_id": "929",
@@ -1154,32 +1128,6 @@
           "level2_id": "20",
           "level2_code": "46",
           "code": "4602"
-        },
-        {
-          "id": "1802406",
-          "school_id": "3114",
-          "special_id": "741",
-          "nation_feature": "2",
-          "province_feature": "2",
-          "is_important": "2",
-          "limit_year": "三年",
-          "year": "2022",
-          "level3_weight": "0",
-          "nation_first_class": "2",
-          "xueke_rank": "0",
-          "xueke_rank_score": "",
-          "ruanke_rank": "9999",
-          "ruanke_level": "",
-          "is_video": 2,
-          "special_name": "民航安全技术管理",
-          "special_type": "2",
-          "type_name": "专科(高职)",
-          "level3_name": "航空运输类",
-          "level3_code": "178",
-          "level2_name": "交通运输大类",
-          "level2_id": "24",
-          "level2_code": "50",
-          "code": "5004"
         },
         {
           "id": "1802407",
@@ -1849,32 +1797,6 @@
             "level2_id": "18",
             "level2_code": "44",
             "code": "4403"
-          },
-          {
-            "id": "2158648",
-            "school_id": "3114",
-            "special_id": "8969",
-            "nation_feature": "2",
-            "province_feature": "2",
-            "is_important": "2",
-            "limit_year": "三年",
-            "year": "2022",
-            "level3_weight": "0",
-            "nation_first_class": "2",
-            "xueke_rank": "0",
-            "xueke_rank_score": "",
-            "ruanke_rank": "9999",
-            "ruanke_level": "",
-            "is_video": 2,
-            "special_name": "装配式建筑工程技术",
-            "special_type": "2",
-            "type_name": "专科(高职)",
-            "level3_name": "土建施工类",
-            "level3_code": "148",
-            "level2_name": "土木建筑大类",
-            "level2_id": "18",
-            "level2_code": "44",
-            "code": "4403"
           }
         ]
       },
@@ -2399,39 +2321,6 @@
             "level2_id": "24",
             "level2_code": "50",
             "code": "5002"
-          }
-        ]
-      },
-      {
-        "level3_weight": "0",
-        "code": "5004",
-        "name": "航空运输类(专)",
-        "special": [
-          {
-            "id": "1802406",
-            "school_id": "3114",
-            "special_id": "741",
-            "nation_feature": "2",
-            "province_feature": "2",
-            "is_important": "2",
-            "limit_year": "三年",
-            "year": "2022",
-            "level3_weight": "0",
-            "nation_first_class": "2",
-            "xueke_rank": "0",
-            "xueke_rank_score": "",
-            "ruanke_rank": "9999",
-            "ruanke_level": "",
-            "is_video": 2,
-            "special_name": "民航安全技术管理",
-            "special_type": "2",
-            "type_name": "专科(高职)",
-            "level3_name": "航空运输类",
-            "level3_code": "178",
-            "level2_name": "交通运输大类",
-            "level2_id": "24",
-            "level2_code": "50",
-            "code": "5004"
           }
         ]
       },
@@ -3365,9 +3254,9 @@
       "code": "5101"
     },
     {
-      "id": "2158648",
+      "id": "2163005",
       "school_id": "3114",
-      "special_id": "8969",
+      "special_id": "929",
       "nation_feature": "2",
       "province_feature": "2",
       "is_important": "2",
@@ -3380,15 +3269,15 @@
       "ruanke_rank": "9999",
       "ruanke_level": "",
       "is_video": 2,
-      "special_name": "装配式建筑工程技术",
+      "special_name": "人物形象设计",
       "special_type": "2",
       "type_name": "专科(高职)",
-      "level3_name": "土建施工类",
-      "level3_code": "148",
-      "level2_name": "土木建筑大类",
-      "level2_id": "18",
-      "level2_code": "44",
-      "code": "4403"
+      "level3_name": "艺术设计类",
+      "level3_code": "205",
+      "level2_name": "文化艺术大类",
+      "level2_id": "29",
+      "level2_code": "55",
+      "code": "5501"
     }
   ]
 }

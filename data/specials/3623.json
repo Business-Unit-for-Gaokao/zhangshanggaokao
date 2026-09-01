@@ -1,23 +1,23 @@
 {
-  "update_time": "2026-08-01 08:07:48",
+  "update_time": "2026-09-01 10:19:52",
   "school_id": "3623",
   "school_name": "上海闵行职业技术学院",
   "source_url": "https://static-data.gaokao.cn/www/2.0/school/3623/pc_special.json?a=www.gaokao.cn",
-  "time": "2026-08-01 03:12:38",
-  "md5": "16caa75d432796934e0db16d671a2bca",
+  "time": "2026-09-01 02:01:52",
+  "md5": "193d73a92a14888a1bc25dab0029bb34",
   "group_keys": [
     "2"
   ],
   "group_count": 1,
   "nonempty_group_count": 1,
-  "data_count": 13,
+  "data_count": 12,
   "special_detail_keys": [
     "1",
     "2",
     "3",
     "4"
   ],
-  "special_group_count": 10,
+  "special_group_count": 9,
   "nation_feature_count": 0,
   "educational_strength": {
     "num_doctor": "0",
@@ -58,32 +58,6 @@
         "level2_id": "20",
         "level2_code": "46",
         "code": "4601"
-      },
-      {
-        "id": "2162029",
-        "school_id": "3623",
-        "special_id": "9145",
-        "nation_feature": "2",
-        "province_feature": "2",
-        "is_important": "2",
-        "limit_year": "三年",
-        "year": "2022",
-        "level3_weight": "0",
-        "nation_first_class": "2",
-        "xueke_rank": "0",
-        "xueke_rank_score": "",
-        "ruanke_rank": "9999",
-        "ruanke_level": "",
-        "is_video": 2,
-        "special_name": "智慧健康养老服务与管理",
-        "special_type": "2",
-        "type_name": "专科(高职)",
-        "level3_name": "公共服务类",
-        "level3_code": "224",
-        "level2_name": "公共管理与服务大类",
-        "level2_id": "33",
-        "level2_code": "59",
-        "code": "5903"
       },
       {
         "id": "2011503",
@@ -400,32 +374,6 @@
           "level2_id": "20",
           "level2_code": "46",
           "code": "4601"
-        },
-        {
-          "id": "2162029",
-          "school_id": "3623",
-          "special_id": "9145",
-          "nation_feature": "2",
-          "province_feature": "2",
-          "is_important": "2",
-          "limit_year": "三年",
-          "year": "2022",
-          "level3_weight": "0",
-          "nation_first_class": "2",
-          "xueke_rank": "0",
-          "xueke_rank_score": "",
-          "ruanke_rank": "9999",
-          "ruanke_level": "",
-          "is_video": 2,
-          "special_name": "智慧健康养老服务与管理",
-          "special_type": "2",
-          "type_name": "专科(高职)",
-          "level3_name": "公共服务类",
-          "level3_code": "224",
-          "level2_name": "公共管理与服务大类",
-          "level2_id": "33",
-          "level2_code": "59",
-          "code": "5903"
         },
         {
           "id": "2011503",
@@ -1092,39 +1040,6 @@
             "code": "5703"
           }
         ]
-      },
-      {
-        "level3_weight": "0",
-        "code": "5903",
-        "name": "公共服务类(专)",
-        "special": [
-          {
-            "id": "2162029",
-            "school_id": "3623",
-            "special_id": "9145",
-            "nation_feature": "2",
-            "province_feature": "2",
-            "is_important": "2",
-            "limit_year": "三年",
-            "year": "2022",
-            "level3_weight": "0",
-            "nation_first_class": "2",
-            "xueke_rank": "0",
-            "xueke_rank_score": "",
-            "ruanke_rank": "9999",
-            "ruanke_level": "",
-            "is_video": 2,
-            "special_name": "智慧健康养老服务与管理",
-            "special_type": "2",
-            "type_name": "专科(高职)",
-            "level3_name": "公共服务类",
-            "level3_code": "224",
-            "level2_name": "公共管理与服务大类",
-            "level2_id": "33",
-            "level2_code": "59",
-            "code": "5903"
-          }
-        ]
       }
     ],
     "nation_feature": [],
@@ -1166,32 +1081,6 @@
       "level2_id": "20",
       "level2_code": "46",
       "code": "4601"
-    },
-    {
-      "id": "2162029",
-      "school_id": "3623",
-      "special_id": "9145",
-      "nation_feature": "2",
-      "province_feature": "2",
-      "is_important": "2",
-      "limit_year": "三年",
-      "year": "2022",
-      "level3_weight": "0",
-      "nation_first_class": "2",
-      "xueke_rank": "0",
-      "xueke_rank_score": "",
-      "ruanke_rank": "9999",
-      "ruanke_level": "",
-      "is_video": 2,
-      "special_name": "智慧健康养老服务与管理",
-      "special_type": "2",
-      "type_name": "专科(高职)",
-      "level3_name": "公共服务类",
-      "level3_code": "224",
-      "level2_name": "公共管理与服务大类",
-      "level2_id": "33",
-      "level2_code": "59",
-      "code": "5903"
     },
     {
       "id": "2011503",

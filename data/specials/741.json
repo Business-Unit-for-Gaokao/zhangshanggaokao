@@ -1,10 +1,10 @@
 {
-  "update_time": "2026-08-01 07:39:18",
+  "update_time": "2026-09-01 09:57:31",
   "school_id": "741",
   "school_name": "黑龙江商业职业学院",
   "source_url": "https://static-data.gaokao.cn/www/2.0/school/741/pc_special.json?a=www.gaokao.cn",
-  "time": "2026-08-01 03:15:44",
-  "md5": "8f4dc770ff5abd8562ecac95e9d15f49",
+  "time": "2026-09-01 02:05:20",
+  "md5": "d20a99573676cd422522bded517d26cd",
   "group_keys": [
     "2"
   ],
@@ -17,7 +17,7 @@
     "3",
     "4"
   ],
-  "special_group_count": 17,
+  "special_group_count": 15,
   "nation_feature_count": 0,
   "educational_strength": {
     "num_doctor": "0",
@@ -58,32 +58,6 @@
         "level2_id": "27",
         "level2_code": "53",
         "code": "5307"
-      },
-      {
-        "id": "36192",
-        "school_id": "741",
-        "special_id": "740",
-        "nation_feature": "2",
-        "province_feature": "2",
-        "is_important": "2",
-        "limit_year": "三年",
-        "year": "2022",
-        "level3_weight": "0",
-        "nation_first_class": "2",
-        "xueke_rank": "0",
-        "xueke_rank_score": "",
-        "ruanke_rank": "9999",
-        "ruanke_level": "",
-        "is_video": 2,
-        "special_name": "空中乘务",
-        "special_type": "2",
-        "type_name": "专科(高职)",
-        "level3_name": "航空运输类",
-        "level3_code": "178",
-        "level2_name": "交通运输大类",
-        "level2_id": "24",
-        "level2_code": "50",
-        "code": "5004"
       },
       {
         "id": "36203",
@@ -422,6 +396,32 @@
         "level2_id": "24",
         "level2_code": "50",
         "code": "5002"
+      },
+      {
+        "id": "1591415",
+        "school_id": "741",
+        "special_id": "783",
+        "nation_feature": "2",
+        "province_feature": "2",
+        "is_important": "2",
+        "limit_year": "三年",
+        "year": "2022",
+        "level3_weight": "0",
+        "nation_first_class": "2",
+        "xueke_rank": "0",
+        "xueke_rank_score": "",
+        "ruanke_rank": "9999",
+        "ruanke_level": "",
+        "is_video": 2,
+        "special_name": "计算机应用技术",
+        "special_type": "2",
+        "type_name": "专科(高职)",
+        "level3_name": "计算机类",
+        "level3_code": "183",
+        "level2_name": "电子与信息大类",
+        "level2_id": "25",
+        "level2_code": "51",
+        "code": "5102"
       }
     ],
     "special_detail": {
@@ -452,32 +452,6 @@
           "level2_id": "27",
           "level2_code": "53",
           "code": "5307"
-        },
-        {
-          "id": "36192",
-          "school_id": "741",
-          "special_id": "740",
-          "nation_feature": "2",
-          "province_feature": "2",
-          "is_important": "2",
-          "limit_year": "三年",
-          "year": "2022",
-          "level3_weight": "0",
-          "nation_first_class": "2",
-          "xueke_rank": "0",
-          "xueke_rank_score": "",
-          "ruanke_rank": "9999",
-          "ruanke_level": "",
-          "is_video": 2,
-          "special_name": "空中乘务",
-          "special_type": "2",
-          "type_name": "专科(高职)",
-          "level3_name": "航空运输类",
-          "level3_code": "178",
-          "level2_name": "交通运输大类",
-          "level2_id": "24",
-          "level2_code": "50",
-          "code": "5004"
         },
         {
           "id": "36203",
@@ -1128,32 +1102,6 @@
           "level2_id": "25",
           "level2_code": "51",
           "code": "5102"
-        },
-        {
-          "id": "1673215",
-          "school_id": "741",
-          "special_id": "9040",
-          "nation_feature": "2",
-          "province_feature": "2",
-          "is_important": "2",
-          "limit_year": "三年",
-          "year": "2022",
-          "level3_weight": "0",
-          "nation_first_class": "2",
-          "xueke_rank": "0",
-          "xueke_rank_score": "",
-          "ruanke_rank": "9999",
-          "ruanke_level": "",
-          "is_video": 2,
-          "special_name": "高速铁路客运服务",
-          "special_type": "2",
-          "type_name": "专科(高职)",
-          "level3_name": "铁道运输类",
-          "level3_code": "175",
-          "level2_name": "交通运输大类",
-          "level2_id": "24",
-          "level2_code": "50",
-          "code": "5001"
         }
       ],
       "3": "",
@@ -1190,39 +1138,6 @@
             "level2_id": "20",
             "level2_code": "46",
             "code": "4607"
-          }
-        ]
-      },
-      {
-        "level3_weight": "0",
-        "code": "5001",
-        "name": "铁道运输类(专)",
-        "special": [
-          {
-            "id": "1673215",
-            "school_id": "741",
-            "special_id": "9040",
-            "nation_feature": "2",
-            "province_feature": "2",
-            "is_important": "2",
-            "limit_year": "三年",
-            "year": "2022",
-            "level3_weight": "0",
-            "nation_first_class": "2",
-            "xueke_rank": "0",
-            "xueke_rank_score": "",
-            "ruanke_rank": "9999",
-            "ruanke_level": "",
-            "is_video": 2,
-            "special_name": "高速铁路客运服务",
-            "special_type": "2",
-            "type_name": "专科(高职)",
-            "level3_name": "铁道运输类",
-            "level3_code": "175",
-            "level2_name": "交通运输大类",
-            "level2_id": "24",
-            "level2_code": "50",
-            "code": "5001"
           }
         ]
       },
@@ -1308,39 +1223,6 @@
             "level2_id": "24",
             "level2_code": "50",
             "code": "5002"
-          }
-        ]
-      },
-      {
-        "level3_weight": "0",
-        "code": "5004",
-        "name": "航空运输类(专)",
-        "special": [
-          {
-            "id": "36192",
-            "school_id": "741",
-            "special_id": "740",
-            "nation_feature": "2",
-            "province_feature": "2",
-            "is_important": "2",
-            "limit_year": "三年",
-            "year": "2022",
-            "level3_weight": "0",
-            "nation_first_class": "2",
-            "xueke_rank": "0",
-            "xueke_rank_score": "",
-            "ruanke_rank": "9999",
-            "ruanke_level": "",
-            "is_video": 2,
-            "special_name": "空中乘务",
-            "special_type": "2",
-            "type_name": "专科(高职)",
-            "level3_name": "航空运输类",
-            "level3_code": "178",
-            "level2_name": "交通运输大类",
-            "level2_id": "24",
-            "level2_code": "50",
-            "code": "5004"
           }
         ]
       },
@@ -2049,32 +1931,6 @@
       "code": "5307"
     },
     {
-      "id": "36192",
-      "school_id": "741",
-      "special_id": "740",
-      "nation_feature": "2",
-      "province_feature": "2",
-      "is_important": "2",
-      "limit_year": "三年",
-      "year": "2022",
-      "level3_weight": "0",
-      "nation_first_class": "2",
-      "xueke_rank": "0",
-      "xueke_rank_score": "",
-      "ruanke_rank": "9999",
-      "ruanke_level": "",
-      "is_video": 2,
-      "special_name": "空中乘务",
-      "special_type": "2",
-      "type_name": "专科(高职)",
-      "level3_name": "航空运输类",
-      "level3_code": "178",
-      "level2_name": "交通运输大类",
-      "level2_id": "24",
-      "level2_code": "50",
-      "code": "5004"
-    },
-    {
       "id": "36203",
       "school_id": "741",
       "special_id": "1262",
@@ -2411,6 +2267,32 @@
       "level2_id": "24",
       "level2_code": "50",
       "code": "5002"
+    },
+    {
+      "id": "1591415",
+      "school_id": "741",
+      "special_id": "783",
+      "nation_feature": "2",
+      "province_feature": "2",
+      "is_important": "2",
+      "limit_year": "三年",
+      "year": "2022",
+      "level3_weight": "0",
+      "nation_first_class": "2",
+      "xueke_rank": "0",
+      "xueke_rank_score": "",
+      "ruanke_rank": "9999",
+      "ruanke_level": "",
+      "is_video": 2,
+      "special_name": "计算机应用技术",
+      "special_type": "2",
+      "type_name": "专科(高职)",
+      "level3_name": "计算机类",
+      "level3_code": "183",
+      "level2_name": "电子与信息大类",
+      "level2_id": "25",
+      "level2_code": "51",
+      "code": "5102"
     }
   ]
 }

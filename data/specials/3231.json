@@ -1,10 +1,10 @@
 {
-  "update_time": "2026-08-01 08:03:41",
+  "update_time": "2026-09-01 10:16:33",
   "school_id": "3231",
   "school_name": "贵州工贸职业学院",
   "source_url": "https://static-data.gaokao.cn/www/2.0/school/3231/pc_special.json?a=www.gaokao.cn",
-  "time": "2026-08-01 03:13:06",
-  "md5": "7de723a47a69694d75058254480ee9f3",
+  "time": "2026-09-01 02:02:18",
+  "md5": "af0783ddee62a76a9728a5c51cad5889",
   "group_keys": [
     "2"
   ],
@@ -17,7 +17,7 @@
     "3",
     "4"
   ],
-  "special_group_count": 24,
+  "special_group_count": 23,
   "nation_feature_count": 0,
   "educational_strength": {
     "num_doctor": "0",
@@ -1026,32 +1026,6 @@
           "code": "4602"
         },
         {
-          "id": "1793712",
-          "school_id": "3231",
-          "special_id": "9180",
-          "nation_feature": "2",
-          "province_feature": "2",
-          "is_important": "2",
-          "limit_year": "三年",
-          "year": "2022",
-          "level3_weight": "0",
-          "nation_first_class": "2",
-          "xueke_rank": "0",
-          "xueke_rank_score": "",
-          "ruanke_rank": "9999",
-          "ruanke_level": "",
-          "is_video": 2,
-          "special_name": "金融服务与管理",
-          "special_type": "2",
-          "type_name": "专科(高职)",
-          "level3_name": "金融类",
-          "level3_code": "194",
-          "level2_name": "财经商贸大类",
-          "level2_id": "27",
-          "level2_code": "53",
-          "code": "5302"
-        },
-        {
           "id": "2158000",
           "school_id": "3231",
           "special_id": "780",
@@ -1926,39 +1900,6 @@
             "level2_id": "26",
             "level2_code": "52",
             "code": "5208"
-          }
-        ]
-      },
-      {
-        "level3_weight": "0",
-        "code": "5302",
-        "name": "金融类(专)",
-        "special": [
-          {
-            "id": "1793712",
-            "school_id": "3231",
-            "special_id": "9180",
-            "nation_feature": "2",
-            "province_feature": "2",
-            "is_important": "2",
-            "limit_year": "三年",
-            "year": "2022",
-            "level3_weight": "0",
-            "nation_first_class": "2",
-            "xueke_rank": "0",
-            "xueke_rank_score": "",
-            "ruanke_rank": "9999",
-            "ruanke_level": "",
-            "is_video": 2,
-            "special_name": "金融服务与管理",
-            "special_type": "2",
-            "type_name": "专科(高职)",
-            "level3_name": "金融类",
-            "level3_code": "194",
-            "level2_name": "财经商贸大类",
-            "level2_id": "27",
-            "level2_code": "53",
-            "code": "5302"
           }
         ]
       },

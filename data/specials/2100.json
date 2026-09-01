@@ -1,10 +1,10 @@
 {
-  "update_time": "2026-08-01 07:53:57",
+  "update_time": "2026-09-01 10:09:02",
   "school_id": "2100",
   "school_name": "山东劳动职业技术学院",
   "source_url": "https://static-data.gaokao.cn/www/2.0/school/2100/pc_special.json?a=www.gaokao.cn",
-  "time": "2026-08-01 03:14:09",
-  "md5": "0532b445b884c43e0cfc2eaac86441ec",
+  "time": "2026-09-01 02:03:28",
+  "md5": "5046704647b4a8213e422f488358d7bd",
   "group_keys": [
     "2"
   ],
@@ -17,7 +17,7 @@
     "3",
     "4"
   ],
-  "special_group_count": 19,
+  "special_group_count": 18,
   "nation_feature_count": 0,
   "educational_strength": {
     "num_doctor": "0",
@@ -1468,32 +1468,6 @@
           "code": "5308"
         },
         {
-          "id": "601310",
-          "school_id": "2100",
-          "special_id": "538",
-          "nation_feature": "2",
-          "province_feature": "2",
-          "is_important": "2",
-          "limit_year": "三年",
-          "year": "2022",
-          "level3_weight": "0",
-          "nation_first_class": "2",
-          "xueke_rank": "0",
-          "xueke_rank_score": "",
-          "ruanke_rank": "9999",
-          "ruanke_level": "",
-          "is_video": 2,
-          "special_name": "建设工程管理",
-          "special_type": "2",
-          "type_name": "专科(高职)",
-          "level3_name": "建设工程管理类",
-          "level3_code": "150",
-          "level2_name": "土木建筑大类",
-          "level2_id": "18",
-          "level2_code": "44",
-          "code": "4405"
-        },
-        {
           "id": "1709803",
           "school_id": "2100",
           "special_id": "9085",
@@ -1554,39 +1528,6 @@
             "level2_id": "18",
             "level2_code": "44",
             "code": "4401"
-          }
-        ]
-      },
-      {
-        "level3_weight": "0",
-        "code": "4405",
-        "name": "建设工程管理类(专)",
-        "special": [
-          {
-            "id": "601310",
-            "school_id": "2100",
-            "special_id": "538",
-            "nation_feature": "2",
-            "province_feature": "2",
-            "is_important": "2",
-            "limit_year": "三年",
-            "year": "2022",
-            "level3_weight": "0",
-            "nation_first_class": "2",
-            "xueke_rank": "0",
-            "xueke_rank_score": "",
-            "ruanke_rank": "9999",
-            "ruanke_level": "",
-            "is_video": 2,
-            "special_name": "建设工程管理",
-            "special_type": "2",
-            "type_name": "专科(高职)",
-            "level3_name": "建设工程管理类",
-            "level3_code": "150",
-            "level2_name": "土木建筑大类",
-            "level2_id": "18",
-            "level2_code": "44",
-            "code": "4405"
           }
         ]
       },

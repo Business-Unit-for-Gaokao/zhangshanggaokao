@@ -1,10 +1,10 @@
 {
-  "update_time": "2026-08-01 07:36:13",
+  "update_time": "2026-09-01 09:55:09",
   "school_id": "475",
   "school_name": "泉州师范学院",
   "source_url": "https://static-data.gaokao.cn/www/2.0/school/475/pc_special.json?a=www.gaokao.cn",
-  "time": "2026-08-01 03:16:05",
-  "md5": "5ae70663b35deb84a7723ee282f13471",
+  "time": "2026-09-01 03:09:39",
+  "md5": "9b01e700b05a13f994be3e9c8eeba007",
   "group_keys": [
     "1"
   ],
@@ -17,7 +17,7 @@
     "3",
     "4"
   ],
-  "special_group_count": 33,
+  "special_group_count": 31,
   "nation_feature_count": 2,
   "educational_strength": {
     "num_doctor": "0",
@@ -1441,32 +1441,6 @@
           "code": "0807"
         },
         {
-          "id": "152155",
-          "school_id": "475",
-          "special_id": "131",
-          "nation_feature": "2",
-          "province_feature": "2",
-          "is_important": "2",
-          "limit_year": "四年",
-          "year": "2022",
-          "level3_weight": "0",
-          "nation_first_class": "2",
-          "xueke_rank": "0",
-          "xueke_rank_score": "",
-          "ruanke_rank": "9999",
-          "ruanke_level": "",
-          "is_video": 2,
-          "special_name": "海洋技术",
-          "special_type": "1",
-          "type_name": "本科(普通)",
-          "level3_name": "海洋科学类",
-          "level3_code": "57",
-          "level2_name": "理学",
-          "level2_id": "9",
-          "level2_code": "07",
-          "code": "0707"
-        },
-        {
           "id": "152157",
           "school_id": "475",
           "special_id": "1156",
@@ -1517,32 +1491,6 @@
           "level2_id": "10",
           "level2_code": "08",
           "code": "0816"
-        },
-        {
-          "id": "152163",
-          "school_id": "475",
-          "special_id": "9",
-          "nation_feature": "2",
-          "province_feature": "2",
-          "is_important": "2",
-          "limit_year": "四年",
-          "year": "2022",
-          "level3_weight": "0",
-          "nation_first_class": "2",
-          "xueke_rank": "0",
-          "xueke_rank_score": "",
-          "ruanke_rank": "123",
-          "ruanke_level": "B",
-          "is_video": 2,
-          "special_name": "金融工程",
-          "special_type": "1",
-          "type_name": "本科(普通)",
-          "level3_name": "金融学类",
-          "level3_code": "37",
-          "level2_name": "经济学",
-          "level2_id": "4",
-          "level2_code": "02",
-          "code": "0203"
         },
         {
           "id": "152165",
@@ -2022,39 +1970,6 @@
             "level2_id": "4",
             "level2_code": "02",
             "code": "0201"
-          }
-        ]
-      },
-      {
-        "level3_weight": "0",
-        "code": "0203",
-        "name": "金融学类(本)",
-        "special": [
-          {
-            "id": "152163",
-            "school_id": "475",
-            "special_id": "9",
-            "nation_feature": "2",
-            "province_feature": "2",
-            "is_important": "2",
-            "limit_year": "四年",
-            "year": "2022",
-            "level3_weight": "0",
-            "nation_first_class": "2",
-            "xueke_rank": "0",
-            "xueke_rank_score": "",
-            "ruanke_rank": "123",
-            "ruanke_level": "B",
-            "is_video": 2,
-            "special_name": "金融工程",
-            "special_type": "1",
-            "type_name": "本科(普通)",
-            "level3_name": "金融学类",
-            "level3_code": "37",
-            "level2_name": "经济学",
-            "level2_id": "4",
-            "level2_code": "02",
-            "code": "0203"
           }
         ]
       },
@@ -2633,39 +2548,6 @@
             "level2_id": "9",
             "level2_code": "07",
             "code": "0705"
-          }
-        ]
-      },
-      {
-        "level3_weight": "0",
-        "code": "0707",
-        "name": "海洋科学类(本)",
-        "special": [
-          {
-            "id": "152155",
-            "school_id": "475",
-            "special_id": "131",
-            "nation_feature": "2",
-            "province_feature": "2",
-            "is_important": "2",
-            "limit_year": "四年",
-            "year": "2022",
-            "level3_weight": "0",
-            "nation_first_class": "2",
-            "xueke_rank": "0",
-            "xueke_rank_score": "",
-            "ruanke_rank": "9999",
-            "ruanke_level": "",
-            "is_video": 2,
-            "special_name": "海洋技术",
-            "special_type": "1",
-            "type_name": "本科(普通)",
-            "level3_name": "海洋科学类",
-            "level3_code": "57",
-            "level2_name": "理学",
-            "level2_id": "9",
-            "level2_code": "07",
-            "code": "0707"
           }
         ]
       },
