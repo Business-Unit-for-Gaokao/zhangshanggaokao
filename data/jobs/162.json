@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-09-01 08:59:23",
+  "update_time": "2026-10-01 10:33:31",
   "school_id": "162",
   "school_name": "南京中医药大学",
   "jobrateyear": "2024",
@@ -31,18 +31,6 @@
       "province_name": "四川省"
     },
     {
-      "id": "26557",
-      "school_id": "162",
-      "province": "贵州省",
-      "rate": "0.68",
-      "num": "0",
-      "sort": "68",
-      "update_id": "2096",
-      "update_time": "2025-01-10 11:31:52",
-      "year": "2021",
-      "province_name": "贵州省"
-    },
-    {
       "id": "26556",
       "school_id": "162",
       "province": "安徽省",
@@ -53,6 +41,18 @@
       "update_time": "2025-01-10 11:31:52",
       "year": "2021",
       "province_name": "安徽省"
+    },
+    {
+      "id": "26557",
+      "school_id": "162",
+      "province": "贵州省",
+      "rate": "0.68",
+      "num": "0",
+      "sort": "68",
+      "update_id": "2096",
+      "update_time": "2025-01-10 11:31:52",
+      "year": "2021",
+      "province_name": "贵州省"
     },
     {
       "id": "26555",

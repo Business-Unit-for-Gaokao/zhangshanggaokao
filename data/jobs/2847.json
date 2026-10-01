@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-09-01 09:23:13",
+  "update_time": "2026-10-01 10:57:05",
   "school_id": "2847",
   "school_name": "华北理工大学冀唐学院",
   "jobrateyear": "2022",
@@ -19,18 +19,6 @@
   },
   "province": [
     {
-      "id": "19356",
-      "school_id": "2847",
-      "province": "西南",
-      "rate": "3.06",
-      "num": "43",
-      "sort": "43",
-      "update_id": "2004",
-      "update_time": "2024-06-18 14:05:08",
-      "year": "2022",
-      "province_name": "西南"
-    },
-    {
       "id": "19357",
       "school_id": "2847",
       "province": "东北",
@@ -41,6 +29,18 @@
       "update_time": "2024-06-18 14:05:08",
       "year": "2022",
       "province_name": "东北"
+    },
+    {
+      "id": "19356",
+      "school_id": "2847",
+      "province": "西南",
+      "rate": "3.06",
+      "num": "43",
+      "sort": "43",
+      "update_id": "2004",
+      "update_time": "2024-06-18 14:05:08",
+      "year": "2022",
+      "province_name": "西南"
     },
     {
       "id": "19355",

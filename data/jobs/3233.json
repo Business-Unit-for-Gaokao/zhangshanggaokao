@@ -1,20 +1,20 @@
 {
-  "update_time": "2026-09-01 09:25:23",
+  "update_time": "2026-10-01 10:59:19",
   "school_id": "3233",
   "school_name": "贵州水利水电职业技术学院",
-  "jobrateyear": "2019",
+  "jobrateyear": "2025",
   "jobrate": {
     "job": {
-      "1": "94.89"
+      "1": "87.94"
     },
     "postgraduate": {
-      "1": "8.46"
+      "1": "0.00"
     },
     "abroad": {
       "1": "0.00"
     },
     "content": {
-      "1": ""
+      "1": "<p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1789027871_6453_thumb.jpg\" xss=removed title=\"core_1789027871_6453_thumb.jpg\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1789027871_8540_thumb.jpg\" xss=removed title=\"core_1789027871_8540_thumb.jpg\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1789027871_4076_thumb.jpg\" xss=removed title=\"core_1789027871_4076_thumb.jpg\"></p><p><br></p>"
     }
   },
   "province": [

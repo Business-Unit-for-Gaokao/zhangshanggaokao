@@ -1,9 +1,22 @@
 {
-  "update_time": "2026-09-01 09:18:48",
+  "update_time": "2026-10-01 10:52:36",
   "school_id": "2242",
   "school_name": "西安铁路职业技术学院",
-  "jobrateyear": "",
-  "jobrate": {},
+  "jobrateyear": "2025",
+  "jobrate": {
+    "job": {
+      "1": "95.77"
+    },
+    "postgraduate": {
+      "1": "4.58"
+    },
+    "abroad": {
+      "1": "0.23"
+    },
+    "content": {
+      "1": "<p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788334068_7602_thumb.png\" title=\"core_1788334068_7602_thumb.png\" alt=\"core_1788334068_7602.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788334079_4433_thumb.png\" title=\"core_1788334079_4433_thumb.png\" alt=\"core_1788334079_4433.png\"><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788334088_6580_thumb.png\" title=\"core_1788334088_6580_thumb.png\" alt=\"core_1788334088_6580.png\"><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788334098_2743_thumb.png\" title=\"core_1788334098_2743_thumb.png\" alt=\"core_1788334098_2743.png\"><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788334113_5936_thumb.png\" title=\"core_1788334113_5936_thumb.png\" alt=\"core_1788334113_5936.png\"><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788334124_5900_thumb.png\" title=\"core_1788334124_5900_thumb.png\" alt=\"core_1788334124_5900.png\"></p>"
+    }
+  },
   "province": [],
   "attr": {},
   "company": {},

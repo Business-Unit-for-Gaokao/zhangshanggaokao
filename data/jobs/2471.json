@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-09-01 09:21:05",
+  "update_time": "2026-10-01 10:54:52",
   "school_id": "2471",
   "school_name": "湖南工业大学科技学院",
   "jobrateyear": "2024",
@@ -43,18 +43,6 @@
       "province_name": "辽宁省"
     },
     {
-      "id": "19830",
-      "school_id": "2471",
-      "province": "甘肃省",
-      "rate": "0.15",
-      "num": "2",
-      "sort": "2",
-      "update_id": "2004",
-      "update_time": "2024-06-18 14:05:08",
-      "year": "2023",
-      "province_name": "甘肃省"
-    },
-    {
       "id": "19829",
       "school_id": "2471",
       "province": "山西省",
@@ -67,16 +55,16 @@
       "province_name": "山西省"
     },
     {
-      "id": "19828",
+      "id": "19830",
       "school_id": "2471",
-      "province": "陕西省",
-      "rate": "0.22",
-      "num": "3",
-      "sort": "3",
+      "province": "甘肃省",
+      "rate": "0.15",
+      "num": "2",
+      "sort": "2",
       "update_id": "2004",
       "update_time": "2024-06-18 14:05:08",
       "year": "2023",
-      "province_name": "陕西省"
+      "province_name": "甘肃省"
     },
     {
       "id": "19827",
@@ -101,6 +89,18 @@
       "update_time": "2024-06-18 14:05:08",
       "year": "2023",
       "province_name": "新疆维吾尔自治区"
+    },
+    {
+      "id": "19828",
+      "school_id": "2471",
+      "province": "陕西省",
+      "rate": "0.22",
+      "num": "3",
+      "sort": "3",
+      "update_id": "2004",
+      "update_time": "2024-06-18 14:05:08",
+      "year": "2023",
+      "province_name": "陕西省"
     },
     {
       "id": "19825",

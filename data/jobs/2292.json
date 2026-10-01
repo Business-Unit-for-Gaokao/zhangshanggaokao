@@ -1,9 +1,22 @@
 {
-  "update_time": "2026-09-01 09:19:19",
+  "update_time": "2026-10-01 10:53:06",
   "school_id": "2292",
   "school_name": "三亚城市职业学院",
-  "jobrateyear": "",
-  "jobrate": {},
+  "jobrateyear": "2025",
+  "jobrate": {
+    "job": {
+      "1": "90.74"
+    },
+    "postgraduate": {
+      "1": "0.00"
+    },
+    "abroad": {
+      "1": "0.00"
+    },
+    "content": {
+      "1": "<p><img src=\"https://static-data.gaokao.cn//upload/image/202608/core_1786957301_9683_thumb.png\" title=\"core_1786957301_9683_thumb.png\" alt=\"core_1786957301_9683.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202608/core_1786957315_4938_thumb.png\" title=\"core_1786957315_4938_thumb.png\" alt=\"core_1786957315_4938.png\"></p><p><br></p>"
+    }
+  },
   "province": [],
   "attr": {},
   "company": {},

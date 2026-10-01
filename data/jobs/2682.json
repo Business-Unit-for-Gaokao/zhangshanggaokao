@@ -1,9 +1,22 @@
 {
-  "update_time": "2026-09-01 09:22:49",
+  "update_time": "2026-10-01 10:56:39",
   "school_id": "2682",
   "school_name": "广东南方职业学院",
-  "jobrateyear": "",
-  "jobrate": {},
+  "jobrateyear": "2025",
+  "jobrate": {
+    "job": {
+      "1": "94.39"
+    },
+    "postgraduate": {
+      "1": "5.95"
+    },
+    "abroad": {
+      "1": "0.00"
+    },
+    "content": {
+      "1": "<p><img src=\"https://static-data.gaokao.cn//upload/image/202608/core_1788163401_2556_thumb.png\" title=\"core_1788163401_2556_thumb.png\" alt=\"core_1788163401_2556.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202608/core_1788163418_2653_thumb.png\" title=\"core_1788163418_2653_thumb.png\" alt=\"core_1788163418_2653.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202608/core_1788163507_7192_thumb.png\" title=\"core_1788163507_7192_thumb.png\" alt=\"core_1788163507_7192.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202608/core_1788163587_8314_thumb.png\" title=\"core_1788163587_8314_thumb.png\" alt=\"core_1788163587_8314.png\"></p>"
+    }
+  },
   "province": [],
   "attr": {},
   "company": {},

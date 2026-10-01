@@ -1,20 +1,20 @@
 {
-  "update_time": "2026-09-01 09:04:54",
+  "update_time": "2026-10-01 10:39:02",
   "school_id": "711",
   "school_name": "哈尔滨金融学院",
-  "jobrateyear": "2022",
+  "jobrateyear": "2024",
   "jobrate": {
     "job": {
-      "1": "77.72"
+      "1": "86.96"
     },
     "postgraduate": {
-      "1": "3.76"
+      "1": "3.20"
     },
     "abroad": {
-      "1": "0.82"
+      "1": "1.04"
     },
     "content": {
-      "1": ""
+      "1": "<p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788514273_4453_thumb.png\" title=\"core_1788514273_4453_thumb.png\" alt=\"core_1788514273_4453.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788514290_2327_thumb.png\" title=\"core_1788514290_2327_thumb.png\" alt=\"core_1788514290_2327.png\"></p>"
     }
   },
   "province": [

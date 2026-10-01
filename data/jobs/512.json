@@ -1,9 +1,22 @@
 {
-  "update_time": "2026-09-01 09:03:02",
+  "update_time": "2026-10-01 10:37:11",
   "school_id": "512",
   "school_name": "海南医科大学",
-  "jobrateyear": "",
-  "jobrate": {},
+  "jobrateyear": "2024",
+  "jobrate": {
+    "job": {
+      "1": "83.64"
+    },
+    "postgraduate": {
+      "1": "20.37"
+    },
+    "abroad": {
+      "1": "0.56"
+    },
+    "content": {
+      "1": "<p><img src=\"https://static-data.gaokao.cn//upload/image/202608/core_1787553080_1426_thumb.png\" title=\"core_1787553080_1426_thumb.png\" alt=\"core_1787553080_1426.png\"></p>"
+    }
+  },
   "province": [],
   "attr": {},
   "company": {},

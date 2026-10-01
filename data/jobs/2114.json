@@ -1,9 +1,22 @@
 {
-  "update_time": "2026-09-01 09:17:27",
+  "update_time": "2026-10-01 10:51:21",
   "school_id": "2114",
   "school_name": "山东信息职业技术学院",
-  "jobrateyear": "",
-  "jobrate": {},
+  "jobrateyear": "2025",
+  "jobrate": {
+    "job": {
+      "1": "96.89"
+    },
+    "postgraduate": {
+      "1": "15.34"
+    },
+    "abroad": {
+      "1": "0.09"
+    },
+    "content": {
+      "1": "<p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788342122_3033_thumb.png\" title=\"core_1788342122_3033_thumb.png\" alt=\"core_1788342122_3033.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788342132_9699_thumb.png\" title=\"core_1788342132_9699_thumb.png\" alt=\"core_1788342132_9699.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788342146_7236_thumb.png\" title=\"core_1788342146_7236_thumb.png\" alt=\"core_1788342146_7236.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788342168_7018_thumb.png\" title=\"core_1788342168_7018_thumb.png\" alt=\"core_1788342168_7018.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788342182_1321_thumb.png\" title=\"core_1788342182_1321_thumb.png\" alt=\"core_1788342182_1321.png\"></p>"
+    }
+  },
   "province": [],
   "attr": {},
   "company": {},

@@ -1,20 +1,20 @@
 {
-  "update_time": "2026-09-01 09:09:13",
+  "update_time": "2026-10-01 10:43:25",
   "school_id": "1204",
   "school_name": "山东警察学院",
-  "jobrateyear": "2019",
+  "jobrateyear": "2024",
   "jobrate": {
     "job": {
-      "1": "91.51"
+      "1": "98.31"
     },
     "postgraduate": {
-      "1": "4.38"
+      "1": "0.00"
     },
     "abroad": {
       "1": "0.00"
     },
     "content": {
-      "1": ""
+      "1": "<p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788745683_7909_thumb.png\" title=\"core_1788745683_7909_thumb.png\" alt=\"core_1788745683_7909.png\"></p>"
     }
   },
   "province": [

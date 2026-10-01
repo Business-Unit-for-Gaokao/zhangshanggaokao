@@ -1,9 +1,22 @@
 {
-  "update_time": "2026-09-01 09:07:05",
+  "update_time": "2026-10-01 10:41:16",
   "school_id": "954",
   "school_name": "鹰潭职业技术学院",
-  "jobrateyear": "",
-  "jobrate": {},
+  "jobrateyear": "2025",
+  "jobrate": {
+    "job": {
+      "1": "84.13"
+    },
+    "postgraduate": {
+      "1": "0.00"
+    },
+    "abroad": {
+      "1": "0.00"
+    },
+    "content": {
+      "1": "<p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1789026562_7145_thumb.jpg\" xss=removed title=\"core_1789026562_7145_thumb.jpg\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1789026562_7039_thumb.jpg\" xss=removed title=\"core_1789026562_7039_thumb.jpg\"></p><p xss=removed><br></p>"
+    }
+  },
   "province": [],
   "attr": {},
   "company": {},

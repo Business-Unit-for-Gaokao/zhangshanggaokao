@@ -1,9 +1,22 @@
 {
-  "update_time": "2026-09-01 09:22:42",
+  "update_time": "2026-10-01 10:56:33",
   "school_id": "2673",
   "school_name": "焦作工贸职业学院",
-  "jobrateyear": "",
-  "jobrate": {},
+  "jobrateyear": "2024",
+  "jobrate": {
+    "job": {
+      "1": "96.26"
+    },
+    "postgraduate": {
+      "1": "9.04"
+    },
+    "abroad": {
+      "1": "0.00"
+    },
+    "content": {
+      "1": ""
+    }
+  },
   "province": [],
   "attr": {},
   "company": {},

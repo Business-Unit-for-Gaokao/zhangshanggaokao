@@ -1,9 +1,22 @@
 {
-  "update_time": "2026-09-01 09:18:16",
+  "update_time": "2026-10-01 10:52:07",
   "school_id": "2191",
   "school_name": "大庆医学高等专科学校",
-  "jobrateyear": "",
-  "jobrate": {},
+  "jobrateyear": "2024",
+  "jobrate": {
+    "job": {
+      "1": "73.97"
+    },
+    "postgraduate": {
+      "1": "0.00"
+    },
+    "abroad": {
+      "1": "0.00"
+    },
+    "content": {
+      "1": "<p xss=removed><span xss=removed><span xss=removed>2024</span><span xss=removed>届毕业生</span><span xss=removed>2539</span><span xss=removed>人，截至</span><span xss=removed>8</span><span xss=removed>月</span><span xss=removed>31</span><span xss=removed>日已就业</span><span xss=removed>1878</span><span xss=removed>人，其中协议和合同就业</span><span xss=removed>1620</span><span xss=removed>人；自主创业</span><span xss=removed>33</span><span xss=removed>人；灵活就业</span><span xss=removed>225</span><span xss=removed>人；初次就业率为</span><span xss=removed>73.97%</span><span xss=removed>，初次专业对口率</span><span xss=removed>81.52%</span><span xss=removed>。就业区域分布情况：省内</span><span xss=removed>1312</span><span xss=removed>人，占比</span><span xss=removed>51.67%</span><span xss=removed>；留庆就业</span><span xss=removed>375</span><span xss=removed>人，占比</span><span xss=removed>14.77%</span><span xss=removed>。就业数据已经录入全国高校毕业生就业管理系统。</span></span></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788486444_1672_thumb.png\" title=\"core_1788486444_1672_thumb.png\" alt=\"core_1788486444_1672.png\"></p>"
+    }
+  },
   "province": [],
   "attr": {},
   "company": {},

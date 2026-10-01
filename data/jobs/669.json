@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-09-01 09:04:30",
+  "update_time": "2026-10-01 10:38:39",
   "school_id": "669",
   "school_name": "上海东海职业技术学院",
   "jobrateyear": "2019",
@@ -127,18 +127,6 @@
       "province_name": "吉林省"
     },
     {
-      "id": "10856",
-      "school_id": "669",
-      "province": "北京市",
-      "rate": "0.69",
-      "num": "13",
-      "sort": "13",
-      "update_id": "825",
-      "update_time": "2021-05-21 17:04:11",
-      "year": "2019",
-      "province_name": "北京市"
-    },
-    {
       "id": "10857",
       "school_id": "669",
       "province": "海南省",
@@ -149,6 +137,18 @@
       "update_time": "2021-05-21 17:04:11",
       "year": "2019",
       "province_name": "海南省"
+    },
+    {
+      "id": "10856",
+      "school_id": "669",
+      "province": "北京市",
+      "rate": "0.69",
+      "num": "13",
+      "sort": "13",
+      "update_id": "825",
+      "update_time": "2021-05-21 17:04:11",
+      "year": "2019",
+      "province_name": "北京市"
     },
     {
       "id": "10855",

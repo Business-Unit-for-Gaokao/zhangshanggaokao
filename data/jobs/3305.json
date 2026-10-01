@@ -1,20 +1,20 @@
 {
-  "update_time": "2026-09-01 09:26:01",
+  "update_time": "2026-10-01 10:59:56",
   "school_id": "3305",
   "school_name": "毕节工业职业技术学院",
-  "jobrateyear": "2023",
+  "jobrateyear": "2025",
   "jobrate": {
     "job": {
-      "1": "83.06"
+      "1": "89.32"
     },
     "postgraduate": {
-      "1": "2.84"
+      "1": "0.00"
     },
     "abroad": {
       "1": "0.00"
     },
     "content": {
-      "1": ""
+      "1": "<p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1789025220_4068_thumb.jpg\" xss=removed title=\"core_1789025220_4068_thumb.jpg\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1789025220_5692_thumb.jpg\" xss=removed title=\"core_1789025220_5692_thumb.jpg\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1789025220_2596_thumb.jpg\" xss=removed title=\"core_1789025220_2596_thumb.jpg\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1789025220_3985_thumb.jpg\" xss=removed title=\"core_1789025220_3985_thumb.jpg\"></p><p><br></p>"
     }
   },
   "province": [
@@ -62,15 +62,15 @@
   "company": {},
   "gradute": [
     {
-      "id": "2329",
+      "id": "2871",
       "school_id": "3305",
-      "female_num": "287",
-      "men_num": "699",
-      "men_rate": "70.89",
-      "female_rate": "29.10",
-      "update_id": "1988",
-      "update_time": "2025-07-07 14:59:33",
-      "year": "2023"
+      "female_num": "604",
+      "men_num": "1493",
+      "men_rate": "71.20",
+      "female_rate": "28.80",
+      "update_id": "1211",
+      "update_time": "2026-09-10 15:24:22",
+      "year": "2025"
     }
   ],
   "remark": "",

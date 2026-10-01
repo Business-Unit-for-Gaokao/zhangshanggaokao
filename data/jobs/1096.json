@@ -1,20 +1,20 @@
 {
-  "update_time": "2026-09-01 09:08:19",
+  "update_time": "2026-10-01 10:42:31",
   "school_id": "1096",
   "school_name": "广州南方学院",
-  "jobrateyear": "2022",
+  "jobrateyear": "2024",
   "jobrate": {
     "job": {
       "1": "0.00"
     },
     "postgraduate": {
-      "1": "2.14"
+      "1": "1.68"
     },
     "abroad": {
-      "1": "1.77"
+      "1": "2.22"
     },
     "content": {
-      "1": ""
+      "1": "<p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788491494_3025_thumb.png\" title=\"core_1788491494_3025_thumb.png\" alt=\"core_1788491494_3025.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788491511_5984_thumb.png\" title=\"core_1788491511_5984_thumb.png\" alt=\"core_1788491511_5984.png\"></p>"
     }
   },
   "province": [

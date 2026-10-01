@@ -1,9 +1,22 @@
 {
-  "update_time": "2026-09-01 09:12:05",
+  "update_time": "2026-10-01 10:46:08",
   "school_id": "1591",
   "school_name": "江苏经贸职业技术学院",
-  "jobrateyear": "",
-  "jobrate": {},
+  "jobrateyear": "2025",
+  "jobrate": {
+    "job": {
+      "1": "0.00"
+    },
+    "postgraduate": {
+      "1": "31.95"
+    },
+    "abroad": {
+      "1": "0.00"
+    },
+    "content": {
+      "1": "<p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788511441_9915_thumb.png\" title=\"core_1788511441_9915_thumb.png\" alt=\"core_1788511441_9915.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788511449_9460_thumb.png\" title=\"core_1788511449_9460_thumb.png\" alt=\"core_1788511449_9460.png\"></p><p><br></p>"
+    }
+  },
   "province": [],
   "attr": {},
   "company": {},

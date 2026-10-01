@@ -1,9 +1,22 @@
 {
-  "update_time": "2026-09-01 09:15:06",
+  "update_time": "2026-10-01 10:49:00",
   "school_id": "1885",
   "school_name": "福建体育职业技术学院",
-  "jobrateyear": "",
-  "jobrate": {},
+  "jobrateyear": "2024",
+  "jobrate": {
+    "job": {
+      "1": "94.70"
+    },
+    "postgraduate": {
+      "1": "0.00"
+    },
+    "abroad": {
+      "1": "0.00"
+    },
+    "content": {
+      "1": "<p>学院 2024 届毕业生共 1018 人，落实去向人数为964人，学校总体毕业去向落实率为 94.70%。学院2024 届毕业生分布在 11 个专业（3 个专业方向）。其中，社会体育、运动数据分析等 2 个专业的毕业去向落实率达到100%，如表1-3所示。</p><p><img src=\"https://static-data.gaokao.cn//upload/image/202608/core_1786677718_1799_thumb.png\" title=\"core_1786677718_1799_thumb.png\" alt=\"core_1786677718_1799.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202608/core_1786677730_4940_thumb.png\" title=\"core_1786677730_4940_thumb.png\" alt=\"core_1786677730_4940.png\"></p>"
+    }
+  },
   "province": [],
   "attr": {},
   "company": {},

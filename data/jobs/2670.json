@@ -1,9 +1,22 @@
 {
-  "update_time": "2026-09-01 09:22:40",
+  "update_time": "2026-10-01 10:56:31",
   "school_id": "2670",
   "school_name": "长垣烹饪职业技术学院",
-  "jobrateyear": "",
-  "jobrate": {},
+  "jobrateyear": "2025",
+  "jobrate": {
+    "job": {
+      "1": "98.02"
+    },
+    "postgraduate": {
+      "1": "0.00"
+    },
+    "abroad": {
+      "1": "0.00"
+    },
+    "content": {
+      "1": ""
+    }
+  },
   "province": [],
   "attr": {},
   "company": {},

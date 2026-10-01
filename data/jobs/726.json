@@ -1,20 +1,20 @@
 {
-  "update_time": "2026-09-01 09:05:02",
+  "update_time": "2026-10-01 10:39:11",
   "school_id": "726",
   "school_name": "河北旅游职业学院",
-  "jobrateyear": "2022",
+  "jobrateyear": "2025",
   "jobrate": {
     "job": {
-      "1": "92.07"
+      "1": "93.14"
     },
     "postgraduate": {
-      "1": "5.53"
+      "1": "7.29"
     },
     "abroad": {
-      "1": "0.00"
+      "1": "0.08"
     },
     "content": {
-      "1": ""
+      "1": "<p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788506064_7676_thumb.png\" title=\"core_1788506064_7676_thumb.png\" alt=\"core_1788506064_7676.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788506072_3523_thumb.png\" title=\"core_1788506072_3523_thumb.png\" alt=\"core_1788506072_3523.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788506124_1642_thumb.png\" title=\"core_1788506124_1642_thumb.png\" alt=\"core_1788506124_1642.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788506156_3637_thumb.png\" title=\"core_1788506156_3637_thumb.png\" alt=\"core_1788506156_3637.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788506165_5250_thumb.png\" title=\"core_1788506165_5250_thumb.png\" alt=\"core_1788506165_5250.png\"></p>"
     }
   },
   "province": [

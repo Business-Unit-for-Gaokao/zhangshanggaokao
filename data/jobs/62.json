@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-09-01 08:58:22",
+  "update_time": "2026-10-01 10:32:28",
   "school_id": "62",
   "school_name": "郑州大学",
   "jobrateyear": "2022",
@@ -55,18 +55,6 @@
       "province_name": "宁夏回族自治区"
     },
     {
-      "id": "24061",
-      "school_id": "62",
-      "province": "内蒙古自治区",
-      "rate": "0.39",
-      "num": "0",
-      "sort": "39",
-      "update_id": "2094",
-      "update_time": "2024-12-30 10:39:23",
-      "year": "2022",
-      "province_name": "内蒙古自治区"
-    },
-    {
       "id": "24059",
       "school_id": "62",
       "province": "甘肃省",
@@ -77,6 +65,18 @@
       "update_time": "2024-12-30 10:39:23",
       "year": "2022",
       "province_name": "甘肃省"
+    },
+    {
+      "id": "24061",
+      "school_id": "62",
+      "province": "内蒙古自治区",
+      "rate": "0.39",
+      "num": "0",
+      "sort": "39",
+      "update_id": "2094",
+      "update_time": "2024-12-30 10:39:23",
+      "year": "2022",
+      "province_name": "内蒙古自治区"
     },
     {
       "id": "24055",
@@ -259,18 +259,6 @@
       "province_name": "安徽省"
     },
     {
-      "id": "24049",
-      "school_id": "62",
-      "province": "广西壮族自治区",
-      "rate": "1.55",
-      "num": "0",
-      "sort": "155",
-      "update_id": "2094",
-      "update_time": "2024-12-30 10:39:23",
-      "year": "2022",
-      "province_name": "广西壮族自治区"
-    },
-    {
       "id": "24041",
       "school_id": "62",
       "province": "河北省",
@@ -281,6 +269,18 @@
       "update_time": "2024-12-30 10:39:23",
       "year": "2022",
       "province_name": "河北省"
+    },
+    {
+      "id": "24049",
+      "school_id": "62",
+      "province": "广西壮族自治区",
+      "rate": "1.55",
+      "num": "0",
+      "sort": "155",
+      "update_id": "2094",
+      "update_time": "2024-12-30 10:39:23",
+      "year": "2022",
+      "province_name": "广西壮族自治区"
     },
     {
       "id": "24046",

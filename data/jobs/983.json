@@ -1,9 +1,22 @@
 {
-  "update_time": "2026-09-01 09:07:22",
+  "update_time": "2026-10-01 10:41:34",
   "school_id": "983",
   "school_name": "广东邮电职业技术学院",
-  "jobrateyear": "",
-  "jobrate": {},
+  "jobrateyear": "2025",
+  "jobrate": {
+    "job": {
+      "1": "98.71"
+    },
+    "postgraduate": {
+      "1": "0.00"
+    },
+    "abroad": {
+      "1": "0.00"
+    },
+    "content": {
+      "1": "<p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1789010368_4091_thumb.jpg\" xss=removed title=\"core_1789010368_4091_thumb.jpg\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1789010368_4793_thumb.jpg\" xss=removed title=\"core_1789010368_4793_thumb.jpg\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1789010369_4297_thumb.jpg\" xss=removed title=\"core_1789010369_4297_thumb.jpg\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1789010369_6035_thumb.jpg\" xss=removed title=\"core_1789010369_6035_thumb.jpg\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1789010369_5785_thumb.jpg\" xss=removed title=\"core_1789010369_5785_thumb.jpg\"></p><p><br></p>"
+    }
+  },
   "province": [],
   "attr": {},
   "company": {},

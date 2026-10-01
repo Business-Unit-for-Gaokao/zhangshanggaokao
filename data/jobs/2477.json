@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-09-01 09:21:09",
+  "update_time": "2026-10-01 10:54:56",
   "school_id": "2477",
   "school_name": "湖南工程学院应用技术学院",
   "jobrateyear": "2024",
@@ -43,18 +43,6 @@
       "province_name": "重庆市"
     },
     {
-      "id": "19609",
-      "school_id": "2477",
-      "province": "海南省",
-      "rate": "0.54",
-      "num": "0",
-      "sort": "54",
-      "update_id": "2004",
-      "update_time": "2024-06-18 14:05:08",
-      "year": "2022",
-      "province_name": "海南省"
-    },
-    {
       "id": "19608",
       "school_id": "2477",
       "province": "江苏省",
@@ -67,16 +55,16 @@
       "province_name": "江苏省"
     },
     {
-      "id": "19607",
+      "id": "19609",
       "school_id": "2477",
-      "province": "云南省",
-      "rate": "0.65",
+      "province": "海南省",
+      "rate": "0.54",
       "num": "0",
-      "sort": "65",
+      "sort": "54",
       "update_id": "2004",
       "update_time": "2024-06-18 14:05:08",
       "year": "2022",
-      "province_name": "云南省"
+      "province_name": "海南省"
     },
     {
       "id": "19606",
@@ -89,6 +77,18 @@
       "update_time": "2024-06-18 14:05:08",
       "year": "2022",
       "province_name": "浙江省"
+    },
+    {
+      "id": "19607",
+      "school_id": "2477",
+      "province": "云南省",
+      "rate": "0.65",
+      "num": "0",
+      "sort": "65",
+      "update_id": "2004",
+      "update_time": "2024-06-18 14:05:08",
+      "year": "2022",
+      "province_name": "云南省"
     },
     {
       "id": "19605",

@@ -1,20 +1,20 @@
 {
-  "update_time": "2026-09-01 08:58:38",
+  "update_time": "2026-10-01 10:32:44",
   "school_id": "88",
   "school_name": "中国民航大学",
-  "jobrateyear": "2023",
+  "jobrateyear": "2024",
   "jobrate": {
     "job": {
-      "1": "91.44"
+      "1": "82.32"
     },
     "postgraduate": {
-      "1": "28.91"
+      "1": "27.09"
     },
     "abroad": {
-      "1": "5.71"
+      "1": "2.37"
     },
     "content": {
-      "1": ""
+      "1": "<p><img src=\"https://static-data.gaokao.cn//upload/image/202608/core_1786610394_3663_thumb.png\" title=\"core_1786610394_3663_thumb.png\" alt=\"core_1786610394_3663.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202608/core_1786610415_9895_thumb.png\" title=\"core_1786610415_9895_thumb.png\" alt=\"core_1786610415_9895.png\"></p>"
     }
   },
   "province": [
@@ -175,18 +175,6 @@
       "province_name": "贵州省"
     },
     {
-      "id": "17280",
-      "school_id": "88",
-      "province": "黑龙江",
-      "rate": "0.89",
-      "num": "45",
-      "sort": "45",
-      "update_id": "1639",
-      "update_time": "2024-06-10 10:20:18",
-      "year": "2023",
-      "province_name": "黑龙江"
-    },
-    {
       "id": "17267",
       "school_id": "88",
       "province": "河南省",
@@ -197,6 +185,18 @@
       "update_time": "2024-06-10 10:20:18",
       "year": "2023",
       "province_name": "河南省"
+    },
+    {
+      "id": "17280",
+      "school_id": "88",
+      "province": "黑龙江",
+      "rate": "0.89",
+      "num": "45",
+      "sort": "45",
+      "update_id": "1639",
+      "update_time": "2024-06-10 10:20:18",
+      "year": "2023",
+      "province_name": "黑龙江"
     },
     {
       "id": "17255",
@@ -452,8 +452,8 @@
     "厦门航空有限公司": "63",
     "四川航空股份有限公司": "58",
     "浙江长龙航空有限公司": "45",
-    "元翔国际航空港股份有限公司": "42",
     "中国民用航空华东地区空中交通管理局": "42",
+    "元翔国际航空港股份有限公司": "42",
     "广州飞机维修工程有限公司": "41",
     "中国民用航空华北地区空中交通管理局": "35",
     "新疆机场(集团)有限责任公司": "32",

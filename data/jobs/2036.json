@@ -1,20 +1,20 @@
 {
-  "update_time": "2026-09-01 09:16:41",
+  "update_time": "2026-10-01 10:50:36",
   "school_id": "2036",
   "school_name": "湖南安全技术职业学院",
-  "jobrateyear": "2022",
+  "jobrateyear": "2025",
   "jobrate": {
     "job": {
-      "1": "86.03"
+      "1": "87.16"
     },
     "postgraduate": {
-      "1": "7.28"
+      "1": "0.00"
     },
     "abroad": {
       "1": "0.00"
     },
     "content": {
-      "1": ""
+      "1": "<p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788422991_9286_thumb.png\" title=\"core_1788422991_9286_thumb.png\" alt=\"core_1788422991_9286.png\"></p>"
     }
   },
   "province": [

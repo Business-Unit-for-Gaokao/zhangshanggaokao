@@ -1,20 +1,20 @@
 {
-  "update_time": "2026-09-01 09:19:38",
+  "update_time": "2026-10-01 10:53:25",
   "school_id": "2326",
   "school_name": "晋中信息学院",
-  "jobrateyear": "2020",
+  "jobrateyear": "2023",
   "jobrate": {
     "job": {
-      "1": "91.30"
+      "1": "96.29"
     },
     "postgraduate": {
-      "1": "8.51"
+      "1": "0.00"
     },
     "abroad": {
-      "1": "0.61"
+      "1": "0.00"
     },
     "content": {
-      "1": ""
+      "1": "<p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788775583_9052_thumb.png\" title=\"core_1788775583_9052_thumb.png\" alt=\"core_1788775583_9052.png\"><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788775602_3430_thumb.png\" title=\"core_1788775602_3430_thumb.png\" alt=\"core_1788775602_3430.png\"></p>"
     }
   },
   "province": [
@@ -91,6 +91,30 @@
       "province_name": "江西省"
     },
     {
+      "id": "26839",
+      "school_id": "2326",
+      "province": "湖北省",
+      "rate": "0.27",
+      "num": "0",
+      "sort": "27",
+      "update_id": "1211",
+      "update_time": "2025-01-10 16:46:34",
+      "year": "2020",
+      "province_name": "湖北省"
+    },
+    {
+      "id": "26838",
+      "school_id": "2326",
+      "province": "西藏自治区",
+      "rate": "0.27",
+      "num": "0",
+      "sort": "27",
+      "update_id": "1211",
+      "update_time": "2025-01-10 16:46:34",
+      "year": "2020",
+      "province_name": "西藏自治区"
+    },
+    {
       "id": "26837",
       "school_id": "2326",
       "province": "海南省",
@@ -113,30 +137,6 @@
       "update_time": "2025-01-10 16:46:34",
       "year": "2020",
       "province_name": "重庆市"
-    },
-    {
-      "id": "26838",
-      "school_id": "2326",
-      "province": "西藏自治区",
-      "rate": "0.27",
-      "num": "0",
-      "sort": "27",
-      "update_id": "1211",
-      "update_time": "2025-01-10 16:46:34",
-      "year": "2020",
-      "province_name": "西藏自治区"
-    },
-    {
-      "id": "26839",
-      "school_id": "2326",
-      "province": "湖北省",
-      "rate": "0.27",
-      "num": "0",
-      "sort": "27",
-      "update_id": "1211",
-      "update_time": "2025-01-10 16:46:34",
-      "year": "2020",
-      "province_name": "湖北省"
     },
     {
       "id": "26835",
@@ -409,8 +409,8 @@
     "其他事业单位": "4.74",
     "机关": "3.74",
     "中初教育单位": "1.75",
-    "医疗卫生单位": "0.64",
     "三资企业": "0.64",
+    "医疗卫生单位": "0.64",
     "科研设计单位": "0.53",
     "高等教育单位": "0.32",
     "城镇社区": "0.29",

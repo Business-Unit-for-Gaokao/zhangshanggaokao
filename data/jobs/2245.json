@@ -1,9 +1,22 @@
 {
-  "update_time": "2026-09-01 09:18:50",
+  "update_time": "2026-10-01 10:52:38",
   "school_id": "2245",
   "school_name": "商洛职业技术学院",
-  "jobrateyear": "",
-  "jobrate": {},
+  "jobrateyear": "2025",
+  "jobrate": {
+    "job": {
+      "1": "90.01"
+    },
+    "postgraduate": {
+      "1": "29.07"
+    },
+    "abroad": {
+      "1": "0.04"
+    },
+    "content": {
+      "1": "<p><img src=\"https://static-data.gaokao.cn//upload/image/202608/core_1787024544_6767_thumb.jpg\" xss=removed title=\"core_1787024544_6767_thumb.jpg\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202608/core_1787024544_7172_thumb.jpg\" xss=removed title=\"core_1787024544_7172_thumb.jpg\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202608/core_1787024544_9567_thumb.jpg\" xss=removed title=\"core_1787024544_9567_thumb.jpg\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202608/core_1787024545_1965_thumb.jpg\" xss=removed title=\"core_1787024545_1965_thumb.jpg\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202608/core_1787024545_9451_thumb.jpg\" xss=removed title=\"core_1787024545_9451_thumb.jpg\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202608/core_1787024545_3303_thumb.jpg\" xss=removed title=\"core_1787024545_3303_thumb.jpg\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202608/core_1787024546_2863_thumb.jpg\" xss=removed title=\"core_1787024546_2863_thumb.jpg\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202608/core_1787024546_5216_thumb.jpg\" xss=removed title=\"core_1787024546_5216_thumb.jpg\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202608/core_1787024546_7301_thumb.jpg\" xss=removed title=\"core_1787024546_7301_thumb.jpg\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202608/core_1787024546_2970_thumb.jpg\" xss=removed title=\"core_1787024546_2970_thumb.jpg\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202608/core_1787024547_8123_thumb.jpg\" xss=removed title=\"core_1787024547_8123_thumb.jpg\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202608/core_1787024547_7404_thumb.jpg\" xss=removed title=\"core_1787024547_7404_thumb.jpg\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202608/core_1787024547_7927_thumb.jpg\" xss=removed title=\"core_1787024547_7927_thumb.jpg\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202608/core_1787024548_3790_thumb.jpg\" xss=removed title=\"core_1787024548_3790_thumb.jpg\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202608/core_1787024548_7254_thumb.jpg\" xss=removed title=\"core_1787024548_7254_thumb.jpg\"></p><p><br></p>"
+    }
+  },
   "province": [],
   "attr": {},
   "company": {},

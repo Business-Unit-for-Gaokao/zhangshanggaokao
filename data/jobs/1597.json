@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-09-01 09:12:09",
+  "update_time": "2026-10-01 10:46:11",
   "school_id": "1597",
   "school_name": "无锡南洋职业技术学院",
   "jobrateyear": "2024",
@@ -151,18 +151,6 @@
       "province_name": "天津市"
     },
     {
-      "id": "32592",
-      "school_id": "1597",
-      "province": "海南省",
-      "rate": "0.25",
-      "num": "6",
-      "sort": "6",
-      "update_id": "2096",
-      "update_time": "2025-12-01 18:02:00",
-      "year": "2024",
-      "province_name": "海南省"
-    },
-    {
       "id": "32588",
       "school_id": "1597",
       "province": "江西省",
@@ -173,6 +161,18 @@
       "update_time": "2025-12-01 18:02:00",
       "year": "2024",
       "province_name": "江西省"
+    },
+    {
+      "id": "32592",
+      "school_id": "1597",
+      "province": "海南省",
+      "rate": "0.25",
+      "num": "6",
+      "sort": "6",
+      "update_id": "2096",
+      "update_time": "2025-12-01 18:02:00",
+      "year": "2024",
+      "province_name": "海南省"
     },
     {
       "id": "32598",

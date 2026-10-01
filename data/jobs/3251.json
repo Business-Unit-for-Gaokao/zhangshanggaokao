@@ -1,9 +1,22 @@
 {
-  "update_time": "2026-09-01 09:25:31",
+  "update_time": "2026-10-01 10:59:27",
   "school_id": "3251",
   "school_name": "深圳北理莫斯科大学",
-  "jobrateyear": "",
-  "jobrate": {},
+  "jobrateyear": "2024",
+  "jobrate": {
+    "job": {
+      "1": "95.11"
+    },
+    "postgraduate": {
+      "1": "45.06"
+    },
+    "abroad": {
+      "1": "30.83"
+    },
+    "content": {
+      "1": "<p><img src=\"https://static-data.gaokao.cn//upload/image/202608/core_1786938039_3268_thumb.png\" title=\"core_1786938039_3268_thumb.png\" alt=\"core_1786938039_3268.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202608/core_1786938060_6009_thumb.png\" title=\"core_1786938060_6009_thumb.png\" alt=\"core_1786938060_6009.png\"></p>"
+    }
+  },
   "province": [],
   "attr": {},
   "company": {},

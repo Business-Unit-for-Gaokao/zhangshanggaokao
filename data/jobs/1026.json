@@ -1,20 +1,20 @@
 {
-  "update_time": "2026-09-01 09:07:46",
+  "update_time": "2026-10-01 10:41:58",
   "school_id": "1026",
   "school_name": "湖北理工学院",
-  "jobrateyear": "2022",
+  "jobrateyear": "2024",
   "jobrate": {
     "job": {
-      "1": "91.27"
+      "1": "85.28"
     },
     "postgraduate": {
-      "1": "9.04"
+      "1": "9.99"
     },
     "abroad": {
-      "1": "0.63"
+      "1": "0.77"
     },
     "content": {
-      "1": ""
+      "1": "<p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788774996_6909_thumb.png\" title=\"core_1788774996_6909_thumb.png\" alt=\"core_1788774996_6909.png\"></p>"
     }
   },
   "province": [
@@ -43,18 +43,6 @@
       "province_name": "吉林省"
     },
     {
-      "id": "21042",
-      "school_id": "1026",
-      "province": "内蒙古自治区",
-      "rate": "0.22",
-      "num": "9",
-      "sort": "9",
-      "update_id": "2094",
-      "update_time": "2024-09-13 16:16:41",
-      "year": "2022",
-      "province_name": "内蒙古自治区"
-    },
-    {
       "id": "21038",
       "school_id": "1026",
       "province": "青海省",
@@ -65,6 +53,18 @@
       "update_time": "2024-09-13 16:16:41",
       "year": "2022",
       "province_name": "青海省"
+    },
+    {
+      "id": "21042",
+      "school_id": "1026",
+      "province": "内蒙古自治区",
+      "rate": "0.22",
+      "num": "9",
+      "sort": "9",
+      "update_id": "2094",
+      "update_time": "2024-09-13 16:16:41",
+      "year": "2022",
+      "province_name": "内蒙古自治区"
     },
     {
       "id": "21041",

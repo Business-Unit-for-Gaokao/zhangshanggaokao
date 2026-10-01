@@ -1,20 +1,20 @@
 {
-  "update_time": "2026-09-01 08:58:30",
+  "update_time": "2026-10-01 10:32:37",
   "school_id": "76",
   "school_name": "上海大学",
-  "jobrateyear": "2022",
+  "jobrateyear": "2024",
   "jobrate": {
     "job": {
-      "1": "94.25"
+      "1": "90.02"
     },
     "postgraduate": {
-      "1": "15.10"
+      "1": "30.35"
     },
     "abroad": {
-      "1": "7.90"
+      "1": "20.81"
     },
     "content": {
-      "1": ""
+      "1": "<p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788429142_5828_thumb.png\" title=\"core_1788429142_5828_thumb.png\" alt=\"core_1788429142_5828.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788429302_6717_thumb.png\" title=\"core_1788429302_6717_thumb.png\" alt=\"core_1788429302_6717.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788429320_9546_thumb.png\" title=\"core_1788429320_9546_thumb.png\" alt=\"core_1788429320_9546.png\"></p>"
     }
   },
   "province": [

@@ -1,20 +1,20 @@
 {
-  "update_time": "2026-09-01 09:26:08",
+  "update_time": "2026-10-01 11:00:04",
   "school_id": "3318",
   "school_name": "新疆生产建设兵团兴新职业技术学院",
-  "jobrateyear": "2023",
+  "jobrateyear": "2025",
   "jobrate": {
     "job": {
-      "1": "98.38"
+      "1": "98.27"
     },
     "postgraduate": {
-      "1": "4.71"
+      "1": "0.00"
     },
     "abroad": {
       "1": "0.00"
     },
     "content": {
-      "1": ""
+      "1": "<p><img src=\"https://static-data.gaokao.cn//upload/image/202608/core_1786687100_7737_thumb.png\" title=\"core_1786687100_7737_thumb.png\" alt=\"core_1786687100_7737.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202608/core_1786687120_3290_thumb.png\" title=\"core_1786687120_3290_thumb.png\" alt=\"core_1786687120_3290.png\"></p><p> <img src=\"https://static-data.gaokao.cn//upload/image/202608/core_1786687134_3906_thumb.png\" title=\"core_1786687134_3906_thumb.png\" alt=\"core_1786687134_3906.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202608/core_1786687147_9858_thumb.png\" title=\"core_1786687147_9858_thumb.png\" alt=\"core_1786687147_9858.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202608/core_1786687156_3553_thumb.png\" title=\"core_1786687156_3553_thumb.png\" alt=\"core_1786687156_3553.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202608/core_1786687166_8735_thumb.png\" title=\"core_1786687166_8735_thumb.png\" alt=\"core_1786687166_8735.png\"></p>"
     }
   },
   "province": [

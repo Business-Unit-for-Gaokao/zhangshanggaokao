@@ -1,9 +1,22 @@
 {
-  "update_time": "2026-09-01 09:10:48",
+  "update_time": "2026-10-01 10:44:54",
   "school_id": "1413",
   "school_name": "武汉工程职业技术学院",
-  "jobrateyear": "",
-  "jobrate": {},
+  "jobrateyear": "2024",
+  "jobrate": {
+    "job": {
+      "1": "94.32"
+    },
+    "postgraduate": {
+      "1": "0.00"
+    },
+    "abroad": {
+      "1": "0.00"
+    },
+    "content": {
+      "1": "<p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1789702433_1664_thumb.jpg\" xss=removed title=\"core_1789702433_1664_thumb.jpg\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1789702433_8482_thumb.jpg\" xss=removed title=\"core_1789702433_8482_thumb.jpg\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1789702433_8985_thumb.jpg\" xss=removed title=\"core_1789702433_8985_thumb.jpg\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1789702433_3805_thumb.jpg\" xss=removed title=\"core_1789702433_3805_thumb.jpg\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1789702433_3787_thumb.jpg\" xss=removed title=\"core_1789702433_3787_thumb.jpg\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1789702434_7242_thumb.jpg\" xss=removed title=\"core_1789702434_7242_thumb.jpg\"></p><p><br></p>"
+    }
+  },
   "province": [],
   "attr": {},
   "company": {},

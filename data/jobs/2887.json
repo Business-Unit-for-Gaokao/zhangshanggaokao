@@ -1,20 +1,20 @@
 {
-  "update_time": "2026-09-01 09:23:26",
+  "update_time": "2026-10-01 10:57:19",
   "school_id": "2887",
   "school_name": "江西服装学院",
-  "jobrateyear": "2020",
+  "jobrateyear": "2024",
   "jobrate": {
     "job": {
-      "1": "80.54"
+      "1": "85.36"
     },
     "postgraduate": {
-      "1": "17.19"
+      "1": "0.00"
     },
     "abroad": {
-      "1": "0.14"
+      "1": "0.00"
     },
     "content": {
-      "1": ""
+      "1": "<p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788774334_6195_thumb.png\" title=\"core_1788774334_6195_thumb.png\" alt=\"core_1788774334_6195.png\"></p>"
     }
   },
   "province": [

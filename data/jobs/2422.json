@@ -1,9 +1,22 @@
 {
-  "update_time": "2026-09-01 09:20:34",
+  "update_time": "2026-10-01 10:54:22",
   "school_id": "2422",
   "school_name": "泉州轻工职业学院",
-  "jobrateyear": "",
-  "jobrate": {},
+  "jobrateyear": "2024",
+  "jobrate": {
+    "job": {
+      "1": "98.59"
+    },
+    "postgraduate": {
+      "1": "0.00"
+    },
+    "abroad": {
+      "1": "0.00"
+    },
+    "content": {
+      "1": "<p><img src=\"https://static-data.gaokao.cn//upload/image/202608/core_1786677295_2666_thumb.png\" title=\"core_1786677295_2666_thumb.png\" alt=\"core_1786677295_2666.png\"></p>"
+    }
+  },
   "province": [],
   "attr": {},
   "company": {},

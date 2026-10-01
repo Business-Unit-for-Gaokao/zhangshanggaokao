@@ -1,9 +1,22 @@
 {
-  "update_time": "2026-09-01 09:10:52",
+  "update_time": "2026-10-01 10:44:58",
   "school_id": "1424",
   "school_name": "武汉商贸职业学院",
-  "jobrateyear": "",
-  "jobrate": {},
+  "jobrateyear": "2025",
+  "jobrate": {
+    "job": {
+      "1": "88.58"
+    },
+    "postgraduate": {
+      "1": "14.02"
+    },
+    "abroad": {
+      "1": "0.00"
+    },
+    "content": {
+      "1": "<p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788228810_6937_thumb.png\" title=\"core_1788228810_6937_thumb.png\" alt=\"core_1788228810_6937.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788228830_4236_thumb.png\" title=\"core_1788228830_4236_thumb.png\" alt=\"core_1788228830_4236.png\"></p>"
+    }
+  },
   "province": [],
   "attr": {},
   "company": {},

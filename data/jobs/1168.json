@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-09-01 09:08:54",
+  "update_time": "2026-10-01 10:43:06",
   "school_id": "1168",
   "school_name": "青岛酒店管理职业技术学院",
   "jobrateyear": "2019",
@@ -19,16 +19,16 @@
   },
   "province": [
     {
-      "id": "10917",
+      "id": "10919",
       "school_id": "1168",
-      "province": "山东省",
-      "rate": "86.07",
-      "num": "3793",
+      "province": "外省",
+      "rate": "11.48",
+      "num": "506",
       "sort": "0",
       "update_id": "825",
       "update_time": "2021-06-03 18:00:48",
       "year": "2019",
-      "province_name": "山东省"
+      "province_name": "外省"
     },
     {
       "id": "10918",
@@ -43,16 +43,16 @@
       "province_name": "山东（青岛）"
     },
     {
-      "id": "10919",
+      "id": "10917",
       "school_id": "1168",
-      "province": "外省",
-      "rate": "11.48",
-      "num": "506",
+      "province": "山东省",
+      "rate": "86.07",
+      "num": "3793",
       "sort": "0",
       "update_id": "825",
       "update_time": "2021-06-03 18:00:48",
       "year": "2019",
-      "province_name": "外省"
+      "province_name": "山东省"
     }
   ],
   "attr": {},

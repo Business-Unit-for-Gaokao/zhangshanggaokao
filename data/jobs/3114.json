@@ -1,9 +1,22 @@
 {
-  "update_time": "2026-09-01 09:24:44",
+  "update_time": "2026-10-01 10:58:41",
   "school_id": "3114",
   "school_name": "河南工业和信息化职业学院",
-  "jobrateyear": "",
-  "jobrate": {},
+  "jobrateyear": "2024",
+  "jobrate": {
+    "job": {
+      "1": "95.87"
+    },
+    "postgraduate": {
+      "1": "12.07"
+    },
+    "abroad": {
+      "1": "0.00"
+    },
+    "content": {
+      "1": "<p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788417635_6176_thumb.png\" title=\"core_1788417635_6176_thumb.png\" alt=\"core_1788417635_6176.png\"></p>"
+    }
+  },
   "province": [],
   "attr": {},
   "company": {},

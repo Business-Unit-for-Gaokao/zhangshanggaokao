@@ -1,9 +1,22 @@
 {
-  "update_time": "2026-09-01 09:10:26",
+  "update_time": "2026-10-01 10:44:31",
   "school_id": "1359",
   "school_name": "苏州工业职业技术学院",
-  "jobrateyear": "",
-  "jobrate": {},
+  "jobrateyear": "2025",
+  "jobrate": {
+    "job": {
+      "1": "96.34"
+    },
+    "postgraduate": {
+      "1": "14.50"
+    },
+    "abroad": {
+      "1": "0.00"
+    },
+    "content": {
+      "1": "<p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788505034_1352_thumb.png\" title=\"core_1788505034_1352_thumb.png\" alt=\"core_1788505034_1352.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788505046_7868_thumb.png\" title=\"core_1788505046_7868_thumb.png\" alt=\"core_1788505046_7868.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788505057_8886_thumb.png\" title=\"core_1788505057_8886_thumb.png\" alt=\"core_1788505057_8886.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788505067_1916_thumb.png\" title=\"core_1788505067_1916_thumb.png\" alt=\"core_1788505067_1916.png\"><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788505086_8246_thumb.png\" title=\"core_1788505086_8246_thumb.png\" alt=\"core_1788505086_8246.png\"><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788505095_3557_thumb.png\" title=\"core_1788505095_3557_thumb.png\" alt=\"core_1788505095_3557.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788505106_9387_thumb.png\" title=\"core_1788505106_9387_thumb.png\" alt=\"core_1788505106_9387.png\"></p><p><br></p>"
+    }
+  },
   "province": [],
   "attr": {},
   "company": {},

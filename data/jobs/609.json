@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-09-01 09:04:00",
+  "update_time": "2026-10-01 10:38:08",
   "school_id": "609",
   "school_name": "邢台学院",
   "jobrateyear": "2024",
@@ -31,18 +31,6 @@
       "province_name": "长三角地区"
     },
     {
-      "id": "22308",
-      "school_id": "609",
-      "province": "珠三角地区",
-      "rate": "1.14",
-      "num": "0",
-      "sort": "114",
-      "update_id": "2096",
-      "update_time": "2024-09-23 15:58:57",
-      "year": "2021",
-      "province_name": "珠三角地区"
-    },
-    {
       "id": "22309",
       "school_id": "609",
       "province": "粤港澳大湾区",
@@ -53,6 +41,18 @@
       "update_time": "2024-09-23 15:58:57",
       "year": "2021",
       "province_name": "粤港澳大湾区"
+    },
+    {
+      "id": "22308",
+      "school_id": "609",
+      "province": "珠三角地区",
+      "rate": "1.14",
+      "num": "0",
+      "sort": "114",
+      "update_id": "2096",
+      "update_time": "2024-09-23 15:58:57",
+      "year": "2021",
+      "province_name": "珠三角地区"
     },
     {
       "id": "22307",

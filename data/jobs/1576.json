@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-09-01 09:11:59",
+  "update_time": "2026-10-01 10:46:01",
   "school_id": "1576",
   "school_name": "河北医科大学临床学院",
   "jobrateyear": "2024",
@@ -43,30 +43,6 @@
       "province_name": "其他"
     },
     {
-      "id": "25828",
-      "school_id": "1576",
-      "province": "上海市",
-      "rate": "0.51",
-      "num": "4",
-      "sort": "4",
-      "update_id": "1988",
-      "update_time": "2025-01-09 11:20:25",
-      "year": "2021",
-      "province_name": "上海市"
-    },
-    {
-      "id": "25848",
-      "school_id": "1576",
-      "province": "宁夏回族自治区",
-      "rate": "0.51",
-      "num": "4",
-      "sort": "4",
-      "update_id": "1988",
-      "update_time": "2025-01-09 11:20:25",
-      "year": "2021",
-      "province_name": "宁夏回族自治区"
-    },
-    {
       "id": "25829",
       "school_id": "1576",
       "province": "江苏省",
@@ -91,16 +67,28 @@
       "province_name": "广西壮族自治区"
     },
     {
-      "id": "25823",
+      "id": "25828",
       "school_id": "1576",
-      "province": "山西省",
-      "rate": "0.64",
-      "num": "5",
-      "sort": "5",
+      "province": "上海市",
+      "rate": "0.51",
+      "num": "4",
+      "sort": "4",
       "update_id": "1988",
       "update_time": "2025-01-09 11:20:25",
       "year": "2021",
-      "province_name": "山西省"
+      "province_name": "上海市"
+    },
+    {
+      "id": "25848",
+      "school_id": "1576",
+      "province": "宁夏回族自治区",
+      "rate": "0.51",
+      "num": "4",
+      "sort": "4",
+      "update_id": "1988",
+      "update_time": "2025-01-09 11:20:25",
+      "year": "2021",
+      "province_name": "宁夏回族自治区"
     },
     {
       "id": "25833",
@@ -113,6 +101,18 @@
       "update_time": "2025-01-09 11:20:25",
       "year": "2021",
       "province_name": "江西省"
+    },
+    {
+      "id": "25823",
+      "school_id": "1576",
+      "province": "山西省",
+      "rate": "0.64",
+      "num": "5",
+      "sort": "5",
+      "update_id": "1988",
+      "update_time": "2025-01-09 11:20:25",
+      "year": "2021",
+      "province_name": "山西省"
     },
     {
       "id": "25835",
@@ -187,18 +187,6 @@
       "province_name": "贵州省"
     },
     {
-      "id": "25827",
-      "school_id": "1576",
-      "province": "黑龙江省",
-      "rate": "1.54",
-      "num": "12",
-      "sort": "12",
-      "update_id": "1988",
-      "update_time": "2025-01-09 11:20:25",
-      "year": "2021",
-      "province_name": "黑龙江省"
-    },
-    {
       "id": "25837",
       "school_id": "1576",
       "province": "湖南省",
@@ -209,6 +197,18 @@
       "update_time": "2025-01-09 11:20:25",
       "year": "2021",
       "province_name": "湖南省"
+    },
+    {
+      "id": "25827",
+      "school_id": "1576",
+      "province": "黑龙江省",
+      "rate": "1.54",
+      "num": "12",
+      "sort": "12",
+      "update_id": "1988",
+      "update_time": "2025-01-09 11:20:25",
+      "year": "2021",
+      "province_name": "黑龙江省"
     },
     {
       "id": "25834",
@@ -271,18 +271,6 @@
       "province_name": "福建省"
     },
     {
-      "id": "25840",
-      "school_id": "1576",
-      "province": "海南省",
-      "rate": "2.31",
-      "num": "18",
-      "sort": "18",
-      "update_id": "1988",
-      "update_time": "2025-01-09 11:20:25",
-      "year": "2021",
-      "province_name": "海南省"
-    },
-    {
       "id": "25824",
       "school_id": "1576",
       "province": "内蒙古自治区",
@@ -295,16 +283,16 @@
       "province_name": "内蒙古自治区"
     },
     {
-      "id": "25836",
+      "id": "25840",
       "school_id": "1576",
-      "province": "湖北省",
-      "rate": "2.44",
-      "num": "19",
-      "sort": "19",
+      "province": "海南省",
+      "rate": "2.31",
+      "num": "18",
+      "sort": "18",
       "update_id": "1988",
       "update_time": "2025-01-09 11:20:25",
       "year": "2021",
-      "province_name": "湖北省"
+      "province_name": "海南省"
     },
     {
       "id": "25825",
@@ -317,6 +305,18 @@
       "update_time": "2025-01-09 11:20:25",
       "year": "2021",
       "province_name": "辽宁省"
+    },
+    {
+      "id": "25836",
+      "school_id": "1576",
+      "province": "湖北省",
+      "rate": "2.44",
+      "num": "19",
+      "sort": "19",
+      "update_id": "1988",
+      "update_time": "2025-01-09 11:20:25",
+      "year": "2021",
+      "province_name": "湖北省"
     },
     {
       "id": "25830",

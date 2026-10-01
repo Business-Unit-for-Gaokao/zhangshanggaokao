@@ -1,9 +1,22 @@
 {
-  "update_time": "2026-09-01 09:14:56",
+  "update_time": "2026-10-01 10:48:50",
   "school_id": "1868",
   "school_name": "福建林业职业技术学院",
-  "jobrateyear": "",
-  "jobrate": {},
+  "jobrateyear": "2024",
+  "jobrate": {
+    "job": {
+      "1": "97.91"
+    },
+    "postgraduate": {
+      "1": "0.00"
+    },
+    "abroad": {
+      "1": "0.00"
+    },
+    "content": {
+      "1": "<p><img src=\"https://static-data.gaokao.cn//upload/image/202608/core_1787021384_1534_thumb.png\" title=\"core_1787021384_1534_thumb.png\" alt=\"core_1787021384_1534.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202608/core_1787021391_5860_thumb.png\" title=\"core_1787021391_5860_thumb.png\" alt=\"core_1787021391_5860.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202608/core_1787021397_3188_thumb.png\" title=\"core_1787021397_3188_thumb.png\" alt=\"core_1787021397_3188.png\"></p>"
+    }
+  },
   "province": [],
   "attr": {},
   "company": {},

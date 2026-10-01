@@ -1,20 +1,20 @@
 {
-  "update_time": "2026-09-01 09:20:37",
+  "update_time": "2026-10-01 10:54:26",
   "school_id": "2428",
   "school_name": "江西农业大学南昌商学院",
-  "jobrateyear": "2020",
+  "jobrateyear": "2024",
   "jobrate": {
     "job": {
-      "1": "79.79"
+      "1": "80.71"
     },
     "postgraduate": {
-      "1": "6.45"
+      "1": "4.42"
     },
     "abroad": {
-      "1": "0.09"
+      "1": "0.27"
     },
     "content": {
-      "1": ""
+      "1": "<p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788509696_4595_thumb.png\" title=\"core_1788509696_4595_thumb.png\" alt=\"core_1788509696_4595.png\"></p>"
     }
   },
   "province": [

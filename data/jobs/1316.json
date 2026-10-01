@@ -1,20 +1,20 @@
 {
-  "update_time": "2026-09-01 09:10:08",
+  "update_time": "2026-10-01 10:44:14",
   "school_id": "1316",
   "school_name": "武汉纺织大学外经贸学院",
-  "jobrateyear": "2020",
+  "jobrateyear": "2024",
   "jobrate": {
     "job": {
-      "1": "88.82"
+      "1": "88.83"
     },
     "postgraduate": {
-      "1": "0.00"
+      "1": "2.50"
     },
     "abroad": {
-      "1": "0.00"
+      "1": "0.95"
     },
     "content": {
-      "1": ""
+      "1": "<p><img src=\"https://static-data.gaokao.cn//upload/image/202608/core_1787127343_6626_thumb.png\" title=\"core_1787127343_6626_thumb.png\" alt=\"core_1787127343_6626.png\"></p>"
     }
   },
   "province": [

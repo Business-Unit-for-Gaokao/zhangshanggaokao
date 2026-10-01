@@ -1,20 +1,20 @@
 {
-  "update_time": "2026-09-01 08:59:45",
+  "update_time": "2026-10-01 10:33:54",
   "school_id": "199",
   "school_name": "石河子大学",
-  "jobrateyear": "2019",
+  "jobrateyear": "2024",
   "jobrate": {
     "job": {
-      "1": "90.01"
+      "1": "82.01"
     },
     "postgraduate": {
-      "1": "17.80"
+      "1": "0.00"
     },
     "abroad": {
-      "1": "0.18"
+      "1": "1.57"
     },
     "content": {
-      "1": ""
+      "1": "<p><img src=\"https://static-data.gaokao.cn//upload/image/202606/core_1782030933_4398_thumb.jpg\" xss=removed title=\"core_1782030933_4398_thumb.jpg\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202606/core_1782030933_9069_thumb.jpg\" xss=removed title=\"core_1782030933_9069_thumb.jpg\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202606/core_1782030933_8638_thumb.jpg\" xss=removed title=\"core_1782030933_8638_thumb.jpg\"></p><p><br></p>"
     }
   },
   "province": [

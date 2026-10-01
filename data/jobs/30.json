@@ -1,20 +1,20 @@
 {
-  "update_time": "2026-09-01 08:58:02",
+  "update_time": "2026-10-01 10:32:09",
   "school_id": "30",
   "school_name": "北京工业大学",
-  "jobrateyear": "2022",
+  "jobrateyear": "2024",
   "jobrate": {
     "job": {
-      "1": "95.85"
+      "1": "92.26"
     },
     "postgraduate": {
-      "1": "20.44"
+      "1": "0.00"
     },
     "abroad": {
-      "1": "11.64"
+      "1": "0.00"
     },
     "content": {
-      "1": ""
+      "1": "<p><img src=\"https://static-data.gaokao.cn//upload/image/202608/core_1787729097_1727_thumb.png\" title=\"core_1787729097_1727_thumb.png\" alt=\"core_1787729097_1727.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202608/core_1787729113_4031_thumb.png\" title=\"core_1787729113_4031_thumb.png\" alt=\"core_1787729113_4031.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202608/core_1787729126_9054_thumb.png\" title=\"core_1787729126_9054_thumb.png\" alt=\"core_1787729126_9054.png\"></p>"
     }
   },
   "province": [
@@ -96,8 +96,8 @@
   "company": {
     "中国建筑股份有限公司": "29",
     "中国电信集团有限公司": "16",
-    "中国铁道建筑集团有限公司": "13",
     "中国电子科技集团有限公司": "13",
+    "中国铁道建筑集团有限公司": "13",
     "北京银行股份有限公司": "12",
     "中芯国际集成电路制造有限公司": "10",
     "中国航空工业集团有限公司": "9",

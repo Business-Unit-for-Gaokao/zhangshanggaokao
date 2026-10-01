@@ -1,9 +1,22 @@
 {
-  "update_time": "2026-09-01 09:18:19",
+  "update_time": "2026-10-01 10:52:09",
   "school_id": "2195",
   "school_name": "黑龙江交通职业技术学院",
-  "jobrateyear": "",
-  "jobrate": {},
+  "jobrateyear": "2025",
+  "jobrate": {
+    "job": {
+      "1": "84.58"
+    },
+    "postgraduate": {
+      "1": "9.10"
+    },
+    "abroad": {
+      "1": "0.00"
+    },
+    "content": {
+      "1": "<p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788345322_9405_thumb.png\" title=\"core_1788345322_9405_thumb.png\" alt=\"core_1788345322_9405.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788345340_2672_thumb.png\" title=\"core_1788345340_2672_thumb.png\" alt=\"core_1788345340_2672.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788345356_5900_thumb.png\" title=\"core_1788345356_5900_thumb.png\" alt=\"core_1788345356_5900.png\"></p>"
+    }
+  },
   "province": [],
   "attr": {},
   "company": {},

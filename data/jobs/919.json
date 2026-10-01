@@ -1,20 +1,20 @@
 {
-  "update_time": "2026-09-01 09:06:44",
+  "update_time": "2026-10-01 10:40:55",
   "school_id": "919",
   "school_name": "山西中医药大学",
-  "jobrateyear": "2021",
+  "jobrateyear": "2024",
   "jobrate": {
     "job": {
-      "1": "80.45"
+      "1": "80.75"
     },
     "postgraduate": {
-      "1": "23.39"
+      "1": "0.00"
     },
     "abroad": {
-      "1": "0.10"
+      "1": "0.47"
     },
     "content": {
-      "1": ""
+      "1": "<p><img src=\"https://static-data.gaokao.cn//upload/image/202606/core_1782030362_5136_thumb.png\" title=\"core_1782030362_5136_thumb.png\" alt=\"core_1782030362_5136.png\"></p>"
     }
   },
   "province": [

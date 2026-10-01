@@ -1,20 +1,20 @@
 {
-  "update_time": "2026-09-01 09:04:36",
+  "update_time": "2026-10-01 10:38:45",
   "school_id": "680",
   "school_name": "上海立达学院",
-  "jobrateyear": "2023",
+  "jobrateyear": "2024",
   "jobrate": {
     "job": {
-      "1": "93.03"
+      "1": "97.69"
     },
     "postgraduate": {
-      "1": "0.81"
+      "1": "0.00"
     },
     "abroad": {
-      "1": "3.54"
+      "1": "0.00"
     },
     "content": {
-      "1": ""
+      "1": "<p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788505722_5516_thumb.png\" title=\"core_1788505722_5516_thumb.png\" alt=\"core_1788505722_5516.png\"><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788505731_2457_thumb.png\" title=\"core_1788505731_2457_thumb.png\" alt=\"core_1788505731_2457.png\"><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788505802_7932_thumb.png\" title=\"core_1788505802_7932_thumb.png\" alt=\"core_1788505802_7932.png\"><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788505832_6942_thumb.png\" title=\"core_1788505832_6942_thumb.png\" alt=\"core_1788505832_6942.png\"><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788505839_5129_thumb.png\" title=\"core_1788505839_5129_thumb.png\" alt=\"core_1788505839_5129.png\"></p>"
     }
   },
   "province": [

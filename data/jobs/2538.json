@@ -1,9 +1,22 @@
 {
-  "update_time": "2026-09-01 09:21:46",
+  "update_time": "2026-10-01 10:55:36",
   "school_id": "2538",
   "school_name": "扬州职业技术大学",
-  "jobrateyear": "",
-  "jobrate": {},
+  "jobrateyear": "2025",
+  "jobrate": {
+    "job": {
+      "1": "97.16"
+    },
+    "postgraduate": {
+      "1": "19.00"
+    },
+    "abroad": {
+      "1": "0.27"
+    },
+    "content": {
+      "1": "<p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788418371_5387_thumb.png\" title=\"core_1788418371_5387_thumb.png\" alt=\"core_1788418371_5387.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788418398_2051_thumb.png\" title=\"core_1788418398_2051_thumb.png\" alt=\"core_1788418398_2051.png\"></p>"
+    }
+  },
   "province": [],
   "attr": {},
   "company": {},

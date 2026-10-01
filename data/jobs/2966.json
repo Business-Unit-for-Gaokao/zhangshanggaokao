@@ -1,20 +1,20 @@
 {
-  "update_time": "2026-09-01 09:24:01",
+  "update_time": "2026-10-01 10:57:51",
   "school_id": "2966",
   "school_name": "山东财经大学燕山学院",
-  "jobrateyear": "2019",
+  "jobrateyear": "2024",
   "jobrate": {
     "job": {
-      "1": "80.96"
+      "1": "70.70"
     },
     "postgraduate": {
-      "1": "1.40"
+      "1": "5.79"
     },
     "abroad": {
-      "1": "0.00"
+      "1": "1.70"
     },
     "content": {
-      "1": ""
+      "1": "<p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788407986_7869_thumb.png\" title=\"core_1788407986_7869_thumb.png\" alt=\"core_1788407986_7869.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788408002_6988_thumb.png\" title=\"core_1788408002_6988_thumb.png\" alt=\"core_1788408002_6988.png\"></p>"
     }
   },
   "province": [],

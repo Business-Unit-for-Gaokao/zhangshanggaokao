@@ -1,9 +1,22 @@
 {
-  "update_time": "2026-09-01 09:11:28",
+  "update_time": "2026-10-01 10:45:32",
   "school_id": "1502",
   "school_name": "南阳医学高等专科学校",
-  "jobrateyear": "",
-  "jobrate": {},
+  "jobrateyear": "2024",
+  "jobrate": {
+    "job": {
+      "1": "95.32"
+    },
+    "postgraduate": {
+      "1": "15.16"
+    },
+    "abroad": {
+      "1": "0.53"
+    },
+    "content": {
+      "1": "<p><img src=\"https://static-data.gaokao.cn//upload/image/202608/core_1788169865_9983_thumb.png\" title=\"core_1788169865_9983_thumb.png\" alt=\"core_1788169865_9983.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202608/core_1788169880_4105_thumb.png\" title=\"core_1788169880_4105_thumb.png\" alt=\"core_1788169880_4105.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202608/core_1788169893_9171_thumb.png\" title=\"core_1788169893_9171_thumb.png\" alt=\"core_1788169893_9171.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202608/core_1788169909_7459_thumb.png\" title=\"core_1788169909_7459_thumb.png\" alt=\"core_1788169909_7459.png\"></p><p><br></p>"
+    }
+  },
   "province": [],
   "attr": {},
   "company": {},

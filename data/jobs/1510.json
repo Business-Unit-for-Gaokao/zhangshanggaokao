@@ -1,9 +1,22 @@
 {
-  "update_time": "2026-09-01 09:11:30",
+  "update_time": "2026-10-01 10:45:34",
   "school_id": "1510",
   "school_name": "山东轻工职业学院",
-  "jobrateyear": "",
-  "jobrate": {},
+  "jobrateyear": "2025",
+  "jobrate": {
+    "job": {
+      "1": "93.15"
+    },
+    "postgraduate": {
+      "1": "0.00"
+    },
+    "abroad": {
+      "1": "0.00"
+    },
+    "content": {
+      "1": "<p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788511334_4435_thumb.png\" title=\"core_1788511334_4435_thumb.png\" alt=\"core_1788511334_4435.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788511346_2463_thumb.png\" title=\"core_1788511346_2463_thumb.png\" alt=\"core_1788511346_2463.png\"></p>"
+    }
+  },
   "province": [],
   "attr": {},
   "company": {},

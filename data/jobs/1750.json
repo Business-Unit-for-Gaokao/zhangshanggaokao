@@ -1,9 +1,22 @@
 {
-  "update_time": "2026-09-01 09:13:38",
+  "update_time": "2026-10-01 10:47:38",
   "school_id": "1750",
   "school_name": "广西经贸职业技术学院",
-  "jobrateyear": "",
-  "jobrate": {},
+  "jobrateyear": "2025",
+  "jobrate": {
+    "job": {
+      "1": "86.13"
+    },
+    "postgraduate": {
+      "1": "0.00"
+    },
+    "abroad": {
+      "1": "0.00"
+    },
+    "content": {
+      "1": "<p><img src=\"https://static-data.gaokao.cn//upload/image/202608/core_1787036219_9947_thumb.png\" title=\"core_1787036219_9947_thumb.png\" alt=\"core_1787036219_9947.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202608/core_1787036277_8820_thumb.png\" title=\"core_1787036277_8820_thumb.png\" alt=\"core_1787036277_8820.png\"></p>"
+    }
+  },
   "province": [],
   "attr": {},
   "company": {},

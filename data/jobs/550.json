@@ -1,20 +1,20 @@
 {
-  "update_time": "2026-09-01 09:03:25",
+  "update_time": "2026-10-01 10:37:34",
   "school_id": "550",
   "school_name": "泰山学院",
-  "jobrateyear": "2019",
+  "jobrateyear": "2024",
   "jobrate": {
     "job": {
-      "1": "93.55"
+      "1": "89.33"
     },
     "postgraduate": {
-      "1": "14.72"
+      "1": "0.00"
     },
     "abroad": {
-      "1": "0.25"
+      "1": "0.87"
     },
     "content": {
-      "1": ""
+      "1": "<p><img src=\"https://static-data.gaokao.cn//upload/image/202606/core_1782026995_5806_thumb.jpg\" xss=removed title=\"core_1782026995_5806_thumb.jpg\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202606/core_1782026995_9750_thumb.jpg\" xss=removed title=\"core_1782026995_9750_thumb.jpg\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202606/core_1782026995_2245_thumb.jpg\" xss=removed title=\"core_1782026995_2245_thumb.jpg\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202606/core_1782026995_1163_thumb.jpg\" xss=removed title=\"core_1782026995_1163_thumb.jpg\"></p><p><br></p>"
     }
   },
   "province": [

@@ -1,9 +1,22 @@
 {
-  "update_time": "2026-09-01 09:18:00",
+  "update_time": "2026-10-01 10:51:53",
   "school_id": "2168",
   "school_name": "昆明工业职业技术学院",
-  "jobrateyear": "",
-  "jobrate": {},
+  "jobrateyear": "2025",
+  "jobrate": {
+    "job": {
+      "1": "98.09"
+    },
+    "postgraduate": {
+      "1": "0.00"
+    },
+    "abroad": {
+      "1": "0.00"
+    },
+    "content": {
+      "1": "<p xss=removed>2025届毕业生共5542人，毕业去向落实率为98.09%；对口落实率76.31%；本地生源本地就业3637人，本地生源本地落实率65.354%；自主创业30人；专升本比例16.49%。</p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1789352940_7470_thumb.png\" title=\"core_1789352940_7470_thumb.png\" alt=\"core_1789352940_7470.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1789352963_3600_thumb.png\" title=\"core_1789352963_3600_thumb.png\" alt=\"core_1789352963_3600.png\"><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1789352979_6408_thumb.png\" title=\"core_1789352979_6408_thumb.png\" alt=\"core_1789352979_6408.png\"></p><p><br></p>"
+    }
+  },
   "province": [],
   "attr": {},
   "company": {},

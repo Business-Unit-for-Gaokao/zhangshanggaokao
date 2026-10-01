@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-09-01 09:19:06",
+  "update_time": "2026-10-01 10:52:53",
   "school_id": "2274",
   "school_name": "贵阳康养职业大学",
   "jobrateyear": "2022",
@@ -115,18 +115,6 @@
       "province_name": "浙江"
     },
     {
-      "id": "18007",
-      "school_id": "2274",
-      "province": "山东",
-      "rate": "0.30",
-      "num": "7",
-      "sort": "7",
-      "update_id": "2004",
-      "update_time": "2024-06-15 15:47:01",
-      "year": "2022",
-      "province_name": "山东"
-    },
-    {
       "id": "18008",
       "school_id": "2274",
       "province": "江苏",
@@ -137,6 +125,18 @@
       "update_time": "2024-06-15 15:47:01",
       "year": "2022",
       "province_name": "江苏"
+    },
+    {
+      "id": "18007",
+      "school_id": "2274",
+      "province": "山东",
+      "rate": "0.30",
+      "num": "7",
+      "sort": "7",
+      "update_id": "2004",
+      "update_time": "2024-06-15 15:47:01",
+      "year": "2022",
+      "province_name": "山东"
     },
     {
       "id": "18006",

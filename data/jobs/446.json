@@ -1,20 +1,20 @@
 {
-  "update_time": "2026-09-01 09:02:22",
+  "update_time": "2026-10-01 10:36:31",
   "school_id": "446",
   "school_name": "东北石油大学",
-  "jobrateyear": "2019",
+  "jobrateyear": "2025",
   "jobrate": {
     "job": {
-      "1": "89.86"
+      "1": "85.01"
     },
     "postgraduate": {
-      "1": "18.72"
+      "1": "20.99"
     },
     "abroad": {
-      "1": "0.85"
+      "1": "2.19"
     },
     "content": {
-      "1": ""
+      "1": "<p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788425356_1273_thumb.png\" title=\"core_1788425356_1273_thumb.png\" alt=\"core_1788425356_1273.png\"></p>"
     }
   },
   "province": [

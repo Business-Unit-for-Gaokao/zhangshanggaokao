@@ -1,9 +1,22 @@
 {
-  "update_time": "2026-09-01 09:27:44",
+  "update_time": "2026-10-01 11:01:45",
   "school_id": "3505",
   "school_name": "九江理工职业学院",
-  "jobrateyear": "",
-  "jobrate": {},
+  "jobrateyear": "2025",
+  "jobrate": {
+    "job": {
+      "1": "86.70"
+    },
+    "postgraduate": {
+      "1": "5.56"
+    },
+    "abroad": {
+      "1": "0.00"
+    },
+    "content": {
+      "1": "<p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788342673_7545_thumb.png\" title=\"core_1788342673_7545_thumb.png\" alt=\"core_1788342673_7545.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788342686_1682_thumb.png\" title=\"core_1788342686_1682_thumb.png\" alt=\"core_1788342686_1682.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788342698_2650_thumb.png\" title=\"core_1788342698_2650_thumb.png\" alt=\"core_1788342698_2650.png\"></p>"
+    }
+  },
   "province": [],
   "attr": {},
   "company": {},

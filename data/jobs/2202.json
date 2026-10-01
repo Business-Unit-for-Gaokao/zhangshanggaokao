@@ -1,9 +1,22 @@
 {
-  "update_time": "2026-09-01 09:18:23",
+  "update_time": "2026-10-01 10:52:13",
   "school_id": "2202",
   "school_name": "苏州工艺美术职业技术学院",
-  "jobrateyear": "",
-  "jobrate": {},
+  "jobrateyear": "2025",
+  "jobrate": {
+    "job": {
+      "1": "93.33"
+    },
+    "postgraduate": {
+      "1": "32.46"
+    },
+    "abroad": {
+      "1": "0.00"
+    },
+    "content": {
+      "1": "<p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788341854_5910_thumb.png\" title=\"core_1788341854_5910_thumb.png\" alt=\"core_1788341854_5910.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788341862_8759_thumb.png\" title=\"core_1788341862_8759_thumb.png\" alt=\"core_1788341862_8759.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788341876_4858_thumb.png\" title=\"core_1788341876_4858_thumb.png\" alt=\"core_1788341876_4858.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788341889_1652_thumb.png\" title=\"core_1788341889_1652_thumb.png\" alt=\"core_1788341889_1652.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788341903_5775_thumb.png\" title=\"core_1788341903_5775_thumb.png\" alt=\"core_1788341903_5775.png\"></p>"
+    }
+  },
   "province": [],
   "attr": {},
   "company": {},

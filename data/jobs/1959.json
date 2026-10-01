@@ -1,9 +1,22 @@
 {
-  "update_time": "2026-09-01 09:15:52",
+  "update_time": "2026-10-01 10:49:47",
   "school_id": "1959",
   "school_name": "湖北财税职业学院",
-  "jobrateyear": "",
-  "jobrate": {},
+  "jobrateyear": "2025",
+  "jobrate": {
+    "job": {
+      "1": "90.60"
+    },
+    "postgraduate": {
+      "1": "28.65"
+    },
+    "abroad": {
+      "1": "0.11"
+    },
+    "content": {
+      "1": "<p><img src=\"https://static-data.gaokao.cn//upload/image/202608/core_1786694767_2148_thumb.png\" title=\"core_1786694767_2148_thumb.png\" alt=\"core_1786694767_2148.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202608/core_1786694776_3690_thumb.png\" title=\"core_1786694776_3690_thumb.png\" alt=\"core_1786694776_3690.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202608/core_1786694786_6456_thumb.png\" title=\"core_1786694786_6456_thumb.png\" alt=\"core_1786694786_6456.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202608/core_1786694797_6712_thumb.png\" title=\"core_1786694797_6712_thumb.png\" alt=\"core_1786694797_6712.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202608/core_1786694817_8692_thumb.png\" title=\"core_1786694817_8692_thumb.png\" alt=\"core_1786694817_8692.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202608/core_1786694828_2621_thumb.png\" title=\"core_1786694828_2621_thumb.png\" alt=\"core_1786694828_2621.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202608/core_1786694836_5693_thumb.png\" title=\"core_1786694836_5693_thumb.png\" alt=\"core_1786694836_5693.png\"></p>"
+    }
+  },
   "province": [],
   "attr": {},
   "company": {},

@@ -1,9 +1,22 @@
 {
-  "update_time": "2026-09-01 09:19:10",
+  "update_time": "2026-10-01 10:52:58",
   "school_id": "2280",
   "school_name": "青海农牧科技职业学院",
-  "jobrateyear": "",
-  "jobrate": {},
+  "jobrateyear": "2025",
+  "jobrate": {
+    "job": {
+      "1": "90.98"
+    },
+    "postgraduate": {
+      "1": "0.51"
+    },
+    "abroad": {
+      "1": "0.00"
+    },
+    "content": {
+      "1": "<p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788861933_4001_thumb.png\" title=\"core_1788861933_4001_thumb.png\" alt=\"core_1788861933_4001.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788861945_7944_thumb.png\" title=\"core_1788861945_7944_thumb.png\" alt=\"core_1788861945_7944.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788861965_2702_thumb.png\" title=\"core_1788861965_2702_thumb.png\" alt=\"core_1788861965_2702.png\"></p>"
+    }
+  },
   "province": [],
   "attr": {},
   "company": {},

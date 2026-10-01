@@ -1,20 +1,20 @@
 {
-  "update_time": "2026-09-01 09:22:14",
+  "update_time": "2026-10-01 10:56:04",
   "school_id": "2610",
   "school_name": "广东第二师范学院",
-  "jobrateyear": "2023",
+  "jobrateyear": "2024",
   "jobrate": {
     "job": {
-      "1": "93.87"
+      "1": "85.48"
     },
     "postgraduate": {
-      "1": "7.33"
+      "1": "0.00"
     },
     "abroad": {
-      "1": "1.67"
+      "1": "0.00"
     },
     "content": {
-      "1": ""
+      "1": "<p><img src=\"https://static-data.gaokao.cn//upload/image/202606/core_1782031372_6920_thumb.jpg\" xss=removed title=\"core_1782031372_6920_thumb.jpg\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202606/core_1782031372_9034_thumb.jpg\" xss=removed title=\"core_1782031372_9034_thumb.jpg\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202606/core_1782031372_9291_thumb.jpg\" xss=removed title=\"core_1782031372_9291_thumb.jpg\"></p><p><br></p>"
     }
   },
   "province": [

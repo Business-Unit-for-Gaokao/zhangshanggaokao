@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-09-01 09:09:47",
+  "update_time": "2026-10-01 10:43:55",
   "school_id": "1268",
   "school_name": "凯里学院",
   "jobrateyear": "2022",
@@ -29,30 +29,6 @@
       "update_time": "2025-01-10 14:17:21",
       "year": "2021",
       "province_name": "黑龙江省"
-    },
-    {
-      "id": "26607",
-      "school_id": "1268",
-      "province": "青海省",
-      "rate": "0.04",
-      "num": "0",
-      "sort": "4",
-      "update_id": "1211",
-      "update_time": "2025-01-10 14:17:21",
-      "year": "2021",
-      "province_name": "青海省"
-    },
-    {
-      "id": "26606",
-      "school_id": "1268",
-      "province": "辽宁省",
-      "rate": "0.04",
-      "num": "0",
-      "sort": "4",
-      "update_id": "1211",
-      "update_time": "2025-01-10 14:17:21",
-      "year": "2021",
-      "province_name": "辽宁省"
     },
     {
       "id": "26605",
@@ -113,6 +89,30 @@
       "update_time": "2025-01-10 14:17:21",
       "year": "2021",
       "province_name": "天津市"
+    },
+    {
+      "id": "26607",
+      "school_id": "1268",
+      "province": "青海省",
+      "rate": "0.04",
+      "num": "0",
+      "sort": "4",
+      "update_id": "1211",
+      "update_time": "2025-01-10 14:17:21",
+      "year": "2021",
+      "province_name": "青海省"
+    },
+    {
+      "id": "26606",
+      "school_id": "1268",
+      "province": "辽宁省",
+      "rate": "0.04",
+      "num": "0",
+      "sort": "4",
+      "update_id": "1211",
+      "update_time": "2025-01-10 14:17:21",
+      "year": "2021",
+      "province_name": "辽宁省"
     },
     {
       "id": "26600",
@@ -259,18 +259,6 @@
       "province_name": "北京市"
     },
     {
-      "id": "26588",
-      "school_id": "1268",
-      "province": "重庆市",
-      "rate": "1.02",
-      "num": "0",
-      "sort": "102",
-      "update_id": "1211",
-      "update_time": "2025-01-10 14:17:21",
-      "year": "2021",
-      "province_name": "重庆市"
-    },
-    {
       "id": "26587",
       "school_id": "1268",
       "province": "云南省",
@@ -281,6 +269,18 @@
       "update_time": "2025-01-10 14:17:21",
       "year": "2021",
       "province_name": "云南省"
+    },
+    {
+      "id": "26588",
+      "school_id": "1268",
+      "province": "重庆市",
+      "rate": "1.02",
+      "num": "0",
+      "sort": "102",
+      "update_id": "1211",
+      "update_time": "2025-01-10 14:17:21",
+      "year": "2021",
+      "province_name": "重庆市"
     },
     {
       "id": "26586",
@@ -378,8 +378,8 @@
     "医疗卫生单位": "0.33",
     "城镇社区": "0.25",
     "三资企业": "0.21",
-    "科研设计单位": "0.04",
-    "农村建制村": "0.04"
+    "农村建制村": "0.04",
+    "科研设计单位": "0.04"
   },
   "company": {},
   "gradute": [

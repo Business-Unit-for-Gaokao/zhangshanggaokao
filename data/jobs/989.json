@@ -1,9 +1,22 @@
 {
-  "update_time": "2026-09-01 09:07:25",
+  "update_time": "2026-10-01 10:41:37",
   "school_id": "989",
   "school_name": "惠州经济职业技术学院",
-  "jobrateyear": "",
-  "jobrate": {},
+  "jobrateyear": "2025",
+  "jobrate": {
+    "job": {
+      "1": "81.71"
+    },
+    "postgraduate": {
+      "1": "4.55"
+    },
+    "abroad": {
+      "1": "0.02"
+    },
+    "content": {
+      "1": "<p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788510111_5889_thumb.png\" title=\"core_1788510111_5889_thumb.png\" alt=\"core_1788510111_5889.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788510124_9658_thumb.png\" title=\"core_1788510124_9658_thumb.png\" alt=\"core_1788510124_9658.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788510148_6340_thumb.png\" title=\"core_1788510148_6340_thumb.png\" alt=\"core_1788510148_6340.png\"></p>"
+    }
+  },
   "province": [],
   "attr": {},
   "company": {},

@@ -1,9 +1,22 @@
 {
-  "update_time": "2026-09-01 09:19:06",
+  "update_time": "2026-10-01 10:52:53",
   "school_id": "2273",
   "school_name": "贵州轻工职业大学",
-  "jobrateyear": "",
-  "jobrate": {},
+  "jobrateyear": "2025",
+  "jobrate": {
+    "job": {
+      "1": "97.22"
+    },
+    "postgraduate": {
+      "1": "0.00"
+    },
+    "abroad": {
+      "1": "0.00"
+    },
+    "content": {
+      "1": "<p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788416665_7737_thumb.png\" title=\"core_1788416665_7737_thumb.png\" alt=\"core_1788416665_7737.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788416691_4025_thumb.png\" title=\"core_1788416691_4025_thumb.png\" alt=\"core_1788416691_4025.png\"></p>"
+    }
+  },
   "province": [],
   "attr": {},
   "company": {},

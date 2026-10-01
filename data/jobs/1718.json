@@ -1,9 +1,22 @@
 {
-  "update_time": "2026-09-01 09:13:19",
+  "update_time": "2026-10-01 10:47:20",
   "school_id": "1718",
   "school_name": "武威职业技术大学",
-  "jobrateyear": "",
-  "jobrate": {},
+  "jobrateyear": "2024",
+  "jobrate": {
+    "job": {
+      "1": "95.30"
+    },
+    "postgraduate": {
+      "1": "0.00"
+    },
+    "abroad": {
+      "1": "0.00"
+    },
+    "content": {
+      "1": "<p>2025届毕业生人数4106人，截至2025年12月31日，2025届毕业生落实人数3913人，总体毕业去向落实率为95.30%。2025届毕业生中省内生源毕业人数4061人，落实人数3871人，省内生源毕业生毕业去向落实率为95.32%。</p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788423178_8213_thumb.png\" title=\"core_1788423178_8213_thumb.png\" alt=\"core_1788423178_8213.png\"></p>"
+    }
+  },
   "province": [],
   "attr": {},
   "company": {},

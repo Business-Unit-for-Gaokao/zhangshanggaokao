@@ -1,20 +1,20 @@
 {
-  "update_time": "2026-09-01 09:00:09",
+  "update_time": "2026-10-01 10:34:17",
   "school_id": "237",
   "school_name": "新疆财经大学",
-  "jobrateyear": "2019",
+  "jobrateyear": "2024",
   "jobrate": {
     "job": {
-      "1": "87.69"
+      "1": "85.58"
     },
     "postgraduate": {
-      "1": "3.98"
+      "1": "3.96"
     },
     "abroad": {
-      "1": "0.88"
+      "1": "1.25"
     },
     "content": {
-      "1": ""
+      "1": "<p><img src=\"https://static-data.gaokao.cn//upload/image/202608/core_1787551658_9733_thumb.png\" title=\"core_1787551658_9733_thumb.png\" alt=\"core_1787551658_9733.png\"></p>"
     }
   },
   "province": [

@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-09-01 09:01:03",
+  "update_time": "2026-10-01 10:35:10",
   "school_id": "322",
   "school_name": "安徽建筑大学",
   "jobrateyear": "2024",
@@ -31,18 +31,6 @@
       "province_name": "东北三省"
     },
     {
-      "id": "15944",
-      "school_id": "322",
-      "province": "珠三角（广东）",
-      "rate": "2.36",
-      "num": "86",
-      "sort": "86",
-      "update_id": "2004",
-      "update_time": "2024-06-05 14:58:10",
-      "year": "2023",
-      "province_name": "珠三角（广东）"
-    },
-    {
       "id": "15945",
       "school_id": "322",
       "province": "西部城市",
@@ -53,6 +41,18 @@
       "update_time": "2024-06-05 14:58:10",
       "year": "2023",
       "province_name": "西部城市"
+    },
+    {
+      "id": "15944",
+      "school_id": "322",
+      "province": "珠三角（广东）",
+      "rate": "2.36",
+      "num": "86",
+      "sort": "86",
+      "update_id": "2004",
+      "update_time": "2024-06-05 14:58:10",
+      "year": "2023",
+      "province_name": "珠三角（广东）"
     },
     {
       "id": "15943",

@@ -1,11 +1,11 @@
 {
-  "update_time": "2026-09-01 09:09:54",
+  "update_time": "2026-10-01 10:44:00",
   "school_id": "1279",
   "school_name": "山东政法学院",
-  "jobrateyear": "2023",
+  "jobrateyear": "2024",
   "jobrate": {
     "job": {
-      "1": "81.90"
+      "1": "0.00"
     },
     "postgraduate": {
       "1": "0.00"
@@ -14,7 +14,7 @@
       "1": "0.00"
     },
     "content": {
-      "1": ""
+      "1": "<p><img src=\"https://static-data.gaokao.cn//upload/image/202608/core_1786694832_5603_thumb.png\" xss=removed title=\"core_1786694832_5603_thumb.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202608/core_1786694832_4551_thumb.png\" xss=removed title=\"core_1786694832_4551_thumb.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202608/core_1786694832_7585_thumb.png\" xss=removed title=\"core_1786694832_7585_thumb.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202608/core_1786694832_8113_thumb.png\" xss=removed title=\"core_1786694832_8113_thumb.png\"></p><p><br></p>"
     }
   },
   "province": [

@@ -1,9 +1,22 @@
 {
-  "update_time": "2026-09-01 09:18:08",
+  "update_time": "2026-10-01 10:52:00",
   "school_id": "2180",
   "school_name": "云南锡业职业技术学院",
-  "jobrateyear": "",
-  "jobrate": {},
+  "jobrateyear": "2025",
+  "jobrate": {
+    "job": {
+      "1": "87.37"
+    },
+    "postgraduate": {
+      "1": "7.38"
+    },
+    "abroad": {
+      "1": "0.00"
+    },
+    "content": {
+      "1": "<p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788485679_6787_thumb.png\" title=\"core_1788485679_6787_thumb.png\" alt=\"core_1788485679_6787.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788485690_6281_thumb.png\" title=\"core_1788485690_6281_thumb.png\" alt=\"core_1788485690_6281.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788485706_8876_thumb.png\" title=\"core_1788485706_8876_thumb.png\" alt=\"core_1788485706_8876.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788485720_1178_thumb.png\" title=\"core_1788485720_1178_thumb.png\" alt=\"core_1788485720_1178.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788485741_6702_thumb.png\" title=\"core_1788485741_6702_thumb.png\" alt=\"core_1788485741_6702.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788485757_8111_thumb.png\" title=\"core_1788485757_8111_thumb.png\" alt=\"core_1788485757_8111.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788485838_4924_thumb.png\" title=\"core_1788485838_4924_thumb.png\" alt=\"core_1788485838_4924.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788485849_8013_thumb.png\" title=\"core_1788485849_8013_thumb.png\" alt=\"core_1788485849_8013.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788485862_4758_thumb.png\" title=\"core_1788485862_4758_thumb.png\" alt=\"core_1788485862_4758.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788485876_8287_thumb.png\" title=\"core_1788485876_8287_thumb.png\" alt=\"core_1788485876_8287.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788485895_9056_thumb.png\" title=\"core_1788485895_9056_thumb.png\" alt=\"core_1788485895_9056.png\"><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788485909_2464_thumb.png\" title=\"core_1788485909_2464_thumb.png\" alt=\"core_1788485909_2464.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788485922_3608_thumb.png\" title=\"core_1788485922_3608_thumb.png\" alt=\"core_1788485922_3608.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788485934_3518_thumb.png\" title=\"core_1788485934_3518_thumb.png\" alt=\"core_1788485934_3518.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788485948_5190_thumb.png\" title=\"core_1788485948_5190_thumb.png\" alt=\"core_1788485948_5190.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788485965_8101_thumb.png\" title=\"core_1788485965_8101_thumb.png\" alt=\"core_1788485965_8101.png\"></p>"
+    }
+  },
   "province": [],
   "attr": {},
   "company": {},

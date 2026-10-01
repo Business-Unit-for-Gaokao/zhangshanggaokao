@@ -1,9 +1,22 @@
 {
-  "update_time": "2026-09-01 09:23:53",
+  "update_time": "2026-10-01 10:57:44",
   "school_id": "2949",
   "school_name": "湖北体育职业学院",
-  "jobrateyear": "",
-  "jobrate": {},
+  "jobrateyear": "2025",
+  "jobrate": {
+    "job": {
+      "1": "96.30"
+    },
+    "postgraduate": {
+      "1": "0.00"
+    },
+    "abroad": {
+      "1": "0.00"
+    },
+    "content": {
+      "1": "<p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1789119094_6601_thumb.jpg\" xss=removed title=\"core_1789119094_6601_thumb.jpg\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1789119094_7082_thumb.jpg\" xss=removed title=\"core_1789119094_7082_thumb.jpg\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1789119094_2396_thumb.jpg\" xss=removed title=\"core_1789119094_2396_thumb.jpg\"></p><p><br></p>"
+    }
+  },
   "province": [],
   "attr": {},
   "company": {},

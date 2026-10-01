@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-09-01 09:06:45",
+  "update_time": "2026-10-01 10:40:57",
   "school_id": "921",
   "school_name": "晋中学院",
   "jobrateyear": "2024",
@@ -199,18 +199,6 @@
       "province_name": "贵州省"
     },
     {
-      "id": "23654",
-      "school_id": "921",
-      "province": "湖北省",
-      "rate": "0.65",
-      "num": "23",
-      "sort": "23",
-      "update_id": "1988",
-      "update_time": "2024-11-04 10:32:19",
-      "year": "2023",
-      "province_name": "湖北省"
-    },
-    {
       "id": "23655",
       "school_id": "921",
       "province": "四川省",
@@ -221,6 +209,18 @@
       "update_time": "2024-11-04 10:32:19",
       "year": "2023",
       "province_name": "四川省"
+    },
+    {
+      "id": "23654",
+      "school_id": "921",
+      "province": "湖北省",
+      "rate": "0.65",
+      "num": "23",
+      "sort": "23",
+      "update_id": "1988",
+      "update_time": "2024-11-04 10:32:19",
+      "year": "2023",
+      "province_name": "湖北省"
     },
     {
       "id": "23653",

@@ -1,9 +1,22 @@
 {
-  "update_time": "2026-09-01 09:25:28",
+  "update_time": "2026-10-01 10:59:24",
   "school_id": "3240",
   "school_name": "广东生态工程职业学院",
-  "jobrateyear": "",
-  "jobrate": {},
+  "jobrateyear": "2025",
+  "jobrate": {
+    "job": {
+      "1": "95.95"
+    },
+    "postgraduate": {
+      "1": "0.00"
+    },
+    "abroad": {
+      "1": "0.00"
+    },
+    "content": {
+      "1": "<p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1789027579_3020_thumb.png\" title=\"core_1789027579_3020_thumb.png\" alt=\"core_1789027579_3020.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1789027593_1847_thumb.png\" title=\"core_1789027593_1847_thumb.png\" alt=\"core_1789027593_1847.png\"></p>"
+    }
+  },
   "province": [],
   "attr": {},
   "company": {},

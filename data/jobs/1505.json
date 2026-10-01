@@ -1,20 +1,20 @@
 {
-  "update_time": "2026-09-01 09:11:28",
+  "update_time": "2026-10-01 10:45:33",
   "school_id": "1505",
   "school_name": "荆楚理工学院",
-  "jobrateyear": "2019",
+  "jobrateyear": "2024",
   "jobrate": {
     "job": {
-      "1": "95.69"
+      "1": "85.87"
     },
     "postgraduate": {
-      "1": "0.00"
+      "1": "5.78"
     },
     "abroad": {
-      "1": "0.00"
+      "1": "0.28"
     },
     "content": {
-      "1": ""
+      "1": "<p><img src=\"https://static-data.gaokao.cn//upload/image/202608/core_1786586884_6079_thumb.png\" title=\"core_1786586884_6079_thumb.png\" alt=\"core_1786586884_6079.png\"></p>"
     }
   },
   "province": [

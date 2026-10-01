@@ -1,9 +1,22 @@
 {
-  "update_time": "2026-09-01 09:28:24",
+  "update_time": "2026-10-01 11:02:23",
   "school_id": "3584",
   "school_name": "湖北孝感美珈职业学院",
-  "jobrateyear": "",
-  "jobrate": {},
+  "jobrateyear": "2025",
+  "jobrate": {
+    "job": {
+      "1": "91.21"
+    },
+    "postgraduate": {
+      "1": "0.00"
+    },
+    "abroad": {
+      "1": "0.00"
+    },
+    "content": {
+      "1": "<p><img src=\"https://static-data.gaokao.cn//upload/image/202608/core_1788161387_1689_thumb.png\" title=\"core_1788161387_1689_thumb.png\" alt=\"core_1788161387_1689.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202608/core_1788161399_5461_thumb.png\" title=\"core_1788161399_5461_thumb.png\" alt=\"core_1788161399_5461.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202608/core_1788161406_7224_thumb.png\" title=\"core_1788161406_7224_thumb.png\" alt=\"core_1788161406_7224.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202608/core_1788161422_3852_thumb.png\" title=\"core_1788161422_3852_thumb.png\" alt=\"core_1788161422_3852.png\"></p><p><br></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202608/core_1788161431_3045_thumb.png\" title=\"core_1788161431_3045_thumb.png\" alt=\"core_1788161431_3045.png\"></p>"
+    }
+  },
   "province": [],
   "attr": {},
   "company": {

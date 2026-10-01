@@ -1,9 +1,22 @@
 {
-  "update_time": "2026-09-01 09:23:35",
+  "update_time": "2026-10-01 10:57:26",
   "school_id": "2912",
   "school_name": "河南机电职业学院",
-  "jobrateyear": "",
-  "jobrate": {},
+  "jobrateyear": "2024",
+  "jobrate": {
+    "job": {
+      "1": "98.08"
+    },
+    "postgraduate": {
+      "1": "0.00"
+    },
+    "abroad": {
+      "1": "0.00"
+    },
+    "content": {
+      "1": "<p xss=removed>河南机电职业学院 2024 届毕业生共计10093人，毕业生去向落实率为98.08%（含单位就业率、创业率、自由职业率、升学及灵活就\r\n52\r\n业率），就业专业相关度为88.96%。毕业生对就业现状的总体满意度为97.01%，对学校的总体满意度较高，达到98.49%，反映出学生对学校人才培养和就业服务的认可。用人单位对毕业生总体满意度达97.96%，对学生职业素养、岗位适应能力和综合素质给予充分肯定，校企协同育人成果得到社会验证。</p><p xss=removed><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788485360_2112_thumb.png\" title=\"core_1788485360_2112_thumb.png\" alt=\"core_1788485360_2112.png\"></p><p xss=removed><br></p>"
+    }
+  },
   "province": [],
   "attr": {},
   "company": {},

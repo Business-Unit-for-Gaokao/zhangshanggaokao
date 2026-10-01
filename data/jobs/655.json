@@ -1,20 +1,20 @@
 {
-  "update_time": "2026-09-01 09:04:23",
+  "update_time": "2026-10-01 10:38:33",
   "school_id": "655",
   "school_name": "上海海关学院",
-  "jobrateyear": "2023",
+  "jobrateyear": "2024",
   "jobrate": {
     "job": {
-      "1": "91.19"
+      "1": "90.72"
     },
     "postgraduate": {
-      "1": "4.50"
+      "1": "0.00"
     },
     "abroad": {
-      "1": "4.17"
+      "1": "0.00"
     },
     "content": {
-      "1": ""
+      "1": "<p><img src=\"https://static-data.gaokao.cn//upload/image/202606/core_1782028801_6373_thumb.jpg\" xss=removed title=\"core_1782028801_6373_thumb.jpg\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202606/core_1782028801_8631_thumb.jpg\" xss=removed title=\"core_1782028801_8631_thumb.jpg\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202606/core_1782028801_5364_thumb.jpg\" xss=removed title=\"core_1782028801_5364_thumb.jpg\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202606/core_1782028801_9684_thumb.jpg\" xss=removed title=\"core_1782028801_9684_thumb.jpg\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202606/core_1782028801_2142_thumb.jpg\" xss=removed title=\"core_1782028801_2142_thumb.jpg\"></p><p><br></p>"
     }
   },
   "province": [

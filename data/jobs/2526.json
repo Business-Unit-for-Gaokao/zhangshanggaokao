@@ -1,11 +1,11 @@
 {
-  "update_time": "2026-09-01 09:21:38",
+  "update_time": "2026-10-01 10:55:27",
   "school_id": "2526",
   "school_name": "昆明理工大学津桥学院",
-  "jobrateyear": "2021",
+  "jobrateyear": "2024",
   "jobrate": {
     "job": {
-      "1": "83.55"
+      "1": "85.32"
     },
     "postgraduate": {
       "1": "0.00"
@@ -14,7 +14,7 @@
       "1": "0.00"
     },
     "content": {
-      "1": ""
+      "1": "<p><img src=\"https://static-data.gaokao.cn//upload/image/202608/core_1786676762_3532_thumb.png\" title=\"core_1786676762_3532_thumb.png\" alt=\"core_1786676762_3532.png\"></p>"
     }
   },
   "province": [

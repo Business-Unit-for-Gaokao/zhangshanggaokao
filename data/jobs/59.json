@@ -1,20 +1,20 @@
 {
-  "update_time": "2026-09-01 08:58:20",
+  "update_time": "2026-10-01 10:32:26",
   "school_id": "59",
   "school_name": "南开大学",
-  "jobrateyear": "2021",
+  "jobrateyear": "2024",
   "jobrate": {
     "job": {
-      "1": "95.90"
+      "1": "93.98"
     },
     "postgraduate": {
-      "1": "43.14"
+      "1": "48.14"
     },
     "abroad": {
-      "1": "13.03"
+      "1": "14.65"
     },
     "content": {
-      "1": ""
+      "1": "<p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788746363_7263_thumb.png\" title=\"core_1788746363_7263_thumb.png\" alt=\"core_1788746363_7263.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788746381_5832_thumb.png\" title=\"core_1788746381_5832_thumb.png\" alt=\"core_1788746381_5832.png\"></p>"
     }
   },
   "province": [

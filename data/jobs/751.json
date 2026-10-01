@@ -1,9 +1,22 @@
 {
-  "update_time": "2026-09-01 09:05:15",
+  "update_time": "2026-10-01 10:39:25",
   "school_id": "751",
   "school_name": "石家庄工商职业学院",
-  "jobrateyear": "",
-  "jobrate": {},
+  "jobrateyear": "2025",
+  "jobrate": {
+    "job": {
+      "1": "93.51"
+    },
+    "postgraduate": {
+      "1": "6.55"
+    },
+    "abroad": {
+      "1": "0.00"
+    },
+    "content": {
+      "1": "<p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788429919_2522_thumb.png\" title=\"core_1788429919_2522_thumb.png\" alt=\"core_1788429919_2522.png\"></p>"
+    }
+  },
   "province": [],
   "attr": {},
   "company": {},

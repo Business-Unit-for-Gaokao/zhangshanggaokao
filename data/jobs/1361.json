@@ -1,9 +1,22 @@
 {
-  "update_time": "2026-09-01 09:10:26",
+  "update_time": "2026-10-01 10:44:32",
   "school_id": "1361",
   "school_name": "无锡工艺职业技术学院",
-  "jobrateyear": "",
-  "jobrate": {},
+  "jobrateyear": "2025",
+  "jobrate": {
+    "job": {
+      "1": "96.19"
+    },
+    "postgraduate": {
+      "1": "17.91"
+    },
+    "abroad": {
+      "1": "0.17"
+    },
+    "content": {
+      "1": "<p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788406196_5165_thumb.png\" title=\"core_1788406196_5165_thumb.png\" alt=\"core_1788406196_5165.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788406216_9376_thumb.png\" title=\"core_1788406216_9376_thumb.png\" alt=\"core_1788406216_9376.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788406231_5749_thumb.png\" title=\"core_1788406231_5749_thumb.png\" alt=\"core_1788406231_5749.png\"></p><p><br></p>"
+    }
+  },
   "province": [],
   "attr": {},
   "company": {},

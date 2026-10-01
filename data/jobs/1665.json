@@ -1,20 +1,20 @@
 {
-  "update_time": "2026-09-01 09:12:49",
+  "update_time": "2026-10-01 10:46:52",
   "school_id": "1665",
   "school_name": "山西工程科技职业大学",
-  "jobrateyear": "2023",
+  "jobrateyear": "2024",
   "jobrate": {
     "job": {
-      "1": "87.50"
+      "1": "85.68"
     },
     "postgraduate": {
-      "1": "25.00"
+      "1": "2.95"
     },
     "abroad": {
-      "1": "0.21"
+      "1": "0.57"
     },
     "content": {
-      "1": ""
+      "1": "<p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788343658_2595_thumb.png\" title=\"core_1788343658_2595_thumb.png\" alt=\"core_1788343658_2595.png\"></p>"
     }
   },
   "province": [

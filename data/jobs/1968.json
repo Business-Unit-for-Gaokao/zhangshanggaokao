@@ -1,46 +1,34 @@
 {
-  "update_time": "2026-09-01 09:15:58",
+  "update_time": "2026-10-01 10:49:52",
   "school_id": "1968",
   "school_name": "武汉工程大学邮电与信息工程学院",
-  "jobrateyear": "2020",
+  "jobrateyear": "2024",
   "jobrate": {
     "job": {
-      "1": "81.27"
+      "1": "91.27"
     },
     "postgraduate": {
-      "1": "8.87"
+      "1": "2.95"
     },
     "abroad": {
-      "1": "0.82"
+      "1": "0.34"
     },
     "content": {
-      "1": ""
+      "1": "<p><img src=\"https://static-data.gaokao.cn//upload/image/202608/core_1787128708_3977_thumb.png\" title=\"core_1787128708_3977_thumb.png\" alt=\"core_1787128708_3977.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202608/core_1787128633_3821_thumb.png\" title=\"core_1787128633_3821_thumb.png\" alt=\"core_1787128633_3821.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202608/core_1787128652_5984_thumb.png\" title=\"core_1787128652_5984_thumb.png\" alt=\"core_1787128652_5984.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202608/core_1787128673_2293_thumb.png\" title=\"core_1787128673_2293_thumb.png\" alt=\"core_1787128673_2293.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202608/core_1787128686_7383_thumb.png\" title=\"core_1787128686_7383_thumb.png\" alt=\"core_1787128686_7383.png\"></p>"
     }
   },
   "province": [
     {
-      "id": "25422",
+      "id": "25419",
       "school_id": "1968",
-      "province": "国外",
+      "province": "宁夏回族自治区",
       "rate": "0.06",
       "num": "0",
       "sort": "6",
       "update_id": "2094",
       "update_time": "2025-01-08 10:20:04",
       "year": "2020",
-      "province_name": "国外"
-    },
-    {
-      "id": "25421",
-      "school_id": "1968",
-      "province": "青海省",
-      "rate": "0.06",
-      "num": "0",
-      "sort": "6",
-      "update_id": "2094",
-      "update_time": "2025-01-08 10:20:04",
-      "year": "2020",
-      "province_name": "青海省"
+      "province_name": "宁夏回族自治区"
     },
     {
       "id": "25420",
@@ -55,16 +43,28 @@
       "province_name": "甘肃省"
     },
     {
-      "id": "25419",
+      "id": "25421",
       "school_id": "1968",
-      "province": "宁夏回族自治区",
+      "province": "青海省",
       "rate": "0.06",
       "num": "0",
       "sort": "6",
       "update_id": "2094",
       "update_time": "2025-01-08 10:20:04",
       "year": "2020",
-      "province_name": "宁夏回族自治区"
+      "province_name": "青海省"
+    },
+    {
+      "id": "25422",
+      "school_id": "1968",
+      "province": "国外",
+      "rate": "0.06",
+      "num": "0",
+      "sort": "6",
+      "update_id": "2094",
+      "update_time": "2025-01-08 10:20:04",
+      "year": "2020",
+      "province_name": "国外"
     },
     {
       "id": "25418",
@@ -127,18 +127,6 @@
       "province_name": "陕西省"
     },
     {
-      "id": "25412",
-      "school_id": "1968",
-      "province": "天津市",
-      "rate": "0.48",
-      "num": "0",
-      "sort": "48",
-      "update_id": "2094",
-      "update_time": "2025-01-08 10:20:04",
-      "year": "2020",
-      "province_name": "天津市"
-    },
-    {
       "id": "25413",
       "school_id": "1968",
       "province": "重庆市",
@@ -151,6 +139,18 @@
       "province_name": "重庆市"
     },
     {
+      "id": "25412",
+      "school_id": "1968",
+      "province": "天津市",
+      "rate": "0.48",
+      "num": "0",
+      "sort": "48",
+      "update_id": "2094",
+      "update_time": "2025-01-08 10:20:04",
+      "year": "2020",
+      "province_name": "天津市"
+    },
+    {
       "id": "25411",
       "school_id": "1968",
       "province": "山西省",
@@ -161,18 +161,6 @@
       "update_time": "2025-01-08 10:20:04",
       "year": "2020",
       "province_name": "山西省"
-    },
-    {
-      "id": "25410",
-      "school_id": "1968",
-      "province": "贵州省",
-      "rate": "0.60",
-      "num": "0",
-      "sort": "60",
-      "update_id": "2094",
-      "update_time": "2025-01-08 10:20:04",
-      "year": "2020",
-      "province_name": "贵州省"
     },
     {
       "id": "25409",
@@ -209,6 +197,18 @@
       "update_time": "2025-01-08 10:20:04",
       "year": "2020",
       "province_name": "广西壮族自治区"
+    },
+    {
+      "id": "25410",
+      "school_id": "1968",
+      "province": "贵州省",
+      "rate": "0.60",
+      "num": "0",
+      "sort": "60",
+      "update_id": "2094",
+      "update_time": "2025-01-08 10:20:04",
+      "year": "2020",
+      "province_name": "贵州省"
     },
     {
       "id": "25406",
@@ -259,18 +259,6 @@
       "province_name": "湖南省"
     },
     {
-      "id": "25402",
-      "school_id": "1968",
-      "province": "河南省",
-      "rate": "1.14",
-      "num": "0",
-      "sort": "114",
-      "update_id": "2094",
-      "update_time": "2025-01-08 10:20:04",
-      "year": "2020",
-      "province_name": "河南省"
-    },
-    {
       "id": "25401",
       "school_id": "1968",
       "province": "海南省",
@@ -281,6 +269,18 @@
       "update_time": "2025-01-08 10:20:04",
       "year": "2020",
       "province_name": "海南省"
+    },
+    {
+      "id": "25402",
+      "school_id": "1968",
+      "province": "河南省",
+      "rate": "1.14",
+      "num": "0",
+      "sort": "114",
+      "update_id": "2094",
+      "update_time": "2025-01-08 10:20:04",
+      "year": "2020",
+      "province_name": "河南省"
     },
     {
       "id": "25400",
@@ -388,8 +388,8 @@
     "其他事业单位": "0.72",
     "机关": "0.72",
     "自主创业": "0.30",
-    "中初教育单位": "0.24",
     "地方基层项目": "0.24",
+    "中初教育单位": "0.24",
     "医疗卫生单位": "0.18",
     "科研设计单位": "0.12",
     "城镇社区": "0.12",

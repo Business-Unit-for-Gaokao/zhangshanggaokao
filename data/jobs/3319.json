@@ -1,9 +1,22 @@
 {
-  "update_time": "2026-09-01 09:26:09",
+  "update_time": "2026-10-01 11:00:05",
   "school_id": "3319",
   "school_name": "昭通卫生职业学院",
-  "jobrateyear": "",
-  "jobrate": {},
+  "jobrateyear": "2024",
+  "jobrate": {
+    "job": {
+      "1": "97.94"
+    },
+    "postgraduate": {
+      "1": "20.70"
+    },
+    "abroad": {
+      "1": "0.07"
+    },
+    "content": {
+      "1": "<p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1789701914_7449_thumb.jpg\" xss=removed title=\"core_1789701914_7449_thumb.jpg\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1789701914_2079_thumb.jpg\" xss=removed title=\"core_1789701914_2079_thumb.jpg\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1789701914_4582_thumb.jpg\" xss=removed title=\"core_1789701914_4582_thumb.jpg\"></p><p><br></p>"
+    }
+  },
   "province": [],
   "attr": {},
   "company": {},

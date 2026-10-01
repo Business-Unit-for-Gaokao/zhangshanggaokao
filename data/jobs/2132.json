@@ -1,20 +1,20 @@
 {
-  "update_time": "2026-09-01 09:17:40",
+  "update_time": "2026-10-01 10:51:34",
   "school_id": "2132",
   "school_name": "山东石油化工学院",
-  "jobrateyear": "2019",
+  "jobrateyear": "2024",
   "jobrate": {
     "job": {
-      "1": "92.38"
+      "1": "89.38"
     },
     "postgraduate": {
-      "1": "10.56"
+      "1": "0.00"
     },
     "abroad": {
-      "1": "0.37"
+      "1": "0.58"
     },
     "content": {
-      "1": ""
+      "1": "<p><img src=\"https://static-data.gaokao.cn//upload/image/202606/core_1782030721_8967_thumb.jpg\" xss=removed title=\"core_1782030721_8967_thumb.jpg\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202606/core_1782030721_5994_thumb.jpg\" xss=removed title=\"core_1782030721_5994_thumb.jpg\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202606/core_1782030721_7181_thumb.jpg\" xss=removed title=\"core_1782030721_7181_thumb.jpg\"></p><p><br></p>"
     }
   },
   "province": [],

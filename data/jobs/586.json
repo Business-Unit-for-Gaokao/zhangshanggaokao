@@ -1,20 +1,20 @@
 {
-  "update_time": "2026-09-01 09:03:47",
+  "update_time": "2026-10-01 10:37:56",
   "school_id": "586",
   "school_name": "北京物资学院",
-  "jobrateyear": "2022",
+  "jobrateyear": "2024",
   "jobrate": {
     "job": {
-      "1": "92.92"
+      "1": "96.32"
     },
     "postgraduate": {
-      "1": "10.30"
+      "1": "0.00"
     },
     "abroad": {
-      "1": "5.10"
+      "1": "0.00"
     },
     "content": {
-      "1": ""
+      "1": "<p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788404050_6511_thumb.png\" title=\"core_1788404050_6511_thumb.png\" alt=\"core_1788404050_6511.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788404093_5531_thumb.png\" title=\"core_1788404093_5531_thumb.png\" alt=\"core_1788404093_5531.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788404140_1043_thumb.png\" title=\"core_1788404140_1043_thumb.png\" alt=\"core_1788404140_1043.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788404227_6028_thumb.png\" title=\"core_1788404227_6028_thumb.png\" alt=\"core_1788404227_6028.png\"></p>"
     }
   },
   "province": [

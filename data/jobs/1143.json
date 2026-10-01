@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-09-01 09:08:38",
+  "update_time": "2026-10-01 10:42:49",
   "school_id": "1143",
   "school_name": "南京理工大学泰州科技学院",
   "jobrateyear": "2021",
@@ -19,18 +19,6 @@
   },
   "province": [
     {
-      "id": "26855",
-      "school_id": "1143",
-      "province": "北京",
-      "rate": "0.86",
-      "num": "0",
-      "sort": "86",
-      "update_id": "2096",
-      "update_time": "2025-01-10 16:52:09",
-      "year": "2021",
-      "province_name": "北京"
-    },
-    {
       "id": "26856",
       "school_id": "1143",
       "province": "河南",
@@ -41,6 +29,18 @@
       "update_time": "2025-01-10 16:52:09",
       "year": "2021",
       "province_name": "河南"
+    },
+    {
+      "id": "26855",
+      "school_id": "1143",
+      "province": "北京",
+      "rate": "0.86",
+      "num": "0",
+      "sort": "86",
+      "update_id": "2096",
+      "update_time": "2025-01-10 16:52:09",
+      "year": "2021",
+      "province_name": "北京"
     },
     {
       "id": "26854",

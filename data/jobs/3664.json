@@ -1,9 +1,22 @@
 {
-  "update_time": "2026-09-01 09:29:12",
+  "update_time": "2026-10-01 11:03:14",
   "school_id": "3664",
   "school_name": "南阳工艺美术职业学院",
-  "jobrateyear": "",
-  "jobrate": {},
+  "jobrateyear": "2025",
+  "jobrate": {
+    "job": {
+      "1": "0.00"
+    },
+    "postgraduate": {
+      "1": "0.00"
+    },
+    "abroad": {
+      "1": "0.00"
+    },
+    "content": {
+      "1": "<p><img src=\"https://static-data.gaokao.cn//upload/image/202608/core_1786950077_7331_thumb.png\" title=\"core_1786950077_7331_thumb.png\" alt=\"core_1786950077_7331.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202608/core_1786950122_7659_thumb.png\" title=\"core_1786950122_7659_thumb.png\" alt=\"core_1786950122_7659.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202608/core_1786950130_6649_thumb.png\" title=\"core_1786950130_6649_thumb.png\" alt=\"core_1786950130_6649.png\"></p><p></p>"
+    }
+  },
   "province": [],
   "attr": {},
   "company": {},

@@ -1,9 +1,22 @@
 {
-  "update_time": "2026-09-01 09:23:16",
+  "update_time": "2026-10-01 10:57:09",
   "school_id": "2857",
   "school_name": "石家庄幼儿师范高等专科学校",
-  "jobrateyear": "",
-  "jobrate": {},
+  "jobrateyear": "2025",
+  "jobrate": {
+    "job": {
+      "1": "97.15"
+    },
+    "postgraduate": {
+      "1": "0.00"
+    },
+    "abroad": {
+      "1": "0.00"
+    },
+    "content": {
+      "1": "<p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788504676_9670_thumb.png\" title=\"core_1788504676_9670_thumb.png\" alt=\"core_1788504676_9670.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788504690_4341_thumb.png\" title=\"core_1788504690_4341_thumb.png\" alt=\"core_1788504690_4341.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788504706_2437_thumb.png\" title=\"core_1788504706_2437_thumb.png\" alt=\"core_1788504706_2437.png\"></p>"
+    }
+  },
   "province": [],
   "attr": {},
   "company": {},

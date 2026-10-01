@@ -1,9 +1,22 @@
 {
-  "update_time": "2026-09-01 09:25:01",
+  "update_time": "2026-10-01 10:58:57",
   "school_id": "3187",
   "school_name": "吉安职业技术学院",
-  "jobrateyear": "",
-  "jobrate": {},
+  "jobrateyear": "2025",
+  "jobrate": {
+    "job": {
+      "1": "89.72"
+    },
+    "postgraduate": {
+      "1": "0.00"
+    },
+    "abroad": {
+      "1": "0.00"
+    },
+    "content": {
+      "1": "<p><img src=\"https://static-data.gaokao.cn//upload/image/202608/core_1787034115_5088_thumb.png\" title=\"core_1787034115_5088_thumb.png\" alt=\"core_1787034115_5088.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202608/core_1787034125_2648_thumb.png\" title=\"core_1787034125_2648_thumb.png\" alt=\"core_1787034125_2648.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202608/core_1787034133_5251_thumb.png\" title=\"core_1787034133_5251_thumb.png\" alt=\"core_1787034133_5251.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202608/core_1787034140_6677_thumb.png\" title=\"core_1787034140_6677_thumb.png\" alt=\"core_1787034140_6677.png\"></p>"
+    }
+  },
   "province": [],
   "attr": {},
   "company": {},

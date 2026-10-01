@@ -1,9 +1,22 @@
 {
-  "update_time": "2026-09-01 09:17:21",
+  "update_time": "2026-10-01 10:51:15",
   "school_id": "2104",
   "school_name": "烟台职业学院",
-  "jobrateyear": "",
-  "jobrate": {},
+  "jobrateyear": "2025",
+  "jobrate": {
+    "job": {
+      "1": "97.86"
+    },
+    "postgraduate": {
+      "1": "31.92"
+    },
+    "abroad": {
+      "1": "0.17"
+    },
+    "content": {
+      "1": "<p>学校 2025 届毕业生 6871 人，截至 11 月 29 日，毕业去向落实 6724\r\n人，毕业去向落实率达到97.86%；其中升学2205人（含12人出国深造），\r\n占毕业生总数的 32.09%；自主创业 36 人。学校 2025 届毕业生月收入平\r\n均为 4285.02 元。学校 2025 届毕业生毕业去向落实情况详见表 1-2。</p><p><img src=\"https://static-data.gaokao.cn//upload/image/202608/core_1786695714_3530_thumb.png\" title=\"core_1786695714_3530_thumb.png\" alt=\"core_1786695714_3530.png\"></p>"
+    }
+  },
   "province": [],
   "attr": {},
   "company": {},

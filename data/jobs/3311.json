@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-09-01 09:26:04",
+  "update_time": "2026-10-01 11:00:00",
   "school_id": "3311",
   "school_name": "中国石油大学（北京）克拉玛依校区",
   "jobrateyear": "2019",
@@ -19,18 +19,6 @@
   },
   "province": [
     {
-      "id": "10326",
-      "school_id": "3311",
-      "province": "华北地区",
-      "rate": "46.73",
-      "num": "415",
-      "sort": "0",
-      "update_id": "929",
-      "update_time": "2020-05-08 14:41:18",
-      "year": "2019",
-      "province_name": "华北地区"
-    },
-    {
       "id": "10327",
       "school_id": "3311",
       "province": "东北地区",
@@ -43,28 +31,16 @@
       "province_name": "东北地区"
     },
     {
-      "id": "10328",
+      "id": "10331",
       "school_id": "3311",
-      "province": "华东地区",
-      "rate": "15.88",
-      "num": "141",
+      "province": "西部",
+      "rate": "22.86",
+      "num": "203",
       "sort": "0",
       "update_id": "929",
       "update_time": "2020-05-08 14:41:18",
       "year": "2019",
-      "province_name": "华东地区"
-    },
-    {
-      "id": "10329",
-      "school_id": "3311",
-      "province": "华中地区",
-      "rate": "5.86",
-      "num": "52",
-      "sort": "0",
-      "update_id": "929",
-      "update_time": "2020-05-08 14:41:18",
-      "year": "2019",
-      "province_name": "华中地区"
+      "province_name": "西部"
     },
     {
       "id": "10330",
@@ -79,16 +55,40 @@
       "province_name": "华南地区"
     },
     {
-      "id": "10331",
+      "id": "10329",
       "school_id": "3311",
-      "province": "西部",
-      "rate": "22.86",
-      "num": "203",
+      "province": "华中地区",
+      "rate": "5.86",
+      "num": "52",
       "sort": "0",
       "update_id": "929",
       "update_time": "2020-05-08 14:41:18",
       "year": "2019",
-      "province_name": "西部"
+      "province_name": "华中地区"
+    },
+    {
+      "id": "10328",
+      "school_id": "3311",
+      "province": "华东地区",
+      "rate": "15.88",
+      "num": "141",
+      "sort": "0",
+      "update_id": "929",
+      "update_time": "2020-05-08 14:41:18",
+      "year": "2019",
+      "province_name": "华东地区"
+    },
+    {
+      "id": "10326",
+      "school_id": "3311",
+      "province": "华北地区",
+      "rate": "46.73",
+      "num": "415",
+      "sort": "0",
+      "update_id": "929",
+      "update_time": "2020-05-08 14:41:18",
+      "year": "2019",
+      "province_name": "华北地区"
     }
   ],
   "attr": {},

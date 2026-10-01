@@ -1,9 +1,22 @@
 {
-  "update_time": "2026-09-01 09:25:21",
+  "update_time": "2026-10-01 10:59:17",
   "school_id": "3230",
   "school_name": "南通师范高等专科学校",
-  "jobrateyear": "",
-  "jobrate": {},
+  "jobrateyear": "2025",
+  "jobrate": {
+    "job": {
+      "1": "88.55"
+    },
+    "postgraduate": {
+      "1": "0.00"
+    },
+    "abroad": {
+      "1": "0.00"
+    },
+    "content": {
+      "1": "<p><span xss=removed>202</span></p><p xss=removed>2025届毕业生3265人，落实毕业去向的2891人，毕业去向落实率88.55%，相较于去年同期的83.44%，提升了6.12%。其中升学15924人，直接就业1895人，定向培养244人，应征入伍35人，自主创业32人，灵活就业40人，对口就业率53.56%。</p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1789352640_6557_thumb.png\" title=\"core_1789352640_6557_thumb.png\" alt=\"core_1789352640_6557.png\"></p><p><br></p>"
+    }
+  },
   "province": [],
   "attr": {},
   "company": {},

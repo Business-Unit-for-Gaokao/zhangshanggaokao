@@ -1,9 +1,22 @@
 {
-  "update_time": "2026-09-01 09:27:11",
+  "update_time": "2026-10-01 11:01:11",
   "school_id": "3435",
   "school_name": "南充科技职业学院",
-  "jobrateyear": "",
-  "jobrate": {},
+  "jobrateyear": "2025",
+  "jobrate": {
+    "job": {
+      "1": "90.54"
+    },
+    "postgraduate": {
+      "1": "0.00"
+    },
+    "abroad": {
+      "1": "0.00"
+    },
+    "content": {
+      "1": "<p><img src=\"https://static-data.gaokao.cn//upload/image/202608/core_1787131212_4237_thumb.png\" title=\"core_1787131212_4237_thumb.png\" alt=\"core_1787131212_4237.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202608/core_1787131223_2862_thumb.png\" title=\"core_1787131223_2862_thumb.png\" alt=\"core_1787131223_2862.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202608/core_1787131243_3635_thumb.png\" title=\"core_1787131243_3635_thumb.png\" alt=\"core_1787131243_3635.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202608/core_1787131254_4418_thumb.png\" title=\"core_1787131254_4418_thumb.png\" alt=\"core_1787131254_4418.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202608/core_1787131263_5324_thumb.png\" title=\"core_1787131263_5324_thumb.png\" alt=\"core_1787131263_5324.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202608/core_1787131277_2616_thumb.png\" title=\"core_1787131277_2616_thumb.png\" alt=\"core_1787131277_2616.png\"></p>"
+    }
+  },
   "province": [],
   "attr": {},
   "company": {},

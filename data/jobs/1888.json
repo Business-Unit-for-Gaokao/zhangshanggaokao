@@ -1,9 +1,22 @@
 {
-  "update_time": "2026-09-01 09:15:08",
+  "update_time": "2026-10-01 10:49:02",
   "school_id": "1888",
   "school_name": "厦门大学嘉庚学院",
-  "jobrateyear": "",
-  "jobrate": {},
+  "jobrateyear": "2024",
+  "jobrate": {
+    "job": {
+      "1": "91.52"
+    },
+    "postgraduate": {
+      "1": "0.00"
+    },
+    "abroad": {
+      "1": "0.00"
+    },
+    "content": {
+      "1": "<p><img src=\"https://static-data.gaokao.cn//upload/image/202606/core_1782028547_5203_thumb.jpg\" xss=removed title=\"core_1782028547_5203_thumb.jpg\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202606/core_1782028547_6009_thumb.jpg\" xss=removed title=\"core_1782028547_6009_thumb.jpg\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202606/core_1782028547_2028_thumb.jpg\" xss=removed title=\"core_1782028547_2028_thumb.jpg\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202606/core_1782028547_7957_thumb.jpg\" xss=removed title=\"core_1782028547_7957_thumb.jpg\"></p><p><br></p>"
+    }
+  },
   "province": [],
   "attr": {},
   "company": {},

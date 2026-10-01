@@ -1,9 +1,22 @@
 {
-  "update_time": "2026-09-01 09:11:51",
+  "update_time": "2026-10-01 10:45:53",
   "school_id": "1561",
   "school_name": "黔南民族医学高等专科学校",
-  "jobrateyear": "",
-  "jobrate": {},
+  "jobrateyear": "2024",
+  "jobrate": {
+    "job": {
+      "1": "91.48"
+    },
+    "postgraduate": {
+      "1": "27.81"
+    },
+    "abroad": {
+      "1": "0.00"
+    },
+    "content": {
+      "1": "<p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788505442_5075_thumb.png\" title=\"core_1788505442_5075_thumb.png\" alt=\"core_1788505442_5075.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788505451_4662_thumb.png\" title=\"core_1788505451_4662_thumb.png\" alt=\"core_1788505451_4662.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788505461_6994_thumb.png\" title=\"core_1788505461_6994_thumb.png\" alt=\"core_1788505461_6994.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788505472_6733_thumb.png\" title=\"core_1788505472_6733_thumb.png\" alt=\"core_1788505472_6733.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788505479_1900_thumb.png\" title=\"core_1788505479_1900_thumb.png\" alt=\"core_1788505479_1900.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788505488_2931_thumb.png\" title=\"core_1788505488_2931_thumb.png\" alt=\"core_1788505488_2931.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788505495_6533_thumb.png\" title=\"core_1788505495_6533_thumb.png\" alt=\"core_1788505495_6533.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788505503_4022_thumb.png\" title=\"core_1788505503_4022_thumb.png\" alt=\"core_1788505503_4022.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788505512_2926_thumb.png\" title=\"core_1788505512_2926_thumb.png\" alt=\"core_1788505512_2926.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788505522_2308_thumb.png\" title=\"core_1788505522_2308_thumb.png\" alt=\"core_1788505522_2308.png\"></p>"
+    }
+  },
   "province": [],
   "attr": {},
   "company": {},

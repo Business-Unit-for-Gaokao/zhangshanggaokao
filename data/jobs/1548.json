@@ -1,9 +1,22 @@
 {
-  "update_time": "2026-09-01 09:11:45",
+  "update_time": "2026-10-01 10:45:47",
   "school_id": "1548",
   "school_name": "山西林业职业技术学院",
-  "jobrateyear": "",
-  "jobrate": {},
+  "jobrateyear": "2025",
+  "jobrate": {
+    "job": {
+      "1": "0.00"
+    },
+    "postgraduate": {
+      "1": "21.94"
+    },
+    "abroad": {
+      "1": "0.00"
+    },
+    "content": {
+      "1": "<p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788419405_3783_thumb.png\" title=\"core_1788419405_3783_thumb.png\" alt=\"core_1788419405_3783.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788419421_4577_thumb.png\" title=\"core_1788419421_4577_thumb.png\" alt=\"core_1788419421_4577.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788419432_5508_thumb.png\" title=\"core_1788419432_5508_thumb.png\" alt=\"core_1788419432_5508.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788419455_7381_thumb.png\" title=\"core_1788419455_7381_thumb.png\" alt=\"core_1788419455_7381.png\"></p>"
+    }
+  },
   "province": [],
   "attr": {},
   "company": {},

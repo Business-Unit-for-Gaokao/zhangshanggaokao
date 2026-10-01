@@ -1,9 +1,22 @@
 {
-  "update_time": "2026-09-01 09:11:52",
+  "update_time": "2026-10-01 10:45:54",
   "school_id": "1562",
   "school_name": "遵义职业技术学院",
-  "jobrateyear": "",
-  "jobrate": {},
+  "jobrateyear": "2025",
+  "jobrate": {
+    "job": {
+      "1": "92.45"
+    },
+    "postgraduate": {
+      "1": "0.00"
+    },
+    "abroad": {
+      "1": "0.00"
+    },
+    "content": {
+      "1": "<p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788752232_9842_thumb.png\" title=\"core_1788752232_9842_thumb.png\" alt=\"core_1788752232_9842.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788752257_9517_thumb.png\" title=\"core_1788752257_9517_thumb.png\" alt=\"core_1788752257_9517.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788752279_7237_thumb.png\" title=\"core_1788752279_7237_thumb.png\" alt=\"core_1788752279_7237.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788752300_9727_thumb.png\" title=\"core_1788752300_9727_thumb.png\" alt=\"core_1788752300_9727.png\"></p>"
+    }
+  },
   "province": [],
   "attr": {},
   "company": {},

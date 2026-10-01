@@ -1,20 +1,20 @@
 {
-  "update_time": "2026-09-01 09:10:29",
+  "update_time": "2026-10-01 10:44:36",
   "school_id": "1373",
   "school_name": "吉林动画学院",
-  "jobrateyear": "2022",
+  "jobrateyear": "2024",
   "jobrate": {
     "job": {
-      "1": "90.61"
+      "1": "86.30"
     },
     "postgraduate": {
-      "1": "1.03"
+      "1": "1.38"
     },
     "abroad": {
-      "1": "0.23"
+      "1": "0.74"
     },
     "content": {
-      "1": ""
+      "1": "<p><img src=\"https://static-data.gaokao.cn//upload/image/202608/core_1787708108_8258_thumb.png\" title=\"core_1787708108_8258_thumb.png\" alt=\"core_1787708108_8258.png\"></p>"
     }
   },
   "province": [

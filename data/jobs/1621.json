@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-09-01 09:12:24",
+  "update_time": "2026-10-01 10:46:25",
   "school_id": "1621",
   "school_name": "长春人文学院",
   "jobrateyear": "2024",
@@ -19,18 +19,6 @@
   },
   "province": [
     {
-      "id": "1326",
-      "school_id": "1621",
-      "province": "重庆市",
-      "rate": "0.04",
-      "num": "10",
-      "sort": "10",
-      "update_id": "0",
-      "update_time": "2018-12-18 15:40:13",
-      "year": "2019",
-      "province_name": "重庆市"
-    },
-    {
       "id": "1340",
       "school_id": "1621",
       "province": "湖北省",
@@ -41,6 +29,18 @@
       "update_time": "2018-12-18 15:40:13",
       "year": "2019",
       "province_name": "湖北省"
+    },
+    {
+      "id": "1326",
+      "school_id": "1621",
+      "province": "重庆市",
+      "rate": "0.04",
+      "num": "10",
+      "sort": "10",
+      "update_id": "0",
+      "update_time": "2018-12-18 15:40:13",
+      "year": "2019",
+      "province_name": "重庆市"
     },
     {
       "id": "1339",
@@ -139,18 +139,6 @@
       "province_name": "海南省"
     },
     {
-      "id": "1331",
-      "school_id": "1621",
-      "province": "上海市",
-      "rate": "1.67",
-      "num": "40",
-      "sort": "40",
-      "update_id": "0",
-      "update_time": "2018-12-18 15:40:13",
-      "year": "2019",
-      "province_name": "上海市"
-    },
-    {
       "id": "1332",
       "school_id": "1621",
       "province": "陕西省",
@@ -161,6 +149,18 @@
       "update_time": "2018-12-18 15:40:13",
       "year": "2019",
       "province_name": "陕西省"
+    },
+    {
+      "id": "1331",
+      "school_id": "1621",
+      "province": "上海市",
+      "rate": "1.67",
+      "num": "40",
+      "sort": "40",
+      "update_id": "0",
+      "update_time": "2018-12-18 15:40:13",
+      "year": "2019",
+      "province_name": "上海市"
     },
     {
       "id": "1346",
@@ -211,18 +211,6 @@
       "province_name": "内蒙古自治区"
     },
     {
-      "id": "1328",
-      "school_id": "1621",
-      "province": "西藏自治区",
-      "rate": "0.25",
-      "num": "60",
-      "sort": "60",
-      "update_id": "0",
-      "update_time": "2018-12-18 15:40:13",
-      "year": "2019",
-      "province_name": "西藏自治区"
-    },
-    {
       "id": "1348",
       "school_id": "1621",
       "province": "福建省",
@@ -233,6 +221,18 @@
       "update_time": "2018-12-18 15:40:13",
       "year": "2019",
       "province_name": "福建省"
+    },
+    {
+      "id": "1328",
+      "school_id": "1621",
+      "province": "西藏自治区",
+      "rate": "0.25",
+      "num": "60",
+      "sort": "60",
+      "update_id": "0",
+      "update_time": "2018-12-18 15:40:13",
+      "year": "2019",
+      "province_name": "西藏自治区"
     },
     {
       "id": "1333",

@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-09-01 09:20:25",
+  "update_time": "2026-10-01 10:54:12",
   "school_id": "2408",
   "school_name": "安徽医科大学临床医学院",
   "jobrateyear": "2024",
@@ -103,40 +103,16 @@
       "province_name": "新疆"
     },
     {
-      "id": "31060",
+      "id": "31062",
       "school_id": "2408",
-      "province": "山西",
+      "province": "云南",
       "rate": "0.21",
       "num": "3",
       "sort": "3",
       "update_id": "2314",
       "update_time": "2025-11-27 11:19:33",
       "year": "2024",
-      "province_name": "山西"
-    },
-    {
-      "id": "31058",
-      "school_id": "2408",
-      "province": "广西",
-      "rate": "0.21",
-      "num": "3",
-      "sort": "3",
-      "update_id": "2314",
-      "update_time": "2025-11-27 11:19:33",
-      "year": "2024",
-      "province_name": "广西"
-    },
-    {
-      "id": "31059",
-      "school_id": "2408",
-      "province": "山东",
-      "rate": "0.21",
-      "num": "3",
-      "sort": "3",
-      "update_id": "2314",
-      "update_time": "2025-11-27 11:19:33",
-      "year": "2024",
-      "province_name": "山东"
+      "province_name": "云南"
     },
     {
       "id": "31061",
@@ -151,16 +127,40 @@
       "province_name": "天津"
     },
     {
-      "id": "31062",
+      "id": "31060",
       "school_id": "2408",
-      "province": "云南",
+      "province": "山西",
       "rate": "0.21",
       "num": "3",
       "sort": "3",
       "update_id": "2314",
       "update_time": "2025-11-27 11:19:33",
       "year": "2024",
-      "province_name": "云南"
+      "province_name": "山西"
+    },
+    {
+      "id": "31059",
+      "school_id": "2408",
+      "province": "山东",
+      "rate": "0.21",
+      "num": "3",
+      "sort": "3",
+      "update_id": "2314",
+      "update_time": "2025-11-27 11:19:33",
+      "year": "2024",
+      "province_name": "山东"
+    },
+    {
+      "id": "31058",
+      "school_id": "2408",
+      "province": "广西",
+      "rate": "0.21",
+      "num": "3",
+      "sort": "3",
+      "update_id": "2314",
+      "update_time": "2025-11-27 11:19:33",
+      "year": "2024",
+      "province_name": "广西"
     },
     {
       "id": "31057",

@@ -1,9 +1,22 @@
 {
-  "update_time": "2026-09-01 09:25:05",
+  "update_time": "2026-10-01 10:59:01",
   "school_id": "3200",
   "school_name": "四川西南航空职业学院",
-  "jobrateyear": "",
-  "jobrate": {},
+  "jobrateyear": "2024",
+  "jobrate": {
+    "job": {
+      "1": "95.09"
+    },
+    "postgraduate": {
+      "1": "14.65"
+    },
+    "abroad": {
+      "1": "0.19"
+    },
+    "content": {
+      "1": "<p><img src=\"https://static-data.gaokao.cn//upload/image/202608/core_1788160995_9753_thumb.png\" title=\"core_1788160995_9753_thumb.png\" alt=\"core_1788160995_9753.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202608/core_1788161017_8827_thumb.png\" title=\"core_1788161017_8827_thumb.png\" alt=\"core_1788161017_8827.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202608/core_1788161050_4535_thumb.png\" title=\"core_1788161050_4535_thumb.png\" alt=\"core_1788161050_4535.png\"></p>"
+    }
+  },
   "province": [],
   "attr": {},
   "company": {},

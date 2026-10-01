@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-09-01 09:13:26",
+  "update_time": "2026-10-01 10:47:26",
   "school_id": "1730",
   "school_name": "桂林师范学院",
   "jobrateyear": "2024",
@@ -19,28 +19,16 @@
   },
   "province": [
     {
-      "id": "28037",
+      "id": "28040",
       "school_id": "1730",
-      "province": "上海",
+      "province": "贵州",
       "rate": "0.26",
       "num": "0",
       "sort": "26",
       "update_id": "1988",
       "update_time": "2025-11-11 10:46:22",
       "year": "2024",
-      "province_name": "上海"
-    },
-    {
-      "id": "28038",
-      "school_id": "1730",
-      "province": "四川",
-      "rate": "0.26",
-      "num": "0",
-      "sort": "26",
-      "update_id": "1988",
-      "update_time": "2025-11-11 10:46:22",
-      "year": "2024",
-      "province_name": "四川"
+      "province_name": "贵州"
     },
     {
       "id": "28039",
@@ -55,28 +43,28 @@
       "province_name": "湖北"
     },
     {
-      "id": "28040",
+      "id": "28038",
       "school_id": "1730",
-      "province": "贵州",
+      "province": "四川",
       "rate": "0.26",
       "num": "0",
       "sort": "26",
       "update_id": "1988",
       "update_time": "2025-11-11 10:46:22",
       "year": "2024",
-      "province_name": "贵州"
+      "province_name": "四川"
     },
     {
-      "id": "28035",
+      "id": "28037",
       "school_id": "1730",
-      "province": "福建",
-      "rate": "0.39",
+      "province": "上海",
+      "rate": "0.26",
       "num": "0",
-      "sort": "39",
+      "sort": "26",
       "update_id": "1988",
       "update_time": "2025-11-11 10:46:22",
       "year": "2024",
-      "province_name": "福建"
+      "province_name": "上海"
     },
     {
       "id": "28036",
@@ -89,6 +77,18 @@
       "update_time": "2025-11-11 10:46:22",
       "year": "2024",
       "province_name": "北京"
+    },
+    {
+      "id": "28035",
+      "school_id": "1730",
+      "province": "福建",
+      "rate": "0.39",
+      "num": "0",
+      "sort": "39",
+      "update_id": "1988",
+      "update_time": "2025-11-11 10:46:22",
+      "year": "2024",
+      "province_name": "福建"
     },
     {
       "id": "28034",

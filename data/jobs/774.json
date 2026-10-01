@@ -1,9 +1,22 @@
 {
-  "update_time": "2026-09-01 09:05:27",
+  "update_time": "2026-10-01 10:39:36",
   "school_id": "774",
   "school_name": "成都职业技术学院",
-  "jobrateyear": "",
-  "jobrate": {},
+  "jobrateyear": "2025",
+  "jobrate": {
+    "job": {
+      "1": "96.06"
+    },
+    "postgraduate": {
+      "1": "25.24"
+    },
+    "abroad": {
+      "1": "0.21"
+    },
+    "content": {
+      "1": "<p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788332437_7059_thumb.png\" title=\"core_1788332437_7059_thumb.png\" alt=\"core_1788332437_7059.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788332450_7890_thumb.png\" title=\"core_1788332450_7890_thumb.png\" alt=\"core_1788332450_7890.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788332564_2577_thumb.png\" title=\"core_1788332564_2577_thumb.png\" alt=\"core_1788332564_2577.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788332576_7147_thumb.png\" title=\"core_1788332576_7147_thumb.png\" alt=\"core_1788332576_7147.png\"></p>"
+    }
+  },
   "province": [],
   "attr": {},
   "company": {},

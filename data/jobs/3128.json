@@ -1,9 +1,22 @@
 {
-  "update_time": "2026-09-01 09:24:51",
+  "update_time": "2026-10-01 10:58:48",
   "school_id": "3128",
   "school_name": "白银矿冶职业技术学院",
-  "jobrateyear": "",
-  "jobrate": {},
+  "jobrateyear": "2024",
+  "jobrate": {
+    "job": {
+      "1": "77.80"
+    },
+    "postgraduate": {
+      "1": "0.00"
+    },
+    "abroad": {
+      "1": "0.00"
+    },
+    "content": {
+      "1": "<p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1789379131_4844_thumb.jpg\" xss=removed title=\"core_1789379131_4844_thumb.jpg\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1789379131_9944_thumb.jpg\" xss=removed title=\"core_1789379131_9944_thumb.jpg\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1789379131_6772_thumb.jpg\" xss=removed title=\"core_1789379131_6772_thumb.jpg\"></p><p><br></p>"
+    }
+  },
   "province": [],
   "attr": {},
   "company": {},

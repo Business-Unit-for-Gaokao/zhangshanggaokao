@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-09-01 09:20:27",
+  "update_time": "2026-10-01 10:54:14",
   "school_id": "2411",
   "school_name": "淮北理工学院",
   "jobrateyear": "2024",
@@ -151,18 +151,6 @@
       "province_name": "重庆"
     },
     {
-      "id": "20450",
-      "school_id": "2411",
-      "province": "青海",
-      "rate": "0.24",
-      "num": "3",
-      "sort": "3",
-      "update_id": "2004",
-      "update_time": "2024-06-20 10:52:54",
-      "year": "2023",
-      "province_name": "青海"
-    },
-    {
       "id": "20449",
       "school_id": "2411",
       "province": "河北",
@@ -173,6 +161,18 @@
       "update_time": "2024-06-20 10:52:54",
       "year": "2023",
       "province_name": "河北"
+    },
+    {
+      "id": "20450",
+      "school_id": "2411",
+      "province": "青海",
+      "rate": "0.24",
+      "num": "3",
+      "sort": "3",
+      "update_id": "2004",
+      "update_time": "2024-06-20 10:52:54",
+      "year": "2023",
+      "province_name": "青海"
     },
     {
       "id": "20448",

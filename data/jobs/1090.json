@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-09-01 09:08:16",
+  "update_time": "2026-10-01 10:42:26",
   "school_id": "1090",
   "school_name": "榆林大学",
   "jobrateyear": "2024",
@@ -139,16 +139,16 @@
       "province_name": "云南省"
     },
     {
-      "id": "24273",
+      "id": "24271",
       "school_id": "1090",
-      "province": "重庆市",
+      "province": "安徽省",
       "rate": "0.44",
       "num": "12",
       "sort": "44",
       "update_id": "2094",
       "update_time": "2025-01-02 17:31:39",
       "year": "2022",
-      "province_name": "重庆市"
+      "province_name": "安徽省"
     },
     {
       "id": "24272",
@@ -163,16 +163,16 @@
       "province_name": "天津市"
     },
     {
-      "id": "24271",
+      "id": "24273",
       "school_id": "1090",
-      "province": "安徽省",
+      "province": "重庆市",
       "rate": "0.44",
       "num": "12",
       "sort": "44",
       "update_id": "2094",
       "update_time": "2025-01-02 17:31:39",
       "year": "2022",
-      "province_name": "安徽省"
+      "province_name": "重庆市"
     },
     {
       "id": "24270",

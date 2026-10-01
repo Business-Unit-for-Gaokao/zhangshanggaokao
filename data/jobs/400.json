@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-09-01 09:01:52",
+  "update_time": "2026-10-01 10:36:02",
   "school_id": "400",
   "school_name": "吉林化工大学",
   "jobrateyear": "2024",
@@ -103,18 +103,6 @@
       "province_name": "湖南"
     },
     {
-      "id": "32313",
-      "school_id": "400",
-      "province": "贵州",
-      "rate": "0.50",
-      "num": "17",
-      "sort": "17",
-      "update_id": "2096",
-      "update_time": "2025-12-01 15:22:46",
-      "year": "2024",
-      "province_name": "贵州"
-    },
-    {
       "id": "32312",
       "school_id": "400",
       "province": "山西",
@@ -125,6 +113,18 @@
       "update_time": "2025-12-01 15:22:46",
       "year": "2024",
       "province_name": "山西"
+    },
+    {
+      "id": "32313",
+      "school_id": "400",
+      "province": "贵州",
+      "rate": "0.50",
+      "num": "17",
+      "sort": "17",
+      "update_id": "2096",
+      "update_time": "2025-12-01 15:22:46",
+      "year": "2024",
+      "province_name": "贵州"
     },
     {
       "id": "32311",
@@ -271,18 +271,6 @@
       "province_name": "北京"
     },
     {
-      "id": "32299",
-      "school_id": "400",
-      "province": "河南",
-      "rate": "2.05",
-      "num": "70",
-      "sort": "70",
-      "update_id": "2096",
-      "update_time": "2025-12-01 15:22:46",
-      "year": "2024",
-      "province_name": "河南"
-    },
-    {
       "id": "32298",
       "school_id": "400",
       "province": "黑龙江",
@@ -293,6 +281,18 @@
       "update_time": "2025-12-01 15:22:46",
       "year": "2024",
       "province_name": "黑龙江"
+    },
+    {
+      "id": "32299",
+      "school_id": "400",
+      "province": "河南",
+      "rate": "2.05",
+      "num": "70",
+      "sort": "70",
+      "update_id": "2096",
+      "update_time": "2025-12-01 15:22:46",
+      "year": "2024",
+      "province_name": "河南"
     },
     {
       "id": "32297",

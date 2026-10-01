@@ -1,9 +1,22 @@
 {
-  "update_time": "2026-09-01 09:17:43",
+  "update_time": "2026-10-01 10:51:37",
   "school_id": "2137",
   "school_name": "曲阜远东职业技术学院",
-  "jobrateyear": "",
-  "jobrate": {},
+  "jobrateyear": "2025",
+  "jobrate": {
+    "job": {
+      "1": "0.00"
+    },
+    "postgraduate": {
+      "1": "2.91"
+    },
+    "abroad": {
+      "1": "0.00"
+    },
+    "content": {
+      "1": "<p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788429685_9527_thumb.png\" title=\"core_1788429685_9527_thumb.png\" alt=\"core_1788429685_9527.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788429695_7751_thumb.png\" title=\"core_1788429695_7751_thumb.png\" alt=\"core_1788429695_7751.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788429714_4912_thumb.png\" title=\"core_1788429714_4912_thumb.png\" alt=\"core_1788429714_4912.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788429730_6326_thumb.png\" title=\"core_1788429730_6326_thumb.png\" alt=\"core_1788429730_6326.png\"></p>"
+    }
+  },
   "province": [],
   "attr": {},
   "company": {},

@@ -1,9 +1,22 @@
 {
-  "update_time": "2026-09-01 09:15:46",
+  "update_time": "2026-10-01 10:49:41",
   "school_id": "1949",
   "school_name": "荆州职业技术学院",
-  "jobrateyear": "",
-  "jobrate": {},
+  "jobrateyear": "2025",
+  "jobrate": {
+    "job": {
+      "1": "88.53"
+    },
+    "postgraduate": {
+      "1": "0.00"
+    },
+    "abroad": {
+      "1": "0.00"
+    },
+    "content": {
+      "1": "<p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1789033256_5972_thumb.jpg\" xss=removed title=\"core_1789033256_5972_thumb.jpg\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1789033256_7560_thumb.jpg\" xss=removed title=\"core_1789033256_7560_thumb.jpg\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1789033256_9501_thumb.jpg\" xss=removed title=\"core_1789033256_9501_thumb.jpg\"></p><p><br></p>"
+    }
+  },
   "province": [],
   "attr": {},
   "company": {},

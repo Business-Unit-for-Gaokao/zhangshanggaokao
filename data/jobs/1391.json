@@ -1,9 +1,22 @@
 {
-  "update_time": "2026-09-01 09:10:36",
+  "update_time": "2026-10-01 10:44:42",
   "school_id": "1391",
   "school_name": "海口经济学院",
-  "jobrateyear": "",
-  "jobrate": {},
+  "jobrateyear": "2024",
+  "jobrate": {
+    "job": {
+      "1": "83.56"
+    },
+    "postgraduate": {
+      "1": "1.11"
+    },
+    "abroad": {
+      "1": "1.92"
+    },
+    "content": {
+      "1": "<p><img src=\"https://static-data.gaokao.cn//upload/image/202608/core_1787728409_3103_thumb.png\" title=\"core_1787728409_3103_thumb.png\" alt=\"core_1787728409_3103.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202608/core_1787728419_5981_thumb.png\" title=\"core_1787728419_5981_thumb.png\" alt=\"core_1787728419_5981.png\"></p>"
+    }
+  },
   "province": [],
   "attr": {},
   "company": {},

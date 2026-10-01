@@ -1,9 +1,22 @@
 {
-  "update_time": "2026-09-01 09:14:53",
+  "update_time": "2026-10-01 10:48:48",
   "school_id": "1864",
   "school_name": "福建船政交通职业学院",
-  "jobrateyear": "",
-  "jobrate": {},
+  "jobrateyear": "2025",
+  "jobrate": {
+    "job": {
+      "1": "97.12"
+    },
+    "postgraduate": {
+      "1": "22.37"
+    },
+    "abroad": {
+      "1": "0.00"
+    },
+    "content": {
+      "1": "<p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788515927_9833_thumb.png\" title=\"core_1788515927_9833_thumb.png\" alt=\"core_1788515927_9833.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788515939_3094_thumb.png\" title=\"core_1788515939_3094_thumb.png\" alt=\"core_1788515939_3094.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788515949_4817_thumb.png\" title=\"core_1788515949_4817_thumb.png\" alt=\"core_1788515949_4817.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788515969_7666_thumb.png\" title=\"core_1788515969_7666_thumb.png\" alt=\"core_1788515969_7666.png\"></p>"
+    }
+  },
   "province": [],
   "attr": {},
   "company": {},

@@ -1,9 +1,22 @@
 {
-  "update_time": "2026-09-01 09:16:04",
+  "update_time": "2026-10-01 10:49:58",
   "school_id": "1977",
   "school_name": "武汉外语外事职业学院",
-  "jobrateyear": "",
-  "jobrate": {},
+  "jobrateyear": "2025",
+  "jobrate": {
+    "job": {
+      "1": "91.56"
+    },
+    "postgraduate": {
+      "1": "12.54"
+    },
+    "abroad": {
+      "1": "0.33"
+    },
+    "content": {
+      "1": "<p><img src=\"https://static-data.gaokao.cn//upload/image/202608/core_1788162787_8896_thumb.png\" title=\"core_1788162787_8896_thumb.png\" alt=\"core_1788162787_8896.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202608/core_1788162810_1965_thumb.png\" title=\"core_1788162810_1965_thumb.png\" alt=\"core_1788162810_1965.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202608/core_1788162836_9564_thumb.png\" title=\"core_1788162836_9564_thumb.png\" alt=\"core_1788162836_9564.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202608/core_1788162853_6788_thumb.png\" title=\"core_1788162853_6788_thumb.png\" alt=\"core_1788162853_6788.png\"></p>"
+    }
+  },
   "province": [],
   "attr": {},
   "company": {},

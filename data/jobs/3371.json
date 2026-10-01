@@ -1,9 +1,22 @@
 {
-  "update_time": "2026-09-01 09:26:39",
+  "update_time": "2026-10-01 11:00:38",
   "school_id": "3371",
   "school_name": "郑州卫生健康职业学院",
-  "jobrateyear": "",
-  "jobrate": {},
+  "jobrateyear": "2025",
+  "jobrate": {
+    "job": {
+      "1": "95.13"
+    },
+    "postgraduate": {
+      "1": "10.10"
+    },
+    "abroad": {
+      "1": "0.00"
+    },
+    "content": {
+      "1": "<p><img src=\"https://static-data.gaokao.cn//upload/image/202608/core_1786957424_9736_thumb.png\" title=\"core_1786957424_9736_thumb.png\" alt=\"core_1786957424_9736.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202608/core_1786957434_2955_thumb.png\" title=\"core_1786957434_2955_thumb.png\" alt=\"core_1786957434_2955.png\"></p>"
+    }
+  },
   "province": [],
   "attr": {},
   "company": {},

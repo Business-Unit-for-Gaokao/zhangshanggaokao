@@ -1,9 +1,22 @@
 {
-  "update_time": "2026-09-01 09:18:53",
+  "update_time": "2026-10-01 10:52:42",
   "school_id": "2250",
   "school_name": "铜川职业技术学院",
-  "jobrateyear": "",
-  "jobrate": {},
+  "jobrateyear": "2025",
+  "jobrate": {
+    "job": {
+      "1": "80.05"
+    },
+    "postgraduate": {
+      "1": "0.00"
+    },
+    "abroad": {
+      "1": "0.00"
+    },
+    "content": {
+      "1": "<p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788330383_3697_thumb.png\" title=\"core_1788330383_3697_thumb.png\" alt=\"core_1788330383_3697.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788330395_4547_thumb.png\" title=\"core_1788330395_4547_thumb.png\" alt=\"core_1788330395_4547.png\"><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788330416_2700_thumb.png\" title=\"core_1788330416_2700_thumb.png\" alt=\"core_1788330416_2700.png\"><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788330424_1751_thumb.png\" title=\"core_1788330424_1751_thumb.png\" alt=\"core_1788330424_1751.png\"></p>"
+    }
+  },
   "province": [],
   "attr": {},
   "company": {},

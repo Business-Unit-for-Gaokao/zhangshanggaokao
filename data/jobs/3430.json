@@ -1,20 +1,20 @@
 {
-  "update_time": "2026-09-01 09:27:08",
+  "update_time": "2026-10-01 11:01:07",
   "school_id": "3430",
   "school_name": "萍乡卫生职业学院",
-  "jobrateyear": "2021",
+  "jobrateyear": "2025",
   "jobrate": {
     "job": {
-      "1": "89.63"
+      "1": "81.90"
     },
     "postgraduate": {
-      "1": "6.64"
+      "1": "0.00"
     },
     "abroad": {
       "1": "0.00"
     },
     "content": {
-      "1": ""
+      "1": "<p><img src=\"https://static-data.gaokao.cn//upload/image/202608/core_1787039112_1093_thumb.png\" title=\"core_1787039112_1093_thumb.png\" alt=\"core_1787039112_1093.png\"><img src=\"https://static-data.gaokao.cn//upload/image/202608/core_1787039138_3991_thumb.png\" title=\"core_1787039138_3991_thumb.png\" alt=\"core_1787039138_3991.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202608/core_1787039155_5484_thumb.png\" title=\"core_1787039155_5484_thumb.png\" alt=\"core_1787039155_5484.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202608/core_1787039164_8374_thumb.png\" title=\"core_1787039164_8374_thumb.png\" alt=\"core_1787039164_8374.png\"></p>"
     }
   },
   "province": [

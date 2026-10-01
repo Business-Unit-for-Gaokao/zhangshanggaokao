@@ -1,20 +1,20 @@
 {
-  "update_time": "2026-09-01 09:04:12",
+  "update_time": "2026-10-01 10:38:21",
   "school_id": "633",
   "school_name": "广州工商学院",
-  "jobrateyear": "2023",
+  "jobrateyear": "2024",
   "jobrate": {
     "job": {
-      "1": "95.29"
+      "1": "92.16"
     },
     "postgraduate": {
-      "1": "0.83"
+      "1": "1.10"
     },
     "abroad": {
-      "1": "1.59"
+      "1": "2.85"
     },
     "content": {
-      "1": ""
+      "1": "<p><img src=\"https://static-data.gaokao.cn//upload/image/202608/core_1786592176_3483_thumb.png\" title=\"core_1786592176_3483_thumb.png\" alt=\"core_1786592176_3483.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202608/core_1786592190_8475_thumb.png\" title=\"core_1786592190_8475_thumb.png\" alt=\"core_1786592190_8475.png\"></p>"
     }
   },
   "province": [

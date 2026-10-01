@@ -1,9 +1,22 @@
 {
-  "update_time": "2026-09-01 09:16:19",
+  "update_time": "2026-10-01 10:50:12",
   "school_id": "2001",
   "school_name": "湖南商务职业技术学院",
-  "jobrateyear": "",
-  "jobrate": {},
+  "jobrateyear": "2025",
+  "jobrate": {
+    "job": {
+      "1": "90.60"
+    },
+    "postgraduate": {
+      "1": "10.80"
+    },
+    "abroad": {
+      "1": "0.07"
+    },
+    "content": {
+      "1": "<p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788258155_2755_thumb.png\" title=\"core_1788258155_2755_thumb.png\" alt=\"core_1788258155_2755.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788258170_1179_thumb.png\" title=\"core_1788258170_1179_thumb.png\" alt=\"core_1788258170_1179.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788258184_3340_thumb.png\" title=\"core_1788258184_3340_thumb.png\" alt=\"core_1788258184_3340.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788258205_5547_thumb.png\" title=\"core_1788258205_5547_thumb.png\" alt=\"core_1788258205_5547.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788258235_7708_thumb.png\" title=\"core_1788258235_7708_thumb.png\" alt=\"core_1788258235_7708.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788258250_6599_thumb.png\" title=\"core_1788258250_6599_thumb.png\" alt=\"core_1788258250_6599.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788258264_1185_thumb.png\" title=\"core_1788258264_1185_thumb.png\" alt=\"core_1788258264_1185.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788258280_7534_thumb.png\" title=\"core_1788258280_7534_thumb.png\" alt=\"core_1788258280_7534.png\"></p>"
+    }
+  },
   "province": [],
   "attr": {},
   "company": {},

@@ -1,20 +1,20 @@
 {
-  "update_time": "2026-09-01 09:09:44",
+  "update_time": "2026-10-01 10:43:51",
   "school_id": "1263",
   "school_name": "安康学院",
-  "jobrateyear": "2023",
+  "jobrateyear": "2024",
   "jobrate": {
     "job": {
-      "1": "82.11"
+      "1": "85.72"
     },
     "postgraduate": {
-      "1": "6.53"
+      "1": "6.86"
     },
     "abroad": {
-      "1": "0.11"
+      "1": "0.09"
     },
     "content": {
-      "1": ""
+      "1": "<p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788344725_2442_thumb.png\" title=\"core_1788344725_2442_thumb.png\" alt=\"core_1788344725_2442.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788344748_3215_thumb.png\" title=\"core_1788344748_3215_thumb.png\" alt=\"core_1788344748_3215.png\"></p>"
     }
   },
   "province": [

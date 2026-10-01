@@ -1,20 +1,20 @@
 {
-  "update_time": "2026-09-01 09:14:22",
+  "update_time": "2026-10-01 10:48:19",
   "school_id": "1816",
   "school_name": "合肥通用职业技术学院",
-  "jobrateyear": "2023",
+  "jobrateyear": "2025",
   "jobrate": {
     "job": {
-      "1": "91.19"
+      "1": "94.13"
     },
     "postgraduate": {
-      "1": "0.00"
+      "1": "4.31"
     },
     "abroad": {
       "1": "0.00"
     },
     "content": {
-      "1": ""
+      "1": "<p><img src=\"https://static-data.gaokao.cn//upload/image/202608/core_1787036391_1455_thumb.png\" title=\"core_1787036391_1455_thumb.png\" alt=\"core_1787036391_1455.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202608/core_1787036405_1024_thumb.png\" title=\"core_1787036405_1024_thumb.png\" alt=\"core_1787036405_1024.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202608/core_1787036419_3298_thumb.png\" title=\"core_1787036419_3298_thumb.png\" alt=\"core_1787036419_3298.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202608/core_1787036454_3039_thumb.png\" title=\"core_1787036454_3039_thumb.png\" alt=\"core_1787036454_3039.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202608/core_1787036465_7528_thumb.png\" title=\"core_1787036465_7528_thumb.png\" alt=\"core_1787036465_7528.png\"></p>"
     }
   },
   "province": [

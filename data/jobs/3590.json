@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-09-01 09:28:29",
+  "update_time": "2026-10-01 11:02:27",
   "school_id": "3590",
   "school_name": "防城港职业技术学院",
   "jobrateyear": "2024",
@@ -19,16 +19,16 @@
   },
   "province": [
     {
-      "id": "27549",
+      "id": "27551",
       "school_id": "3590",
-      "province": "四川省",
+      "province": "重庆市",
       "rate": "0.88",
       "num": "0",
       "sort": "88",
       "update_id": "1211",
       "update_time": "2025-07-07 16:33:45",
       "year": "2024",
-      "province_name": "四川省"
+      "province_name": "重庆市"
     },
     {
       "id": "27550",
@@ -43,28 +43,16 @@
       "province_name": "浙江省"
     },
     {
-      "id": "27551",
+      "id": "27549",
       "school_id": "3590",
-      "province": "重庆市",
+      "province": "四川省",
       "rate": "0.88",
       "num": "0",
       "sort": "88",
       "update_id": "1211",
       "update_time": "2025-07-07 16:33:45",
       "year": "2024",
-      "province_name": "重庆市"
-    },
-    {
-      "id": "27547",
-      "school_id": "3590",
-      "province": "湖南省",
-      "rate": "1.75",
-      "num": "0",
-      "sort": "175",
-      "update_id": "1211",
-      "update_time": "2025-07-07 16:33:45",
-      "year": "2024",
-      "province_name": "湖南省"
+      "province_name": "四川省"
     },
     {
       "id": "27548",
@@ -77,6 +65,18 @@
       "update_time": "2025-07-07 16:33:45",
       "year": "2024",
       "province_name": "江西省"
+    },
+    {
+      "id": "27547",
+      "school_id": "3590",
+      "province": "湖南省",
+      "rate": "1.75",
+      "num": "0",
+      "sort": "175",
+      "update_id": "1211",
+      "update_time": "2025-07-07 16:33:45",
+      "year": "2024",
+      "province_name": "湖南省"
     },
     {
       "id": "27545",

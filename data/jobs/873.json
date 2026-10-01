@@ -1,20 +1,20 @@
 {
-  "update_time": "2026-09-01 09:06:18",
+  "update_time": "2026-10-01 10:40:31",
   "school_id": "873",
   "school_name": "河南中医药大学",
-  "jobrateyear": "2022",
+  "jobrateyear": "2024",
   "jobrate": {
     "job": {
-      "1": "90.40"
+      "1": "80.10"
     },
     "postgraduate": {
-      "1": "40.20"
+      "1": "0.00"
     },
     "abroad": {
-      "1": "0.17"
+      "1": "0.00"
     },
     "content": {
-      "1": ""
+      "1": "<p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788424596_3484_thumb.png\" title=\"core_1788424596_3484_thumb.png\" alt=\"core_1788424596_3484.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788424622_4959_thumb.png\" title=\"core_1788424622_4959_thumb.png\" alt=\"core_1788424622_4959.png\"></p>"
     }
   },
   "province": [

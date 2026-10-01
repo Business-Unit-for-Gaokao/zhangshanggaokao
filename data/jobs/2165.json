@@ -1,20 +1,20 @@
 {
-  "update_time": "2026-09-01 09:17:58",
+  "update_time": "2026-10-01 10:51:51",
   "school_id": "2165",
   "school_name": "滇西科技师范学院",
-  "jobrateyear": "2022",
+  "jobrateyear": "2024",
   "jobrate": {
     "job": {
-      "1": "88.97"
+      "1": "80.44"
     },
     "postgraduate": {
-      "1": "0.72"
+      "1": "1.32"
     },
     "abroad": {
-      "1": "0.00"
+      "1": "0.03"
     },
     "content": {
-      "1": ""
+      "1": "<p><img src=\"https://static-data.gaokao.cn//upload/image/202608/core_1786614464_2188_thumb.png\" title=\"core_1786614464_2188_thumb.png\" alt=\"core_1786614464_2188.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202608/core_1786614478_3075_thumb.png\" title=\"core_1786614478_3075_thumb.png\" alt=\"core_1786614478_3075.png\"></p>"
     }
   },
   "province": [

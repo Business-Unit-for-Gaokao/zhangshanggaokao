@@ -1,9 +1,22 @@
 {
-  "update_time": "2026-09-01 09:10:12",
+  "update_time": "2026-10-01 10:44:18",
   "school_id": "1329",
   "school_name": "三亚学院",
-  "jobrateyear": "",
-  "jobrate": {},
+  "jobrateyear": "2025",
+  "jobrate": {
+    "job": {
+      "1": "92.84"
+    },
+    "postgraduate": {
+      "1": "1.84"
+    },
+    "abroad": {
+      "1": "2.13"
+    },
+    "content": {
+      "1": "<p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788420432_1075_thumb.png\" title=\"core_1788420432_1075_thumb.png\" alt=\"core_1788420432_1075.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788420455_7263_thumb.png\" title=\"core_1788420455_7263_thumb.png\" alt=\"core_1788420455_7263.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788420475_2024_thumb.png\" title=\"core_1788420475_2024_thumb.png\" alt=\"core_1788420475_2024.png\"></p>"
+    }
+  },
   "province": [],
   "attr": {},
   "company": {},

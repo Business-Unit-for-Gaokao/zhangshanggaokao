@@ -1,9 +1,22 @@
 {
-  "update_time": "2026-09-01 09:19:03",
+  "update_time": "2026-10-01 10:52:50",
   "school_id": "2268",
   "school_name": "贵州航天职业技术学院",
-  "jobrateyear": "",
-  "jobrate": {},
+  "jobrateyear": "2025",
+  "jobrate": {
+    "job": {
+      "1": "96.01"
+    },
+    "postgraduate": {
+      "1": "13.34"
+    },
+    "abroad": {
+      "1": "0.00"
+    },
+    "content": {
+      "1": "<p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788422053_7449_thumb.png\" title=\"core_1788422053_7449_thumb.png\" alt=\"core_1788422053_7449.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788422064_4694_thumb.png\" title=\"core_1788422064_4694_thumb.png\" alt=\"core_1788422064_4694.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788422081_5450_thumb.png\" title=\"core_1788422081_5450_thumb.png\" alt=\"core_1788422081_5450.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788422094_2215_thumb.png\" title=\"core_1788422094_2215_thumb.png\" alt=\"core_1788422094_2215.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788422108_3309_thumb.png\" title=\"core_1788422108_3309_thumb.png\" alt=\"core_1788422108_3309.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788422122_3629_thumb.png\" title=\"core_1788422122_3629_thumb.png\" alt=\"core_1788422122_3629.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788422229_6845_thumb.png\" title=\"core_1788422229_6845_thumb.png\" alt=\"core_1788422229_6845.png\"></p>"
+    }
+  },
   "province": [],
   "attr": {},
   "company": {},

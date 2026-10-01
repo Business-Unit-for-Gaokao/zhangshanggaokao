@@ -1,13 +1,38 @@
 {
-  "update_time": "2026-09-01 09:20:32",
+  "update_time": "2026-10-01 10:54:20",
   "school_id": "2419",
   "school_name": "民办合肥滨湖职业技术学院",
-  "jobrateyear": "",
-  "jobrate": {},
+  "jobrateyear": "2024",
+  "jobrate": {
+    "job": {
+      "1": "93.50"
+    },
+    "postgraduate": {
+      "1": "0.00"
+    },
+    "abroad": {
+      "1": "0.00"
+    },
+    "content": {
+      "1": "<p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1789373164_5624_thumb.jpg\" xss=removed title=\"core_1789373164_5624_thumb.jpg\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1789373164_3702_thumb.jpg\" xss=removed title=\"core_1789373164_3702_thumb.jpg\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1789373164_8069_thumb.jpg\" xss=removed title=\"core_1789373164_8069_thumb.jpg\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1789373165_8731_thumb.jpg\" xss=removed title=\"core_1789373165_8731_thumb.jpg\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1789373165_1816_thumb.jpg\" xss=removed title=\"core_1789373165_1816_thumb.jpg\"></p><p><br></p>"
+    }
+  },
   "province": [],
   "attr": {},
   "company": {},
-  "gradute": [],
+  "gradute": [
+    {
+      "id": "2877",
+      "school_id": "2419",
+      "female_num": "808",
+      "men_num": "809",
+      "men_rate": "50.03",
+      "female_rate": "49.97",
+      "update_id": "1211",
+      "update_time": "2026-09-14 16:08:03",
+      "year": "2025"
+    }
+  ],
   "remark": "",
   "salary": {
     "6": "8300"

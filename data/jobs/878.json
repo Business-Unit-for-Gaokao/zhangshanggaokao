@@ -1,20 +1,20 @@
 {
-  "update_time": "2026-09-01 09:06:21",
+  "update_time": "2026-10-01 10:40:34",
   "school_id": "878",
   "school_name": "安阳师范学院",
-  "jobrateyear": "2022",
+  "jobrateyear": "2024",
   "jobrate": {
     "job": {
-      "1": "91.04"
+      "1": "80.41"
     },
     "postgraduate": {
-      "1": "19.70"
-    },
-    "abroad": {
       "1": "0.00"
     },
+    "abroad": {
+      "1": "0.56"
+    },
     "content": {
-      "1": ""
+      "1": "<p><img src=\"https://static-data.gaokao.cn//upload/image/202606/core_1782030064_4671_thumb.jpg\" xss=removed title=\"core_1782030064_4671_thumb.jpg\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202606/core_1782030064_8936_thumb.jpg\" xss=removed title=\"core_1782030064_8936_thumb.jpg\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202606/core_1782030064_5410_thumb.jpg\" xss=removed title=\"core_1782030064_5410_thumb.jpg\"></p><p><br></p>"
     }
   },
   "province": [

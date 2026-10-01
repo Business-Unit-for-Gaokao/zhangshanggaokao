@@ -1,20 +1,20 @@
 {
-  "update_time": "2026-09-01 09:20:58",
+  "update_time": "2026-10-01 10:54:46",
   "school_id": "2462",
   "school_name": "武汉传媒学院",
-  "jobrateyear": "2019",
+  "jobrateyear": "2024",
   "jobrate": {
     "job": {
-      "1": "93.21"
+      "1": "91.30"
     },
     "postgraduate": {
-      "1": "1.45"
+      "1": "1.29"
     },
     "abroad": {
-      "1": "0.75"
+      "1": "1.97"
     },
     "content": {
-      "1": ""
+      "1": "<p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788746668_2659_thumb.png\" title=\"core_1788746668_2659_thumb.png\" alt=\"core_1788746668_2659.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788746684_7123_thumb.png\" title=\"core_1788746684_7123_thumb.png\" alt=\"core_1788746684_7123.png\"></p>"
     }
   },
   "province": [

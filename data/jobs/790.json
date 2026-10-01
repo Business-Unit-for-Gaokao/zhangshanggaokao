@@ -1,9 +1,22 @@
 {
-  "update_time": "2026-09-01 09:05:37",
+  "update_time": "2026-10-01 10:39:47",
   "school_id": "790",
   "school_name": "雅安职业技术学院",
-  "jobrateyear": "",
-  "jobrate": {},
+  "jobrateyear": "2024",
+  "jobrate": {
+    "job": {
+      "1": "95.94"
+    },
+    "postgraduate": {
+      "1": "16.59"
+    },
+    "abroad": {
+      "1": "0.00"
+    },
+    "content": {
+      "1": "<p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788862097_8661_thumb.png\" title=\"core_1788862097_8661_thumb.png\" alt=\"core_1788862097_8661.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788862107_8684_thumb.png\" title=\"core_1788862107_8684_thumb.png\" alt=\"core_1788862107_8684.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788862122_5701_thumb.png\" title=\"core_1788862122_5701_thumb.png\" alt=\"core_1788862122_5701.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788862142_7594_thumb.png\" title=\"core_1788862142_7594_thumb.png\" alt=\"core_1788862142_7594.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788862159_4510_thumb.png\" title=\"core_1788862159_4510_thumb.png\" alt=\"core_1788862159_4510.png\"></p>"
+    }
+  },
   "province": [],
   "attr": {},
   "company": {},

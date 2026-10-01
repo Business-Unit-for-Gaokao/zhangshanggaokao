@@ -1,20 +1,20 @@
 {
-  "update_time": "2026-09-01 08:59:15",
+  "update_time": "2026-10-01 10:33:22",
   "school_id": "148",
   "school_name": "常州工学院",
-  "jobrateyear": "2022",
+  "jobrateyear": "2024",
   "jobrate": {
     "job": {
-      "1": "95.53"
+      "1": "92.02"
     },
     "postgraduate": {
-      "1": "0.00"
+      "1": "12.27"
     },
     "abroad": {
-      "1": "0.00"
+      "1": "2.77"
     },
     "content": {
-      "1": ""
+      "1": "<p><img src=\"https://static-data.gaokao.cn//upload/image/202608/core_1786676425_2043_thumb.png\" title=\"core_1786676425_2043_thumb.png\" alt=\"core_1786676425_2043.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202608/core_1786676439_2191_thumb.png\" title=\"core_1786676439_2191_thumb.png\" alt=\"core_1786676439_2191.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202608/core_1786676455_4719_thumb.png\" title=\"core_1786676455_4719_thumb.png\" alt=\"core_1786676455_4719.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202608/core_1786676472_4340_thumb.png\" title=\"core_1786676472_4340_thumb.png\" alt=\"core_1786676472_4340.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202608/core_1786676489_7801_thumb.png\" title=\"core_1786676489_7801_thumb.png\" alt=\"core_1786676489_7801.png\"></p>"
     }
   },
   "province": [
@@ -159,11 +159,11 @@
     "其他": "0.14",
     "城镇社区": "0.11",
     "其他事业单位": "0.50",
-    "机关": "0.40",
     "科研设计单位": "0.04",
-    "医疗卫生单位": "0.03",
+    "机关": "0.40",
+    "高等教育单位": "0.03",
     "农村建制村": "0.03",
-    "高等教育单位": "0.03"
+    "医疗卫生单位": "0.03"
   },
   "company": {},
   "gradute": [

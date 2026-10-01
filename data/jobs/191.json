@@ -1,20 +1,20 @@
 {
-  "update_time": "2026-09-01 08:59:41",
+  "update_time": "2026-10-01 10:33:49",
   "school_id": "191",
   "school_name": "长江师范学院",
-  "jobrateyear": "2023",
+  "jobrateyear": "2024",
   "jobrate": {
     "job": {
-      "1": "96.02"
+      "1": "84.38"
     },
     "postgraduate": {
-      "1": "9.07"
+      "1": "0.00"
     },
     "abroad": {
-      "1": "0.42"
+      "1": "0.00"
     },
     "content": {
-      "1": ""
+      "1": "<p><img src=\"https://static-data.gaokao.cn//upload/image/202606/core_1781926258_4913_thumb.jpg\" xss=removed title=\"core_1781926258_4913_thumb.jpg\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202606/core_1781926258_2161_thumb.jpg\" xss=removed title=\"core_1781926258_2161_thumb.jpg\"></p><p><br></p>"
     }
   },
   "province": [

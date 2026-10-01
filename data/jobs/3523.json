@@ -1,9 +1,22 @@
 {
-  "update_time": "2026-09-01 09:27:56",
+  "update_time": "2026-10-01 11:01:58",
   "school_id": "3523",
   "school_name": "重庆理工职业学院",
-  "jobrateyear": "",
-  "jobrate": {},
+  "jobrateyear": "2025",
+  "jobrate": {
+    "job": {
+      "1": "90.53"
+    },
+    "postgraduate": {
+      "1": "12.09"
+    },
+    "abroad": {
+      "1": "0.00"
+    },
+    "content": {
+      "1": "<p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788421706_8328_thumb.png\" title=\"core_1788421706_8328_thumb.png\" alt=\"core_1788421706_8328.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788421719_1044_thumb.png\" title=\"core_1788421719_1044_thumb.png\" alt=\"core_1788421719_1044.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788421787_4771_thumb.png\" title=\"core_1788421787_4771_thumb.png\" alt=\"core_1788421787_4771.png\"></p>"
+    }
+  },
   "province": [],
   "attr": {},
   "company": {},

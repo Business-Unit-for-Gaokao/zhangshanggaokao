@@ -1,9 +1,22 @@
 {
-  "update_time": "2026-09-01 09:17:03",
+  "update_time": "2026-10-01 10:50:58",
   "school_id": "2075",
   "school_name": "巴音郭楞职业技术学院",
-  "jobrateyear": "",
-  "jobrate": {},
+  "jobrateyear": "2025",
+  "jobrate": {
+    "job": {
+      "1": "96.04"
+    },
+    "postgraduate": {
+      "1": "9.33"
+    },
+    "abroad": {
+      "1": "0.00"
+    },
+    "content": {
+      "1": "<p xss=removed>2025 届高职毕业生 5425 人，已就业5210 人，毕业去向落实率为 96.04%。其中，少数民族毕业生去向落实率为93.69%，女生去向落实率 94.71%；毕业生自主创业比例 0.85%，毕业生就业岗位与专业对口率 74.28%，毕业生半年后的平均月收入为3759.27 元，对就业现状的满意度为 98.80%，毕业生就业情况整体向好。</p><p xss=removed><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788418419_4078_thumb.png\" title=\"core_1788418419_4078_thumb.png\" alt=\"core_1788418419_4078.png\"></p><p xss=removed><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788418431_5270_thumb.png\" title=\"core_1788418431_5270_thumb.png\" alt=\"core_1788418431_5270.png\"></p>"
+    }
+  },
   "province": [],
   "attr": {},
   "company": {},

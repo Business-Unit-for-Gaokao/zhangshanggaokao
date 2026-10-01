@@ -1,9 +1,22 @@
 {
-  "update_time": "2026-09-01 09:15:47",
+  "update_time": "2026-10-01 10:49:42",
   "school_id": "1951",
   "school_name": "湖北轻工职业技术学院",
-  "jobrateyear": "",
-  "jobrate": {},
+  "jobrateyear": "2024",
+  "jobrate": {
+    "job": {
+      "1": "93.55"
+    },
+    "postgraduate": {
+      "1": "12.65"
+    },
+    "abroad": {
+      "1": "0.00"
+    },
+    "content": {
+      "1": "<p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788505787_5383_thumb.png\" title=\"core_1788505787_5383_thumb.png\" alt=\"core_1788505787_5383.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788505796_1214_thumb.png\" title=\"core_1788505796_1214_thumb.png\" alt=\"core_1788505796_1214.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788505804_1652_thumb.png\" title=\"core_1788505804_1652_thumb.png\" alt=\"core_1788505804_1652.png\"></p>"
+    }
+  },
   "province": [],
   "attr": {},
   "company": {},

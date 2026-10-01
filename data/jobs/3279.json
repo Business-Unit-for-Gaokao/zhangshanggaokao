@@ -1,9 +1,22 @@
 {
-  "update_time": "2026-09-01 09:25:45",
+  "update_time": "2026-10-01 10:59:41",
   "school_id": "3279",
   "school_name": "海南健康管理职业技术学院",
-  "jobrateyear": "",
-  "jobrate": {},
+  "jobrateyear": "2024",
+  "jobrate": {
+    "job": {
+      "1": "93.15"
+    },
+    "postgraduate": {
+      "1": "0.00"
+    },
+    "abroad": {
+      "1": "0.00"
+    },
+    "content": {
+      "1": "<p><img src=\"https://static-data.gaokao.cn//upload/image/202608/core_1787032757_9603_thumb.png\" title=\"core_1787032757_9603_thumb.png\" alt=\"core_1787032757_9603.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202608/core_1787032767_8753_thumb.png\" title=\"core_1787032767_8753_thumb.png\" alt=\"core_1787032767_8753.png\"></p>"
+    }
+  },
   "province": [],
   "attr": {},
   "company": {},

@@ -1,9 +1,22 @@
 {
-  "update_time": "2026-09-01 09:05:54",
+  "update_time": "2026-10-01 10:40:05",
   "school_id": "821",
   "school_name": "北京科技职业学院",
-  "jobrateyear": "",
-  "jobrate": {},
+  "jobrateyear": "2024",
+  "jobrate": {
+    "job": {
+      "1": "87.61"
+    },
+    "postgraduate": {
+      "1": "0.00"
+    },
+    "abroad": {
+      "1": "0.00"
+    },
+    "content": {
+      "1": "<p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1789703271_9635_thumb.png\" xss=removed title=\"core_1789703271_9635_thumb.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1789703271_1716_thumb.png\" xss=removed title=\"core_1789703271_1716_thumb.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1789703271_5857_thumb.png\" xss=removed title=\"core_1789703271_5857_thumb.png\"></p><p><br></p>"
+    }
+  },
   "province": [],
   "attr": {},
   "company": {},

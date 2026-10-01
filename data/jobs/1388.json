@@ -1,9 +1,22 @@
 {
-  "update_time": "2026-09-01 09:10:35",
+  "update_time": "2026-10-01 10:44:41",
   "school_id": "1388",
   "school_name": "苏州卫生职业技术学院",
-  "jobrateyear": "",
-  "jobrate": {},
+  "jobrateyear": "2025",
+  "jobrate": {
+    "job": {
+      "1": "96.16"
+    },
+    "postgraduate": {
+      "1": "0.00"
+    },
+    "abroad": {
+      "1": "0.00"
+    },
+    "content": {
+      "1": "<p><img src=\"https://static-data.gaokao.cn//upload/image/202608/core_1786958021_2784_thumb.png\" title=\"core_1786958021_2784_thumb.png\" alt=\"core_1786958021_2784.png\"></p>"
+    }
+  },
   "province": [],
   "attr": {},
   "company": {},

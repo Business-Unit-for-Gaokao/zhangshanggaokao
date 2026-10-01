@@ -1,13 +1,38 @@
 {
-  "update_time": "2026-09-01 09:22:41",
+  "update_time": "2026-10-01 10:56:31",
   "school_id": "2671",
   "school_name": "河南应用技术职业学院",
-  "jobrateyear": "",
-  "jobrate": {},
+  "jobrateyear": "2025",
+  "jobrate": {
+    "job": {
+      "1": "85.60"
+    },
+    "postgraduate": {
+      "1": "0.00"
+    },
+    "abroad": {
+      "1": "0.00"
+    },
+    "content": {
+      "1": "<p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1789110277_2121_thumb.png\" title=\"core_1789110277_2121_thumb.png\" alt=\"core_1789110277_2121.png\"></p>"
+    }
+  },
   "province": [],
   "attr": {},
   "company": {},
-  "gradute": [],
+  "gradute": [
+    {
+      "id": "2872",
+      "school_id": "2671",
+      "female_num": "4129",
+      "men_num": "3439",
+      "men_rate": "45.44",
+      "female_rate": "54.56",
+      "update_id": "1211",
+      "update_time": "2026-09-11 15:06:41",
+      "year": "2025"
+    }
+  ],
   "remark": "",
   "salary": {
     "6": "7600"

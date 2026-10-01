@@ -1,46 +1,34 @@
 {
-  "update_time": "2026-09-01 08:58:57",
+  "update_time": "2026-10-01 10:33:04",
   "school_id": "117",
   "school_name": "中国药科大学",
-  "jobrateyear": "2022",
+  "jobrateyear": "2023",
   "jobrate": {
     "job": {
-      "1": "92.95"
+      "1": "92.30"
     },
     "postgraduate": {
-      "1": "31.26"
+      "1": "43.82"
     },
     "abroad": {
-      "1": "3.74"
+      "1": "6.65"
     },
     "content": {
-      "1": ""
+      "1": "<p><img src=\"https://static-data.gaokao.cn//upload/image/202608/core_1785896559_2135_thumb.png\" title=\"core_1785896559_2135_thumb.png\" alt=\"core_1785896559_2135.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202608/core_1785896568_4960_thumb.png\" title=\"core_1785896568_4960_thumb.png\" alt=\"core_1785896568_4960.png\"></p>"
     }
   },
   "province": [
     {
-      "id": "14944",
+      "id": "14947",
       "school_id": "117",
-      "province": "长三角",
-      "rate": "60.41",
+      "province": "西部地区",
+      "rate": "14.06",
       "num": "0",
       "sort": "1",
       "update_id": "1721",
       "update_time": "2024-05-29 10:47:49",
       "year": "2022",
-      "province_name": "长三角"
-    },
-    {
-      "id": "14945",
-      "school_id": "117",
-      "province": "长江经济带",
-      "rate": "71.98",
-      "num": "0",
-      "sort": "1",
-      "update_id": "1721",
-      "update_time": "2024-05-29 10:47:49",
-      "year": "2022",
-      "province_name": "长江经济带"
+      "province_name": "西部地区"
     },
     {
       "id": "14946",
@@ -55,16 +43,28 @@
       "province_name": "一带一路"
     },
     {
-      "id": "14947",
+      "id": "14945",
       "school_id": "117",
-      "province": "西部地区",
-      "rate": "14.06",
+      "province": "长江经济带",
+      "rate": "71.98",
       "num": "0",
       "sort": "1",
       "update_id": "1721",
       "update_time": "2024-05-29 10:47:49",
       "year": "2022",
-      "province_name": "西部地区"
+      "province_name": "长江经济带"
+    },
+    {
+      "id": "14944",
+      "school_id": "117",
+      "province": "长三角",
+      "rate": "60.41",
+      "num": "0",
+      "sort": "1",
+      "update_id": "1721",
+      "update_time": "2024-05-29 10:47:49",
+      "year": "2022",
+      "province_name": "长三角"
     }
   ],
   "attr": {

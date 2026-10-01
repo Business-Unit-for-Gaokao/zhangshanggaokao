@@ -1,20 +1,20 @@
 {
-  "update_time": "2026-09-01 09:08:40",
+  "update_time": "2026-10-01 10:42:52",
   "school_id": "1148",
   "school_name": "郑州工商学院",
-  "jobrateyear": "2020",
+  "jobrateyear": "2024",
   "jobrate": {
     "job": {
-      "1": "91.78"
+      "1": "85.18"
     },
     "postgraduate": {
-      "1": "10.84"
+      "1": "0.00"
     },
     "abroad": {
-      "1": "0.19"
+      "1": "0.00"
     },
     "content": {
-      "1": ""
+      "1": "<p><img src=\"https://static-data.gaokao.cn//upload/image/202608/core_1787733675_7185_thumb.png\" title=\"core_1787733675_7185_thumb.png\" alt=\"core_1787733675_7185.png\">    </p>"
     }
   },
   "province": [

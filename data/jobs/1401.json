@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-09-01 09:10:42",
+  "update_time": "2026-10-01 10:44:48",
   "school_id": "1401",
   "school_name": "北京中医药大学东方学院",
   "jobrateyear": "2022",
@@ -79,18 +79,6 @@
       "province_name": "广西"
     },
     {
-      "id": "18802",
-      "school_id": "1401",
-      "province": "江西省",
-      "rate": "0.50",
-      "num": "14",
-      "sort": "14",
-      "update_id": "2004",
-      "update_time": "2024-06-15 15:47:01",
-      "year": "2022",
-      "province_name": "江西省"
-    },
-    {
       "id": "18801",
       "school_id": "1401",
       "province": "重庆市",
@@ -101,6 +89,18 @@
       "update_time": "2024-06-15 15:47:01",
       "year": "2022",
       "province_name": "重庆市"
+    },
+    {
+      "id": "18802",
+      "school_id": "1401",
+      "province": "江西省",
+      "rate": "0.50",
+      "num": "14",
+      "sort": "14",
+      "update_id": "2004",
+      "update_time": "2024-06-15 15:47:01",
+      "year": "2022",
+      "province_name": "江西省"
     },
     {
       "id": "18803",
@@ -139,18 +139,6 @@
       "province_name": "甘肃省"
     },
     {
-      "id": "18799",
-      "school_id": "1401",
-      "province": "海南省",
-      "rate": "0.75",
-      "num": "21",
-      "sort": "21",
-      "update_id": "2004",
-      "update_time": "2024-06-15 15:47:01",
-      "year": "2022",
-      "province_name": "海南省"
-    },
-    {
       "id": "18798",
       "school_id": "1401",
       "province": "河南省",
@@ -161,6 +149,18 @@
       "update_time": "2024-06-15 15:47:01",
       "year": "2022",
       "province_name": "河南省"
+    },
+    {
+      "id": "18799",
+      "school_id": "1401",
+      "province": "海南省",
+      "rate": "0.75",
+      "num": "21",
+      "sort": "21",
+      "update_id": "2004",
+      "update_time": "2024-06-15 15:47:01",
+      "year": "2022",
+      "province_name": "海南省"
     },
     {
       "id": "18791",

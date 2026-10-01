@@ -1,9 +1,22 @@
 {
-  "update_time": "2026-09-01 09:08:27",
+  "update_time": "2026-10-01 10:42:39",
   "school_id": "1118",
   "school_name": "江苏警官学院",
-  "jobrateyear": "",
-  "jobrate": {},
+  "jobrateyear": "2024",
+  "jobrate": {
+    "job": {
+      "1": "94.94"
+    },
+    "postgraduate": {
+      "1": "0.80"
+    },
+    "abroad": {
+      "1": "0.20"
+    },
+    "content": {
+      "1": "<p><img src=\"https://static-data.gaokao.cn//upload/image/202608/core_1786679842_4076_thumb.png\" title=\"core_1786679842_4076_thumb.png\" alt=\"core_1786679842_4076.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202608/core_1786679903_6558_thumb.png\" title=\"core_1786679903_6558_thumb.png\" alt=\"core_1786679903_6558.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202608/core_1786679926_9190_thumb.png\" title=\"core_1786679926_9190_thumb.png\" alt=\"core_1786679926_9190.png\"><img src=\"https://static-data.gaokao.cn//upload/image/202608/core_1786679943_3278_thumb.png\" title=\"core_1786679943_3278_thumb.png\" alt=\"core_1786679943_3278.png\"><img src=\"https://static-data.gaokao.cn//upload/image/202608/core_1786680091_6121_thumb.png\" title=\"core_1786680091_6121_thumb.png\" alt=\"core_1786680091_6121.png\"></p>"
+    }
+  },
   "province": [],
   "attr": {},
   "company": {},

@@ -1,9 +1,22 @@
 {
-  "update_time": "2026-09-01 09:27:32",
+  "update_time": "2026-10-01 11:01:33",
   "school_id": "3488",
   "school_name": "青岛幼儿师范高等专科学校",
-  "jobrateyear": "",
-  "jobrate": {},
+  "jobrateyear": "2025",
+  "jobrate": {
+    "job": {
+      "1": "90.73"
+    },
+    "postgraduate": {
+      "1": "0.00"
+    },
+    "abroad": {
+      "1": "0.00"
+    },
+    "content": {
+      "1": "<p><img src=\"https://static-data.gaokao.cn//upload/image/202608/core_1787032480_1458_thumb.png\" title=\"core_1787032480_1458_thumb.png\" alt=\"core_1787032480_1458.png\"><img src=\"https://static-data.gaokao.cn//upload/image/202608/core_1787032495_2692_thumb.png\" title=\"core_1787032495_2692_thumb.png\" alt=\"core_1787032495_2692.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202608/core_1787032506_5084_thumb.png\" title=\"core_1787032506_5084_thumb.png\" alt=\"core_1787032506_5084.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202608/core_1787032520_4327_thumb.png\" title=\"core_1787032520_4327_thumb.png\" alt=\"core_1787032520_4327.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202608/core_1787032529_5026_thumb.png\" title=\"core_1787032529_5026_thumb.png\" alt=\"core_1787032529_5026.png\"></p>"
+    }
+  },
   "province": [],
   "attr": {},
   "company": {},

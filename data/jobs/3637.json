@@ -1,13 +1,38 @@
 {
-  "update_time": "2026-09-01 09:28:54",
+  "update_time": "2026-10-01 11:02:55",
   "school_id": "3637",
   "school_name": "吉安幼儿师范高等专科学校",
-  "jobrateyear": "",
-  "jobrate": {},
+  "jobrateyear": "2025",
+  "jobrate": {
+    "job": {
+      "1": "83.29"
+    },
+    "postgraduate": {
+      "1": "0.00"
+    },
+    "abroad": {
+      "1": "0.00"
+    },
+    "content": {
+      "1": "<p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1789372235_1550_thumb.jpg\" xss=removed title=\"core_1789372235_1550_thumb.jpg\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1789372235_6787_thumb.jpg\" xss=removed title=\"core_1789372235_6787_thumb.jpg\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1789372235_4973_thumb.jpg\" xss=removed title=\"core_1789372235_4973_thumb.jpg\"></p><p><br></p>"
+    }
+  },
   "province": [],
   "attr": {},
   "company": {},
-  "gradute": [],
+  "gradute": [
+    {
+      "id": "2876",
+      "school_id": "3637",
+      "female_num": "1393",
+      "men_num": "372",
+      "men_rate": "21.08",
+      "female_rate": "78.92",
+      "update_id": "1211",
+      "update_time": "2026-09-14 15:52:23",
+      "year": "2025"
+    }
+  ],
   "remark": "",
   "salary": {}
 }

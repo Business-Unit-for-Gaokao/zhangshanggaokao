@@ -1,9 +1,22 @@
 {
-  "update_time": "2026-09-01 09:13:03",
+  "update_time": "2026-10-01 10:47:05",
   "school_id": "1690",
   "school_name": "辽宁机电职业技术学院",
-  "jobrateyear": "",
-  "jobrate": {},
+  "jobrateyear": "2025",
+  "jobrate": {
+    "job": {
+      "1": "98.27"
+    },
+    "postgraduate": {
+      "1": "12.89"
+    },
+    "abroad": {
+      "1": "0.00"
+    },
+    "content": {
+      "1": "<p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788430112_9124_thumb.png\" title=\"core_1788430112_9124_thumb.png\" alt=\"core_1788430112_9124.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788430128_4589_thumb.png\" title=\"core_1788430128_4589_thumb.png\" alt=\"core_1788430128_4589.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788430142_4960_thumb.png\" title=\"core_1788430142_4960_thumb.png\" alt=\"core_1788430142_4960.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788430151_7819_thumb.png\" title=\"core_1788430151_7819_thumb.png\" alt=\"core_1788430151_7819.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788430164_9339_thumb.png\" title=\"core_1788430164_9339_thumb.png\" alt=\"core_1788430164_9339.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788430173_4223_thumb.png\" title=\"core_1788430173_4223_thumb.png\" alt=\"core_1788430173_4223.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788430182_1911_thumb.png\" title=\"core_1788430182_1911_thumb.png\" alt=\"core_1788430182_1911.png\"></p>"
+    }
+  },
   "province": [],
   "attr": {},
   "company": {},

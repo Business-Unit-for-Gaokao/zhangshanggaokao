@@ -1,9 +1,22 @@
 {
-  "update_time": "2026-09-01 09:08:01",
+  "update_time": "2026-10-01 10:42:13",
   "school_id": "1056",
   "school_name": "湖北三峡职业技术学院",
-  "jobrateyear": "",
-  "jobrate": {},
+  "jobrateyear": "2024",
+  "jobrate": {
+    "job": {
+      "1": "97.80"
+    },
+    "postgraduate": {
+      "1": "0.00"
+    },
+    "abroad": {
+      "1": "0.00"
+    },
+    "content": {
+      "1": "<p><img src=\"https://static-data.gaokao.cn//upload/image/202608/core_1788161675_2670_thumb.png\" title=\"core_1788161675_2670_thumb.png\" alt=\"core_1788161675_2670.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202608/core_1788161685_2587_thumb.png\" title=\"core_1788161685_2587_thumb.png\" alt=\"core_1788161685_2587.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202608/core_1788161696_2575_thumb.png\" title=\"core_1788161696_2575_thumb.png\" alt=\"core_1788161696_2575.png\"></p>"
+    }
+  },
   "province": [],
   "attr": {},
   "company": {},

@@ -1,9 +1,22 @@
 {
-  "update_time": "2026-09-01 09:29:59",
+  "update_time": "2026-10-01 11:03:58",
   "school_id": "3732",
   "school_name": "玉林职业技术学院",
-  "jobrateyear": "",
-  "jobrate": {},
+  "jobrateyear": "2025",
+  "jobrate": {
+    "job": {
+      "1": "0.00"
+    },
+    "postgraduate": {
+      "1": "0.00"
+    },
+    "abroad": {
+      "1": "0.00"
+    },
+    "content": {
+      "1": "<p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788334754_2227_thumb.png\" title=\"core_1788334754_2227_thumb.png\" alt=\"core_1788334754_2227.png\"></p>"
+    }
+  },
   "province": [],
   "attr": {},
   "company": {},

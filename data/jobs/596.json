@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-09-01 09:03:52",
+  "update_time": "2026-10-01 10:38:01",
   "school_id": "596",
   "school_name": "河北医科大学",
   "jobrateyear": "2024",
@@ -55,18 +55,6 @@
       "province_name": "广西壮族自治区"
     },
     {
-      "id": "22759",
-      "school_id": "596",
-      "province": "宁夏回族自治区",
-      "rate": "0.47",
-      "num": "12",
-      "sort": "12",
-      "update_id": "1988",
-      "update_time": "2024-09-24 16:09:55",
-      "year": "2021",
-      "province_name": "宁夏回族自治区"
-    },
-    {
       "id": "22744",
       "school_id": "596",
       "province": "江西省",
@@ -77,6 +65,18 @@
       "update_time": "2024-09-24 16:09:55",
       "year": "2021",
       "province_name": "江西省"
+    },
+    {
+      "id": "22759",
+      "school_id": "596",
+      "province": "宁夏回族自治区",
+      "rate": "0.47",
+      "num": "12",
+      "sort": "12",
+      "update_id": "1988",
+      "update_time": "2024-09-24 16:09:55",
+      "year": "2021",
+      "province_name": "宁夏回族自治区"
     },
     {
       "id": "22760",

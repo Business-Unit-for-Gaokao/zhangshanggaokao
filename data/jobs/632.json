@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-09-01 09:04:11",
+  "update_time": "2026-10-01 10:38:20",
   "school_id": "632",
   "school_name": "广州工程技术职业学院",
   "jobrateyear": "2019",
@@ -43,16 +43,16 @@
       "province_name": "河南省"
     },
     {
-      "id": "28678",
+      "id": "28680",
       "school_id": "632",
-      "province": "上海市",
+      "province": "福建省",
       "rate": "0.31",
       "num": "0",
       "sort": "31",
       "update_id": "1988",
       "update_time": "2025-11-12 13:54:28",
       "year": "2024",
-      "province_name": "上海市"
+      "province_name": "福建省"
     },
     {
       "id": "28679",
@@ -67,28 +67,16 @@
       "province_name": "浙江省"
     },
     {
-      "id": "28680",
+      "id": "28678",
       "school_id": "632",
-      "province": "福建省",
+      "province": "上海市",
       "rate": "0.31",
       "num": "0",
       "sort": "31",
       "update_id": "1988",
       "update_time": "2025-11-12 13:54:28",
       "year": "2024",
-      "province_name": "福建省"
-    },
-    {
-      "id": "28676",
-      "school_id": "632",
-      "province": "安徽省",
-      "rate": "0.36",
-      "num": "0",
-      "sort": "36",
-      "update_id": "1988",
-      "update_time": "2025-11-12 13:54:28",
-      "year": "2024",
-      "province_name": "安徽省"
+      "province_name": "上海市"
     },
     {
       "id": "28677",
@@ -101,6 +89,18 @@
       "update_time": "2025-11-12 13:54:28",
       "year": "2024",
       "province_name": "广西壮族自治区"
+    },
+    {
+      "id": "28676",
+      "school_id": "632",
+      "province": "安徽省",
+      "rate": "0.36",
+      "num": "0",
+      "sort": "36",
+      "update_id": "1988",
+      "update_time": "2025-11-12 13:54:28",
+      "year": "2024",
+      "province_name": "安徽省"
     },
     {
       "id": "28675",

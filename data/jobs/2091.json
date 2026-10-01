@@ -1,9 +1,22 @@
 {
-  "update_time": "2026-09-01 09:17:12",
+  "update_time": "2026-10-01 10:51:08",
   "school_id": "2091",
   "school_name": "四川华新现代职业学院",
-  "jobrateyear": "",
-  "jobrate": {},
+  "jobrateyear": "2025",
+  "jobrate": {
+    "job": {
+      "1": "82.82"
+    },
+    "postgraduate": {
+      "1": "0.00"
+    },
+    "abroad": {
+      "1": "0.00"
+    },
+    "content": {
+      "1": "<p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1789372812_4635_thumb.jpg\" xss=removed title=\"core_1789372812_4635_thumb.jpg\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1789372812_6791_thumb.jpg\" xss=removed title=\"core_1789372812_6791_thumb.jpg\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1789372812_7399_thumb.jpg\" xss=removed title=\"core_1789372812_7399_thumb.jpg\"></p><p><br></p>"
+    }
+  },
   "province": [],
   "attr": {},
   "company": {},

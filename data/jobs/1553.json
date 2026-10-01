@@ -1,20 +1,20 @@
 {
-  "update_time": "2026-09-01 09:11:47",
+  "update_time": "2026-10-01 10:45:50",
   "school_id": "1553",
   "school_name": "常州大学怀德学院",
-  "jobrateyear": "2021",
+  "jobrateyear": "2024",
   "jobrate": {
     "job": {
-      "1": "92.16"
+      "1": "69.23"
     },
     "postgraduate": {
-      "1": "5.41"
+      "1": "6.43"
     },
     "abroad": {
-      "1": "0.00"
+      "1": "0.32"
     },
     "content": {
-      "1": ""
+      "1": "<p><img src=\"https://static-data.gaokao.cn//upload/image/202608/core_1787542730_1810_thumb.png\" title=\"core_1787542730_1810_thumb.png\" alt=\"core_1787542730_1810.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202608/core_1787542755_7700_thumb.png\" title=\"core_1787542755_7700_thumb.png\" alt=\"core_1787542755_7700.png\"></p>"
     }
   },
   "province": [

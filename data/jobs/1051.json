@@ -1,9 +1,22 @@
 {
-  "update_time": "2026-09-01 09:07:59",
+  "update_time": "2026-10-01 10:42:11",
   "school_id": "1051",
   "school_name": "江苏农牧科技职业学院",
-  "jobrateyear": "",
-  "jobrate": {},
+  "jobrateyear": "2025",
+  "jobrate": {
+    "job": {
+      "1": "96.00"
+    },
+    "postgraduate": {
+      "1": "6.31"
+    },
+    "abroad": {
+      "1": "0.00"
+    },
+    "content": {
+      "1": "<p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788493268_8437_thumb.png\" title=\"core_1788493268_8437_thumb.png\" alt=\"core_1788493268_8437.png\"></p>"
+    }
+  },
   "province": [],
   "attr": {},
   "company": {},

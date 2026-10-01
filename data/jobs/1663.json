@@ -1,9 +1,22 @@
 {
-  "update_time": "2026-09-01 09:12:48",
+  "update_time": "2026-10-01 10:46:50",
   "school_id": "1663",
   "school_name": "晋中职业技术学院",
-  "jobrateyear": "",
-  "jobrate": {},
+  "jobrateyear": "2025",
+  "jobrate": {
+    "job": {
+      "1": "95.57"
+    },
+    "postgraduate": {
+      "1": "0.00"
+    },
+    "abroad": {
+      "1": "0.00"
+    },
+    "content": {
+      "1": "<p xss=removed><span xss=removed><span xss=removed>学院全日制在校生</span><span xss=removed>12848</span><span xss=removed>人，其中全日制专科在校生</span><span xss=removed>12848</span><span xss=removed>人。</span></span>2025<span xss=removed>级全日制高职新生</span>5864<span xss=removed>人，生源结构多元，普通高中生源</span>8044<span xss=removed>人，中职生源</span>4803<span xss=removed>人，中职与高职分段培养人数</span>997<span xss=removed>人。人才培养</span><span xss=removed>成效显著，应届毕业生</span>3431<span xss=removed>人，毕业去向落实率达</span>95.57%<span xss=removed>，对口就</span><span xss=removed>业率</span>81.29%<span xss=removed>，升学率</span>39.58%<span xss=removed>，其中升入本科学习人数</span>1358<span xss=removed>人，本省</span><span xss=removed>域直接就业率</span>81.68%<span xss=removed>。岗位实习对口人数</span>2755<span xss=removed>人，校企合作企业接</span><span xss=removed>收学生实习</span>433<span xss=removed>人，实践教学与就业衔接紧密。</span></p><p xss=removed><span xss=removed><br></span></p><p><br></p>"
+    }
+  },
   "province": [],
   "attr": {},
   "company": {},

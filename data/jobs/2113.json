@@ -1,9 +1,22 @@
 {
-  "update_time": "2026-09-01 09:17:27",
+  "update_time": "2026-10-01 10:51:20",
   "school_id": "2113",
   "school_name": "山东外贸职业学院",
-  "jobrateyear": "",
-  "jobrate": {},
+  "jobrateyear": "2024",
+  "jobrate": {
+    "job": {
+      "1": "97.19"
+    },
+    "postgraduate": {
+      "1": "24.00"
+    },
+    "abroad": {
+      "1": "0.00"
+    },
+    "content": {
+      "1": "<p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788406758_7127_thumb.png\" title=\"core_1788406758_7127_thumb.png\" alt=\"core_1788406758_7127.png\"></p>"
+    }
+  },
   "province": [],
   "attr": {},
   "company": {},

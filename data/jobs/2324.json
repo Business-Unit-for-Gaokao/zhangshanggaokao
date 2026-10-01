@@ -1,13 +1,38 @@
 {
-  "update_time": "2026-09-01 09:19:37",
+  "update_time": "2026-10-01 10:53:24",
   "school_id": "2324",
   "school_name": "山西铁道职业技术学院",
-  "jobrateyear": "",
-  "jobrate": {},
+  "jobrateyear": "2025",
+  "jobrate": {
+    "job": {
+      "1": "0.00"
+    },
+    "postgraduate": {
+      "1": "0.00"
+    },
+    "abroad": {
+      "1": "0.00"
+    },
+    "content": {
+      "1": "<p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1789010703_3192_thumb.jpg\" xss=removed title=\"core_1789010703_3192_thumb.jpg\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1789010703_6238_thumb.jpg\" xss=removed title=\"core_1789010703_6238_thumb.jpg\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1789010703_6920_thumb.jpg\" xss=removed title=\"core_1789010703_6920_thumb.jpg\"></p><p><br></p>"
+    }
+  },
   "province": [],
   "attr": {},
   "company": {},
-  "gradute": [],
+  "gradute": [
+    {
+      "id": "2870",
+      "school_id": "2324",
+      "female_num": "863",
+      "men_num": "2132",
+      "men_rate": "71.20",
+      "female_rate": "28.80",
+      "update_id": "1211",
+      "update_time": "2026-09-10 11:22:29",
+      "year": "2025"
+    }
+  ],
   "remark": "",
   "salary": {
     "6": "6800"

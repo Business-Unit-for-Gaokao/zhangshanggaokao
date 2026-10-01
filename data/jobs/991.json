@@ -1,9 +1,22 @@
 {
-  "update_time": "2026-09-01 09:07:26",
+  "update_time": "2026-10-01 10:41:38",
   "school_id": "991",
   "school_name": "广东工程职业技术学院",
-  "jobrateyear": "",
-  "jobrate": {},
+  "jobrateyear": "2025",
+  "jobrate": {
+    "job": {
+      "1": "98.46"
+    },
+    "postgraduate": {
+      "1": "15.51"
+    },
+    "abroad": {
+      "1": "0.00"
+    },
+    "content": {
+      "1": "<p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788508892_3915_thumb.png\" title=\"core_1788508892_3915_thumb.png\" alt=\"core_1788508892_3915.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788508907_3118_thumb.png\" title=\"core_1788508907_3118_thumb.png\" alt=\"core_1788508907_3118.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788508917_4260_thumb.png\" title=\"core_1788508917_4260_thumb.png\" alt=\"core_1788508917_4260.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788508927_7529_thumb.png\" title=\"core_1788508927_7529_thumb.png\" alt=\"core_1788508927_7529.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788508940_6913_thumb.png\" title=\"core_1788508940_6913_thumb.png\" alt=\"core_1788508940_6913.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788508956_2414_thumb.png\" title=\"core_1788508956_2414_thumb.png\" alt=\"core_1788508956_2414.png\"></p>"
+    }
+  },
   "province": [],
   "attr": {},
   "company": {},

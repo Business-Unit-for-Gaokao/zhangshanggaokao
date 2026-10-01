@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-09-01 09:18:55",
+  "update_time": "2026-10-01 10:52:43",
   "school_id": "2254",
   "school_name": "陕西科技大学镐京学院",
   "jobrateyear": "2024",
@@ -31,18 +31,6 @@
       "province_name": "浙江省"
     },
     {
-      "id": "26319",
-      "school_id": "2254",
-      "province": "上海市",
-      "rate": "2.57",
-      "num": "0",
-      "sort": "257",
-      "update_id": "1211",
-      "update_time": "2025-01-09 17:54:55",
-      "year": "2021",
-      "province_name": "上海市"
-    },
-    {
       "id": "26320",
       "school_id": "2254",
       "province": "江苏省",
@@ -53,6 +41,18 @@
       "update_time": "2025-01-09 17:54:55",
       "year": "2021",
       "province_name": "江苏省"
+    },
+    {
+      "id": "26319",
+      "school_id": "2254",
+      "province": "上海市",
+      "rate": "2.57",
+      "num": "0",
+      "sort": "257",
+      "update_id": "1211",
+      "update_time": "2025-01-09 17:54:55",
+      "year": "2021",
+      "province_name": "上海市"
     },
     {
       "id": "26318",

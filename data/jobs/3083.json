@@ -1,9 +1,22 @@
 {
-  "update_time": "2026-09-01 09:24:30",
+  "update_time": "2026-10-01 10:58:28",
   "school_id": "3083",
   "school_name": "哈尔滨传媒职业学院",
-  "jobrateyear": "",
-  "jobrate": {},
+  "jobrateyear": "2025",
+  "jobrate": {
+    "job": {
+      "1": "97.85"
+    },
+    "postgraduate": {
+      "1": "12.96"
+    },
+    "abroad": {
+      "1": "0.00"
+    },
+    "content": {
+      "1": "<p xss=removed>学校 2025 年应届毕业生 1914 名，凭借精准的人才培养定位、扎实的专业教学质量和全方位的就业服务保障，毕业生对口就业率高达97.85%，充分体现了学校人才供给与行业需求的高度适配，彰显了办学水平的硬核实力。</p><p><br></p><p xss=removed><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788485016_5983_thumb.png\" title=\"core_1788485016_5983_thumb.png\" alt=\"core_1788485016_5983.png\"></p>"
+    }
+  },
   "province": [],
   "attr": {},
   "company": {},

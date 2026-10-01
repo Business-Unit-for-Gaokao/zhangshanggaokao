@@ -1,20 +1,20 @@
 {
-  "update_time": "2026-09-01 09:09:12",
+  "update_time": "2026-10-01 10:43:24",
   "school_id": "1203",
   "school_name": "信阳农林学院",
-  "jobrateyear": "2023",
+  "jobrateyear": "2024",
   "jobrate": {
     "job": {
-      "1": "94.13"
+      "1": "83.98"
     },
     "postgraduate": {
-      "1": "25.84"
+      "1": "0.00"
     },
     "abroad": {
-      "1": "0.31"
+      "1": "0.00"
     },
     "content": {
-      "1": ""
+      "1": "<p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788751780_2840_thumb.png\" title=\"core_1788751780_2840_thumb.png\" alt=\"core_1788751780_2840.png\"></p>"
     }
   },
   "province": [

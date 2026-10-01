@@ -1,20 +1,20 @@
 {
-  "update_time": "2026-09-01 09:08:15",
+  "update_time": "2026-10-01 10:42:26",
   "school_id": "1089",
   "school_name": "曲靖师范学院",
-  "jobrateyear": "2021",
+  "jobrateyear": "2024",
   "jobrate": {
     "job": {
-      "1": "89.18"
+      "1": "82.80"
     },
     "postgraduate": {
-      "1": "5.07"
+      "1": "10.42"
     },
     "abroad": {
-      "1": "0.34"
+      "1": "0.45"
     },
     "content": {
-      "1": ""
+      "1": "<p><img src=\"https://static-data.gaokao.cn//upload/image/202608/core_1786585295_2820_thumb.png\" title=\"core_1786585295_2820_thumb.png\" alt=\"core_1786585295_2820.png\"></p>"
     }
   },
   "province": [

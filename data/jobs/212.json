@@ -1,20 +1,20 @@
 {
-  "update_time": "2026-09-01 08:59:54",
+  "update_time": "2026-10-01 10:34:02",
   "school_id": "212",
   "school_name": "沈阳建筑大学",
-  "jobrateyear": "2023",
+  "jobrateyear": "2024",
   "jobrate": {
     "job": {
-      "1": "86.68"
+      "1": "91.94"
     },
     "postgraduate": {
-      "1": "0.00"
+      "1": "43.45"
     },
     "abroad": {
-      "1": "0.00"
+      "1": "1.43"
     },
     "content": {
-      "1": ""
+      "1": "<p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788490911_9684_thumb.png\" title=\"core_1788490911_9684_thumb.png\" alt=\"core_1788490911_9684.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788490931_6307_thumb.png\" title=\"core_1788490931_6307_thumb.png\" alt=\"core_1788490931_6307.png\"></p>"
     }
   },
   "province": [

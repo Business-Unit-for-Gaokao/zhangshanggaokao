@@ -1,20 +1,20 @@
 {
-  "update_time": "2026-09-01 09:03:42",
+  "update_time": "2026-10-01 10:37:52",
   "school_id": "578",
   "school_name": "北京农学院",
-  "jobrateyear": "2019",
+  "jobrateyear": "2024",
   "jobrate": {
     "job": {
-      "1": "97.08"
+      "1": "94.73"
     },
     "postgraduate": {
-      "1": "23.79"
+      "1": "21.20"
     },
     "abroad": {
-      "1": "5.72"
+      "1": "0.00"
     },
     "content": {
-      "1": ""
+      "1": "<p><img src=\"https://static-data.gaokao.cn//upload/image/202608/core_1787128782_4513_thumb.png\" title=\"core_1787128782_4513_thumb.png\" alt=\"core_1787128782_4513.png\"></p>"
     }
   },
   "province": [

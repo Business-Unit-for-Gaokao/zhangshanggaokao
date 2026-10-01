@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-09-01 09:21:03",
+  "update_time": "2026-10-01 10:54:51",
   "school_id": "2469",
   "school_name": "长沙理工大学城南学院",
   "jobrateyear": "2023",
@@ -103,30 +103,6 @@
       "province_name": "山东省"
     },
     {
-      "id": "19751",
-      "school_id": "2469",
-      "province": "吉林省",
-      "rate": "0.46",
-      "num": "6",
-      "sort": "6",
-      "update_id": "2004",
-      "update_time": "2024-06-18 14:05:08",
-      "year": "2023",
-      "province_name": "吉林省"
-    },
-    {
-      "id": "19750",
-      "school_id": "2469",
-      "province": "陕西省",
-      "rate": "0.46",
-      "num": "6",
-      "sort": "6",
-      "update_id": "2004",
-      "update_time": "2024-06-18 14:05:08",
-      "year": "2023",
-      "province_name": "陕西省"
-    },
-    {
       "id": "19749",
       "school_id": "2469",
       "province": "广西壮族自治区",
@@ -149,6 +125,30 @@
       "update_time": "2024-06-18 14:05:08",
       "year": "2023",
       "province_name": "青海省"
+    },
+    {
+      "id": "19750",
+      "school_id": "2469",
+      "province": "陕西省",
+      "rate": "0.46",
+      "num": "6",
+      "sort": "6",
+      "update_id": "2004",
+      "update_time": "2024-06-18 14:05:08",
+      "year": "2023",
+      "province_name": "陕西省"
+    },
+    {
+      "id": "19751",
+      "school_id": "2469",
+      "province": "吉林省",
+      "rate": "0.46",
+      "num": "6",
+      "sort": "6",
+      "update_id": "2004",
+      "update_time": "2024-06-18 14:05:08",
+      "year": "2023",
+      "province_name": "吉林省"
     },
     {
       "id": "19747",
@@ -283,18 +283,6 @@
       "province_name": "湖北省"
     },
     {
-      "id": "19735",
-      "school_id": "2469",
-      "province": "江西省",
-      "rate": "2.67",
-      "num": "35",
-      "sort": "35",
-      "update_id": "2004",
-      "update_time": "2024-06-18 14:05:08",
-      "year": "2023",
-      "province_name": "江西省"
-    },
-    {
       "id": "19736",
       "school_id": "2469",
       "province": "江苏省",
@@ -305,6 +293,18 @@
       "update_time": "2024-06-18 14:05:08",
       "year": "2023",
       "province_name": "江苏省"
+    },
+    {
+      "id": "19735",
+      "school_id": "2469",
+      "province": "江西省",
+      "rate": "2.67",
+      "num": "35",
+      "sort": "35",
+      "update_id": "2004",
+      "update_time": "2024-06-18 14:05:08",
+      "year": "2023",
+      "province_name": "江西省"
     },
     {
       "id": "19734",

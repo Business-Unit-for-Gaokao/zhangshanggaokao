@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-09-01 09:13:45",
+  "update_time": "2026-10-01 10:47:44",
   "school_id": "1759",
   "school_name": "桂林山水职业学院",
   "jobrateyear": "2024",
@@ -19,18 +19,6 @@
   },
   "province": [
     {
-      "id": "32409",
-      "school_id": "1759",
-      "province": "山西省",
-      "rate": "0.10",
-      "num": "1",
-      "sort": "10",
-      "update_id": "2234",
-      "update_time": "2025-12-01 16:19:33",
-      "year": "2024",
-      "province_name": "山西省"
-    },
-    {
       "id": "32410",
       "school_id": "1759",
       "province": "上海市",
@@ -43,16 +31,16 @@
       "province_name": "上海市"
     },
     {
-      "id": "32407",
+      "id": "32409",
       "school_id": "1759",
-      "province": "安徽省",
-      "rate": "0.19",
-      "num": "2",
-      "sort": "19",
+      "province": "山西省",
+      "rate": "0.10",
+      "num": "1",
+      "sort": "10",
       "update_id": "2234",
       "update_time": "2025-12-01 16:19:33",
       "year": "2024",
-      "province_name": "安徽省"
+      "province_name": "山西省"
     },
     {
       "id": "32408",
@@ -67,28 +55,16 @@
       "province_name": "四川省"
     },
     {
-      "id": "32404",
+      "id": "32407",
       "school_id": "1759",
-      "province": "黑龙江省",
-      "rate": "0.29",
-      "num": "3",
-      "sort": "29",
+      "province": "安徽省",
+      "rate": "0.19",
+      "num": "2",
+      "sort": "19",
       "update_id": "2234",
       "update_time": "2025-12-01 16:19:33",
       "year": "2024",
-      "province_name": "黑龙江省"
-    },
-    {
-      "id": "32405",
-      "school_id": "1759",
-      "province": "青海省",
-      "rate": "0.29",
-      "num": "3",
-      "sort": "29",
-      "update_id": "2234",
-      "update_time": "2025-12-01 16:19:33",
-      "year": "2024",
-      "province_name": "青海省"
+      "province_name": "安徽省"
     },
     {
       "id": "32406",
@@ -103,16 +79,28 @@
       "province_name": "重庆市"
     },
     {
-      "id": "32402",
+      "id": "32405",
       "school_id": "1759",
-      "province": "海南省",
-      "rate": "0.39",
-      "num": "4",
-      "sort": "39",
+      "province": "青海省",
+      "rate": "0.29",
+      "num": "3",
+      "sort": "29",
       "update_id": "2234",
       "update_time": "2025-12-01 16:19:33",
       "year": "2024",
-      "province_name": "海南省"
+      "province_name": "青海省"
+    },
+    {
+      "id": "32404",
+      "school_id": "1759",
+      "province": "黑龙江省",
+      "rate": "0.29",
+      "num": "3",
+      "sort": "29",
+      "update_id": "2234",
+      "update_time": "2025-12-01 16:19:33",
+      "year": "2024",
+      "province_name": "黑龙江省"
     },
     {
       "id": "32403",
@@ -125,6 +113,18 @@
       "update_time": "2025-12-01 16:19:33",
       "year": "2024",
       "province_name": "山东省"
+    },
+    {
+      "id": "32402",
+      "school_id": "1759",
+      "province": "海南省",
+      "rate": "0.39",
+      "num": "4",
+      "sort": "39",
+      "update_id": "2234",
+      "update_time": "2025-12-01 16:19:33",
+      "year": "2024",
+      "province_name": "海南省"
     },
     {
       "id": "32401",

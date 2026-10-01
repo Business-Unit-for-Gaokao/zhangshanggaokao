@@ -1,9 +1,22 @@
 {
-  "update_time": "2026-09-01 09:24:19",
+  "update_time": "2026-10-01 10:58:17",
   "school_id": "3051",
   "school_name": "新疆师范高等专科学校",
-  "jobrateyear": "",
-  "jobrate": {},
+  "jobrateyear": "2025",
+  "jobrate": {
+    "job": {
+      "1": "90.81"
+    },
+    "postgraduate": {
+      "1": "0.00"
+    },
+    "abroad": {
+      "1": "0.00"
+    },
+    "content": {
+      "1": "<p><img src=\"https://static-data.gaokao.cn//upload/image/202608/core_1786687414_1875_thumb.png\" title=\"core_1786687414_1875_thumb.png\" alt=\"core_1786687414_1875.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202608/core_1786687433_1031_thumb.png\" title=\"core_1786687433_1031_thumb.png\" alt=\"core_1786687433_1031.png\"></p>"
+    }
+  },
   "province": [],
   "attr": {},
   "company": {},

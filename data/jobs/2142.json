@@ -1,9 +1,22 @@
 {
-  "update_time": "2026-09-01 09:17:46",
+  "update_time": "2026-10-01 10:51:40",
   "school_id": "2142",
   "school_name": "潍坊工商职业学院",
-  "jobrateyear": "",
-  "jobrate": {},
+  "jobrateyear": "2025",
+  "jobrate": {
+    "job": {
+      "1": "85.75"
+    },
+    "postgraduate": {
+      "1": "0.00"
+    },
+    "abroad": {
+      "1": "0.00"
+    },
+    "content": {
+      "1": "<p xss=removed><span xss=removed><span xss=removed>潍坊工商职业学院</span><span xss=removed>2025</span><span xss=removed>届毕业生共计</span><span xss=removed>5862</span><span xss=removed>人，涉及</span></span>61<span xss=removed>个专业，毕业生规模比去年增加</span>1683<span xss=removed>人，面对复杂严峻</span><span xss=removed>的就业形势，全校师生共同努力，多措并举促就业，截止</span><span xss=removed>到</span><span xss=removed>8</span><span xss=removed>月</span><span xss=removed>31</span><span xss=removed>日，毕业生初次就业率</span><span xss=removed>85.75%</span><span xss=removed>，截止</span><span xss=removed>12</span><span xss=removed>月底，毕业生就业率达到</span><span xss=removed>94.16%</span><span xss=removed>，毕业生就业质量持续提升，其</span><span xss=removed>中，单位就业</span><span xss=removed>4856</span><span xss=removed>人，占比</span><span xss=removed>82.84%</span><span xss=removed>，自主创业人数</span><span xss=removed>151</span><span xss=removed>人，</span><span xss=removed>占比</span><span xss=removed>2.58%</span><span xss=removed>，自由职业</span><span xss=removed>37</span><span xss=removed>人，占比</span><span xss=removed>0.63%</span><span xss=removed>，升学</span><span xss=removed>425</span><span xss=removed>人，</span><span xss=removed>占比</span><span xss=removed>7.25%</span><span xss=removed>，待就业</span><span xss=removed>365</span><span xss=removed>人，占比</span><span xss=removed>6.23%</span><span xss=removed>，暂不就业</span><span xss=removed>28</span><span xss=removed>人，</span><span xss=removed>占比</span><span xss=removed>0.47%</span><span xss=removed>。毕业生平均月收入</span><span xss=removed>4632.08</span><span xss=removed>元，据学校统计，</span><span xss=removed>毕业生满意度</span><span xss=removed>98.65%</span><span xss=removed>，用人单位满意度</span><span xss=removed>100.00%</span><span xss=removed>。</span></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788508268_9686_thumb.png\" title=\"core_1788508268_9686_thumb.png\" alt=\"core_1788508268_9686.png\"></p><p><br></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788508279_9154_thumb.png\" title=\"core_1788508279_9154_thumb.png\" alt=\"core_1788508279_9154.png\"></p>"
+    }
+  },
   "province": [],
   "attr": {},
   "company": {},

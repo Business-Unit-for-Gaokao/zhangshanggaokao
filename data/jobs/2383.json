@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-09-01 09:20:09",
+  "update_time": "2026-10-01 10:53:58",
   "school_id": "2383",
   "school_name": "宁波大学科学技术学院",
   "jobrateyear": "2023",
@@ -31,16 +31,16 @@
       "province_name": "贵州省"
     },
     {
-      "id": "18652",
+      "id": "18650",
       "school_id": "2383",
-      "province": "安徽省",
+      "province": "福建省",
       "rate": "0.62",
       "num": "22",
       "sort": "22",
       "update_id": "2004",
       "update_time": "2024-06-15 10:39:07",
       "year": "2023",
-      "province_name": "安徽省"
+      "province_name": "福建省"
     },
     {
       "id": "18651",
@@ -55,16 +55,16 @@
       "province_name": "北京市"
     },
     {
-      "id": "18650",
+      "id": "18652",
       "school_id": "2383",
-      "province": "福建省",
+      "province": "安徽省",
       "rate": "0.62",
       "num": "22",
       "sort": "22",
       "update_id": "2004",
       "update_time": "2024-06-15 10:39:07",
       "year": "2023",
-      "province_name": "福建省"
+      "province_name": "安徽省"
     },
     {
       "id": "18653",

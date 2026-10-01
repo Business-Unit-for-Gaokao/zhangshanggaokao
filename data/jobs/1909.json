@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-09-01 09:15:21",
+  "update_time": "2026-10-01 10:49:16",
   "school_id": "1909",
   "school_name": "泉州信息工程学院",
   "jobrateyear": "2024",
@@ -31,16 +31,16 @@
       "province_name": "其他省市"
     },
     {
-      "id": "5789",
+      "id": "5798",
       "school_id": "1909",
-      "province": "天津市",
+      "province": "河南省",
       "rate": "0.06",
       "num": "1",
       "sort": "1",
       "update_id": "0",
       "update_time": "2018-12-18 15:40:16",
       "year": "2019",
-      "province_name": "天津市"
+      "province_name": "河南省"
     },
     {
       "id": "5800",
@@ -55,16 +55,16 @@
       "province_name": "贵州省"
     },
     {
-      "id": "5792",
+      "id": "5796",
       "school_id": "1909",
-      "province": "陕西省",
+      "province": "吉林省",
       "rate": "0.06",
       "num": "1",
       "sort": "1",
       "update_id": "0",
       "update_time": "2018-12-18 15:40:16",
       "year": "2019",
-      "province_name": "陕西省"
+      "province_name": "吉林省"
     },
     {
       "id": "5793",
@@ -79,28 +79,28 @@
       "province_name": "内蒙古自治区"
     },
     {
-      "id": "5798",
+      "id": "5792",
       "school_id": "1909",
-      "province": "河南省",
+      "province": "陕西省",
       "rate": "0.06",
       "num": "1",
       "sort": "1",
       "update_id": "0",
       "update_time": "2018-12-18 15:40:16",
       "year": "2019",
-      "province_name": "河南省"
+      "province_name": "陕西省"
     },
     {
-      "id": "5796",
+      "id": "5789",
       "school_id": "1909",
-      "province": "吉林省",
+      "province": "天津市",
       "rate": "0.06",
       "num": "1",
       "sort": "1",
       "update_id": "0",
       "update_time": "2018-12-18 15:40:16",
       "year": "2019",
-      "province_name": "吉林省"
+      "province_name": "天津市"
     },
     {
       "id": "5797",

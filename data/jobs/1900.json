@@ -1,9 +1,22 @@
 {
-  "update_time": "2026-09-01 09:15:15",
+  "update_time": "2026-10-01 10:49:10",
   "school_id": "1900",
   "school_name": "厦门演艺职业学院",
-  "jobrateyear": "",
-  "jobrate": {},
+  "jobrateyear": "2025",
+  "jobrate": {
+    "job": {
+      "1": "0.00"
+    },
+    "postgraduate": {
+      "1": "0.00"
+    },
+    "abroad": {
+      "1": "0.00"
+    },
+    "content": {
+      "1": "<p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788862419_7045_thumb.png\" title=\"core_1788862419_7045_thumb.png\" alt=\"core_1788862419_7045.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788862433_1613_thumb.png\" title=\"core_1788862433_1613_thumb.png\" alt=\"core_1788862433_1613.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788862442_2776_thumb.png\" title=\"core_1788862442_2776_thumb.png\" alt=\"core_1788862442_2776.png\"></p>"
+    }
+  },
   "province": [],
   "attr": {},
   "company": {},

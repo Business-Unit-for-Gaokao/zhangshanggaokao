@@ -1,9 +1,22 @@
 {
-  "update_time": "2026-09-01 09:06:42",
+  "update_time": "2026-10-01 10:40:53",
   "school_id": "915",
   "school_name": "武汉民政职业学院",
-  "jobrateyear": "",
-  "jobrate": {},
+  "jobrateyear": "2025",
+  "jobrate": {
+    "job": {
+      "1": "91.08"
+    },
+    "postgraduate": {
+      "1": "9.54"
+    },
+    "abroad": {
+      "1": "0.00"
+    },
+    "content": {
+      "1": "<p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788313345_6792_thumb.png\" title=\"core_1788313345_6792_thumb.png\" alt=\"core_1788313345_6792.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788313362_6351_thumb.png\" title=\"core_1788313362_6351_thumb.png\" alt=\"core_1788313362_6351.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788313374_9712_thumb.png\" title=\"core_1788313374_9712_thumb.png\" alt=\"core_1788313374_9712.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788313388_6510_thumb.png\" title=\"core_1788313388_6510_thumb.png\" alt=\"core_1788313388_6510.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788313400_5077_thumb.png\" title=\"core_1788313400_5077_thumb.png\" alt=\"core_1788313400_5077.png\"></p>"
+    }
+  },
   "province": [],
   "attr": {},
   "company": {},

@@ -1,9 +1,22 @@
 {
-  "update_time": "2026-09-01 09:23:29",
+  "update_time": "2026-10-01 10:57:21",
   "school_id": "2897",
   "school_name": "潍坊工程职业学院",
-  "jobrateyear": "",
-  "jobrate": {},
+  "jobrateyear": "2025",
+  "jobrate": {
+    "job": {
+      "1": "91.73"
+    },
+    "postgraduate": {
+      "1": "9.46"
+    },
+    "abroad": {
+      "1": "0.00"
+    },
+    "content": {
+      "1": "<p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788331761_4709_thumb.png\" title=\"core_1788331761_4709_thumb.png\" alt=\"core_1788331761_4709.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788331775_6398_thumb.png\" title=\"core_1788331775_6398_thumb.png\" alt=\"core_1788331775_6398.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788331792_8117_thumb.png\" title=\"core_1788331792_8117_thumb.png\" alt=\"core_1788331792_8117.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788331805_6490_thumb.png\" title=\"core_1788331805_6490_thumb.png\" alt=\"core_1788331805_6490.png\"></p>"
+    }
+  },
   "province": [],
   "attr": {},
   "company": {},

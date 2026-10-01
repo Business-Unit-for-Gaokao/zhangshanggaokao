@@ -1,9 +1,22 @@
 {
-  "update_time": "2026-09-01 09:00:09",
+  "update_time": "2026-10-01 10:34:17",
   "school_id": "236",
   "school_name": "喀什大学",
-  "jobrateyear": "",
-  "jobrate": {},
+  "jobrateyear": "2024",
+  "jobrate": {
+    "job": {
+      "1": "90.19"
+    },
+    "postgraduate": {
+      "1": "4.44"
+    },
+    "abroad": {
+      "1": "0.00"
+    },
+    "content": {
+      "1": "<p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788419317_9913_thumb.png\" title=\"core_1788419317_9913_thumb.png\" alt=\"core_1788419317_9913.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788419337_6899_thumb.png\" title=\"core_1788419337_6899_thumb.png\" alt=\"core_1788419337_6899.png\"></p>"
+    }
+  },
   "province": [],
   "attr": {},
   "company": {},

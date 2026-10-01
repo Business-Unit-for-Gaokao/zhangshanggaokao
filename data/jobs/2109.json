@@ -1,9 +1,22 @@
 {
-  "update_time": "2026-09-01 09:17:24",
+  "update_time": "2026-10-01 10:51:18",
   "school_id": "2109",
   "school_name": "山东水利职业学院",
-  "jobrateyear": "",
-  "jobrate": {},
+  "jobrateyear": "2025",
+  "jobrate": {
+    "job": {
+      "1": "90.48"
+    },
+    "postgraduate": {
+      "1": "0.00"
+    },
+    "abroad": {
+      "1": "0.00"
+    },
+    "content": {
+      "1": "<p><img src=\"https://static-data.gaokao.cn//upload/image/202608/core_1786956778_5235_thumb.png\" title=\"core_1786956778_5235_thumb.png\" alt=\"core_1786956778_5235.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202608/core_1786956814_4075_thumb.png\" title=\"core_1786956814_4075_thumb.png\" alt=\"core_1786956814_4075.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202608/core_1786956826_7913_thumb.png\" title=\"core_1786956826_7913_thumb.png\" alt=\"core_1786956826_7913.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202608/core_1786956837_8571_thumb.png\" title=\"core_1786956837_8571_thumb.png\" alt=\"core_1786956837_8571.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202608/core_1786956847_4562_thumb.png\" title=\"core_1786956847_4562_thumb.png\" alt=\"core_1786956847_4562.png\"></p>"
+    }
+  },
   "province": [],
   "attr": {},
   "company": {},

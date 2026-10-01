@@ -1,9 +1,22 @@
 {
-  "update_time": "2026-09-01 09:11:48",
+  "update_time": "2026-10-01 10:45:50",
   "school_id": "1554",
   "school_name": "漯河职业技术学院",
-  "jobrateyear": "",
-  "jobrate": {},
+  "jobrateyear": "2025",
+  "jobrate": {
+    "job": {
+      "1": "0.00"
+    },
+    "postgraduate": {
+      "1": "0.00"
+    },
+    "abroad": {
+      "1": "0.00"
+    },
+    "content": {
+      "1": "<p><img src=\"https://static-data.gaokao.cn//upload/image/202608/core_1786694548_6585_thumb.png\" title=\"core_1786694548_6585_thumb.png\" alt=\"core_1786694548_6585.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202608/core_1786694678_8140_thumb.png\" title=\"core_1786694678_8140_thumb.png\" alt=\"core_1786694678_8140.png\"></p>"
+    }
+  },
   "province": [],
   "attr": {},
   "company": {},

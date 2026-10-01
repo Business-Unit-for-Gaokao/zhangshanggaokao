@@ -1,20 +1,20 @@
 {
-  "update_time": "2026-09-01 08:58:16",
+  "update_time": "2026-10-01 10:32:22",
   "school_id": "52",
   "school_name": "北京师范大学",
-  "jobrateyear": "2022",
+  "jobrateyear": "2024",
   "jobrate": {
     "job": {
-      "1": "95.38"
+      "1": "94.89"
     },
     "postgraduate": {
-      "1": "0.00"
+      "1": "49.00"
     },
     "abroad": {
-      "1": "0.00"
+      "1": "14.28"
     },
     "content": {
-      "1": ""
+      "1": "<p><img src=\"https://static-data.gaokao.cn//upload/image/202608/core_1787711126_8448_thumb.png\" title=\"core_1787711126_8448_thumb.png\" alt=\"core_1787711126_8448.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202608/core_1787711140_7055_thumb.png\" title=\"core_1787711140_7055_thumb.png\" alt=\"core_1787711140_7055.png\"></p>"
     }
   },
   "province": [

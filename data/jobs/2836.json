@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-09-01 09:23:07",
+  "update_time": "2026-10-01 10:56:58",
   "school_id": "2836",
   "school_name": "郑州升达经贸管理学院",
   "jobrateyear": "2024",
@@ -19,18 +19,6 @@
   },
   "province": [
     {
-      "id": "28306",
-      "school_id": "2836",
-      "province": "省内",
-      "rate": "59.88",
-      "num": "5001",
-      "sort": "0",
-      "update_id": "2156",
-      "update_time": "2025-11-11 17:10:19",
-      "year": "2024",
-      "province_name": "省内"
-    },
-    {
       "id": "28307",
       "school_id": "2836",
       "province": "省外",
@@ -41,6 +29,18 @@
       "update_time": "2025-11-11 17:10:39",
       "year": "2024",
       "province_name": "省外"
+    },
+    {
+      "id": "28306",
+      "school_id": "2836",
+      "province": "省内",
+      "rate": "59.88",
+      "num": "5001",
+      "sort": "0",
+      "update_id": "2156",
+      "update_time": "2025-11-11 17:10:19",
+      "year": "2024",
+      "province_name": "省内"
     }
   ],
   "attr": {

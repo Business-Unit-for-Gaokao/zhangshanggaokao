@@ -1,9 +1,22 @@
 {
-  "update_time": "2026-09-01 09:24:46",
+  "update_time": "2026-10-01 10:58:42",
   "school_id": "3116",
   "school_name": "贵州盛华职业学院",
-  "jobrateyear": "",
-  "jobrate": {},
+  "jobrateyear": "2025",
+  "jobrate": {
+    "job": {
+      "1": "91.86"
+    },
+    "postgraduate": {
+      "1": "14.92"
+    },
+    "abroad": {
+      "1": "0.00"
+    },
+    "content": {
+      "1": "<p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788486194_7299_thumb.png\" title=\"core_1788486194_7299_thumb.png\" alt=\"core_1788486194_7299.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788486211_5120_thumb.png\" title=\"core_1788486211_5120_thumb.png\" alt=\"core_1788486211_5120.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788486223_5396_thumb.png\" title=\"core_1788486223_5396_thumb.png\" alt=\"core_1788486223_5396.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788486235_9855_thumb.png\" title=\"core_1788486235_9855_thumb.png\" alt=\"core_1788486235_9855.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788486247_8135_thumb.png\" title=\"core_1788486247_8135_thumb.png\" alt=\"core_1788486247_8135.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788486263_5698_thumb.png\" title=\"core_1788486263_5698_thumb.png\" alt=\"core_1788486263_5698.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788486272_5657_thumb.png\" title=\"core_1788486272_5657_thumb.png\" alt=\"core_1788486272_5657.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788486281_6646_thumb.png\" title=\"core_1788486281_6646_thumb.png\" alt=\"core_1788486281_6646.png\"></p>"
+    }
+  },
   "province": [],
   "attr": {},
   "company": {},

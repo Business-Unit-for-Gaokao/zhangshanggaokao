@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-09-01 09:12:00",
+  "update_time": "2026-10-01 10:46:03",
   "school_id": "1578",
   "school_name": "石家庄铁道大学四方学院",
   "jobrateyear": "2023",
@@ -103,16 +103,16 @@
       "province_name": "福建"
     },
     {
-      "id": "18386",
+      "id": "18388",
       "school_id": "1578",
-      "province": "广西",
+      "province": "江西",
       "rate": "0.31",
       "num": "8",
       "sort": "8",
       "update_id": "2004",
       "update_time": "2024-06-15 10:39:07",
       "year": "2023",
-      "province_name": "广西"
+      "province_name": "江西"
     },
     {
       "id": "18387",
@@ -127,16 +127,16 @@
       "province_name": "贵州"
     },
     {
-      "id": "18388",
+      "id": "18386",
       "school_id": "1578",
-      "province": "江西",
+      "province": "广西",
       "rate": "0.31",
       "num": "8",
       "sort": "8",
       "update_id": "2004",
       "update_time": "2024-06-15 10:39:07",
       "year": "2023",
-      "province_name": "江西"
+      "province_name": "广西"
     },
     {
       "id": "18385",
@@ -259,18 +259,6 @@
       "province_name": "广东"
     },
     {
-      "id": "18375",
-      "school_id": "1578",
-      "province": "浙江",
-      "rate": "1.67",
-      "num": "43",
-      "sort": "43",
-      "update_id": "2004",
-      "update_time": "2024-06-15 10:39:07",
-      "year": "2023",
-      "province_name": "浙江"
-    },
-    {
       "id": "18374",
       "school_id": "1578",
       "province": "江苏",
@@ -281,6 +269,18 @@
       "update_time": "2024-06-15 10:39:07",
       "year": "2023",
       "province_name": "江苏"
+    },
+    {
+      "id": "18375",
+      "school_id": "1578",
+      "province": "浙江",
+      "rate": "1.67",
+      "num": "43",
+      "sort": "43",
+      "update_id": "2004",
+      "update_time": "2024-06-15 10:39:07",
+      "year": "2023",
+      "province_name": "浙江"
     },
     {
       "id": "18373",

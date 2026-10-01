@@ -1,20 +1,20 @@
 {
-  "update_time": "2026-09-01 09:03:09",
+  "update_time": "2026-10-01 10:37:18",
   "school_id": "525",
   "school_name": "内蒙古医科大学",
-  "jobrateyear": "2023",
+  "jobrateyear": "2024",
   "jobrate": {
     "job": {
-      "1": "79.44"
+      "1": "86.67"
     },
     "postgraduate": {
-      "1": "27.07"
+      "1": "0.00"
     },
     "abroad": {
-      "1": "0.40"
+      "1": "0.00"
     },
     "content": {
-      "1": ""
+      "1": "<p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788745841_4523_thumb.png\" title=\"core_1788745841_4523_thumb.png\" alt=\"core_1788745841_4523.png\"></p>"
     }
   },
   "province": [

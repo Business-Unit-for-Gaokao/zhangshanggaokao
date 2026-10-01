@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-09-01 09:00:17",
+  "update_time": "2026-10-01 10:34:25",
   "school_id": "249",
   "school_name": "浙江农林大学",
   "jobrateyear": "2024",
@@ -55,16 +55,16 @@
       "province_name": "黑龙江省"
     },
     {
-      "id": "16675",
+      "id": "16682",
       "school_id": "249",
-      "province": "湖北省",
+      "province": "内蒙古自治区",
       "rate": "0.08",
       "num": "0",
       "sort": "8",
       "update_id": "2004",
       "update_time": "2024-06-07 18:00:30",
       "year": "2023",
-      "province_name": "湖北省"
+      "province_name": "内蒙古自治区"
     },
     {
       "id": "16678",
@@ -79,16 +79,16 @@
       "province_name": "重庆市"
     },
     {
-      "id": "16682",
+      "id": "16675",
       "school_id": "249",
-      "province": "内蒙古自治区",
+      "province": "湖北省",
       "rate": "0.08",
       "num": "0",
       "sort": "8",
       "update_id": "2004",
       "update_time": "2024-06-07 18:00:30",
       "year": "2023",
-      "province_name": "内蒙古自治区"
+      "province_name": "湖北省"
     },
     {
       "id": "16683",
@@ -115,6 +115,18 @@
       "province_name": "贵州省"
     },
     {
+      "id": "16684",
+      "school_id": "249",
+      "province": "吉林省",
+      "rate": "0.15",
+      "num": "0",
+      "sort": "15",
+      "update_id": "2004",
+      "update_time": "2024-06-07 18:00:30",
+      "year": "2023",
+      "province_name": "吉林省"
+    },
+    {
       "id": "16681",
       "school_id": "249",
       "province": "青海省",
@@ -139,18 +151,6 @@
       "province_name": "天津市"
     },
     {
-      "id": "16684",
-      "school_id": "249",
-      "province": "吉林省",
-      "rate": "0.15",
-      "num": "0",
-      "sort": "15",
-      "update_id": "2004",
-      "update_time": "2024-06-07 18:00:30",
-      "year": "2023",
-      "province_name": "吉林省"
-    },
-    {
       "id": "16680",
       "school_id": "249",
       "province": "甘肃省",
@@ -161,30 +161,6 @@
       "update_time": "2024-06-07 18:00:30",
       "year": "2023",
       "province_name": "甘肃省"
-    },
-    {
-      "id": "16677",
-      "school_id": "249",
-      "province": "西藏自治区",
-      "rate": "0.31",
-      "num": "0",
-      "sort": "31",
-      "update_id": "2004",
-      "update_time": "2024-06-07 18:00:30",
-      "year": "2023",
-      "province_name": "西藏自治区"
-    },
-    {
-      "id": "16676",
-      "school_id": "249",
-      "province": "宁夏回族自治区",
-      "rate": "0.31",
-      "num": "0",
-      "sort": "31",
-      "update_id": "2004",
-      "update_time": "2024-06-07 18:00:30",
-      "year": "2023",
-      "province_name": "宁夏回族自治区"
     },
     {
       "id": "16668",
@@ -211,6 +187,30 @@
       "province_name": "陕西省"
     },
     {
+      "id": "16676",
+      "school_id": "249",
+      "province": "宁夏回族自治区",
+      "rate": "0.31",
+      "num": "0",
+      "sort": "31",
+      "update_id": "2004",
+      "update_time": "2024-06-07 18:00:30",
+      "year": "2023",
+      "province_name": "宁夏回族自治区"
+    },
+    {
+      "id": "16677",
+      "school_id": "249",
+      "province": "西藏自治区",
+      "rate": "0.31",
+      "num": "0",
+      "sort": "31",
+      "update_id": "2004",
+      "update_time": "2024-06-07 18:00:30",
+      "year": "2023",
+      "province_name": "西藏自治区"
+    },
+    {
       "id": "16672",
       "school_id": "249",
       "province": "河北省",
@@ -235,18 +235,6 @@
       "province_name": "广西壮族自治区"
     },
     {
-      "id": "16669",
-      "school_id": "249",
-      "province": "四川省",
-      "rate": "0.54",
-      "num": "0",
-      "sort": "54",
-      "update_id": "2004",
-      "update_time": "2024-06-07 18:00:30",
-      "year": "2023",
-      "province_name": "四川省"
-    },
-    {
       "id": "16673",
       "school_id": "249",
       "province": "云南省",
@@ -257,6 +245,18 @@
       "update_time": "2024-06-07 18:00:30",
       "year": "2023",
       "province_name": "云南省"
+    },
+    {
+      "id": "16669",
+      "school_id": "249",
+      "province": "四川省",
+      "rate": "0.54",
+      "num": "0",
+      "sort": "54",
+      "update_id": "2004",
+      "update_time": "2024-06-07 18:00:30",
+      "year": "2023",
+      "province_name": "四川省"
     },
     {
       "id": "16666",

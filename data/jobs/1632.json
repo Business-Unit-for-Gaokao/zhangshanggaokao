@@ -1,9 +1,22 @@
 {
-  "update_time": "2026-09-01 09:12:31",
+  "update_time": "2026-10-01 10:46:31",
   "school_id": "1632",
   "school_name": "乌海职业技术学院",
-  "jobrateyear": "",
-  "jobrate": {},
+  "jobrateyear": "2024",
+  "jobrate": {
+    "job": {
+      "1": "67.98"
+    },
+    "postgraduate": {
+      "1": "10.19"
+    },
+    "abroad": {
+      "1": "0.10"
+    },
+    "content": {
+      "1": "<p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788317335_6558_thumb.png\" title=\"core_1788317335_6558_thumb.png\" alt=\"core_1788317335_6558.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788317351_8419_thumb.png\" title=\"core_1788317351_8419_thumb.png\" alt=\"core_1788317351_8419.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788317374_1459_thumb.png\" title=\"core_1788317374_1459_thumb.png\" alt=\"core_1788317374_1459.png\"></p>"
+    }
+  },
   "province": [],
   "attr": {},
   "company": {},

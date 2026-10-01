@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-09-01 09:07:10",
+  "update_time": "2026-10-01 10:41:20",
   "school_id": "960",
   "school_name": "南方医科大学",
   "jobrateyear": "2024",
@@ -31,18 +31,6 @@
       "province_name": "山东"
     },
     {
-      "id": "31697",
-      "school_id": "960",
-      "province": "辽宁",
-      "rate": "0.19",
-      "num": "2",
-      "sort": "19",
-      "update_id": "2234",
-      "update_time": "2025-11-28 10:59:56",
-      "year": "2024",
-      "province_name": "辽宁"
-    },
-    {
       "id": "31681",
       "school_id": "960",
       "province": "天津",
@@ -53,6 +41,18 @@
       "update_time": "2025-11-28 10:59:56",
       "year": "2024",
       "province_name": "天津"
+    },
+    {
+      "id": "31697",
+      "school_id": "960",
+      "province": "辽宁",
+      "rate": "0.19",
+      "num": "2",
+      "sort": "19",
+      "update_id": "2234",
+      "update_time": "2025-11-28 10:59:56",
+      "year": "2024",
+      "province_name": "辽宁"
     },
     {
       "id": "31696",
@@ -79,16 +79,16 @@
       "province_name": "河南"
     },
     {
-      "id": "31687",
+      "id": "31693",
       "school_id": "960",
-      "province": "重庆",
+      "province": "安徽",
       "rate": "0.39",
       "num": "4",
       "sort": "39",
       "update_id": "2234",
       "update_time": "2025-11-28 10:59:56",
       "year": "2024",
-      "province_name": "重庆"
+      "province_name": "安徽"
     },
     {
       "id": "31688",
@@ -103,28 +103,16 @@
       "province_name": "陕西"
     },
     {
-      "id": "31692",
+      "id": "31687",
       "school_id": "960",
-      "province": "湖南",
+      "province": "重庆",
       "rate": "0.39",
       "num": "4",
       "sort": "39",
       "update_id": "2234",
       "update_time": "2025-11-28 10:59:56",
       "year": "2024",
-      "province_name": "湖南"
-    },
-    {
-      "id": "31693",
-      "school_id": "960",
-      "province": "安徽",
-      "rate": "0.39",
-      "num": "4",
-      "sort": "39",
-      "update_id": "2234",
-      "update_time": "2025-11-28 10:59:56",
-      "year": "2024",
-      "province_name": "安徽"
+      "province_name": "重庆"
     },
     {
       "id": "31695",
@@ -139,6 +127,18 @@
       "province_name": "吉林"
     },
     {
+      "id": "31692",
+      "school_id": "960",
+      "province": "湖南",
+      "rate": "0.39",
+      "num": "4",
+      "sort": "39",
+      "update_id": "2234",
+      "update_time": "2025-11-28 10:59:56",
+      "year": "2024",
+      "province_name": "湖南"
+    },
+    {
       "id": "31691",
       "school_id": "960",
       "province": "山西",
@@ -151,18 +151,6 @@
       "province_name": "山西"
     },
     {
-      "id": "31680",
-      "school_id": "960",
-      "province": "河北",
-      "rate": "0.49",
-      "num": "5",
-      "sort": "49",
-      "update_id": "2234",
-      "update_time": "2025-11-28 10:59:56",
-      "year": "2024",
-      "province_name": "河北"
-    },
-    {
       "id": "31690",
       "school_id": "960",
       "province": "江西",
@@ -173,6 +161,18 @@
       "update_time": "2025-11-28 10:59:56",
       "year": "2024",
       "province_name": "江西"
+    },
+    {
+      "id": "31680",
+      "school_id": "960",
+      "province": "河北",
+      "rate": "0.49",
+      "num": "5",
+      "sort": "49",
+      "update_id": "2234",
+      "update_time": "2025-11-28 10:59:56",
+      "year": "2024",
+      "province_name": "河北"
     },
     {
       "id": "31679",
@@ -247,18 +247,6 @@
       "province_name": "四川"
     },
     {
-      "id": "31689",
-      "school_id": "960",
-      "province": "湖北",
-      "rate": "0.97",
-      "num": "10",
-      "sort": "97",
-      "update_id": "2234",
-      "update_time": "2025-11-28 10:59:56",
-      "year": "2024",
-      "province_name": "湖北"
-    },
-    {
       "id": "31677",
       "school_id": "960",
       "province": "浙江",
@@ -281,6 +269,18 @@
       "update_time": "2025-11-28 10:59:56",
       "year": "2024",
       "province_name": "西藏"
+    },
+    {
+      "id": "31689",
+      "school_id": "960",
+      "province": "湖北",
+      "rate": "0.97",
+      "num": "10",
+      "sort": "97",
+      "update_id": "2234",
+      "update_time": "2025-11-28 10:59:56",
+      "year": "2024",
+      "province_name": "湖北"
     },
     {
       "id": "31676",

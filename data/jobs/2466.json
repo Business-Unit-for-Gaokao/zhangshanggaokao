@@ -1,20 +1,20 @@
 {
-  "update_time": "2026-09-01 09:21:01",
+  "update_time": "2026-10-01 10:54:49",
   "school_id": "2466",
   "school_name": "长沙工业学院",
-  "jobrateyear": "2021",
+  "jobrateyear": "2024",
   "jobrate": {
     "job": {
-      "1": "76.49"
+      "1": "70.72"
     },
     "postgraduate": {
-      "1": "7.86"
+      "1": "0.00"
     },
     "abroad": {
-      "1": "0.14"
+      "1": "0.00"
     },
     "content": {
-      "1": ""
+      "1": "<p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788774410_6679_thumb.png\" title=\"core_1788774410_6679_thumb.png\" alt=\"core_1788774410_6679.png\"></p>"
     }
   },
   "province": [

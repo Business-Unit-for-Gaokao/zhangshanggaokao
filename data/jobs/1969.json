@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-09-01 09:15:59",
+  "update_time": "2026-10-01 10:49:52",
   "school_id": "1969",
   "school_name": "湖北汽车工业学院科技学院",
   "jobrateyear": "2022",
@@ -18,18 +18,6 @@
     }
   },
   "province": [
-    {
-      "id": "19427",
-      "school_id": "1969",
-      "province": "甘肃省",
-      "rate": "0.08",
-      "num": "1",
-      "sort": "1",
-      "update_id": "2004",
-      "update_time": "2024-06-18 14:05:08",
-      "year": "2022",
-      "province_name": "甘肃省"
-    },
     {
       "id": "19436",
       "school_id": "1969",
@@ -53,6 +41,18 @@
       "update_time": "2024-06-18 14:05:08",
       "year": "2022",
       "province_name": "西藏"
+    },
+    {
+      "id": "19427",
+      "school_id": "1969",
+      "province": "甘肃省",
+      "rate": "0.08",
+      "num": "1",
+      "sort": "1",
+      "update_id": "2004",
+      "update_time": "2024-06-18 14:05:08",
+      "year": "2022",
+      "province_name": "甘肃省"
     },
     {
       "id": "19437",
@@ -79,6 +79,18 @@
       "province_name": "宁夏"
     },
     {
+      "id": "19434",
+      "school_id": "1969",
+      "province": "贵州省",
+      "rate": "0.23",
+      "num": "3",
+      "sort": "3",
+      "update_id": "2004",
+      "update_time": "2024-06-18 14:05:08",
+      "year": "2022",
+      "province_name": "贵州省"
+    },
+    {
       "id": "19446",
       "school_id": "1969",
       "province": "天津市",
@@ -101,18 +113,6 @@
       "update_time": "2024-06-18 14:05:08",
       "year": "2022",
       "province_name": "云南省"
-    },
-    {
-      "id": "19434",
-      "school_id": "1969",
-      "province": "贵州省",
-      "rate": "0.23",
-      "num": "3",
-      "sort": "3",
-      "update_id": "2004",
-      "update_time": "2024-06-18 14:05:08",
-      "year": "2022",
-      "province_name": "贵州省"
     },
     {
       "id": "19452",
@@ -139,18 +139,6 @@
       "province_name": "海南省"
     },
     {
-      "id": "19444",
-      "school_id": "1969",
-      "province": "山东省",
-      "rate": "0.61",
-      "num": "8",
-      "sort": "8",
-      "update_id": "2004",
-      "update_time": "2024-06-18 14:05:08",
-      "year": "2022",
-      "province_name": "山东省"
-    },
-    {
       "id": "19450",
       "school_id": "1969",
       "province": "湖南省",
@@ -163,18 +151,6 @@
       "province_name": "湖南省"
     },
     {
-      "id": "19430",
-      "school_id": "1969",
-      "province": "新疆",
-      "rate": "0.61",
-      "num": "8",
-      "sort": "8",
-      "update_id": "2004",
-      "update_time": "2024-06-18 14:05:08",
-      "year": "2022",
-      "province_name": "新疆"
-    },
-    {
       "id": "19433",
       "school_id": "1969",
       "province": "陕西省",
@@ -185,6 +161,30 @@
       "update_time": "2024-06-18 14:05:08",
       "year": "2022",
       "province_name": "陕西省"
+    },
+    {
+      "id": "19444",
+      "school_id": "1969",
+      "province": "山东省",
+      "rate": "0.61",
+      "num": "8",
+      "sort": "8",
+      "update_id": "2004",
+      "update_time": "2024-06-18 14:05:08",
+      "year": "2022",
+      "province_name": "山东省"
+    },
+    {
+      "id": "19430",
+      "school_id": "1969",
+      "province": "新疆",
+      "rate": "0.61",
+      "num": "8",
+      "sort": "8",
+      "update_id": "2004",
+      "update_time": "2024-06-18 14:05:08",
+      "year": "2022",
+      "province_name": "新疆"
     },
     {
       "id": "19426",
@@ -223,18 +223,6 @@
       "province_name": "北京市"
     },
     {
-      "id": "19439",
-      "school_id": "1969",
-      "province": "福建省",
-      "rate": "1.13",
-      "num": "15",
-      "sort": "15",
-      "update_id": "2004",
-      "update_time": "2024-06-18 14:05:08",
-      "year": "2022",
-      "province_name": "福建省"
-    },
-    {
       "id": "19453",
       "school_id": "1969",
       "province": "河南省",
@@ -245,6 +233,18 @@
       "update_time": "2024-06-18 14:05:08",
       "year": "2022",
       "province_name": "河南省"
+    },
+    {
+      "id": "19439",
+      "school_id": "1969",
+      "province": "福建省",
+      "rate": "1.13",
+      "num": "15",
+      "sort": "15",
+      "update_id": "2004",
+      "update_time": "2024-06-18 14:05:08",
+      "year": "2022",
+      "province_name": "福建省"
     },
     {
       "id": "19442",

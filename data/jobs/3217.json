@@ -1,9 +1,22 @@
 {
-  "update_time": "2026-09-01 09:25:14",
+  "update_time": "2026-10-01 10:59:09",
   "school_id": "3217",
   "school_name": "烟台黄金职业学院",
-  "jobrateyear": "",
-  "jobrate": {},
+  "jobrateyear": "2025",
+  "jobrate": {
+    "job": {
+      "1": "94.61"
+    },
+    "postgraduate": {
+      "1": "0.00"
+    },
+    "abroad": {
+      "1": "0.00"
+    },
+    "content": {
+      "1": "<p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1789090992_8107_thumb.jpg\" xss=removed title=\"core_1789090992_8107_thumb.jpg\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1789090992_9544_thumb.jpg\" xss=removed title=\"core_1789090992_9544_thumb.jpg\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1789090992_7471_thumb.jpg\" xss=removed title=\"core_1789090992_7471_thumb.jpg\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1789090993_3834_thumb.jpg\" xss=removed title=\"core_1789090993_3834_thumb.jpg\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1789090993_8424_thumb.jpg\" xss=removed title=\"core_1789090993_8424_thumb.jpg\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1789090993_2109_thumb.jpg\" xss=removed title=\"core_1789090993_2109_thumb.jpg\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1789090993_6368_thumb.jpg\" xss=removed title=\"core_1789090993_6368_thumb.jpg\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1789090994_7614_thumb.jpg\" xss=removed title=\"core_1789090994_7614_thumb.jpg\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1789090994_3663_thumb.jpg\" xss=removed title=\"core_1789090994_3663_thumb.jpg\"></p><p><br></p>"
+    }
+  },
   "province": [],
   "attr": {},
   "company": {},

@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-09-01 09:08:32",
+  "update_time": "2026-10-01 10:42:44",
   "school_id": "1130",
   "school_name": "陕西警察学院",
   "jobrateyear": "2019",
@@ -19,54 +19,6 @@
   },
   "province": [
     {
-      "id": "9849",
-      "school_id": "1130",
-      "province": "陕西",
-      "rate": "91.44",
-      "num": "0",
-      "sort": "0",
-      "update_id": "0",
-      "update_time": "2018-12-18 15:40:19",
-      "year": "2019",
-      "province_name": "陕西"
-    },
-    {
-      "id": "9850",
-      "school_id": "1130",
-      "province": "西北（除陕西）",
-      "rate": "3.55",
-      "num": "0",
-      "sort": "0",
-      "update_id": "0",
-      "update_time": "2018-12-18 15:40:19",
-      "year": "2019",
-      "province_name": "西北（除陕西）"
-    },
-    {
-      "id": "9851",
-      "school_id": "1130",
-      "province": "西南",
-      "rate": "0.58",
-      "num": "0",
-      "sort": "0",
-      "update_id": "0",
-      "update_time": "2018-12-18 15:40:19",
-      "year": "2019",
-      "province_name": "西南"
-    },
-    {
-      "id": "9852",
-      "school_id": "1130",
-      "province": "华南",
-      "rate": "1.22",
-      "num": "0",
-      "sort": "0",
-      "update_id": "0",
-      "update_time": "2018-12-18 15:40:19",
-      "year": "2019",
-      "province_name": "华南"
-    },
-    {
       "id": "9853",
       "school_id": "1130",
       "province": "华中",
@@ -79,16 +31,16 @@
       "province_name": "华中"
     },
     {
-      "id": "9854",
+      "id": "9856",
       "school_id": "1130",
-      "province": "华东",
-      "rate": "1.11",
+      "province": "东北",
+      "rate": "0.06",
       "num": "0",
       "sort": "0",
       "update_id": "0",
       "update_time": "2018-12-18 15:40:19",
       "year": "2019",
-      "province_name": "华东"
+      "province_name": "东北"
     },
     {
       "id": "9855",
@@ -103,16 +55,64 @@
       "province_name": "华北"
     },
     {
-      "id": "9856",
+      "id": "9854",
       "school_id": "1130",
-      "province": "东北",
-      "rate": "0.06",
+      "province": "华东",
+      "rate": "1.11",
       "num": "0",
       "sort": "0",
       "update_id": "0",
       "update_time": "2018-12-18 15:40:19",
       "year": "2019",
-      "province_name": "东北"
+      "province_name": "华东"
+    },
+    {
+      "id": "9852",
+      "school_id": "1130",
+      "province": "华南",
+      "rate": "1.22",
+      "num": "0",
+      "sort": "0",
+      "update_id": "0",
+      "update_time": "2018-12-18 15:40:19",
+      "year": "2019",
+      "province_name": "华南"
+    },
+    {
+      "id": "9851",
+      "school_id": "1130",
+      "province": "西南",
+      "rate": "0.58",
+      "num": "0",
+      "sort": "0",
+      "update_id": "0",
+      "update_time": "2018-12-18 15:40:19",
+      "year": "2019",
+      "province_name": "西南"
+    },
+    {
+      "id": "9850",
+      "school_id": "1130",
+      "province": "西北（除陕西）",
+      "rate": "3.55",
+      "num": "0",
+      "sort": "0",
+      "update_id": "0",
+      "update_time": "2018-12-18 15:40:19",
+      "year": "2019",
+      "province_name": "西北（除陕西）"
+    },
+    {
+      "id": "9849",
+      "school_id": "1130",
+      "province": "陕西",
+      "rate": "91.44",
+      "num": "0",
+      "sort": "0",
+      "update_id": "0",
+      "update_time": "2018-12-18 15:40:19",
+      "year": "2019",
+      "province_name": "陕西"
     }
   ],
   "attr": {},

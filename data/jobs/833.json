@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-09-01 09:05:59",
+  "update_time": "2026-10-01 10:40:10",
   "school_id": "833",
   "school_name": "河南师范大学",
   "jobrateyear": "2024",
@@ -55,54 +55,6 @@
       "province_name": "辽宁省"
     },
     {
-      "id": "29075",
-      "school_id": "833",
-      "province": "吉林省",
-      "rate": "0.18",
-      "num": "0",
-      "sort": "18",
-      "update_id": "2314",
-      "update_time": "2025-11-13 09:29:49",
-      "year": "2024",
-      "province_name": "吉林省"
-    },
-    {
-      "id": "29076",
-      "school_id": "833",
-      "province": "黑龙江省",
-      "rate": "0.18",
-      "num": "0",
-      "sort": "18",
-      "update_id": "2314",
-      "update_time": "2025-11-13 09:29:49",
-      "year": "2024",
-      "province_name": "黑龙江省"
-    },
-    {
-      "id": "29094",
-      "school_id": "833",
-      "province": "重庆市",
-      "rate": "0.18",
-      "num": "0",
-      "sort": "18",
-      "update_id": "2314",
-      "update_time": "2025-11-13 09:29:49",
-      "year": "2024",
-      "province_name": "重庆市"
-    },
-    {
-      "id": "29095",
-      "school_id": "833",
-      "province": "云南省",
-      "rate": "0.18",
-      "num": "0",
-      "sort": "18",
-      "update_id": "2314",
-      "update_time": "2025-11-13 09:29:49",
-      "year": "2024",
-      "province_name": "云南省"
-    },
-    {
       "id": "29097",
       "school_id": "833",
       "province": "广西壮族自治区",
@@ -125,6 +77,54 @@
       "update_time": "2025-11-13 09:29:49",
       "year": "2024",
       "province_name": "青海省"
+    },
+    {
+      "id": "29095",
+      "school_id": "833",
+      "province": "云南省",
+      "rate": "0.18",
+      "num": "0",
+      "sort": "18",
+      "update_id": "2314",
+      "update_time": "2025-11-13 09:29:49",
+      "year": "2024",
+      "province_name": "云南省"
+    },
+    {
+      "id": "29094",
+      "school_id": "833",
+      "province": "重庆市",
+      "rate": "0.18",
+      "num": "0",
+      "sort": "18",
+      "update_id": "2314",
+      "update_time": "2025-11-13 09:29:49",
+      "year": "2024",
+      "province_name": "重庆市"
+    },
+    {
+      "id": "29075",
+      "school_id": "833",
+      "province": "吉林省",
+      "rate": "0.18",
+      "num": "0",
+      "sort": "18",
+      "update_id": "2314",
+      "update_time": "2025-11-13 09:29:49",
+      "year": "2024",
+      "province_name": "吉林省"
+    },
+    {
+      "id": "29076",
+      "school_id": "833",
+      "province": "黑龙江省",
+      "rate": "0.18",
+      "num": "0",
+      "sort": "18",
+      "update_id": "2314",
+      "update_time": "2025-11-13 09:29:49",
+      "year": "2024",
+      "province_name": "黑龙江省"
     },
     {
       "id": "29093",
@@ -211,6 +211,18 @@
       "province_name": "江西省"
     },
     {
+      "id": "29085",
+      "school_id": "833",
+      "province": "福建省",
+      "rate": "0.66",
+      "num": "0",
+      "sort": "66",
+      "update_id": "2314",
+      "update_time": "2025-11-13 09:29:49",
+      "year": "2024",
+      "province_name": "福建省"
+    },
+    {
       "id": "29072",
       "school_id": "833",
       "province": "安徽省",
@@ -233,18 +245,6 @@
       "update_time": "2025-11-13 09:29:49",
       "year": "2024",
       "province_name": "陕西省"
-    },
-    {
-      "id": "29085",
-      "school_id": "833",
-      "province": "福建省",
-      "rate": "0.66",
-      "num": "0",
-      "sort": "66",
-      "update_id": "2314",
-      "update_time": "2025-11-13 09:29:49",
-      "year": "2024",
-      "province_name": "福建省"
     },
     {
       "id": "29089",

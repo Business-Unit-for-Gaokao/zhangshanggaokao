@@ -1,9 +1,22 @@
 {
-  "update_time": "2026-09-01 09:07:03",
+  "update_time": "2026-10-01 10:41:14",
   "school_id": "951",
   "school_name": "赣西科技职业学院",
-  "jobrateyear": "",
-  "jobrate": {},
+  "jobrateyear": "2025",
+  "jobrate": {
+    "job": {
+      "1": "85.14"
+    },
+    "postgraduate": {
+      "1": "0.00"
+    },
+    "abroad": {
+      "1": "0.00"
+    },
+    "content": {
+      "1": "<p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788334909_5755_thumb.png\" title=\"core_1788334909_5755_thumb.png\" alt=\"core_1788334909_5755.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788334924_9506_thumb.png\" title=\"core_1788334924_9506_thumb.png\" alt=\"core_1788334924_9506.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788334947_1167_thumb.png\" title=\"core_1788334947_1167_thumb.png\" alt=\"core_1788334947_1167.png\"></p><p><br></p>"
+    }
+  },
   "province": [],
   "attr": {},
   "company": {},

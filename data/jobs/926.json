@@ -1,9 +1,22 @@
 {
-  "update_time": "2026-09-01 09:06:48",
+  "update_time": "2026-10-01 10:41:00",
   "school_id": "926",
   "school_name": "江西外语外贸职业学院",
-  "jobrateyear": "",
-  "jobrate": {},
+  "jobrateyear": "2024",
+  "jobrate": {
+    "job": {
+      "1": "86.24"
+    },
+    "postgraduate": {
+      "1": "0.00"
+    },
+    "abroad": {
+      "1": "0.00"
+    },
+    "content": {
+      "1": "<p></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1789438142_4141_thumb.jpg\" xss=removed title=\"core_1789438142_4141_thumb.jpg\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1789438142_3671_thumb.jpg\" xss=removed title=\"core_1789438142_3671_thumb.jpg\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1789438142_8057_thumb.jpg\" xss=removed title=\"core_1789438142_8057_thumb.jpg\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1789438142_3766_thumb.jpg\" xss=removed title=\"core_1789438142_3766_thumb.jpg\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1789438142_8739_thumb.jpg\" xss=removed title=\"core_1789438142_8739_thumb.jpg\"></p><p><br></p>"
+    }
+  },
   "province": [],
   "attr": {},
   "company": {},

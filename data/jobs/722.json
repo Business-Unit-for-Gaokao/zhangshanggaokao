@@ -1,20 +1,20 @@
 {
-  "update_time": "2026-09-01 09:05:00",
+  "update_time": "2026-10-01 10:39:09",
   "school_id": "722",
   "school_name": "衡水职业技术学院",
-  "jobrateyear": "2020",
+  "jobrateyear": "2024",
   "jobrate": {
     "job": {
-      "1": "83.97"
+      "1": "90.77"
     },
     "postgraduate": {
-      "1": "4.25"
+      "1": "0.00"
     },
     "abroad": {
       "1": "0.00"
     },
     "content": {
-      "1": ""
+      "1": "<p><img src=\"https://static-data.gaokao.cn//upload/image/202608/core_1787033638_9881_thumb.png\" title=\"core_1787033638_9881_thumb.png\" alt=\"core_1787033638_9881.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202608/core_1787033651_1689_thumb.png\" title=\"core_1787033651_1689_thumb.png\" alt=\"core_1787033651_1689.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202608/core_1787033658_2185_thumb.png\" title=\"core_1787033658_2185_thumb.png\" alt=\"core_1787033658_2185.png\"></p>"
     }
   },
   "province": [

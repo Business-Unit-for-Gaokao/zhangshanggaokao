@@ -1,9 +1,22 @@
 {
-  "update_time": "2026-09-01 09:15:34",
+  "update_time": "2026-10-01 10:49:29",
   "school_id": "1931",
   "school_name": "河南质量工程职业学院",
-  "jobrateyear": "",
-  "jobrate": {},
+  "jobrateyear": "2025",
+  "jobrate": {
+    "job": {
+      "1": "0.00"
+    },
+    "postgraduate": {
+      "1": "0.00"
+    },
+    "abroad": {
+      "1": "0.00"
+    },
+    "content": {
+      "1": "<p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788229666_4777_thumb.png\" title=\"core_1788229666_4777_thumb.png\" alt=\"core_1788229666_4777.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788229689_9009_thumb.png\" title=\"core_1788229689_9009_thumb.png\" alt=\"core_1788229689_9009.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788229701_3124_thumb.png\" title=\"core_1788229701_3124_thumb.png\" alt=\"core_1788229701_3124.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788229722_4905_thumb.png\" title=\"core_1788229722_4905_thumb.png\" alt=\"core_1788229722_4905.png\"></p><p><br></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788229738_9237_thumb.png\" title=\"core_1788229738_9237_thumb.png\" alt=\"core_1788229738_9237.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788229754_4331_thumb.png\" title=\"core_1788229754_4331_thumb.png\" alt=\"core_1788229754_4331.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788229767_4091_thumb.png\" title=\"core_1788229767_4091_thumb.png\" alt=\"core_1788229767_4091.png\"></p>"
+    }
+  },
   "province": [],
   "attr": {},
   "company": {},

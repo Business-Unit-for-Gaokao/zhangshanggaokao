@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-09-01 09:06:50",
+  "update_time": "2026-10-01 10:41:01",
   "school_id": "928",
   "school_name": "江西应用科技学院",
   "jobrateyear": "2024",
@@ -127,18 +127,6 @@
       "province_name": "新疆维吾尔自治区"
     },
     {
-      "id": "21704",
-      "school_id": "928",
-      "province": "海南省",
-      "rate": "0.24",
-      "num": "10",
-      "sort": "10",
-      "update_id": "2094",
-      "update_time": "2024-09-18 17:45:36",
-      "year": "2022",
-      "province_name": "海南省"
-    },
-    {
       "id": "21703",
       "school_id": "928",
       "province": "广西壮族自治区",
@@ -149,6 +137,18 @@
       "update_time": "2024-09-18 17:45:36",
       "year": "2022",
       "province_name": "广西壮族自治区"
+    },
+    {
+      "id": "21704",
+      "school_id": "928",
+      "province": "海南省",
+      "rate": "0.24",
+      "num": "10",
+      "sort": "10",
+      "update_id": "2094",
+      "update_time": "2024-09-18 17:45:36",
+      "year": "2022",
+      "province_name": "海南省"
     },
     {
       "id": "21702",

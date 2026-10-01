@@ -1,11 +1,11 @@
 {
-  "update_time": "2026-09-01 09:12:08",
+  "update_time": "2026-10-01 10:46:10",
   "school_id": "1596",
   "school_name": "六盘水师范学院",
-  "jobrateyear": "2022",
+  "jobrateyear": "2024",
   "jobrate": {
     "job": {
-      "1": "84.25"
+      "1": "84.94"
     },
     "postgraduate": {
       "1": "0.00"
@@ -14,7 +14,7 @@
       "1": "0.00"
     },
     "content": {
-      "1": ""
+      "1": "<p><img src=\"https://static-data.gaokao.cn//upload/image/202606/core_1782025900_1818_thumb.jpg\" xss=removed title=\"core_1782025900_1818_thumb.jpg\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202606/core_1782025900_3498_thumb.jpg\" xss=removed title=\"core_1782025900_3498_thumb.jpg\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202606/core_1782025900_1071_thumb.jpg\" xss=removed title=\"core_1782025900_1071_thumb.jpg\"></p><p><br></p>"
     }
   },
   "province": [

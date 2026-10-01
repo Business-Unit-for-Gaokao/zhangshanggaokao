@@ -1,9 +1,22 @@
 {
-  "update_time": "2026-09-01 09:06:47",
+  "update_time": "2026-10-01 10:40:59",
   "school_id": "925",
   "school_name": "江西生物科技职业学院",
-  "jobrateyear": "",
-  "jobrate": {},
+  "jobrateyear": "2025",
+  "jobrate": {
+    "job": {
+      "1": "88.57"
+    },
+    "postgraduate": {
+      "1": "0.00"
+    },
+    "abroad": {
+      "1": "0.00"
+    },
+    "content": {
+      "1": "<p><img src=\"https://static-data.gaokao.cn//upload/image/202608/core_1787031687_5738_thumb.png\" title=\"core_1787031687_5738_thumb.png\" alt=\"core_1787031687_5738.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202608/core_1787031696_7584_thumb.png\" title=\"core_1787031696_7584_thumb.png\" alt=\"core_1787031696_7584.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202608/core_1787031706_5970_thumb.png\" title=\"core_1787031706_5970_thumb.png\" alt=\"core_1787031706_5970.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202608/core_1787031727_3828_thumb.png\" title=\"core_1787031727_3828_thumb.png\" alt=\"core_1787031727_3828.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202608/core_1787031735_5952_thumb.png\" title=\"core_1787031735_5952_thumb.png\" alt=\"core_1787031735_5952.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202608/core_1787031756_7604_thumb.png\" title=\"core_1787031756_7604_thumb.png\" alt=\"core_1787031756_7604.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202608/core_1787031762_6129_thumb.png\" title=\"core_1787031762_6129_thumb.png\" alt=\"core_1787031762_6129.png\"></p>"
+    }
+  },
   "province": [],
   "attr": {},
   "company": {},

@@ -1,20 +1,20 @@
 {
-  "update_time": "2026-09-01 09:04:45",
+  "update_time": "2026-10-01 10:38:54",
   "school_id": "697",
   "school_name": "河北科技工程职业技术大学",
-  "jobrateyear": "2019",
+  "jobrateyear": "2025",
   "jobrate": {
     "job": {
-      "1": "98.89"
+      "1": "92.19"
     },
     "postgraduate": {
-      "1": "4.30"
+      "1": "0.00"
     },
     "abroad": {
       "1": "0.00"
     },
     "content": {
-      "1": ""
+      "1": "<p><img src=\"https://static-data.gaokao.cn//upload/image/202608/core_1786586249_2855_thumb.png\" title=\"core_1786586249_2855_thumb.png\" alt=\"core_1786586249_2855.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202608/core_1786586272_3057_thumb.png\" title=\"core_1786586272_3057_thumb.png\" alt=\"core_1786586272_3057.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202608/core_1786586290_7099_thumb.png\" title=\"core_1786586290_7099_thumb.png\" alt=\"core_1786586290_7099.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202608/core_1786586312_7418_thumb.png\" title=\"core_1786586312_7418_thumb.png\" alt=\"core_1786586312_7418.png\"></p>"
     }
   },
   "province": [

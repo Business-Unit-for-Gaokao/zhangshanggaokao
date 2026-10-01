@@ -1,9 +1,22 @@
 {
-  "update_time": "2026-09-01 09:02:27",
+  "update_time": "2026-10-01 10:36:35",
   "school_id": "453",
   "school_name": "牡丹江医科大学",
-  "jobrateyear": "",
-  "jobrate": {},
+  "jobrateyear": "2024",
+  "jobrate": {
+    "job": {
+      "1": "83.24"
+    },
+    "postgraduate": {
+      "1": "16.41"
+    },
+    "abroad": {
+      "1": "0.16"
+    },
+    "content": {
+      "1": "<p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788407778_9137_thumb.png\" title=\"core_1788407778_9137_thumb.png\" alt=\"core_1788407778_9137.png\"></p>"
+    }
+  },
   "province": [],
   "attr": {},
   "company": {},

@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-09-01 09:02:31",
+  "update_time": "2026-10-01 10:36:39",
   "school_id": "459",
   "school_name": "河南大学",
   "jobrateyear": "2024",
@@ -151,18 +151,6 @@
       "province_name": "重庆市"
     },
     {
-      "id": "13979",
-      "school_id": "459",
-      "province": "海南省",
-      "rate": "0.51",
-      "num": "20",
-      "sort": "20",
-      "update_id": "1721",
-      "update_time": "2024-05-21 14:10:42",
-      "year": "2023",
-      "province_name": "海南省"
-    },
-    {
       "id": "13972",
       "school_id": "459",
       "province": "山西省",
@@ -173,6 +161,18 @@
       "update_time": "2024-05-21 14:10:42",
       "year": "2023",
       "province_name": "山西省"
+    },
+    {
+      "id": "13979",
+      "school_id": "459",
+      "province": "海南省",
+      "rate": "0.51",
+      "num": "20",
+      "sort": "20",
+      "update_id": "1721",
+      "update_time": "2024-05-21 14:10:42",
+      "year": "2023",
+      "province_name": "海南省"
     },
     {
       "id": "13974",

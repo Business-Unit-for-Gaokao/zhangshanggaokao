@@ -1,20 +1,20 @@
 {
-  "update_time": "2026-09-01 09:26:52",
+  "update_time": "2026-10-01 11:00:52",
   "school_id": "3398",
   "school_name": "天府新区航空旅游职业学院",
-  "jobrateyear": "2023",
+  "jobrateyear": "2025",
   "jobrate": {
     "job": {
-      "1": "90.49"
+      "1": "0.00"
     },
     "postgraduate": {
-      "1": "16.05"
+      "1": "0.00"
     },
     "abroad": {
       "1": "0.00"
     },
     "content": {
-      "1": ""
+      "1": "<p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1789356321_9423_thumb.png\" title=\"core_1789356321_9423_thumb.png\" alt=\"core_1789356321_9423.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1789356345_5783_thumb.png\" title=\"core_1789356345_5783_thumb.png\" alt=\"core_1789356345_5783.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1789356370_8191_thumb.png\" title=\"core_1789356370_8191_thumb.png\" alt=\"core_1789356370_8191.png\"></p>"
     }
   },
   "province": [

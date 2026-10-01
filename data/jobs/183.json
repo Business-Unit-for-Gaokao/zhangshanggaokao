@@ -1,20 +1,20 @@
 {
-  "update_time": "2026-09-01 08:59:35",
+  "update_time": "2026-10-01 10:33:43",
   "school_id": "183",
   "school_name": "景德镇陶瓷大学",
-  "jobrateyear": "2021",
+  "jobrateyear": "2024",
   "jobrate": {
     "job": {
-      "1": "88.99"
+      "1": "81.97"
     },
     "postgraduate": {
-      "1": "13.03"
+      "1": "10.38"
     },
     "abroad": {
-      "1": "0.58"
+      "1": "0.00"
     },
     "content": {
-      "1": ""
+      "1": "<p><img src=\"https://static-data.gaokao.cn//upload/image/202608/core_1786609983_9281_thumb.png\" title=\"core_1786609983_9281_thumb.png\" alt=\"core_1786609983_9281.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202608/core_1786609992_4216_thumb.png\" title=\"core_1786609992_4216_thumb.png\" alt=\"core_1786609992_4216.png\"><img src=\"https://static-data.gaokao.cn//upload/image/202608/core_1786610010_1987_thumb.png\" title=\"core_1786610010_1987_thumb.png\" alt=\"core_1786610010_1987.png\"></p>"
     }
   },
   "province": [
@@ -67,18 +67,6 @@
       "province_name": "新疆维吾尔自治区"
     },
     {
-      "id": "26678",
-      "school_id": "183",
-      "province": "海南省",
-      "rate": "0.17",
-      "num": "5",
-      "sort": "5",
-      "update_id": "1211",
-      "update_time": "2025-01-10 15:02:05",
-      "year": "2021",
-      "province_name": "海南省"
-    },
-    {
       "id": "26675",
       "school_id": "183",
       "province": "甘肃省",
@@ -89,6 +77,18 @@
       "update_time": "2025-01-10 15:02:05",
       "year": "2021",
       "province_name": "甘肃省"
+    },
+    {
+      "id": "26678",
+      "school_id": "183",
+      "province": "海南省",
+      "rate": "0.17",
+      "num": "5",
+      "sort": "5",
+      "update_id": "1211",
+      "update_time": "2025-01-10 15:02:05",
+      "year": "2021",
+      "province_name": "海南省"
     },
     {
       "id": "26677",
@@ -103,18 +103,6 @@
       "province_name": "吉林省"
     },
     {
-      "id": "26676",
-      "school_id": "183",
-      "province": "黑龙江省",
-      "rate": "0.28",
-      "num": "8",
-      "sort": "8",
-      "update_id": "1211",
-      "update_time": "2025-01-10 15:02:05",
-      "year": "2021",
-      "province_name": "黑龙江省"
-    },
-    {
       "id": "26672",
       "school_id": "183",
       "province": "陕西省",
@@ -125,6 +113,18 @@
       "update_time": "2025-01-10 15:02:05",
       "year": "2021",
       "province_name": "陕西省"
+    },
+    {
+      "id": "26676",
+      "school_id": "183",
+      "province": "黑龙江省",
+      "rate": "0.28",
+      "num": "8",
+      "sort": "8",
+      "update_id": "1211",
+      "update_time": "2025-01-10 15:02:05",
+      "year": "2021",
+      "province_name": "黑龙江省"
     },
     {
       "id": "26674",
@@ -247,18 +247,6 @@
       "province_name": "天津市"
     },
     {
-      "id": "26663",
-      "school_id": "183",
-      "province": "湖南省",
-      "rate": "0.87",
-      "num": "25",
-      "sort": "25",
-      "update_id": "1211",
-      "update_time": "2025-01-10 15:02:05",
-      "year": "2021",
-      "province_name": "湖南省"
-    },
-    {
       "id": "26661",
       "school_id": "183",
       "province": "河南省",
@@ -269,6 +257,18 @@
       "update_time": "2025-01-10 15:02:05",
       "year": "2021",
       "province_name": "河南省"
+    },
+    {
+      "id": "26663",
+      "school_id": "183",
+      "province": "湖南省",
+      "rate": "0.87",
+      "num": "25",
+      "sort": "25",
+      "update_id": "1211",
+      "update_time": "2025-01-10 15:02:05",
+      "year": "2021",
+      "province_name": "湖南省"
     },
     {
       "id": "26662",
@@ -283,18 +283,6 @@
       "province_name": "河北省"
     },
     {
-      "id": "26660",
-      "school_id": "183",
-      "province": "安徽省",
-      "rate": "1.15",
-      "num": "33",
-      "sort": "33",
-      "update_id": "1211",
-      "update_time": "2025-01-10 15:02:05",
-      "year": "2021",
-      "province_name": "安徽省"
-    },
-    {
       "id": "26659",
       "school_id": "183",
       "province": "湖北省",
@@ -305,6 +293,18 @@
       "update_time": "2025-01-10 15:02:05",
       "year": "2021",
       "province_name": "湖北省"
+    },
+    {
+      "id": "26660",
+      "school_id": "183",
+      "province": "安徽省",
+      "rate": "1.15",
+      "num": "33",
+      "sort": "33",
+      "update_id": "1211",
+      "update_time": "2025-01-10 15:02:05",
+      "year": "2021",
+      "province_name": "安徽省"
     },
     {
       "id": "26658",

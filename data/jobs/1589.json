@@ -1,9 +1,22 @@
 {
-  "update_time": "2026-09-01 09:12:04",
+  "update_time": "2026-10-01 10:46:06",
   "school_id": "1589",
   "school_name": "无锡商业职业技术学院",
-  "jobrateyear": "",
-  "jobrate": {},
+  "jobrateyear": "2025",
+  "jobrate": {
+    "job": {
+      "1": "97.20"
+    },
+    "postgraduate": {
+      "1": "0.00"
+    },
+    "abroad": {
+      "1": "0.00"
+    },
+    "content": {
+      "1": "<p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1789098918_1408_thumb.jpg\" xss=removed title=\"core_1789098918_1408_thumb.jpg\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1789098918_3185_thumb.jpg\" xss=removed title=\"core_1789098918_3185_thumb.jpg\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1789098918_8550_thumb.jpg\" xss=removed title=\"core_1789098918_8550_thumb.jpg\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1789098918_8548_thumb.jpg\" xss=removed title=\"core_1789098918_8548_thumb.jpg\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1789098919_9485_thumb.jpg\" xss=removed title=\"core_1789098919_9485_thumb.jpg\"></p><p><br></p>"
+    }
+  },
   "province": [],
   "attr": {},
   "company": {},

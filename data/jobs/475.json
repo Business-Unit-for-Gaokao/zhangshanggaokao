@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-09-01 09:02:40",
+  "update_time": "2026-10-01 10:36:49",
   "school_id": "475",
   "school_name": "泉州师范学院",
   "jobrateyear": "2024",
@@ -79,18 +79,6 @@
       "province_name": "内蒙古"
     },
     {
-      "id": "24490",
-      "school_id": "475",
-      "province": "天津",
-      "rate": "0.27",
-      "num": "11",
-      "sort": "11",
-      "update_id": "2096",
-      "update_time": "2025-01-06 11:23:43",
-      "year": "2021",
-      "province_name": "天津"
-    },
-    {
       "id": "24491",
       "school_id": "475",
       "province": "新疆",
@@ -101,6 +89,18 @@
       "update_time": "2025-01-06 11:23:43",
       "year": "2021",
       "province_name": "新疆"
+    },
+    {
+      "id": "24490",
+      "school_id": "475",
+      "province": "天津",
+      "rate": "0.27",
+      "num": "11",
+      "sort": "11",
+      "update_id": "2096",
+      "update_time": "2025-01-06 11:23:43",
+      "year": "2021",
+      "province_name": "天津"
     },
     {
       "id": "24492",
@@ -235,18 +235,6 @@
       "province_name": "湖南"
     },
     {
-      "id": "24479",
-      "school_id": "475",
-      "province": "四川",
-      "rate": "0.82",
-      "num": "33",
-      "sort": "33",
-      "update_id": "2096",
-      "update_time": "2025-01-06 11:23:43",
-      "year": "2021",
-      "province_name": "四川"
-    },
-    {
       "id": "24478",
       "school_id": "475",
       "province": "河北",
@@ -257,6 +245,18 @@
       "update_time": "2025-01-06 11:23:43",
       "year": "2021",
       "province_name": "河北"
+    },
+    {
+      "id": "24479",
+      "school_id": "475",
+      "province": "四川",
+      "rate": "0.82",
+      "num": "33",
+      "sort": "33",
+      "update_id": "2096",
+      "update_time": "2025-01-06 11:23:43",
+      "year": "2021",
+      "province_name": "四川"
     },
     {
       "id": "24477",

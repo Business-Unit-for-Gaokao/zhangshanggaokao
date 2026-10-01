@@ -1,9 +1,22 @@
 {
-  "update_time": "2026-09-01 09:11:04",
+  "update_time": "2026-10-01 10:45:10",
   "school_id": "1454",
   "school_name": "陕西电子信息职业技术学院",
-  "jobrateyear": "",
-  "jobrate": {},
+  "jobrateyear": "2024",
+  "jobrate": {
+    "job": {
+      "1": "75.16"
+    },
+    "postgraduate": {
+      "1": "3.25"
+    },
+    "abroad": {
+      "1": "0.00"
+    },
+    "content": {
+      "1": "<p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788493635_7124_thumb.png\" title=\"core_1788493635_7124_thumb.png\" alt=\"core_1788493635_7124.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788493646_9428_thumb.png\" title=\"core_1788493646_9428_thumb.png\" alt=\"core_1788493646_9428.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788493657_7405_thumb.png\" title=\"core_1788493657_7405_thumb.png\" alt=\"core_1788493657_7405.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788493672_2262_thumb.png\" title=\"core_1788493672_2262_thumb.png\" alt=\"core_1788493672_2262.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788493684_5152_thumb.png\" title=\"core_1788493684_5152_thumb.png\" alt=\"core_1788493684_5152.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788493694_5915_thumb.png\" title=\"core_1788493694_5915_thumb.png\" alt=\"core_1788493694_5915.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788493706_7052_thumb.png\" title=\"core_1788493706_7052_thumb.png\" alt=\"core_1788493706_7052.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788493720_4648_thumb.png\" title=\"core_1788493720_4648_thumb.png\" alt=\"core_1788493720_4648.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788493732_6485_thumb.png\" title=\"core_1788493732_6485_thumb.png\" alt=\"core_1788493732_6485.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788493746_2962_thumb.png\" title=\"core_1788493746_2962_thumb.png\" alt=\"core_1788493746_2962.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788493760_2861_thumb.png\" title=\"core_1788493760_2861_thumb.png\" alt=\"core_1788493760_2861.png\"></p>"
+    }
+  },
   "province": [],
   "attr": {},
   "company": {},

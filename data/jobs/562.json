@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-09-01 09:03:32",
+  "update_time": "2026-10-01 10:37:42",
   "school_id": "562",
   "school_name": "中央戏剧学院",
   "jobrateyear": "2024",
@@ -31,16 +31,16 @@
       "province_name": "郑州"
     },
     {
-      "id": "23936",
+      "id": "23938",
       "school_id": "562",
-      "province": "西安",
+      "province": "沈阳",
       "rate": "0.70",
       "num": "5",
       "sort": "5",
       "update_id": "2094",
       "update_time": "2024-12-25 14:28:27",
       "year": "2022",
-      "province_name": "西安"
+      "province_name": "沈阳"
     },
     {
       "id": "23937",
@@ -55,16 +55,16 @@
       "province_name": "青岛"
     },
     {
-      "id": "23938",
+      "id": "23936",
       "school_id": "562",
-      "province": "沈阳",
+      "province": "西安",
       "rate": "0.70",
       "num": "5",
       "sort": "5",
       "update_id": "2094",
       "update_time": "2024-12-25 14:28:27",
       "year": "2022",
-      "province_name": "沈阳"
+      "province_name": "西安"
     },
     {
       "id": "23935",
@@ -79,18 +79,6 @@
       "province_name": "成都"
     },
     {
-      "id": "23933",
-      "school_id": "562",
-      "province": "济南",
-      "rate": "1.11",
-      "num": "8",
-      "sort": "8",
-      "update_id": "2094",
-      "update_time": "2024-12-25 14:28:27",
-      "year": "2022",
-      "province_name": "济南"
-    },
-    {
       "id": "23934",
       "school_id": "562",
       "province": "杭州",
@@ -101,6 +89,18 @@
       "update_time": "2024-12-25 14:28:27",
       "year": "2022",
       "province_name": "杭州"
+    },
+    {
+      "id": "23933",
+      "school_id": "562",
+      "province": "济南",
+      "rate": "1.11",
+      "num": "8",
+      "sort": "8",
+      "update_id": "2094",
+      "update_time": "2024-12-25 14:28:27",
+      "year": "2022",
+      "province_name": "济南"
     },
     {
       "id": "23932",

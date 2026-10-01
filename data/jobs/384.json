@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-09-01 09:01:42",
+  "update_time": "2026-10-01 10:35:52",
   "school_id": "384",
   "school_name": "吉林农业大学",
   "jobrateyear": "2024",
@@ -211,18 +211,6 @@
       "province_name": "四川"
     },
     {
-      "id": "17482",
-      "school_id": "384",
-      "province": "黑龙江",
-      "rate": "2.13",
-      "num": "39",
-      "sort": "39",
-      "update_id": "2004",
-      "update_time": "2024-06-12 17:44:37",
-      "year": "2022",
-      "province_name": "黑龙江"
-    },
-    {
       "id": "17484",
       "school_id": "384",
       "province": "福建",
@@ -233,6 +221,18 @@
       "update_time": "2024-06-12 17:44:37",
       "year": "2022",
       "province_name": "福建"
+    },
+    {
+      "id": "17482",
+      "school_id": "384",
+      "province": "黑龙江",
+      "rate": "2.13",
+      "num": "39",
+      "sort": "39",
+      "update_id": "2004",
+      "update_time": "2024-06-12 17:44:37",
+      "year": "2022",
+      "province_name": "黑龙江"
     },
     {
       "id": "17480",

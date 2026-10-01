@@ -1,9 +1,22 @@
 {
-  "update_time": "2026-09-01 09:17:38",
+  "update_time": "2026-10-01 10:51:31",
   "school_id": "2129",
   "school_name": "烟台汽车工程职业学院",
-  "jobrateyear": "",
-  "jobrate": {},
+  "jobrateyear": "2025",
+  "jobrate": {
+    "job": {
+      "1": "95.09"
+    },
+    "postgraduate": {
+      "1": "0.00"
+    },
+    "abroad": {
+      "1": "0.00"
+    },
+    "content": {
+      "1": "<p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788862893_1847_thumb.png\" title=\"core_1788862893_1847_thumb.png\" alt=\"core_1788862893_1847.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788862905_8008_thumb.png\" title=\"core_1788862905_8008_thumb.png\" alt=\"core_1788862905_8008.png\"></p>"
+    }
+  },
   "province": [],
   "attr": {},
   "company": {},

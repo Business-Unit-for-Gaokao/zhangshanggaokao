@@ -1,9 +1,22 @@
 {
-  "update_time": "2026-09-01 09:15:17",
+  "update_time": "2026-10-01 10:49:11",
   "school_id": "1902",
   "school_name": "泉州海洋职业学院",
-  "jobrateyear": "",
-  "jobrate": {},
+  "jobrateyear": "2025",
+  "jobrate": {
+    "job": {
+      "1": "97.67"
+    },
+    "postgraduate": {
+      "1": "7.50"
+    },
+    "abroad": {
+      "1": "0.00"
+    },
+    "content": {
+      "1": "<p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788485393_4037_thumb.png\" title=\"core_1788485393_4037_thumb.png\" alt=\"core_1788485393_4037.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788485433_7941_thumb.png\" title=\"core_1788485433_7941_thumb.png\" alt=\"core_1788485433_7941.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788485449_9653_thumb.png\" title=\"core_1788485449_9653_thumb.png\" alt=\"core_1788485449_9653.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788485591_4966_thumb.png\" title=\"core_1788485591_4966_thumb.png\" alt=\"core_1788485591_4966.png\"></p>"
+    }
+  },
   "province": [],
   "attr": {},
   "company": {},

@@ -1,20 +1,20 @@
 {
-  "update_time": "2026-09-01 09:01:12",
+  "update_time": "2026-10-01 10:35:20",
   "school_id": "338",
   "school_name": "合肥大学",
-  "jobrateyear": "2023",
+  "jobrateyear": "2024",
   "jobrate": {
     "job": {
-      "1": "91.97"
+      "1": "93.43"
     },
     "postgraduate": {
-      "1": "13.84"
+      "1": "14.54"
     },
     "abroad": {
       "1": "1.71"
     },
     "content": {
-      "1": ""
+      "1": "<p><img src=\"https://static-data.gaokao.cn//upload/image/202608/core_1787650427_7835_thumb.png\" title=\"core_1787650427_7835_thumb.png\" alt=\"core_1787650427_7835.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202608/core_1787650447_1584_thumb.png\" title=\"core_1787650447_1584_thumb.png\" alt=\"core_1787650447_1584.png\"></p>"
     }
   },
   "province": [

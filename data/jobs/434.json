@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-09-01 09:02:14",
+  "update_time": "2026-10-01 10:36:24",
   "school_id": "434",
   "school_name": "武汉工程大学",
   "jobrateyear": "2024",
@@ -67,18 +67,6 @@
       "province_name": "海南省"
     },
     {
-      "id": "17322",
-      "school_id": "434",
-      "province": "宁夏回族自治区",
-      "rate": "0.12",
-      "num": "5",
-      "sort": "5",
-      "update_id": "2004",
-      "update_time": "2024-06-10 17:06:41",
-      "year": "2022",
-      "province_name": "宁夏回族自治区"
-    },
-    {
       "id": "17321",
       "school_id": "434",
       "province": "辽宁省",
@@ -89,6 +77,18 @@
       "update_time": "2024-06-10 17:06:41",
       "year": "2022",
       "province_name": "辽宁省"
+    },
+    {
+      "id": "17322",
+      "school_id": "434",
+      "province": "宁夏回族自治区",
+      "rate": "0.12",
+      "num": "5",
+      "sort": "5",
+      "update_id": "2004",
+      "update_time": "2024-06-10 17:06:41",
+      "year": "2022",
+      "province_name": "宁夏回族自治区"
     },
     {
       "id": "17320",
@@ -103,18 +103,6 @@
       "province_name": "广西壮族自治区"
     },
     {
-      "id": "17319",
-      "school_id": "434",
-      "province": "云南省",
-      "rate": "0.40",
-      "num": "16",
-      "sort": "16",
-      "update_id": "2004",
-      "update_time": "2024-06-10 17:06:41",
-      "year": "2022",
-      "province_name": "云南省"
-    },
-    {
       "id": "17318",
       "school_id": "434",
       "province": "山西省",
@@ -125,6 +113,18 @@
       "update_time": "2024-06-10 17:06:41",
       "year": "2022",
       "province_name": "山西省"
+    },
+    {
+      "id": "17319",
+      "school_id": "434",
+      "province": "云南省",
+      "rate": "0.40",
+      "num": "16",
+      "sort": "16",
+      "update_id": "2004",
+      "update_time": "2024-06-10 17:06:41",
+      "year": "2022",
+      "province_name": "云南省"
     },
     {
       "id": "17317",

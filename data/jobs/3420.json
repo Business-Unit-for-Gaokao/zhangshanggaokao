@@ -1,9 +1,22 @@
 {
-  "update_time": "2026-09-01 09:27:03",
+  "update_time": "2026-10-01 11:01:02",
   "school_id": "3420",
   "school_name": "哈尔滨北方航空职业技术学院",
-  "jobrateyear": "",
-  "jobrate": {},
+  "jobrateyear": "2024",
+  "jobrate": {
+    "job": {
+      "1": "90.60"
+    },
+    "postgraduate": {
+      "1": "0.00"
+    },
+    "abroad": {
+      "1": "0.00"
+    },
+    "content": {
+      "1": "<p><img src=\"https://static-data.gaokao.cn//upload/image/202608/core_1786956423_7817_thumb.png\" title=\"core_1786956423_7817_thumb.png\" alt=\"core_1786956423_7817.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202608/core_1786956434_5309_thumb.png\" title=\"core_1786956434_5309_thumb.png\" alt=\"core_1786956434_5309.png\"></p>"
+    }
+  },
   "province": [],
   "attr": {},
   "company": {},

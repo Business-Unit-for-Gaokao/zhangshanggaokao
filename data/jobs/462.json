@@ -1,20 +1,20 @@
 {
-  "update_time": "2026-09-01 09:02:33",
+  "update_time": "2026-10-01 10:36:41",
   "school_id": "462",
   "school_name": "河南农业大学",
-  "jobrateyear": "2023",
+  "jobrateyear": "2024",
   "jobrate": {
     "job": {
-      "1": "74.35"
+      "1": "75.66"
     },
     "postgraduate": {
-      "1": "37.68"
+      "1": "0.00"
     },
     "abroad": {
-      "1": "0.56"
+      "1": "0.00"
     },
     "content": {
-      "1": ""
+      "1": "<p><img src=\"https://static-data.gaokao.cn//upload/image/202608/core_1787733849_1277_thumb.png\" title=\"core_1787733849_1277_thumb.png\" alt=\"core_1787733849_1277.png\"></p>"
     }
   },
   "province": [

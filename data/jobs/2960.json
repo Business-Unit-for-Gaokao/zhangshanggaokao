@@ -1,9 +1,22 @@
 {
-  "update_time": "2026-09-01 09:23:58",
+  "update_time": "2026-10-01 10:57:49",
   "school_id": "2960",
   "school_name": "泰山护理职业学院",
-  "jobrateyear": "",
-  "jobrate": {},
+  "jobrateyear": "2024",
+  "jobrate": {
+    "job": {
+      "1": "90.48"
+    },
+    "postgraduate": {
+      "1": "22.58"
+    },
+    "abroad": {
+      "1": "0.98"
+    },
+    "content": {
+      "1": "<p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788315847_4216_thumb.png\" title=\"core_1788315847_4216_thumb.png\" alt=\"core_1788315847_4216.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788315861_8530_thumb.png\" title=\"core_1788315861_8530_thumb.png\" alt=\"core_1788315861_8530.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788315879_4056_thumb.png\" title=\"core_1788315879_4056_thumb.png\" alt=\"core_1788315879_4056.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788315893_4859_thumb.png\" title=\"core_1788315893_4859_thumb.png\" alt=\"core_1788315893_4859.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788315910_9227_thumb.png\" title=\"core_1788315910_9227_thumb.png\" alt=\"core_1788315910_9227.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788315925_8658_thumb.png\" title=\"core_1788315925_8658_thumb.png\" alt=\"core_1788315925_8658.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788315940_5857_thumb.png\" title=\"core_1788315940_5857_thumb.png\" alt=\"core_1788315940_5857.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788315980_3090_thumb.png\" title=\"core_1788315980_3090_thumb.png\" alt=\"core_1788315980_3090.png\"></p>"
+    }
+  },
   "province": [],
   "attr": {},
   "company": {},

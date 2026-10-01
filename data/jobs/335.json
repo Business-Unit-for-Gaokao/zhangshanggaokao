@@ -1,20 +1,20 @@
 {
-  "update_time": "2026-09-01 09:01:10",
+  "update_time": "2026-10-01 10:35:18",
   "school_id": "335",
   "school_name": "安徽财经大学",
-  "jobrateyear": "2023",
+  "jobrateyear": "2024",
   "jobrate": {
     "job": {
-      "1": "97.38"
+      "1": "92.87"
     },
     "postgraduate": {
-      "1": "17.60"
+      "1": "18.52"
     },
     "abroad": {
-      "1": "1.92"
+      "1": "2.02"
     },
     "content": {
-      "1": ""
+      "1": "<p><img src=\"https://static-data.gaokao.cn//upload/image/202608/core_1787551076_5100_thumb.png\" title=\"core_1787551076_5100_thumb.png\" alt=\"core_1787551076_5100.png\"></p>"
     }
   },
   "province": [
@@ -223,18 +223,6 @@
       "province_name": "青海"
     },
     {
-      "id": "15920",
-      "school_id": "335",
-      "province": "海南",
-      "rate": "0.60",
-      "num": "24",
-      "sort": "24",
-      "update_id": "2004",
-      "update_time": "2024-06-05 14:58:10",
-      "year": "2023",
-      "province_name": "海南"
-    },
-    {
       "id": "15921",
       "school_id": "335",
       "province": "河北",
@@ -247,16 +235,16 @@
       "province_name": "河北"
     },
     {
-      "id": "15919",
+      "id": "15920",
       "school_id": "335",
-      "province": "陕西",
-      "rate": "0.63",
-      "num": "25",
-      "sort": "25",
+      "province": "海南",
+      "rate": "0.60",
+      "num": "24",
+      "sort": "24",
       "update_id": "2004",
       "update_time": "2024-06-05 14:58:10",
       "year": "2023",
-      "province_name": "陕西"
+      "province_name": "海南"
     },
     {
       "id": "15918",
@@ -269,6 +257,18 @@
       "update_time": "2024-06-05 14:58:10",
       "year": "2023",
       "province_name": "广西"
+    },
+    {
+      "id": "15919",
+      "school_id": "335",
+      "province": "陕西",
+      "rate": "0.63",
+      "num": "25",
+      "sort": "25",
+      "update_id": "2004",
+      "update_time": "2024-06-05 14:58:10",
+      "year": "2023",
+      "province_name": "陕西"
     },
     {
       "id": "15917",

@@ -1,9 +1,22 @@
 {
-  "update_time": "2026-09-01 09:17:47",
+  "update_time": "2026-10-01 10:51:41",
   "school_id": "2143",
   "school_name": "枣庄科技职业学院",
-  "jobrateyear": "",
-  "jobrate": {},
+  "jobrateyear": "2025",
+  "jobrate": {
+    "job": {
+      "1": "90.89"
+    },
+    "postgraduate": {
+      "1": "0.00"
+    },
+    "abroad": {
+      "1": "0.00"
+    },
+    "content": {
+      "1": "<p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788428559_4026_thumb.png\" title=\"core_1788428559_4026_thumb.png\" alt=\"core_1788428559_4026.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788428578_2129_thumb.png\" title=\"core_1788428578_2129_thumb.png\" alt=\"core_1788428578_2129.png\"></p>"
+    }
+  },
   "province": [],
   "attr": {},
   "company": {},

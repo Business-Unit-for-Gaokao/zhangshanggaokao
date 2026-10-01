@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-09-01 08:59:33",
+  "update_time": "2026-10-01 10:33:41",
   "school_id": "178",
   "school_name": "重庆医科大学",
   "jobrateyear": "2024",
@@ -19,18 +19,6 @@
   },
   "province": [
     {
-      "id": "23795",
-      "school_id": "178",
-      "province": "香港特别行政区",
-      "rate": "0.03",
-      "num": "0",
-      "sort": "3",
-      "update_id": "2094",
-      "update_time": "2024-12-23 14:58:38",
-      "year": "2023",
-      "province_name": "香港特别行政区"
-    },
-    {
       "id": "23794",
       "school_id": "178",
       "province": "境外",
@@ -43,16 +31,16 @@
       "province_name": "境外"
     },
     {
-      "id": "23793",
+      "id": "23795",
       "school_id": "178",
-      "province": "辽宁省",
-      "rate": "0.06",
+      "province": "香港特别行政区",
+      "rate": "0.03",
       "num": "0",
-      "sort": "6",
+      "sort": "3",
       "update_id": "2094",
       "update_time": "2024-12-23 14:58:38",
       "year": "2023",
-      "province_name": "辽宁省"
+      "province_name": "香港特别行政区"
     },
     {
       "id": "23792",
@@ -65,6 +53,18 @@
       "update_time": "2024-12-23 14:58:38",
       "year": "2023",
       "province_name": "内蒙古自治区"
+    },
+    {
+      "id": "23793",
+      "school_id": "178",
+      "province": "辽宁省",
+      "rate": "0.06",
+      "num": "0",
+      "sort": "6",
+      "update_id": "2094",
+      "update_time": "2024-12-23 14:58:38",
+      "year": "2023",
+      "province_name": "辽宁省"
     },
     {
       "id": "23791",
@@ -163,18 +163,6 @@
       "province_name": "西藏自治区"
     },
     {
-      "id": "23782",
-      "school_id": "178",
-      "province": "天津市",
-      "rate": "0.34",
-      "num": "0",
-      "sort": "34",
-      "update_id": "2094",
-      "update_time": "2024-12-23 14:58:38",
-      "year": "2023",
-      "province_name": "天津市"
-    },
-    {
       "id": "23783",
       "school_id": "178",
       "province": "福建省",
@@ -185,6 +173,18 @@
       "update_time": "2024-12-23 14:58:38",
       "year": "2023",
       "province_name": "福建省"
+    },
+    {
+      "id": "23782",
+      "school_id": "178",
+      "province": "天津市",
+      "rate": "0.34",
+      "num": "0",
+      "sort": "34",
+      "update_id": "2094",
+      "update_time": "2024-12-23 14:58:38",
+      "year": "2023",
+      "province_name": "天津市"
     },
     {
       "id": "23781",
@@ -199,18 +199,6 @@
       "province_name": "河北省"
     },
     {
-      "id": "23780",
-      "school_id": "178",
-      "province": "甘肃省",
-      "rate": "0.39",
-      "num": "0",
-      "sort": "39",
-      "update_id": "2094",
-      "update_time": "2024-12-23 14:58:38",
-      "year": "2023",
-      "province_name": "甘肃省"
-    },
-    {
       "id": "23779",
       "school_id": "178",
       "province": "广西壮族自治区",
@@ -221,6 +209,18 @@
       "update_time": "2024-12-23 14:58:38",
       "year": "2023",
       "province_name": "广西壮族自治区"
+    },
+    {
+      "id": "23780",
+      "school_id": "178",
+      "province": "甘肃省",
+      "rate": "0.39",
+      "num": "0",
+      "sort": "39",
+      "update_id": "2094",
+      "update_time": "2024-12-23 14:58:38",
+      "year": "2023",
+      "province_name": "甘肃省"
     },
     {
       "id": "23778",

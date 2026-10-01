@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-09-01 09:00:53",
+  "update_time": "2026-10-01 10:34:59",
   "school_id": "304",
   "school_name": "广州美术学院",
   "jobrateyear": "2024",
@@ -55,6 +55,18 @@
       "province_name": "梅州市"
     },
     {
+      "id": "16941",
+      "school_id": "304",
+      "province": "清远市",
+      "rate": "0.31",
+      "num": "2",
+      "sort": "2",
+      "update_id": "2004",
+      "update_time": "2024-06-08 18:00:28",
+      "year": "2022",
+      "province_name": "清远市"
+    },
+    {
       "id": "16944",
       "school_id": "304",
       "province": "云浮市",
@@ -89,18 +101,6 @@
       "update_time": "2024-06-08 18:00:28",
       "year": "2022",
       "province_name": "潮州市"
-    },
-    {
-      "id": "16941",
-      "school_id": "304",
-      "province": "清远市",
-      "rate": "0.31",
-      "num": "2",
-      "sort": "2",
-      "update_id": "2004",
-      "update_time": "2024-06-08 18:00:28",
-      "year": "2022",
-      "province_name": "清远市"
     },
     {
       "id": "16940",

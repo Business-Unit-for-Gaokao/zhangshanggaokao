@@ -1,9 +1,22 @@
 {
-  "update_time": "2026-09-01 09:17:10",
+  "update_time": "2026-10-01 10:51:06",
   "school_id": "2087",
   "school_name": "四川艺术职业学院",
-  "jobrateyear": "",
-  "jobrate": {},
+  "jobrateyear": "2024",
+  "jobrate": {
+    "job": {
+      "1": "93.95"
+    },
+    "postgraduate": {
+      "1": "0.00"
+    },
+    "abroad": {
+      "1": "0.00"
+    },
+    "content": {
+      "1": "<p><img src=\"https://static-data.gaokao.cn//upload/image/202608/core_1786957858_8982_thumb.png\" title=\"core_1786957858_8982_thumb.png\" alt=\"core_1786957858_8982.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202608/core_1786957876_2550_thumb.png\" title=\"core_1786957876_2550_thumb.png\" alt=\"core_1786957876_2550.png\"></p>"
+    }
+  },
   "province": [],
   "attr": {},
   "company": {},

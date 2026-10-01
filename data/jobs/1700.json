@@ -1,9 +1,22 @@
 {
-  "update_time": "2026-09-01 09:13:08",
+  "update_time": "2026-10-01 10:47:10",
   "school_id": "1700",
   "school_name": "大连枫叶职业技术学院",
-  "jobrateyear": "",
-  "jobrate": {},
+  "jobrateyear": "2025",
+  "jobrate": {
+    "job": {
+      "1": "98.07"
+    },
+    "postgraduate": {
+      "1": "14.08"
+    },
+    "abroad": {
+      "1": "0.00"
+    },
+    "content": {
+      "1": "<p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788330069_1094_thumb.png\" title=\"core_1788330069_1094_thumb.png\" alt=\"core_1788330069_1094.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788330081_8450_thumb.png\" title=\"core_1788330081_8450_thumb.png\" alt=\"core_1788330081_8450.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788330099_7942_thumb.png\" title=\"core_1788330099_7942_thumb.png\" alt=\"core_1788330099_7942.png\"></p>"
+    }
+  },
   "province": [],
   "attr": {},
   "company": {},

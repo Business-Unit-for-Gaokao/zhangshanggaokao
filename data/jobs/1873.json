@@ -1,9 +1,22 @@
 {
-  "update_time": "2026-09-01 09:14:59",
+  "update_time": "2026-10-01 10:48:53",
   "school_id": "1873",
   "school_name": "福建卫生职业技术学院",
-  "jobrateyear": "",
-  "jobrate": {},
+  "jobrateyear": "2025",
+  "jobrate": {
+    "job": {
+      "1": "97.08"
+    },
+    "postgraduate": {
+      "1": "0.00"
+    },
+    "abroad": {
+      "1": "0.00"
+    },
+    "content": {
+      "1": "<p><img src=\"https://static-data.gaokao.cn//upload/image/202608/core_1787031903_7468_thumb.png\" title=\"core_1787031903_7468_thumb.png\" alt=\"core_1787031903_7468.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202608/core_1787031910_9546_thumb.png\" title=\"core_1787031910_9546_thumb.png\" alt=\"core_1787031910_9546.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202608/core_1787031916_4842_thumb.png\" title=\"core_1787031916_4842_thumb.png\" alt=\"core_1787031916_4842.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202608/core_1787031927_9346_thumb.png\" title=\"core_1787031927_9346_thumb.png\" alt=\"core_1787031927_9346.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202608/core_1787031937_6680_thumb.png\" title=\"core_1787031937_6680_thumb.png\" alt=\"core_1787031937_6680.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202608/core_1787031945_7790_thumb.png\" title=\"core_1787031945_7790_thumb.png\" alt=\"core_1787031945_7790.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202608/core_1787031955_4769_thumb.png\" title=\"core_1787031955_4769_thumb.png\" alt=\"core_1787031955_4769.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202608/core_1787031965_1793_thumb.png\" title=\"core_1787031965_1793_thumb.png\" alt=\"core_1787031965_1793.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202608/core_1787031976_8637_thumb.png\" title=\"core_1787031976_8637_thumb.png\" alt=\"core_1787031976_8637.png\"></p>"
+    }
+  },
   "province": [],
   "attr": {},
   "company": {},

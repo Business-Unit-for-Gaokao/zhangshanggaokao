@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-09-01 09:20:00",
+  "update_time": "2026-10-01 10:53:47",
   "school_id": "2370",
   "school_name": "广西民族大学相思湖学院",
   "jobrateyear": "2024",
@@ -43,18 +43,6 @@
       "province_name": "来宾市"
     },
     {
-      "id": "24464",
-      "school_id": "2370",
-      "province": "贺州市",
-      "rate": "1.39",
-      "num": "76",
-      "sort": "76",
-      "update_id": "1988",
-      "update_time": "2025-01-06 11:03:11",
-      "year": "2024",
-      "province_name": "贺州市"
-    },
-    {
       "id": "24465",
       "school_id": "2370",
       "province": "河池市",
@@ -65,6 +53,18 @@
       "update_time": "2025-01-06 11:03:11",
       "year": "2024",
       "province_name": "河池市"
+    },
+    {
+      "id": "24464",
+      "school_id": "2370",
+      "province": "贺州市",
+      "rate": "1.39",
+      "num": "76",
+      "sort": "76",
+      "update_id": "1988",
+      "update_time": "2025-01-06 11:03:11",
+      "year": "2024",
+      "province_name": "贺州市"
     },
     {
       "id": "24463",

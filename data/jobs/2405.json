@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-09-01 09:20:23",
+  "update_time": "2026-10-01 10:54:10",
   "school_id": "2405",
   "school_name": "合肥理工学院",
   "jobrateyear": "2023",
@@ -67,6 +67,18 @@
       "province_name": "河北省"
     },
     {
+      "id": "20375",
+      "school_id": "2405",
+      "province": "辽宁省",
+      "rate": "0.20",
+      "num": "2",
+      "sort": "2",
+      "update_id": "2004",
+      "update_time": "2024-06-20 10:52:54",
+      "year": "2023",
+      "province_name": "辽宁省"
+    },
+    {
       "id": "20378",
       "school_id": "2405",
       "province": "新疆维吾尔族自治区",
@@ -101,18 +113,6 @@
       "update_time": "2024-06-20 10:52:54",
       "year": "2023",
       "province_name": "江西省"
-    },
-    {
-      "id": "20375",
-      "school_id": "2405",
-      "province": "辽宁省",
-      "rate": "0.20",
-      "num": "2",
-      "sort": "2",
-      "update_id": "2004",
-      "update_time": "2024-06-20 10:52:54",
-      "year": "2023",
-      "province_name": "辽宁省"
     },
     {
       "id": "20374",

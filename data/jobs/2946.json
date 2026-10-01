@@ -1,9 +1,22 @@
 {
-  "update_time": "2026-09-01 09:23:51",
+  "update_time": "2026-10-01 10:57:42",
   "school_id": "2946",
   "school_name": "广东创新科技职业学院",
-  "jobrateyear": "",
-  "jobrate": {},
+  "jobrateyear": "2025",
+  "jobrate": {
+    "job": {
+      "1": "92.61"
+    },
+    "postgraduate": {
+      "1": "0.00"
+    },
+    "abroad": {
+      "1": "0.00"
+    },
+    "content": {
+      "1": "<p><img src=\"https://static-data.gaokao.cn//upload/image/202608/core_1787033014_5043_thumb.png\" title=\"core_1787033014_5043_thumb.png\" alt=\"core_1787033014_5043.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202608/core_1787033039_9024_thumb.png\" title=\"core_1787033039_9024_thumb.png\" alt=\"core_1787033039_9024.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202608/core_1787033046_7288_thumb.png\" title=\"core_1787033046_7288_thumb.png\" alt=\"core_1787033046_7288.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202608/core_1787033053_7612_thumb.png\" title=\"core_1787033053_7612_thumb.png\" alt=\"core_1787033053_7612.png\"></p>"
+    }
+  },
   "province": [],
   "attr": {},
   "company": {},

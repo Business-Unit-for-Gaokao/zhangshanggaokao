@@ -1,9 +1,22 @@
 {
-  "update_time": "2026-09-01 09:13:15",
+  "update_time": "2026-10-01 10:47:16",
   "school_id": "1712",
   "school_name": "甘肃建筑职业技术学院",
-  "jobrateyear": "",
-  "jobrate": {},
+  "jobrateyear": "2025",
+  "jobrate": {
+    "job": {
+      "1": "92.71"
+    },
+    "postgraduate": {
+      "1": "21.50"
+    },
+    "abroad": {
+      "1": "0.00"
+    },
+    "content": {
+      "1": "<p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1789021912_2049_thumb.jpg\" xss=removed title=\"core_1789021912_2049_thumb.jpg\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1789021912_3934_thumb.jpg\" xss=removed title=\"core_1789021912_3934_thumb.jpg\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1789021912_5225_thumb.jpg\" xss=removed title=\"core_1789021912_5225_thumb.jpg\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1789021912_5741_thumb.jpg\" xss=removed title=\"core_1789021912_5741_thumb.jpg\"></p><p><br></p>"
+    }
+  },
   "province": [],
   "attr": {},
   "company": {},

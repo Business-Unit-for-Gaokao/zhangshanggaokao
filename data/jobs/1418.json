@@ -1,9 +1,22 @@
 {
-  "update_time": "2026-09-01 09:10:50",
+  "update_time": "2026-10-01 10:44:56",
   "school_id": "1418",
   "school_name": "江苏航运职业技术学院",
-  "jobrateyear": "",
-  "jobrate": {},
+  "jobrateyear": "2024",
+  "jobrate": {
+    "job": {
+      "1": "96.45"
+    },
+    "postgraduate": {
+      "1": "0.00"
+    },
+    "abroad": {
+      "1": "0.00"
+    },
+    "content": {
+      "1": "<p>学校 2024 届毕业生 4077 人，截至2024 年8 月31日，毕业 3802 人，毕业率 93.25%；毕业学生落实毕业去向的3667人，毕业去向落实率 96.45%。近三年毕业学生毕业去向落实情况始终保持在95%以上。</p><p><img src=\"https://static-data.gaokao.cn//upload/image/202608/core_1787020835_1994_thumb.png\" title=\"core_1787020835_1994_thumb.png\" alt=\"core_1787020835_1994.png\"></p>"
+    }
+  },
   "province": [],
   "attr": {},
   "company": {},

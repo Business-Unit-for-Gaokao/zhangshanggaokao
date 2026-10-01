@@ -1,35 +1,23 @@
 {
-  "update_time": "2026-09-01 09:00:28",
+  "update_time": "2026-10-01 10:34:35",
   "school_id": "267",
   "school_name": "中国民用航空飞行学院",
-  "jobrateyear": "2022",
+  "jobrateyear": "2024",
   "jobrate": {
     "job": {
-      "1": "82.30"
+      "1": "83.81"
     },
     "postgraduate": {
-      "1": "5.10"
+      "1": "0.00"
     },
     "abroad": {
-      "1": "0.20"
+      "1": "0.00"
     },
     "content": {
-      "1": ""
+      "1": "<p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788513913_5053_thumb.png\" title=\"core_1788513913_5053_thumb.png\" alt=\"core_1788513913_5053.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788513927_4396_thumb.png\" title=\"core_1788513927_4396_thumb.png\" alt=\"core_1788513927_4396.png\"></p>"
     }
   },
   "province": [
-    {
-      "id": "14692",
-      "school_id": "267",
-      "province": "中南地区",
-      "rate": "19.00",
-      "num": "0",
-      "sort": "19",
-      "update_id": "2004",
-      "update_time": "2024-05-23 15:19:52",
-      "year": "2022",
-      "province_name": "中南地区"
-    },
     {
       "id": "14696",
       "school_id": "267",
@@ -41,6 +29,18 @@
       "update_time": "2024-05-23 15:19:52",
       "year": "2022",
       "province_name": "新疆地区"
+    },
+    {
+      "id": "14692",
+      "school_id": "267",
+      "province": "中南地区",
+      "rate": "19.00",
+      "num": "0",
+      "sort": "19",
+      "update_id": "2004",
+      "update_time": "2024-05-23 15:19:52",
+      "year": "2022",
+      "province_name": "中南地区"
     },
     {
       "id": "14695",

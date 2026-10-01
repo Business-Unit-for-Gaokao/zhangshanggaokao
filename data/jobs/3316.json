@@ -1,9 +1,22 @@
 {
-  "update_time": "2026-09-01 09:26:07",
+  "update_time": "2026-10-01 11:00:03",
   "school_id": "3316",
   "school_name": "吐鲁番职业技术学院",
-  "jobrateyear": "",
-  "jobrate": {},
+  "jobrateyear": "2025",
+  "jobrate": {
+    "job": {
+      "1": "95.91"
+    },
+    "postgraduate": {
+      "1": "13.75"
+    },
+    "abroad": {
+      "1": "0.00"
+    },
+    "content": {
+      "1": "<p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788229940_5334_thumb.png\" title=\"core_1788229940_5334_thumb.png\" alt=\"core_1788229940_5334.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788229959_7297_thumb.png\" title=\"core_1788229959_7297_thumb.png\" alt=\"core_1788229959_7297.png\"></p>"
+    }
+  },
   "province": [],
   "attr": {},
   "company": {},

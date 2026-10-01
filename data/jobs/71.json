@@ -1,20 +1,20 @@
 {
-  "update_time": "2026-09-01 08:58:27",
+  "update_time": "2026-10-01 10:32:33",
   "school_id": "71",
   "school_name": "济南大学",
-  "jobrateyear": "2019",
+  "jobrateyear": "2025",
   "jobrate": {
     "job": {
-      "1": "94.97"
+      "1": "93.47"
     },
     "postgraduate": {
-      "1": "21.68"
+      "1": "25.44"
     },
     "abroad": {
-      "1": "1.89"
+      "1": "7.21"
     },
     "content": {
-      "1": ""
+      "1": "<p><img src=\"https://static-data.gaokao.cn//upload/image/202608/core_1786675025_5397_thumb.png\" title=\"core_1786675025_5397_thumb.png\" alt=\"core_1786675025_5397.png\"></p>"
     }
   },
   "province": [

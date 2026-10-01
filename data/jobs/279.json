@@ -1,20 +1,20 @@
 {
-  "update_time": "2026-09-01 09:00:36",
+  "update_time": "2026-10-01 10:34:43",
   "school_id": "279",
   "school_name": "长治医学院",
-  "jobrateyear": "2023",
+  "jobrateyear": "2024",
   "jobrate": {
     "job": {
-      "1": "80.58"
+      "1": "81.52"
     },
     "postgraduate": {
-      "1": "14.62"
+      "1": "14.88"
     },
     "abroad": {
-      "1": "0.04"
+      "1": "0.00"
     },
     "content": {
-      "1": ""
+      "1": "<p>2024年共有本科毕业生3057人，实际毕业人数3057人，毕业率为100.00%，学位授予率为100.00%。截至2024年8月31日，学校应届本科毕业生总体就业率达81.52%。其中，升学或深造455人，占14.88%；毕业生最主要的毕业去向是事业单位，占40.25%；毕业生就业去向分布情况见表6-1。<img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788422828_3111_thumb.png\" title=\"core_1788422828_3111_thumb.png\" alt=\"core_1788422828_3111.png\"></p>"
     }
   },
   "province": [
@@ -103,18 +103,6 @@
       "province_name": "湖南省"
     },
     {
-      "id": "16753",
-      "school_id": "279",
-      "province": "江西省",
-      "rate": "0.28",
-      "num": "4",
-      "sort": "4",
-      "update_id": "2004",
-      "update_time": "2024-06-07 18:00:30",
-      "year": "2023",
-      "province_name": "江西省"
-    },
-    {
       "id": "16751",
       "school_id": "279",
       "province": "甘肃省",
@@ -125,6 +113,18 @@
       "update_time": "2024-06-07 18:00:30",
       "year": "2023",
       "province_name": "甘肃省"
+    },
+    {
+      "id": "16753",
+      "school_id": "279",
+      "province": "江西省",
+      "rate": "0.28",
+      "num": "4",
+      "sort": "4",
+      "update_id": "2004",
+      "update_time": "2024-06-07 18:00:30",
+      "year": "2023",
+      "province_name": "江西省"
     },
     {
       "id": "16748",
@@ -163,18 +163,6 @@
       "province_name": "内蒙古自治区"
     },
     {
-      "id": "16741",
-      "school_id": "279",
-      "province": "福建省",
-      "rate": "0.42",
-      "num": "6",
-      "sort": "6",
-      "update_id": "2004",
-      "update_time": "2024-06-07 18:00:30",
-      "year": "2023",
-      "province_name": "福建省"
-    },
-    {
       "id": "16747",
       "school_id": "279",
       "province": "宁夏回族自治区",
@@ -185,6 +173,18 @@
       "update_time": "2024-06-07 18:00:30",
       "year": "2023",
       "province_name": "宁夏回族自治区"
+    },
+    {
+      "id": "16741",
+      "school_id": "279",
+      "province": "福建省",
+      "rate": "0.42",
+      "num": "6",
+      "sort": "6",
+      "update_id": "2004",
+      "update_time": "2024-06-07 18:00:30",
+      "year": "2023",
+      "province_name": "福建省"
     },
     {
       "id": "16743",

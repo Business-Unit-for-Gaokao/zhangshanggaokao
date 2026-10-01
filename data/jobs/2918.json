@@ -1,9 +1,22 @@
 {
-  "update_time": "2026-09-01 09:23:39",
+  "update_time": "2026-10-01 10:57:30",
   "school_id": "2918",
   "school_name": "四川汽车职业技术学院",
-  "jobrateyear": "",
-  "jobrate": {},
+  "jobrateyear": "2025",
+  "jobrate": {
+    "job": {
+      "1": "92.25"
+    },
+    "postgraduate": {
+      "1": "0.00"
+    },
+    "abroad": {
+      "1": "0.00"
+    },
+    "content": {
+      "1": "<p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788314577_3396_thumb.png\" title=\"core_1788314577_3396_thumb.png\" alt=\"core_1788314577_3396.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788314592_7104_thumb.png\" title=\"core_1788314592_7104_thumb.png\" alt=\"core_1788314592_7104.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788314600_4787_thumb.png\" title=\"core_1788314600_4787_thumb.png\" alt=\"core_1788314600_4787.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788314613_6318_thumb.png\" title=\"core_1788314613_6318_thumb.png\" alt=\"core_1788314613_6318.png\"></p>"
+    }
+  },
   "province": [],
   "attr": {},
   "company": {},

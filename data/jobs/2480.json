@@ -1,9 +1,22 @@
 {
-  "update_time": "2026-09-01 09:21:11",
+  "update_time": "2026-10-01 10:54:58",
   "school_id": "2480",
   "school_name": "仲恺农业工程学院",
-  "jobrateyear": "",
-  "jobrate": {},
+  "jobrateyear": "2024",
+  "jobrate": {
+    "job": {
+      "1": "82.77"
+    },
+    "postgraduate": {
+      "1": "0.00"
+    },
+    "abroad": {
+      "1": "0.00"
+    },
+    "content": {
+      "1": "<p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788746113_8350_thumb.png\" title=\"core_1788746113_8350_thumb.png\" alt=\"core_1788746113_8350.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788746136_6686_thumb.png\" title=\"core_1788746136_6686_thumb.png\" alt=\"core_1788746136_6686.png\"></p>"
+    }
+  },
   "province": [],
   "attr": {},
   "company": {},

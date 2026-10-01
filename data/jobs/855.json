@@ -1,9 +1,22 @@
 {
-  "update_time": "2026-09-01 09:06:10",
+  "update_time": "2026-10-01 10:40:23",
   "school_id": "855",
   "school_name": "天津商务职业学院",
-  "jobrateyear": "",
-  "jobrate": {},
+  "jobrateyear": "2025",
+  "jobrate": {
+    "job": {
+      "1": "92.57"
+    },
+    "postgraduate": {
+      "1": "4.19"
+    },
+    "abroad": {
+      "1": "0.03"
+    },
+    "content": {
+      "1": "<p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1789005839_2809_thumb.jpg\" xss=removed title=\"core_1789005839_2809_thumb.jpg\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1789005839_7909_thumb.jpg\" xss=removed title=\"core_1789005839_7909_thumb.jpg\"></p><p><br></p>"
+    }
+  },
   "province": [],
   "attr": {},
   "company": {},

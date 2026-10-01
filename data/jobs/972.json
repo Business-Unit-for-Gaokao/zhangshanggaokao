@@ -1,9 +1,22 @@
 {
-  "update_time": "2026-09-01 09:07:15",
+  "update_time": "2026-10-01 10:41:27",
   "school_id": "972",
   "school_name": "广东松山职业技术学院",
-  "jobrateyear": "",
-  "jobrate": {},
+  "jobrateyear": "2025",
+  "jobrate": {
+    "job": {
+      "1": "93.19"
+    },
+    "postgraduate": {
+      "1": "0.00"
+    },
+    "abroad": {
+      "1": "0.00"
+    },
+    "content": {
+      "1": "<p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788752714_2087_thumb.png\" title=\"core_1788752714_2087_thumb.png\" alt=\"core_1788752714_2087.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788752689_7851_thumb.png\" title=\"core_1788752689_7851_thumb.png\" alt=\"core_1788752689_7851.png\"></p>"
+    }
+  },
   "province": [],
   "attr": {},
   "company": {},

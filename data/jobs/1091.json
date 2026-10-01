@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-09-01 09:08:16",
+  "update_time": "2026-10-01 10:42:27",
   "school_id": "1091",
   "school_name": "塔里木大学",
   "jobrateyear": "2024",
@@ -115,6 +115,18 @@
       "province_name": "广西壮族自治区"
     },
     {
+      "id": "7085",
+      "school_id": "1091",
+      "province": "贵州省",
+      "rate": "0.66",
+      "num": "17",
+      "sort": "17",
+      "update_id": "0",
+      "update_time": "2018-12-18 15:40:17",
+      "year": "2019",
+      "province_name": "贵州省"
+    },
+    {
       "id": "7081",
       "school_id": "1091",
       "province": "湖北省",
@@ -137,18 +149,6 @@
       "update_time": "2018-12-18 15:40:17",
       "year": "2019",
       "province_name": "安徽省"
-    },
-    {
-      "id": "7085",
-      "school_id": "1091",
-      "province": "贵州省",
-      "rate": "0.66",
-      "num": "17",
-      "sort": "17",
-      "update_id": "0",
-      "update_time": "2018-12-18 15:40:17",
-      "year": "2019",
-      "province_name": "贵州省"
     },
     {
       "id": "7069",
@@ -247,18 +247,6 @@
       "province_name": "湖南省"
     },
     {
-      "id": "7088",
-      "school_id": "1091",
-      "province": "甘肃省",
-      "rate": "2.46",
-      "num": "63",
-      "sort": "63",
-      "update_id": "0",
-      "update_time": "2018-12-18 15:40:17",
-      "year": "2019",
-      "province_name": "甘肃省"
-    },
-    {
       "id": "7083",
       "school_id": "1091",
       "province": "河南省",
@@ -269,6 +257,18 @@
       "update_time": "2018-12-18 15:40:17",
       "year": "2019",
       "province_name": "河南省"
+    },
+    {
+      "id": "7088",
+      "school_id": "1091",
+      "province": "甘肃省",
+      "rate": "2.46",
+      "num": "63",
+      "sort": "63",
+      "update_id": "0",
+      "update_time": "2018-12-18 15:40:17",
+      "year": "2019",
+      "province_name": "甘肃省"
     },
     {
       "id": "7070",

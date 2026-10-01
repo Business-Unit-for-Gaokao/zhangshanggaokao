@@ -1,9 +1,22 @@
 {
-  "update_time": "2026-09-01 09:24:39",
+  "update_time": "2026-10-01 10:58:36",
   "school_id": "3099",
   "school_name": "宁夏葡萄酒与防沙治沙职业技术学院",
-  "jobrateyear": "",
-  "jobrate": {},
+  "jobrateyear": "2025",
+  "jobrate": {
+    "job": {
+      "1": "91.88"
+    },
+    "postgraduate": {
+      "1": "0.00"
+    },
+    "abroad": {
+      "1": "0.00"
+    },
+    "content": {
+      "1": "<p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788345123_2753_thumb.png\" title=\"core_1788345123_2753_thumb.png\" alt=\"core_1788345123_2753.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788345137_3375_thumb.png\" title=\"core_1788345137_3375_thumb.png\" alt=\"core_1788345137_3375.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788345164_7904_thumb.png\" title=\"core_1788345164_7904_thumb.png\" alt=\"core_1788345164_7904.png\"></p>"
+    }
+  },
   "province": [],
   "attr": {},
   "company": {},

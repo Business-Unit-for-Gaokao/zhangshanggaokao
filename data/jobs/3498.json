@@ -1,9 +1,22 @@
 {
-  "update_time": "2026-09-01 09:27:39",
+  "update_time": "2026-10-01 11:01:41",
   "school_id": "3498",
   "school_name": "朔州陶瓷职业技术学院",
-  "jobrateyear": "",
-  "jobrate": {},
+  "jobrateyear": "2025",
+  "jobrate": {
+    "job": {
+      "1": "85.33"
+    },
+    "postgraduate": {
+      "1": "0.00"
+    },
+    "abroad": {
+      "1": "0.00"
+    },
+    "content": {
+      "1": "<p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788424150_7090_thumb.png\" title=\"core_1788424150_7090_thumb.png\" alt=\"core_1788424150_7090.png\"></p>"
+    }
+  },
   "province": [],
   "attr": {},
   "company": {},

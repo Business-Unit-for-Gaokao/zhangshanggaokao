@@ -1,20 +1,20 @@
 {
-  "update_time": "2026-09-01 08:59:57",
+  "update_time": "2026-10-01 10:34:04",
   "school_id": "216",
   "school_name": "大连外国语大学",
-  "jobrateyear": "2023",
+  "jobrateyear": "2024",
   "jobrate": {
     "job": {
-      "1": "86.57"
+      "1": "85.21"
     },
     "postgraduate": {
-      "1": "13.17"
+      "1": "18.36"
     },
     "abroad": {
-      "1": "12.16"
+      "1": "17.54"
     },
     "content": {
-      "1": ""
+      "1": "<p><img src=\"https://static-data.gaokao.cn//upload/image/202608/core_1786698062_4069_thumb.png\" title=\"core_1786698062_4069_thumb.png\" alt=\"core_1786698062_4069.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202608/core_1786698080_4719_thumb.png\" title=\"core_1786698080_4719_thumb.png\" alt=\"core_1786698080_4719.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202608/core_1786698111_5471_thumb.png\" title=\"core_1786698111_5471_thumb.png\" alt=\"core_1786698111_5471.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202608/core_1786698128_9415_thumb.png\" title=\"core_1786698128_9415_thumb.png\" alt=\"core_1786698128_9415.png\"></p>"
     }
   },
   "province": [

@@ -1,9 +1,22 @@
 {
-  "update_time": "2026-09-01 09:22:31",
+  "update_time": "2026-10-01 10:56:21",
   "school_id": "2652",
   "school_name": "辽宁工程职业学院",
-  "jobrateyear": "",
-  "jobrate": {},
+  "jobrateyear": "2025",
+  "jobrate": {
+    "job": {
+      "1": "0.00"
+    },
+    "postgraduate": {
+      "1": "0.00"
+    },
+    "abroad": {
+      "1": "0.00"
+    },
+    "content": {
+      "1": "<p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788336947_9421_thumb.png\" title=\"core_1788336947_9421_thumb.png\" alt=\"core_1788336947_9421.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788336971_9677_thumb.png\" title=\"core_1788336971_9677_thumb.png\" alt=\"core_1788336971_9677.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788336994_7110_thumb.png\" title=\"core_1788336994_7110_thumb.png\" alt=\"core_1788336994_7110.png\"></p>"
+    }
+  },
   "province": [],
   "attr": {},
   "company": {},

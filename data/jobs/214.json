@@ -1,20 +1,20 @@
 {
-  "update_time": "2026-09-01 08:59:55",
+  "update_time": "2026-10-01 10:34:03",
   "school_id": "214",
   "school_name": "渤海大学",
-  "jobrateyear": "2023",
+  "jobrateyear": "2024",
   "jobrate": {
     "job": {
-      "1": "82.66"
+      "1": "87.54"
     },
     "postgraduate": {
-      "1": "17.22"
+      "1": "20.76"
     },
     "abroad": {
-      "1": "0.59"
+      "1": "0.94"
     },
     "content": {
-      "1": ""
+      "1": "<p><img src=\"https://static-data.gaokao.cn//upload/image/202608/core_1786679199_4459_thumb.png\" title=\"core_1786679199_4459_thumb.png\" alt=\"core_1786679199_4459.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202608/core_1786679333_2333_thumb.png\" xss=removed title=\"core_1786679333_2333_thumb.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202608/core_1786679333_6563_thumb.png\" xss=removed title=\"core_1786679333_6563_thumb.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202608/core_1786679333_8007_thumb.png\" xss=removed title=\"core_1786679333_8007_thumb.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202608/core_1786679334_7277_thumb.png\" xss=removed title=\"core_1786679334_7277_thumb.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202608/core_1786679334_6321_thumb.png\" xss=removed title=\"core_1786679334_6321_thumb.png\"></p><p><br></p>"
     }
   },
   "province": [
@@ -79,18 +79,6 @@
       "province_name": "湖南省"
     },
     {
-      "id": "16139",
-      "school_id": "214",
-      "province": "江西省",
-      "rate": "0.35",
-      "num": "0",
-      "sort": "35",
-      "update_id": "2004",
-      "update_time": "2024-06-06 17:48:21",
-      "year": "2023",
-      "province_name": "江西省"
-    },
-    {
       "id": "16144",
       "school_id": "214",
       "province": "云南省",
@@ -101,6 +89,18 @@
       "update_time": "2024-06-06 17:48:21",
       "year": "2023",
       "province_name": "云南省"
+    },
+    {
+      "id": "16139",
+      "school_id": "214",
+      "province": "江西省",
+      "rate": "0.35",
+      "num": "0",
+      "sort": "35",
+      "update_id": "2004",
+      "update_time": "2024-06-06 17:48:21",
+      "year": "2023",
+      "province_name": "江西省"
     },
     {
       "id": "16136",
@@ -187,6 +187,18 @@
       "province_name": "山西省"
     },
     {
+      "id": "16128",
+      "school_id": "214",
+      "province": "黑龙江省",
+      "rate": "0.67",
+      "num": "0",
+      "sort": "67",
+      "update_id": "2004",
+      "update_time": "2024-06-06 17:48:21",
+      "year": "2023",
+      "province_name": "黑龙江省"
+    },
+    {
       "id": "16135",
       "school_id": "214",
       "province": "国外",
@@ -209,18 +221,6 @@
       "update_time": "2024-06-06 17:48:21",
       "year": "2023",
       "province_name": "福建省"
-    },
-    {
-      "id": "16128",
-      "school_id": "214",
-      "province": "黑龙江省",
-      "rate": "0.67",
-      "num": "0",
-      "sort": "67",
-      "update_id": "2004",
-      "update_time": "2024-06-06 17:48:21",
-      "year": "2023",
-      "province_name": "黑龙江省"
     },
     {
       "id": "16132",

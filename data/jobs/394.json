@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-09-01 09:01:49",
+  "update_time": "2026-10-01 10:35:58",
   "school_id": "394",
   "school_name": "长春工程学院",
   "jobrateyear": "2024",
@@ -19,18 +19,6 @@
   },
   "province": [
     {
-      "id": "17404",
-      "school_id": "394",
-      "province": "新一线城市",
-      "rate": "23.12",
-      "num": "0",
-      "sort": "23",
-      "update_id": "2004",
-      "update_time": "2024-06-11 17:02:59",
-      "year": "2022",
-      "province_name": "新一线城市"
-    },
-    {
       "id": "17405",
       "school_id": "394",
       "province": "长三角地区",
@@ -41,6 +29,18 @@
       "update_time": "2024-06-11 17:02:59",
       "year": "2022",
       "province_name": "长三角地区"
+    },
+    {
+      "id": "17404",
+      "school_id": "394",
+      "province": "新一线城市",
+      "rate": "23.12",
+      "num": "0",
+      "sort": "23",
+      "update_id": "2004",
+      "update_time": "2024-06-11 17:02:59",
+      "year": "2022",
+      "province_name": "新一线城市"
     },
     {
       "id": "17403",

@@ -1,9 +1,22 @@
 {
-  "update_time": "2026-09-01 09:07:40",
+  "update_time": "2026-10-01 10:41:52",
   "school_id": "1015",
   "school_name": "随州职业技术学院",
-  "jobrateyear": "",
-  "jobrate": {},
+  "jobrateyear": "2025",
+  "jobrate": {
+    "job": {
+      "1": "81.76"
+    },
+    "postgraduate": {
+      "1": "0.00"
+    },
+    "abroad": {
+      "1": "0.00"
+    },
+    "content": {
+      "1": "<p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1789112851_4137_thumb.jpg\" xss=removed title=\"core_1789112851_4137_thumb.jpg\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1789112851_9366_thumb.jpg\" xss=removed title=\"core_1789112851_9366_thumb.jpg\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1789112851_3082_thumb.jpg\" xss=removed title=\"core_1789112851_3082_thumb.jpg\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1789112851_4245_thumb.jpg\" xss=removed title=\"core_1789112851_4245_thumb.jpg\"></p><p><br></p>"
+    }
+  },
   "province": [],
   "attr": {},
   "company": {},

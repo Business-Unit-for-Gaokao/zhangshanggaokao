@@ -1,20 +1,20 @@
 {
-  "update_time": "2026-09-01 09:19:55",
+  "update_time": "2026-10-01 10:53:43",
   "school_id": "2361",
   "school_name": "兰州信息科技学院",
-  "jobrateyear": "2023",
+  "jobrateyear": "2024",
   "jobrate": {
     "job": {
-      "1": "96.24"
+      "1": "95.84"
     },
     "postgraduate": {
-      "1": "0.61"
+      "1": "5.12"
     },
     "abroad": {
-      "1": "0.20"
+      "1": "0.19"
     },
     "content": {
-      "1": ""
+      "1": "<p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788751389_3305_thumb.png\" title=\"core_1788751389_3305_thumb.png\" alt=\"core_1788751389_3305.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788751411_8112_thumb.png\" title=\"core_1788751411_8112_thumb.png\" alt=\"core_1788751411_8112.png\"></p>"
     }
   },
   "province": [

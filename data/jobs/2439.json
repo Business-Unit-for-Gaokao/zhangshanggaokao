@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-09-01 09:20:45",
+  "update_time": "2026-10-01 10:54:33",
   "school_id": "2439",
   "school_name": "南昌大学共青学院",
   "jobrateyear": "2020",
@@ -67,30 +67,6 @@
       "province_name": "澳门"
     },
     {
-      "id": "25774",
-      "school_id": "2439",
-      "province": "新疆",
-      "rate": "0.28",
-      "num": "2",
-      "sort": "2",
-      "update_id": "2094",
-      "update_time": "2025-01-09 10:33:59",
-      "year": "2020",
-      "province_name": "新疆"
-    },
-    {
-      "id": "25773",
-      "school_id": "2439",
-      "province": "内蒙古",
-      "rate": "0.28",
-      "num": "2",
-      "sort": "2",
-      "update_id": "2094",
-      "update_time": "2025-01-09 10:33:59",
-      "year": "2020",
-      "province_name": "内蒙古"
-    },
-    {
       "id": "25772",
       "school_id": "2439",
       "province": "辽宁省",
@@ -113,6 +89,30 @@
       "update_time": "2025-01-09 10:33:59",
       "year": "2020",
       "province_name": "安徽省"
+    },
+    {
+      "id": "25773",
+      "school_id": "2439",
+      "province": "内蒙古",
+      "rate": "0.28",
+      "num": "2",
+      "sort": "2",
+      "update_id": "2094",
+      "update_time": "2025-01-09 10:33:59",
+      "year": "2020",
+      "province_name": "内蒙古"
+    },
+    {
+      "id": "25774",
+      "school_id": "2439",
+      "province": "新疆",
+      "rate": "0.28",
+      "num": "2",
+      "sort": "2",
+      "update_id": "2094",
+      "update_time": "2025-01-09 10:33:59",
+      "year": "2020",
+      "province_name": "新疆"
     },
     {
       "id": "25770",

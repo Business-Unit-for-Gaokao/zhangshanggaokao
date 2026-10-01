@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-09-01 09:01:53",
+  "update_time": "2026-10-01 10:36:03",
   "school_id": "402",
   "school_name": "湖南中医药大学",
   "jobrateyear": "2025",
@@ -163,18 +163,6 @@
       "province_name": "内蒙古自治区"
     },
     {
-      "id": "14981",
-      "school_id": "402",
-      "province": "云南省",
-      "rate": "0.33",
-      "num": "7",
-      "sort": "7",
-      "update_id": "1721",
-      "update_time": "2024-05-29 10:47:49",
-      "year": "2023",
-      "province_name": "云南省"
-    },
-    {
       "id": "14982",
       "school_id": "402",
       "province": "宁夏回族自治区",
@@ -185,6 +173,18 @@
       "update_time": "2024-05-29 10:47:49",
       "year": "2023",
       "province_name": "宁夏回族自治区"
+    },
+    {
+      "id": "14981",
+      "school_id": "402",
+      "province": "云南省",
+      "rate": "0.33",
+      "num": "7",
+      "sort": "7",
+      "update_id": "1721",
+      "update_time": "2024-05-29 10:47:49",
+      "year": "2023",
+      "province_name": "云南省"
     },
     {
       "id": "14978",
@@ -223,18 +223,6 @@
       "province_name": "福建省"
     },
     {
-      "id": "14979",
-      "school_id": "402",
-      "province": "天津市",
-      "rate": "0.56",
-      "num": "12",
-      "sort": "12",
-      "update_id": "1721",
-      "update_time": "2024-05-29 10:47:49",
-      "year": "2023",
-      "province_name": "天津市"
-    },
-    {
       "id": "14976",
       "school_id": "402",
       "province": "陕西省",
@@ -259,16 +247,16 @@
       "province_name": "广西壮族自治区"
     },
     {
-      "id": "14967",
+      "id": "14979",
       "school_id": "402",
-      "province": "江西省",
-      "rate": "0.61",
-      "num": "13",
-      "sort": "13",
+      "province": "天津市",
+      "rate": "0.56",
+      "num": "12",
+      "sort": "12",
       "update_id": "1721",
       "update_time": "2024-05-29 10:47:49",
       "year": "2023",
-      "province_name": "江西省"
+      "province_name": "天津市"
     },
     {
       "id": "14980",
@@ -281,6 +269,18 @@
       "update_time": "2024-05-29 10:47:49",
       "year": "2023",
       "province_name": "新疆维吾尔自治区"
+    },
+    {
+      "id": "14967",
+      "school_id": "402",
+      "province": "江西省",
+      "rate": "0.61",
+      "num": "13",
+      "sort": "13",
+      "update_id": "1721",
+      "update_time": "2024-05-29 10:47:49",
+      "year": "2023",
+      "province_name": "江西省"
     },
     {
       "id": "14972",
@@ -355,18 +355,6 @@
       "province_name": "湖北省"
     },
     {
-      "id": "14966",
-      "school_id": "402",
-      "province": "北京市",
-      "rate": "1.91",
-      "num": "41",
-      "sort": "41",
-      "update_id": "1721",
-      "update_time": "2024-05-29 10:47:49",
-      "year": "2023",
-      "province_name": "北京市"
-    },
-    {
       "id": "14964",
       "school_id": "402",
       "province": "江苏省",
@@ -377,6 +365,18 @@
       "update_time": "2024-05-29 10:47:49",
       "year": "2023",
       "province_name": "江苏省"
+    },
+    {
+      "id": "14966",
+      "school_id": "402",
+      "province": "北京市",
+      "rate": "1.91",
+      "num": "41",
+      "sort": "41",
+      "update_id": "1721",
+      "update_time": "2024-05-29 10:47:49",
+      "year": "2023",
+      "province_name": "北京市"
     },
     {
       "id": "14965",
@@ -409,8 +409,8 @@
     "其他事业单位": "7.61",
     "中初教育单位": "0.14",
     "医疗卫生单位": "21.38",
-    "城镇社区": "0.09",
     "部队": "0.14",
+    "城镇社区": "0.09",
     "其他企业": "64.38",
     "科研设计单位": "0.37",
     "机关": "0.84",

@@ -1,20 +1,20 @@
 {
-  "update_time": "2026-09-01 09:21:33",
+  "update_time": "2026-10-01 10:55:23",
   "school_id": "2519",
   "school_name": "聊城大学东昌学院",
-  "jobrateyear": "2019",
+  "jobrateyear": "2024",
   "jobrate": {
     "job": {
-      "1": "94.38"
+      "1": "85.68"
     },
     "postgraduate": {
-      "1": "5.16"
+      "1": "0.00"
     },
     "abroad": {
-      "1": "0.53"
+      "1": "0.00"
     },
     "content": {
-      "1": ""
+      "1": "<p>2025届本科毕业生各专业中，有8个专业的毕业去向落实率超过92%，其中，环境设计专业最高，毕业去向落实率97.37%。<img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788423800_1429_thumb.png\" title=\"core_1788423800_1429_thumb.png\" alt=\"core_1788423800_1429.png\"></p>"
     }
   },
   "province": [

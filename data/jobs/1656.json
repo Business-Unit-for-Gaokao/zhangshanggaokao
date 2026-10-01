@@ -1,9 +1,22 @@
 {
-  "update_time": "2026-09-01 09:12:45",
+  "update_time": "2026-10-01 10:46:47",
   "school_id": "1656",
   "school_name": "山西国际商务职业学院",
-  "jobrateyear": "",
-  "jobrate": {},
+  "jobrateyear": "2025",
+  "jobrate": {
+    "job": {
+      "1": "85.49"
+    },
+    "postgraduate": {
+      "1": "0.00"
+    },
+    "abroad": {
+      "1": "0.00"
+    },
+    "content": {
+      "1": "<p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1789118653_8063_thumb.jpg\" xss=removed title=\"core_1789118653_8063_thumb.jpg\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1789118653_9895_thumb.jpg\" xss=removed title=\"core_1789118653_9895_thumb.jpg\"></p><p><br></p>"
+    }
+  },
   "province": [],
   "attr": {},
   "company": {},

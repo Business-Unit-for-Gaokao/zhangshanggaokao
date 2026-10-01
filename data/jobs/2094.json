@@ -1,9 +1,22 @@
 {
-  "update_time": "2026-09-01 09:17:14",
+  "update_time": "2026-10-01 10:51:09",
   "school_id": "2094",
   "school_name": "山东电力高等专科学校",
-  "jobrateyear": "",
-  "jobrate": {},
+  "jobrateyear": "2025",
+  "jobrate": {
+    "job": {
+      "1": "96.24"
+    },
+    "postgraduate": {
+      "1": "14.23"
+    },
+    "abroad": {
+      "1": "0.00"
+    },
+    "content": {
+      "1": "<p><br></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788314630_9201_thumb.png\" title=\"core_1788314630_9201_thumb.png\" alt=\"core_1788314630_9201.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788314644_2765_thumb.png\" title=\"core_1788314644_2765_thumb.png\" alt=\"core_1788314644_2765.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788314657_6821_thumb.png\" title=\"core_1788314657_6821_thumb.png\" alt=\"core_1788314657_6821.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788314670_3990_thumb.png\" title=\"core_1788314670_3990_thumb.png\" alt=\"core_1788314670_3990.png\"></p>"
+    }
+  },
   "province": [],
   "attr": {},
   "company": {},

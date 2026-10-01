@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-09-01 09:27:09",
+  "update_time": "2026-10-01 11:01:09",
   "school_id": "3432",
   "school_name": "赣州职业技术学院",
   "jobrateyear": "2019",
@@ -93,19 +93,7 @@
   ],
   "attr": {},
   "company": {},
-  "gradute": [
-    {
-      "id": "1282",
-      "school_id": "3432",
-      "female_num": "0",
-      "men_num": "22",
-      "men_rate": "100.00",
-      "female_rate": "0.00",
-      "update_id": "825",
-      "update_time": "2022-06-17 16:29:41",
-      "year": "2019"
-    }
-  ],
+  "gradute": [],
   "remark": "",
   "salary": {}
 }

@@ -1,9 +1,22 @@
 {
-  "update_time": "2026-09-01 09:18:40",
+  "update_time": "2026-10-01 10:52:30",
   "school_id": "2231",
   "school_name": "西安电力高等专科学校",
-  "jobrateyear": "",
-  "jobrate": {},
+  "jobrateyear": "2025",
+  "jobrate": {
+    "job": {
+      "1": "86.61"
+    },
+    "postgraduate": {
+      "1": "0.00"
+    },
+    "abroad": {
+      "1": "0.00"
+    },
+    "content": {
+      "1": "<p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788338366_2947_thumb.png\" title=\"core_1788338366_2947_thumb.png\" alt=\"core_1788338366_2947.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788338386_5475_thumb.png\" title=\"core_1788338386_5475_thumb.png\" alt=\"core_1788338386_5475.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788338399_8706_thumb.png\" title=\"core_1788338399_8706_thumb.png\" alt=\"core_1788338399_8706.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788338423_3431_thumb.png\" title=\"core_1788338423_3431_thumb.png\" alt=\"core_1788338423_3431.png\"></p><p><br></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788338598_3486_thumb.png\" title=\"core_1788338598_3486_thumb.png\" alt=\"core_1788338598_3486.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788338619_9310_thumb.png\" title=\"core_1788338619_9310_thumb.png\" alt=\"core_1788338619_9310.png\"></p><p><br></p>"
+    }
+  },
   "province": [],
   "attr": {},
   "company": {},

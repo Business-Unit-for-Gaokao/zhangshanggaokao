@@ -1,20 +1,20 @@
 {
-  "update_time": "2026-09-01 09:01:34",
+  "update_time": "2026-10-01 10:35:44",
   "school_id": "372",
   "school_name": "青海民族大学",
-  "jobrateyear": "2022",
+  "jobrateyear": "2024",
   "jobrate": {
     "job": {
-      "1": "92.10"
+      "1": "92.74"
     },
     "postgraduate": {
-      "1": "5.10"
+      "1": "0.00"
     },
     "abroad": {
-      "1": "0.20"
+      "1": "0.00"
     },
     "content": {
-      "1": ""
+      "1": "<p>2024届本科毕业生初次就业率为92.74%。</p>"
     }
   },
   "province": [
@@ -91,18 +91,6 @@
       "province_name": "江西"
     },
     {
-      "id": "17673",
-      "school_id": "372",
-      "province": "重庆",
-      "rate": "0.40",
-      "num": "8",
-      "sort": "8",
-      "update_id": "2004",
-      "update_time": "2024-06-13 16:10:05",
-      "year": "2022",
-      "province_name": "重庆"
-    },
-    {
       "id": "17658",
       "school_id": "372",
       "province": "新疆",
@@ -113,6 +101,18 @@
       "update_time": "2024-06-13 16:10:05",
       "year": "2022",
       "province_name": "新疆"
+    },
+    {
+      "id": "17673",
+      "school_id": "372",
+      "province": "重庆",
+      "rate": "0.40",
+      "num": "8",
+      "sort": "8",
+      "update_id": "2004",
+      "update_time": "2024-06-13 16:10:05",
+      "year": "2022",
+      "province_name": "重庆"
     },
     {
       "id": "17672",
@@ -139,18 +139,6 @@
       "province_name": "贵州"
     },
     {
-      "id": "17656",
-      "school_id": "372",
-      "province": "河南",
-      "rate": "0.50",
-      "num": "12",
-      "sort": "12",
-      "update_id": "2004",
-      "update_time": "2024-06-13 16:10:05",
-      "year": "2022",
-      "province_name": "河南"
-    },
-    {
       "id": "17657",
       "school_id": "372",
       "province": "安徽",
@@ -161,6 +149,18 @@
       "update_time": "2024-06-13 16:10:05",
       "year": "2022",
       "province_name": "安徽"
+    },
+    {
+      "id": "17656",
+      "school_id": "372",
+      "province": "河南",
+      "rate": "0.50",
+      "num": "12",
+      "sort": "12",
+      "update_id": "2004",
+      "update_time": "2024-06-13 16:10:05",
+      "year": "2022",
+      "province_name": "河南"
     },
     {
       "id": "17670",
@@ -175,16 +175,16 @@
       "province_name": "天津"
     },
     {
-      "id": "17669",
+      "id": "17667",
       "school_id": "372",
-      "province": "海南",
+      "province": "上海",
       "rate": "0.70",
       "num": "16",
       "sort": "16",
       "update_id": "2004",
       "update_time": "2024-06-13 16:10:05",
       "year": "2022",
-      "province_name": "海南"
+      "province_name": "上海"
     },
     {
       "id": "17666",
@@ -199,18 +199,6 @@
       "province_name": "山西"
     },
     {
-      "id": "17667",
-      "school_id": "372",
-      "province": "上海",
-      "rate": "0.70",
-      "num": "16",
-      "sort": "16",
-      "update_id": "2004",
-      "update_time": "2024-06-13 16:10:05",
-      "year": "2022",
-      "province_name": "上海"
-    },
-    {
       "id": "17668",
       "school_id": "372",
       "province": "宁夏",
@@ -221,6 +209,18 @@
       "update_time": "2024-06-13 16:10:05",
       "year": "2022",
       "province_name": "宁夏"
+    },
+    {
+      "id": "17669",
+      "school_id": "372",
+      "province": "海南",
+      "rate": "0.70",
+      "num": "16",
+      "sort": "16",
+      "update_id": "2004",
+      "update_time": "2024-06-13 16:10:05",
+      "year": "2022",
+      "province_name": "海南"
     },
     {
       "id": "17653",
@@ -295,18 +295,6 @@
       "province_name": "四川"
     },
     {
-      "id": "17663",
-      "school_id": "372",
-      "province": "陕西",
-      "rate": "1.20",
-      "num": "27",
-      "sort": "27",
-      "update_id": "2004",
-      "update_time": "2024-06-13 16:10:05",
-      "year": "2022",
-      "province_name": "陕西"
-    },
-    {
       "id": "17650",
       "school_id": "372",
       "province": "江苏",
@@ -317,6 +305,18 @@
       "update_time": "2024-06-13 16:10:05",
       "year": "2022",
       "province_name": "江苏"
+    },
+    {
+      "id": "17663",
+      "school_id": "372",
+      "province": "陕西",
+      "rate": "1.20",
+      "num": "27",
+      "sort": "27",
+      "update_id": "2004",
+      "update_time": "2024-06-13 16:10:05",
+      "year": "2022",
+      "province_name": "陕西"
     },
     {
       "id": "17651",
@@ -395,8 +395,8 @@
     "其他企业": "72.00",
     "国有企业": "10.00",
     "中初等教育单位": "7.00",
-    "机关": "5.00",
     "其他事业单位": "5.00",
+    "机关": "5.00",
     "医疗卫生单位": "1.00"
   },
   "company": {},

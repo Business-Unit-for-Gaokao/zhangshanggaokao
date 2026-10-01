@@ -1,9 +1,22 @@
 {
-  "update_time": "2026-09-01 08:59:46",
+  "update_time": "2026-10-01 10:33:55",
   "school_id": "201",
   "school_name": "中国刑事警察学院",
-  "jobrateyear": "",
-  "jobrate": {},
+  "jobrateyear": "2024",
+  "jobrate": {
+    "job": {
+      "1": "90.94"
+    },
+    "postgraduate": {
+      "1": "0.00"
+    },
+    "abroad": {
+      "1": "0.00"
+    },
+    "content": {
+      "1": "<p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788505680_5413_thumb.png\" title=\"core_1788505680_5413_thumb.png\" alt=\"core_1788505680_5413.png\"></p>"
+    }
+  },
   "province": [],
   "attr": {},
   "company": {},

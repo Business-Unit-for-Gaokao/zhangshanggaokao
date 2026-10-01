@@ -1,20 +1,20 @@
 {
-  "update_time": "2026-09-01 08:59:02",
+  "update_time": "2026-10-01 10:33:10",
   "school_id": "126",
   "school_name": "山东大学",
-  "jobrateyear": "2021",
+  "jobrateyear": "2024",
   "jobrate": {
     "job": {
-      "1": "95.51"
+      "1": "93.18"
     },
     "postgraduate": {
-      "1": "40.99"
+      "1": "49.29"
     },
     "abroad": {
-      "1": "7.13"
+      "1": "9.64"
     },
     "content": {
-      "1": ""
+      "1": "<p><img src=\"https://static-data.gaokao.cn//upload/image/202608/core_1787728555_6681_thumb.png\" title=\"core_1787728555_6681_thumb.png\" alt=\"core_1787728555_6681.png\"></p>"
     }
   },
   "province": [

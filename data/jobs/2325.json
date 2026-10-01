@@ -1,9 +1,22 @@
 {
-  "update_time": "2026-09-01 09:19:37",
+  "update_time": "2026-10-01 10:53:25",
   "school_id": "2325",
   "school_name": "山西工学院",
-  "jobrateyear": "",
-  "jobrate": {},
+  "jobrateyear": "2024",
+  "jobrate": {
+    "job": {
+      "1": "85.96"
+    },
+    "postgraduate": {
+      "1": "0.00"
+    },
+    "abroad": {
+      "1": "0.00"
+    },
+    "content": {
+      "1": "<p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788429629_3072_thumb.png\" title=\"core_1788429629_3072_thumb.png\" alt=\"core_1788429629_3072.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788429656_9848_thumb.png\" title=\"core_1788429656_9848_thumb.png\" alt=\"core_1788429656_9848.png\"></p>"
+    }
+  },
   "province": [],
   "attr": {},
   "company": {},

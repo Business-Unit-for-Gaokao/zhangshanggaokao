@@ -1,9 +1,22 @@
 {
-  "update_time": "2026-09-01 09:17:06",
+  "update_time": "2026-10-01 10:51:02",
   "school_id": "2080",
   "school_name": "重庆城市管理职业学院",
-  "jobrateyear": "",
-  "jobrate": {},
+  "jobrateyear": "2024",
+  "jobrate": {
+    "job": {
+      "1": "94.54"
+    },
+    "postgraduate": {
+      "1": "0.00"
+    },
+    "abroad": {
+      "1": "0.00"
+    },
+    "content": {
+      "1": "<p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1789379658_6023_thumb.jpg\" xss=removed title=\"core_1789379658_6023_thumb.jpg\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1789379658_3962_thumb.jpg\" xss=removed title=\"core_1789379658_3962_thumb.jpg\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1789379658_1210_thumb.jpg\" xss=removed title=\"core_1789379658_1210_thumb.jpg\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1789379658_7225_thumb.jpg\" xss=removed title=\"core_1789379658_7225_thumb.jpg\"></p><p><br></p>"
+    }
+  },
   "province": [],
   "attr": {},
   "company": {},

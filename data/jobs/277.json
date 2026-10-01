@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-09-01 09:00:35",
+  "update_time": "2026-10-01 10:34:41",
   "school_id": "277",
   "school_name": "中北大学",
   "jobrateyear": "2024",
@@ -55,18 +55,6 @@
       "province_name": "广西"
     },
     {
-      "id": "22980",
-      "school_id": "277",
-      "province": "青海",
-      "rate": "0.50",
-      "num": "23",
-      "sort": "23",
-      "update_id": "2096",
-      "update_time": "2024-09-25 16:45:46",
-      "year": "2020",
-      "province_name": "青海"
-    },
-    {
       "id": "22979",
       "school_id": "277",
       "province": "江西",
@@ -77,6 +65,18 @@
       "update_time": "2024-09-25 16:45:46",
       "year": "2020",
       "province_name": "江西"
+    },
+    {
+      "id": "22980",
+      "school_id": "277",
+      "province": "青海",
+      "rate": "0.50",
+      "num": "23",
+      "sort": "23",
+      "update_id": "2096",
+      "update_time": "2024-09-25 16:45:46",
+      "year": "2020",
+      "province_name": "青海"
     },
     {
       "id": "22978",
@@ -127,18 +127,6 @@
       "province_name": "黑龙江"
     },
     {
-      "id": "22974",
-      "school_id": "277",
-      "province": "吉林",
-      "rate": "0.76",
-      "num": "35",
-      "sort": "35",
-      "update_id": "2096",
-      "update_time": "2024-09-25 16:45:46",
-      "year": "2020",
-      "province_name": "吉林"
-    },
-    {
       "id": "22973",
       "school_id": "277",
       "province": "海南",
@@ -151,16 +139,16 @@
       "province_name": "海南"
     },
     {
-      "id": "22972",
+      "id": "22974",
       "school_id": "277",
-      "province": "福建",
-      "rate": "1.07",
-      "num": "49",
-      "sort": "49",
+      "province": "吉林",
+      "rate": "0.76",
+      "num": "35",
+      "sort": "35",
       "update_id": "2096",
       "update_time": "2024-09-25 16:45:46",
       "year": "2020",
-      "province_name": "福建"
+      "province_name": "吉林"
     },
     {
       "id": "22971",
@@ -173,6 +161,18 @@
       "update_time": "2024-09-25 16:45:46",
       "year": "2020",
       "province_name": "安徽"
+    },
+    {
+      "id": "22972",
+      "school_id": "277",
+      "province": "福建",
+      "rate": "1.07",
+      "num": "49",
+      "sort": "49",
+      "update_id": "2096",
+      "update_time": "2024-09-25 16:45:46",
+      "year": "2020",
+      "province_name": "福建"
     },
     {
       "id": "22970",

@@ -1,9 +1,22 @@
 {
-  "update_time": "2026-09-01 09:12:11",
+  "update_time": "2026-10-01 10:46:13",
   "school_id": "1603",
   "school_name": "河北劳动关系职业学院",
-  "jobrateyear": "",
-  "jobrate": {},
+  "jobrateyear": "2025",
+  "jobrate": {
+    "job": {
+      "1": "94.05"
+    },
+    "postgraduate": {
+      "1": "11.30"
+    },
+    "abroad": {
+      "1": "0.00"
+    },
+    "content": {
+      "1": "<p></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788414533_5471_thumb.png\" title=\"core_1788414533_5471_thumb.png\" alt=\"core_1788414533_5471.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788414546_4849_thumb.png\" title=\"core_1788414546_4849_thumb.png\" alt=\"core_1788414546_4849.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788414565_5339_thumb.png\" title=\"core_1788414565_5339_thumb.png\" alt=\"core_1788414565_5339.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788414587_8109_thumb.png\" title=\"core_1788414587_8109_thumb.png\" alt=\"core_1788414587_8109.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788414600_1398_thumb.png\" title=\"core_1788414600_1398_thumb.png\" alt=\"core_1788414600_1398.png\"></p>"
+    }
+  },
   "province": [],
   "attr": {},
   "company": {},

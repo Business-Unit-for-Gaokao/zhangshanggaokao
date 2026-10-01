@@ -1,20 +1,20 @@
 {
-  "update_time": "2026-09-01 09:06:37",
+  "update_time": "2026-10-01 10:40:50",
   "school_id": "909",
   "school_name": "南昌职业大学",
-  "jobrateyear": "2020",
+  "jobrateyear": "2025",
   "jobrate": {
     "job": {
-      "1": "85.25"
+      "1": "98.59"
     },
     "postgraduate": {
-      "1": "22.92"
+      "1": "3.18"
     },
     "abroad": {
-      "1": "0.00"
+      "1": "0.03"
     },
     "content": {
-      "1": ""
+      "1": "<p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788423808_1598_thumb.png\" title=\"core_1788423808_1598_thumb.png\" alt=\"core_1788423808_1598.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788423825_2204_thumb.png\" title=\"core_1788423825_2204_thumb.png\" alt=\"core_1788423825_2204.png\"></p>"
     }
   },
   "province": [

@@ -1,9 +1,22 @@
 {
-  "update_time": "2026-09-01 09:17:25",
+  "update_time": "2026-10-01 10:51:19",
   "school_id": "2110",
   "school_name": "山东畜牧兽医职业学院",
-  "jobrateyear": "",
-  "jobrate": {},
+  "jobrateyear": "2024",
+  "jobrate": {
+    "job": {
+      "1": "95.53"
+    },
+    "postgraduate": {
+      "1": "0.00"
+    },
+    "abroad": {
+      "1": "0.00"
+    },
+    "content": {
+      "1": "<p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1789700220_9907_thumb.jpg\" xss=removed title=\"core_1789700220_9907_thumb.jpg\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1789700220_6022_thumb.jpg\" xss=removed title=\"core_1789700220_6022_thumb.jpg\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1789700220_6085_thumb.jpg\" xss=removed title=\"core_1789700220_6085_thumb.jpg\"></p><p><br></p>"
+    }
+  },
   "province": [],
   "attr": {},
   "company": {},

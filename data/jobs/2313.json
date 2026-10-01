@@ -1,20 +1,20 @@
 {
-  "update_time": "2026-09-01 09:19:30",
+  "update_time": "2026-10-01 10:53:18",
   "school_id": "2313",
   "school_name": "长春光华学院",
-  "jobrateyear": "2022",
+  "jobrateyear": "2025",
   "jobrate": {
     "job": {
-      "1": "75.83"
+      "1": "95.09"
     },
     "postgraduate": {
-      "1": "4.49"
+      "1": "3.30"
     },
     "abroad": {
-      "1": "0.33"
+      "1": "0.21"
     },
     "content": {
-      "1": ""
+      "1": "<p><img src=\"https://static-data.gaokao.cn//upload/image/202608/core_1787212193_2752_thumb.png\" title=\"core_1787212193_2752_thumb.png\" alt=\"core_1787212193_2752.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202608/core_1787212205_4013_thumb.png\" title=\"core_1787212205_4013_thumb.png\" alt=\"core_1787212205_4013.png\"></p>"
     }
   },
   "province": [

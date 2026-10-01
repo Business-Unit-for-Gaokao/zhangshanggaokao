@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-09-01 09:14:17",
+  "update_time": "2026-10-01 10:48:14",
   "school_id": "1808",
   "school_name": "淮南联合大学",
   "jobrateyear": "2024",
@@ -115,18 +115,6 @@
       "province_name": "内蒙古"
     },
     {
-      "id": "28579",
-      "school_id": "1808",
-      "province": "重庆",
-      "rate": "0.09",
-      "num": "4",
-      "sort": "4",
-      "update_id": "2156",
-      "update_time": "2025-11-12 11:16:20",
-      "year": "2024",
-      "province_name": "重庆"
-    },
-    {
       "id": "28578",
       "school_id": "1808",
       "province": "山西",
@@ -149,6 +137,18 @@
       "update_time": "2025-11-12 11:16:20",
       "year": "2024",
       "province_name": "贵州"
+    },
+    {
+      "id": "28579",
+      "school_id": "1808",
+      "province": "重庆",
+      "rate": "0.09",
+      "num": "4",
+      "sort": "4",
+      "update_id": "2156",
+      "update_time": "2025-11-12 11:16:20",
+      "year": "2024",
+      "province_name": "重庆"
     },
     {
       "id": "28576",
@@ -235,6 +235,18 @@
       "province_name": "福建"
     },
     {
+      "id": "28567",
+      "school_id": "1808",
+      "province": "海南",
+      "rate": "0.37",
+      "num": "16",
+      "sort": "16",
+      "update_id": "2156",
+      "update_time": "2025-11-12 11:16:20",
+      "year": "2024",
+      "province_name": "海南"
+    },
+    {
       "id": "28569",
       "school_id": "1808",
       "province": "青海",
@@ -257,18 +269,6 @@
       "update_time": "2025-11-12 11:16:20",
       "year": "2024",
       "province_name": "湖北"
-    },
-    {
-      "id": "28567",
-      "school_id": "1808",
-      "province": "海南",
-      "rate": "0.37",
-      "num": "16",
-      "sort": "16",
-      "update_id": "2156",
-      "update_time": "2025-11-12 11:16:20",
-      "year": "2024",
-      "province_name": "海南"
     },
     {
       "id": "28566",
@@ -319,18 +319,6 @@
       "province_name": "北京"
     },
     {
-      "id": "28562",
-      "school_id": "1808",
-      "province": "河北",
-      "rate": "1.35",
-      "num": "58",
-      "sort": "58",
-      "update_id": "2156",
-      "update_time": "2025-11-12 11:16:20",
-      "year": "2024",
-      "province_name": "河北"
-    },
-    {
       "id": "28561",
       "school_id": "1808",
       "province": "广东",
@@ -341,6 +329,18 @@
       "update_time": "2025-11-12 11:16:20",
       "year": "2024",
       "province_name": "广东"
+    },
+    {
+      "id": "28562",
+      "school_id": "1808",
+      "province": "河北",
+      "rate": "1.35",
+      "num": "58",
+      "sort": "58",
+      "update_id": "2156",
+      "update_time": "2025-11-12 11:16:20",
+      "year": "2024",
+      "province_name": "河北"
     },
     {
       "id": "28560",

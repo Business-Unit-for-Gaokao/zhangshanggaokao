@@ -1,9 +1,22 @@
 {
-  "update_time": "2026-09-01 09:24:14",
+  "update_time": "2026-10-01 10:58:06",
   "school_id": "3040",
   "school_name": "河南护理职业学院",
-  "jobrateyear": "",
-  "jobrate": {},
+  "jobrateyear": "2025",
+  "jobrate": {
+    "job": {
+      "1": "80.59"
+    },
+    "postgraduate": {
+      "1": "10.10"
+    },
+    "abroad": {
+      "1": "0.04"
+    },
+    "content": {
+      "1": "<p xss=removed><span xss=removed>学校</span><span xss=removed>2025</span><span xss=removed>届毕业生</span><span xss=removed>5086</span><span xss=removed>人，初次就业率为</span><span xss=removed>80.59%</span><span xss=removed>（数据截至</span><span xss=removed>8</span><span xss=removed>月</span><span xss=removed>31</span><span xss=removed>日）。</span><span xss=removed>2025</span><span xss=removed>届毕业生初次就业类别中，“签订就业协议形式”就业的比例最高，达到</span><span xss=removed>63.74%</span><span xss=removed>；其次是专科升普通本科占比</span><span xss=removed>10.10%</span><span xss=removed>。具体分布如下表所示。</span></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1789098505_9205_thumb.png\" title=\"core_1789098505_9205_thumb.png\" alt=\"core_1789098505_9205.png\"></p>"
+    }
+  },
   "province": [],
   "attr": {},
   "company": {},

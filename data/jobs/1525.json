@@ -1,9 +1,22 @@
 {
-  "update_time": "2026-09-01 09:11:37",
+  "update_time": "2026-10-01 10:45:40",
   "school_id": "1525",
   "school_name": "包头职业技术学院",
-  "jobrateyear": "",
-  "jobrate": {},
+  "jobrateyear": "2024",
+  "jobrate": {
+    "job": {
+      "1": "95.93"
+    },
+    "postgraduate": {
+      "1": "0.00"
+    },
+    "abroad": {
+      "1": "0.00"
+    },
+    "content": {
+      "1": "<p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1789698584_1909_thumb.jpg\" xss=removed title=\"core_1789698584_1909_thumb.jpg\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1789698584_8578_thumb.jpg\" xss=removed title=\"core_1789698584_8578_thumb.jpg\"></p><p><br></p>"
+    }
+  },
   "province": [],
   "attr": {},
   "company": {},

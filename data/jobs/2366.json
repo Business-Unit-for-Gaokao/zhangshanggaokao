@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-09-01 09:19:57",
+  "update_time": "2026-10-01 10:53:45",
   "school_id": "2366",
   "school_name": "桂林学院",
   "jobrateyear": "2024",
@@ -19,16 +19,16 @@
   },
   "province": [
     {
-      "id": "24917",
+      "id": "24915",
       "school_id": "2366",
-      "province": "国外",
+      "province": "北京市",
       "rate": "0.55",
       "num": "19",
       "sort": "19",
       "update_id": "1988",
       "update_time": "2025-01-07 09:27:00",
       "year": "2024",
-      "province_name": "国外"
+      "province_name": "北京市"
     },
     {
       "id": "24916",
@@ -43,16 +43,16 @@
       "province_name": "海南省"
     },
     {
-      "id": "24915",
+      "id": "24917",
       "school_id": "2366",
-      "province": "北京市",
+      "province": "国外",
       "rate": "0.55",
       "num": "19",
       "sort": "19",
       "update_id": "1988",
       "update_time": "2025-01-07 09:27:00",
       "year": "2024",
-      "province_name": "北京市"
+      "province_name": "国外"
     },
     {
       "id": "24914",
@@ -79,18 +79,6 @@
       "province_name": "山西省"
     },
     {
-      "id": "24912",
-      "school_id": "2366",
-      "province": "云南省",
-      "rate": "0.78",
-      "num": "27",
-      "sort": "27",
-      "update_id": "1988",
-      "update_time": "2025-01-07 09:27:00",
-      "year": "2024",
-      "province_name": "云南省"
-    },
-    {
       "id": "24911",
       "school_id": "2366",
       "province": "江西省",
@@ -101,6 +89,18 @@
       "update_time": "2025-01-07 09:27:00",
       "year": "2024",
       "province_name": "江西省"
+    },
+    {
+      "id": "24912",
+      "school_id": "2366",
+      "province": "云南省",
+      "rate": "0.78",
+      "num": "27",
+      "sort": "27",
+      "update_id": "1988",
+      "update_time": "2025-01-07 09:27:00",
+      "year": "2024",
+      "province_name": "云南省"
     },
     {
       "id": "24910",

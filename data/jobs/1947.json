@@ -1,9 +1,22 @@
 {
-  "update_time": "2026-09-01 09:15:44",
+  "update_time": "2026-10-01 10:49:40",
   "school_id": "1947",
   "school_name": "武汉船舶职业技术学院",
-  "jobrateyear": "",
-  "jobrate": {},
+  "jobrateyear": "2025",
+  "jobrate": {
+    "job": {
+      "1": "96.27"
+    },
+    "postgraduate": {
+      "1": "0.00"
+    },
+    "abroad": {
+      "1": "0.00"
+    },
+    "content": {
+      "1": "<p>学校毕业生就业工作成效显著，实现了高就业率与高质量就业的有机统一。2025 届毕业生就业核心数据如表2-8 所示。</p><p><img src=\"https://static-data.gaokao.cn//upload/image/202608/core_1786614813_3201_thumb.png\" title=\"core_1786614813_3201_thumb.png\" alt=\"core_1786614813_3201.png\"></p>"
+    }
+  },
   "province": [],
   "attr": {},
   "company": {},

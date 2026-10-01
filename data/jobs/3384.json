@@ -1,9 +1,22 @@
 {
-  "update_time": "2026-09-01 09:26:46",
+  "update_time": "2026-10-01 11:00:44",
   "school_id": "3384",
   "school_name": "湘南幼儿师范高等专科学校",
-  "jobrateyear": "",
-  "jobrate": {},
+  "jobrateyear": "2025",
+  "jobrate": {
+    "job": {
+      "1": "89.95"
+    },
+    "postgraduate": {
+      "1": "6.13"
+    },
+    "abroad": {
+      "1": "0.00"
+    },
+    "content": {
+      "1": "<p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788423099_9767_thumb.png\" title=\"core_1788423099_9767_thumb.png\" alt=\"core_1788423099_9767.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788423109_6027_thumb.png\" title=\"core_1788423109_6027_thumb.png\" alt=\"core_1788423109_6027.png\"></p><p><br></p>"
+    }
+  },
   "province": [],
   "attr": {},
   "company": {},

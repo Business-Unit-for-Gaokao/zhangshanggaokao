@@ -1,20 +1,20 @@
 {
-  "update_time": "2026-09-01 08:59:16",
+  "update_time": "2026-10-01 10:33:22",
   "school_id": "149",
   "school_name": "南京艺术学院",
-  "jobrateyear": "2019",
+  "jobrateyear": "2024",
   "jobrate": {
     "job": {
-      "1": "95.59"
+      "1": "90.39"
     },
     "postgraduate": {
-      "1": "11.81"
+      "1": "23.96"
     },
     "abroad": {
-      "1": "2.65"
+      "1": "0.00"
     },
     "content": {
-      "1": ""
+      "1": "<p><img src=\"https://static-data.gaokao.cn//upload/image/202608/core_1786695986_8399_thumb.png\" title=\"core_1786695986_8399_thumb.png\" alt=\"core_1786695986_8399.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202608/core_1786696001_7408_thumb.png\" title=\"core_1786696001_7408_thumb.png\" alt=\"core_1786696001_7408.png\"></p>"
     }
   },
   "province": [

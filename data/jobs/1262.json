@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-09-01 09:09:43",
+  "update_time": "2026-10-01 10:43:51",
   "school_id": "1262",
   "school_name": "商洛学院",
   "jobrateyear": "2024",
@@ -139,18 +139,6 @@
       "province_name": "辽宁省"
     },
     {
-      "id": "26308",
-      "school_id": "1262",
-      "province": "重庆市",
-      "rate": "0.42",
-      "num": "12",
-      "sort": "12",
-      "update_id": "1211",
-      "update_time": "2025-01-09 17:54:55",
-      "year": "2023",
-      "province_name": "重庆市"
-    },
-    {
       "id": "26315",
       "school_id": "1262",
       "province": "天津市",
@@ -161,6 +149,18 @@
       "update_time": "2025-01-09 17:54:55",
       "year": "2023",
       "province_name": "天津市"
+    },
+    {
+      "id": "26308",
+      "school_id": "1262",
+      "province": "重庆市",
+      "rate": "0.42",
+      "num": "12",
+      "sort": "12",
+      "update_id": "1211",
+      "update_time": "2025-01-09 17:54:55",
+      "year": "2023",
+      "province_name": "重庆市"
     },
     {
       "id": "26297",
@@ -187,18 +187,6 @@
       "province_name": "海南省"
     },
     {
-      "id": "26314",
-      "school_id": "1262",
-      "province": "宁夏回族自治区",
-      "rate": "0.73",
-      "num": "21",
-      "sort": "21",
-      "update_id": "1211",
-      "update_time": "2025-01-09 17:54:55",
-      "year": "2023",
-      "province_name": "宁夏回族自治区"
-    },
-    {
       "id": "26301",
       "school_id": "1262",
       "province": "山西省",
@@ -221,6 +209,18 @@
       "update_time": "2025-01-09 17:54:55",
       "year": "2023",
       "province_name": "福建省"
+    },
+    {
+      "id": "26314",
+      "school_id": "1262",
+      "province": "宁夏回族自治区",
+      "rate": "0.73",
+      "num": "21",
+      "sort": "21",
+      "update_id": "1211",
+      "update_time": "2025-01-09 17:54:55",
+      "year": "2023",
+      "province_name": "宁夏回族自治区"
     },
     {
       "id": "26300",

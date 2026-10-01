@@ -1,9 +1,22 @@
 {
-  "update_time": "2026-09-01 09:21:15",
+  "update_time": "2026-10-01 10:55:02",
   "school_id": "2489",
   "school_name": "新疆科技学院",
-  "jobrateyear": "",
-  "jobrate": {},
+  "jobrateyear": "2024",
+  "jobrate": {
+    "job": {
+      "1": "89.29"
+    },
+    "postgraduate": {
+      "1": "0.00"
+    },
+    "abroad": {
+      "1": "0.00"
+    },
+    "content": {
+      "1": "<p><img src=\"https://static-data.gaokao.cn//upload/image/202606/core_1782023434_1605_thumb.jpg\" xss=removed title=\"core_1782023434_1605_thumb.jpg\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202606/core_1782023434_1438_thumb.jpg\" xss=removed title=\"core_1782023434_1438_thumb.jpg\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202606/core_1782023434_9971_thumb.jpg\" xss=removed title=\"core_1782023434_9971_thumb.jpg\"></p><p><br></p>"
+    }
+  },
   "province": [],
   "attr": {},
   "company": {},

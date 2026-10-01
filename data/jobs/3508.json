@@ -1,20 +1,20 @@
 {
-  "update_time": "2026-09-01 09:27:46",
+  "update_time": "2026-10-01 11:01:47",
   "school_id": "3508",
   "school_name": "青岛航空科技职业学院",
-  "jobrateyear": "2023",
+  "jobrateyear": "2024",
   "jobrate": {
     "job": {
-      "1": "81.23"
+      "1": "93.42"
     },
     "postgraduate": {
-      "1": "4.85"
+      "1": "2.50"
     },
     "abroad": {
-      "1": "0.65"
+      "1": "0.00"
     },
     "content": {
-      "1": ""
+      "1": "<p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788319248_3531_thumb.png\" title=\"core_1788319248_3531_thumb.png\" alt=\"core_1788319248_3531.png\"></p>"
     }
   },
   "province": [

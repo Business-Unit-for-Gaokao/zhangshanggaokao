@@ -1,9 +1,22 @@
 {
-  "update_time": "2026-09-01 09:21:29",
+  "update_time": "2026-10-01 10:55:19",
   "school_id": "2512",
   "school_name": "山东文化产业职业学院",
-  "jobrateyear": "",
-  "jobrate": {},
+  "jobrateyear": "2024",
+  "jobrate": {
+    "job": {
+      "1": "93.96"
+    },
+    "postgraduate": {
+      "1": "5.16"
+    },
+    "abroad": {
+      "1": "0.00"
+    },
+    "content": {
+      "1": "<p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788336420_2139_thumb.png\" title=\"core_1788336420_2139_thumb.png\" alt=\"core_1788336420_2139.png\"></p>"
+    }
+  },
   "province": [],
   "attr": {},
   "company": {},

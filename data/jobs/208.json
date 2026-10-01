@@ -1,20 +1,20 @@
 {
-  "update_time": "2026-09-01 08:59:52",
+  "update_time": "2026-10-01 10:33:59",
   "school_id": "208",
   "school_name": "大连民族大学",
-  "jobrateyear": "2023",
+  "jobrateyear": "2024",
   "jobrate": {
     "job": {
-      "1": "91.24"
+      "1": "84.98"
     },
     "postgraduate": {
-      "1": "18.78"
+      "1": "19.40"
     },
     "abroad": {
-      "1": "2.98"
+      "1": "2.94"
     },
     "content": {
-      "1": ""
+      "1": "<p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788510929_2717_thumb.png\" title=\"core_1788510929_2717_thumb.png\" alt=\"core_1788510929_2717.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788510944_7396_thumb.png\" title=\"core_1788510944_7396_thumb.png\" alt=\"core_1788510944_7396.png\"></p>"
     }
   },
   "province": [
@@ -235,18 +235,6 @@
       "province_name": "湖北省"
     },
     {
-      "id": "16164",
-      "school_id": "208",
-      "province": "江苏省",
-      "rate": "2.50",
-      "num": "74",
-      "sort": "74",
-      "update_id": "2004",
-      "update_time": "2024-06-06 17:48:21",
-      "year": "2023",
-      "province_name": "江苏省"
-    },
-    {
       "id": "16163",
       "school_id": "208",
       "province": "河北省",
@@ -257,6 +245,18 @@
       "update_time": "2024-06-06 17:48:21",
       "year": "2023",
       "province_name": "河北省"
+    },
+    {
+      "id": "16164",
+      "school_id": "208",
+      "province": "江苏省",
+      "rate": "2.50",
+      "num": "74",
+      "sort": "74",
+      "update_id": "2004",
+      "update_time": "2024-06-06 17:48:21",
+      "year": "2023",
+      "province_name": "江苏省"
     },
     {
       "id": "16162",

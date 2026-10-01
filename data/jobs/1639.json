@@ -1,9 +1,22 @@
 {
-  "update_time": "2026-09-01 09:12:35",
+  "update_time": "2026-10-01 10:46:37",
   "school_id": "1639",
   "school_name": "山西省财政税务专科学校",
-  "jobrateyear": "",
-  "jobrate": {},
+  "jobrateyear": "2025",
+  "jobrate": {
+    "job": {
+      "1": "97.77"
+    },
+    "postgraduate": {
+      "1": "0.00"
+    },
+    "abroad": {
+      "1": "0.00"
+    },
+    "content": {
+      "1": "<p><img src=\"https://static-data.gaokao.cn//upload/image/202608/core_1786956681_7908_thumb.png\" title=\"core_1786956681_7908_thumb.png\" alt=\"core_1786956681_7908.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202608/core_1786956692_1611_thumb.png\" title=\"core_1786956692_1611_thumb.png\" alt=\"core_1786956692_1611.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202608/core_1786956703_7993_thumb.png\" title=\"core_1786956703_7993_thumb.png\" alt=\"core_1786956703_7993.png\"></p><p><br></p>"
+    }
+  },
   "province": [],
   "attr": {},
   "company": {},

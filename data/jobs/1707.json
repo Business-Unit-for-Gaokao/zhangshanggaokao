@@ -1,20 +1,20 @@
 {
-  "update_time": "2026-09-01 09:13:13",
+  "update_time": "2026-10-01 10:47:14",
   "school_id": "1707",
   "school_name": "兰州工业学院",
-  "jobrateyear": "2019",
+  "jobrateyear": "2025",
   "jobrate": {
     "job": {
-      "1": "89.20"
+      "1": "85.62"
     },
     "postgraduate": {
-      "1": "7.10"
+      "1": "1.42"
     },
     "abroad": {
-      "1": "0.00"
+      "1": "0.05"
     },
     "content": {
-      "1": ""
+      "1": "<p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788509932_9068_thumb.png\" title=\"core_1788509932_9068_thumb.png\" alt=\"core_1788509932_9068.png\"></p>"
     }
   },
   "province": [

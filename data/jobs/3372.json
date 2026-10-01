@@ -1,9 +1,22 @@
 {
-  "update_time": "2026-09-01 09:26:40",
+  "update_time": "2026-10-01 11:00:38",
   "school_id": "3372",
   "school_name": "河南地矿职业学院",
-  "jobrateyear": "",
-  "jobrate": {},
+  "jobrateyear": "2025",
+  "jobrate": {
+    "job": {
+      "1": "93.16"
+    },
+    "postgraduate": {
+      "1": "12.54"
+    },
+    "abroad": {
+      "1": "0.00"
+    },
+    "content": {
+      "1": "<p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788491966_5179_thumb.png\" title=\"core_1788491966_5179_thumb.png\" alt=\"core_1788491966_5179.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788491978_5022_thumb.png\" title=\"core_1788491978_5022_thumb.png\" alt=\"core_1788491978_5022.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788491990_8751_thumb.png\" title=\"core_1788491990_8751_thumb.png\" alt=\"core_1788491990_8751.png\"></p><p><br></p>"
+    }
+  },
   "province": [],
   "attr": {},
   "company": {},

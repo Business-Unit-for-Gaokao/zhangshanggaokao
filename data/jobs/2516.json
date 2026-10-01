@@ -1,20 +1,20 @@
 {
-  "update_time": "2026-09-01 09:21:31",
+  "update_time": "2026-10-01 10:55:21",
   "school_id": "2516",
   "school_name": "青岛农业大学海都学院",
-  "jobrateyear": "2019",
+  "jobrateyear": "2024",
   "jobrate": {
     "job": {
-      "1": "86.57"
+      "1": "72.28"
     },
     "postgraduate": {
-      "1": "8.25"
+      "1": "11.63"
     },
     "abroad": {
-      "1": "0.56"
+      "1": "1.54"
     },
     "content": {
-      "1": ""
+      "1": "<p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788407549_5711_thumb.png\" title=\"core_1788407549_5711_thumb.png\" alt=\"core_1788407549_5711.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788407571_4360_thumb.png\" title=\"core_1788407571_4360_thumb.png\" alt=\"core_1788407571_4360.png\"></p>"
     }
   },
   "province": [

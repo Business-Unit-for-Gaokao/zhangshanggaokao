@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-09-01 09:03:06",
+  "update_time": "2026-10-01 10:37:15",
   "school_id": "519",
   "school_name": "内蒙古师范大学",
   "jobrateyear": "2025",
@@ -67,18 +67,6 @@
       "province_name": "新疆维吾尔自治区"
     },
     {
-      "id": "22016",
-      "school_id": "519",
-      "province": "青海省",
-      "rate": "0.26",
-      "num": "0",
-      "sort": "26",
-      "update_id": "2094",
-      "update_time": "2024-09-20 11:36:13",
-      "year": "2023",
-      "province_name": "青海省"
-    },
-    {
       "id": "22015",
       "school_id": "519",
       "province": "重庆市",
@@ -89,6 +77,18 @@
       "update_time": "2024-09-20 11:36:13",
       "year": "2023",
       "province_name": "重庆市"
+    },
+    {
+      "id": "22016",
+      "school_id": "519",
+      "province": "青海省",
+      "rate": "0.26",
+      "num": "0",
+      "sort": "26",
+      "update_id": "2094",
+      "update_time": "2024-09-20 11:36:13",
+      "year": "2023",
+      "province_name": "青海省"
     },
     {
       "id": "22014",

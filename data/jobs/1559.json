@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-09-01 09:11:51",
+  "update_time": "2026-10-01 10:45:53",
   "school_id": "1559",
   "school_name": "兰州博文科技学院",
   "jobrateyear": "2024",
@@ -43,40 +43,16 @@
       "province_name": "其他西北地区"
     },
     {
-      "id": "4694",
+      "id": "4698",
       "school_id": "1559",
-      "province": "其他华中地区",
-      "rate": "4.97",
-      "num": "133",
+      "province": "其他东北地区",
+      "rate": "1.35",
+      "num": "36",
       "sort": "0",
       "update_id": "0",
       "update_time": "2018-12-18 15:40:15",
       "year": "2019",
-      "province_name": "其他华中地区"
-    },
-    {
-      "id": "4695",
-      "school_id": "1559",
-      "province": "其他华南地区",
-      "rate": "0.56",
-      "num": "15",
-      "sort": "0",
-      "update_id": "0",
-      "update_time": "2018-12-18 15:40:15",
-      "year": "2019",
-      "province_name": "其他华南地区"
-    },
-    {
-      "id": "4696",
-      "school_id": "1559",
-      "province": "其他华东地区",
-      "rate": "3.51",
-      "num": "74",
-      "sort": "0",
-      "update_id": "0",
-      "update_time": "2018-12-18 15:40:15",
-      "year": "2019",
-      "province_name": "其他华东地区"
+      "province_name": "其他东北地区"
     },
     {
       "id": "4697",
@@ -91,16 +67,40 @@
       "province_name": "其他华北地区"
     },
     {
-      "id": "4698",
+      "id": "4696",
       "school_id": "1559",
-      "province": "其他东北地区",
-      "rate": "1.35",
-      "num": "36",
+      "province": "其他华东地区",
+      "rate": "3.51",
+      "num": "74",
       "sort": "0",
       "update_id": "0",
       "update_time": "2018-12-18 15:40:15",
       "year": "2019",
-      "province_name": "其他东北地区"
+      "province_name": "其他华东地区"
+    },
+    {
+      "id": "4695",
+      "school_id": "1559",
+      "province": "其他华南地区",
+      "rate": "0.56",
+      "num": "15",
+      "sort": "0",
+      "update_id": "0",
+      "update_time": "2018-12-18 15:40:15",
+      "year": "2019",
+      "province_name": "其他华南地区"
+    },
+    {
+      "id": "4694",
+      "school_id": "1559",
+      "province": "其他华中地区",
+      "rate": "4.97",
+      "num": "133",
+      "sort": "0",
+      "update_id": "0",
+      "update_time": "2018-12-18 15:40:15",
+      "year": "2019",
+      "province_name": "其他华中地区"
     },
     {
       "id": "4691",

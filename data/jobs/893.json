@@ -1,9 +1,22 @@
 {
-  "update_time": "2026-09-01 09:06:30",
+  "update_time": "2026-10-01 10:40:43",
   "school_id": "893",
   "school_name": "江西职业技术大学",
-  "jobrateyear": "",
-  "jobrate": {},
+  "jobrateyear": "2024",
+  "jobrate": {
+    "job": {
+      "1": "91.20"
+    },
+    "postgraduate": {
+      "1": "31.27"
+    },
+    "abroad": {
+      "1": "0.02"
+    },
+    "content": {
+      "1": "<p><img src=\"https://static-data.gaokao.cn//upload/image/202608/core_1786699172_8047_thumb.png\" title=\"core_1786699172_8047_thumb.png\" alt=\"core_1786699172_8047.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202608/core_1786699190_6693_thumb.png\" title=\"core_1786699190_6693_thumb.png\" alt=\"core_1786699190_6693.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202608/core_1786699222_9465_thumb.png\" title=\"core_1786699222_9465_thumb.png\" alt=\"core_1786699222_9465.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202608/core_1786699234_6781_thumb.png\" title=\"core_1786699234_6781_thumb.png\" alt=\"core_1786699234_6781.png\"></p>"
+    }
+  },
   "province": [],
   "attr": {},
   "company": {},

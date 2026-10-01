@@ -1,20 +1,20 @@
 {
-  "update_time": "2026-09-01 09:09:53",
+  "update_time": "2026-10-01 10:43:59",
   "school_id": "1277",
   "school_name": "昆明医科大学海源学院",
-  "jobrateyear": "2019",
+  "jobrateyear": "2024",
   "jobrate": {
     "job": {
-      "1": "90.01"
+      "1": "78.20"
     },
     "postgraduate": {
-      "1": "1.51"
+      "1": "3.63"
     },
     "abroad": {
-      "1": "0.07"
+      "1": "0.00"
     },
     "content": {
-      "1": ""
+      "1": "<p><img src=\"https://static-data.gaokao.cn//upload/image/202608/core_1786592469_6754_thumb.png\" title=\"core_1786592469_6754_thumb.png\" alt=\"core_1786592469_6754.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202608/core_1786592486_5154_thumb.png\" title=\"core_1786592486_5154_thumb.png\" alt=\"core_1786592486_5154.png\"><img src=\"https://static-data.gaokao.cn//upload/image/202608/core_1786592481_3358_thumb.png\" title=\"core_1786592481_3358_thumb.png\" alt=\"core_1786592481_3358.png\"></p>"
     }
   },
   "province": [],

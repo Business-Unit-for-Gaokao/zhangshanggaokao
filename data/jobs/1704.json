@@ -1,9 +1,22 @@
 {
-  "update_time": "2026-09-01 09:13:11",
+  "update_time": "2026-10-01 10:47:12",
   "school_id": "1704",
   "school_name": "辽宁广告职业学院",
-  "jobrateyear": "",
-  "jobrate": {},
+  "jobrateyear": "2025",
+  "jobrate": {
+    "job": {
+      "1": "97.85"
+    },
+    "postgraduate": {
+      "1": "9.76"
+    },
+    "abroad": {
+      "1": "0.00"
+    },
+    "content": {
+      "1": "<p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1789094960_8282_thumb.jpg\" xss=removed title=\"core_1789094960_8282_thumb.jpg\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1789094960_8074_thumb.jpg\" xss=removed title=\"core_1789094960_8074_thumb.jpg\"></p><p><br></p>"
+    }
+  },
   "province": [],
   "attr": {},
   "company": {},

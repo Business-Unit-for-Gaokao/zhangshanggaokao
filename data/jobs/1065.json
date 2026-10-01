@@ -1,11 +1,11 @@
 {
-  "update_time": "2026-09-01 09:08:05",
+  "update_time": "2026-10-01 10:42:17",
   "school_id": "1065",
   "school_name": "南京工业职业技术大学",
-  "jobrateyear": "2023",
+  "jobrateyear": "2025",
   "jobrate": {
     "job": {
-      "1": "96.57"
+      "1": "97.08"
     },
     "postgraduate": {
       "1": "0.00"
@@ -14,7 +14,7 @@
       "1": "0.00"
     },
     "content": {
-      "1": ""
+      "1": "<p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788343325_4656_thumb.png\" title=\"core_1788343325_4656_thumb.png\" alt=\"core_1788343325_4656.png\"></p>"
     }
   },
   "province": [

@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-09-01 09:02:23",
+  "update_time": "2026-10-01 10:36:33",
   "school_id": "448",
   "school_name": "武汉体育学院",
   "jobrateyear": "2024",
@@ -235,18 +235,6 @@
       "province_name": "贵州省"
     },
     {
-      "id": "16989",
-      "school_id": "448",
-      "province": "福建省",
-      "rate": "2.21",
-      "num": "41",
-      "sort": "41",
-      "update_id": "2004",
-      "update_time": "2024-06-09 17:31:40",
-      "year": "2022",
-      "province_name": "福建省"
-    },
-    {
       "id": "16987",
       "school_id": "448",
       "province": "山西省",
@@ -257,6 +245,18 @@
       "update_time": "2024-06-09 17:31:40",
       "year": "2022",
       "province_name": "山西省"
+    },
+    {
+      "id": "16989",
+      "school_id": "448",
+      "province": "福建省",
+      "rate": "2.21",
+      "num": "41",
+      "sort": "41",
+      "update_id": "2004",
+      "update_time": "2024-06-09 17:31:40",
+      "year": "2022",
+      "province_name": "福建省"
     },
     {
       "id": "16985",

@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-09-01 09:16:44",
+  "update_time": "2026-10-01 10:50:39",
   "school_id": "2041",
   "school_name": "湖南九嶷职业技术学院",
   "jobrateyear": "2024",
@@ -19,16 +19,16 @@
   },
   "province": [
     {
-      "id": "29970",
+      "id": "29972",
       "school_id": "2041",
-      "province": "河南省",
+      "province": "贵州省",
       "rate": "0.73",
       "num": "6",
       "sort": "6",
       "update_id": "1988",
       "update_time": "2025-11-14 18:20:07",
       "year": "2024",
-      "province_name": "河南省"
+      "province_name": "贵州省"
     },
     {
       "id": "29971",
@@ -43,28 +43,16 @@
       "province_name": "湖北省"
     },
     {
-      "id": "29972",
+      "id": "29970",
       "school_id": "2041",
-      "province": "贵州省",
+      "province": "河南省",
       "rate": "0.73",
       "num": "6",
       "sort": "6",
       "update_id": "1988",
       "update_time": "2025-11-14 18:20:07",
       "year": "2024",
-      "province_name": "贵州省"
-    },
-    {
-      "id": "29968",
-      "school_id": "2041",
-      "province": "安徽省",
-      "rate": "0.98",
-      "num": "8",
-      "sort": "8",
-      "update_id": "1988",
-      "update_time": "2025-11-14 18:20:07",
-      "year": "2024",
-      "province_name": "安徽省"
+      "province_name": "河南省"
     },
     {
       "id": "29969",
@@ -77,6 +65,18 @@
       "update_time": "2025-11-14 18:20:07",
       "year": "2024",
       "province_name": "四川省"
+    },
+    {
+      "id": "29968",
+      "school_id": "2041",
+      "province": "安徽省",
+      "rate": "0.98",
+      "num": "8",
+      "sort": "8",
+      "update_id": "1988",
+      "update_time": "2025-11-14 18:20:07",
+      "year": "2024",
+      "province_name": "安徽省"
     },
     {
       "id": "29967",
@@ -169,8 +169,8 @@
     "国有企业": "0.37",
     "其他事业单位": "0.24",
     "外商投资企业": "0.24",
-    "医疗卫生单位": "0.12",
-    "机关": "0.12"
+    "机关": "0.12",
+    "医疗卫生单位": "0.12"
   },
   "company": {},
   "gradute": [

@@ -1,20 +1,20 @@
 {
-  "update_time": "2026-09-01 09:22:04",
+  "update_time": "2026-10-01 10:55:55",
   "school_id": "2569",
   "school_name": "贵州职业技术学院",
-  "jobrateyear": "2019",
+  "jobrateyear": "2025",
   "jobrate": {
     "job": {
-      "1": "97.79"
+      "1": "88.78"
     },
     "postgraduate": {
-      "1": "8.28"
+      "1": "0.00"
     },
     "abroad": {
       "1": "0.00"
     },
     "content": {
-      "1": ""
+      "1": "<p><img src=\"https://static-data.gaokao.cn//upload/image/202608/core_1787024936_9058_thumb.png\" title=\"core_1787024936_9058_thumb.png\" alt=\"core_1787024936_9058.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202608/core_1787024952_7688_thumb.png\" title=\"core_1787024952_7688_thumb.png\" alt=\"core_1787024952_7688.png\"></p><p><br></p>"
     }
   },
   "province": [

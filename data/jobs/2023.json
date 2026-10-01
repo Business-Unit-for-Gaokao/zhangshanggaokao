@@ -1,9 +1,22 @@
 {
-  "update_time": "2026-09-01 09:16:33",
+  "update_time": "2026-10-01 10:50:27",
   "school_id": "2023",
   "school_name": "湖南石油化工职业技术学院",
-  "jobrateyear": "",
-  "jobrate": {},
+  "jobrateyear": "2025",
+  "jobrate": {
+    "job": {
+      "1": "91.56"
+    },
+    "postgraduate": {
+      "1": "0.00"
+    },
+    "abroad": {
+      "1": "0.00"
+    },
+    "content": {
+      "1": "<p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788863022_1657_thumb.png\" title=\"core_1788863022_1657_thumb.png\" alt=\"core_1788863022_1657.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788863037_9149_thumb.png\" title=\"core_1788863037_9149_thumb.png\" alt=\"core_1788863037_9149.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788863048_8339_thumb.png\" title=\"core_1788863048_8339_thumb.png\" alt=\"core_1788863048_8339.png\"><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788863056_1194_thumb.png\" title=\"core_1788863056_1194_thumb.png\" alt=\"core_1788863056_1194.png\"><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788863069_9705_thumb.png\" title=\"core_1788863069_9705_thumb.png\" alt=\"core_1788863069_9705.png\"></p>"
+    }
+  },
   "province": [],
   "attr": {},
   "company": {},

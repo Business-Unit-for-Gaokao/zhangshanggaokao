@@ -1,9 +1,22 @@
 {
-  "update_time": "2026-09-01 09:25:36",
+  "update_time": "2026-10-01 10:59:31",
   "school_id": "3257",
   "school_name": "庆阳职业技术学院",
-  "jobrateyear": "",
-  "jobrate": {},
+  "jobrateyear": "2025",
+  "jobrate": {
+    "job": {
+      "1": "90.88"
+    },
+    "postgraduate": {
+      "1": "0.00"
+    },
+    "abroad": {
+      "1": "0.00"
+    },
+    "content": {
+      "1": "<p><img src=\"https://static-data.gaokao.cn//upload/image/202608/core_1787033298_3253_thumb.png\" title=\"core_1787033298_3253_thumb.png\" alt=\"core_1787033298_3253.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202608/core_1787033308_5410_thumb.png\" title=\"core_1787033308_5410_thumb.png\" alt=\"core_1787033308_5410.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202608/core_1787033320_4454_thumb.png\" title=\"core_1787033320_4454_thumb.png\" alt=\"core_1787033320_4454.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202608/core_1787033326_1531_thumb.png\" title=\"core_1787033326_1531_thumb.png\" alt=\"core_1787033326_1531.png\"></p>"
+    }
+  },
   "province": [],
   "attr": {},
   "company": {},

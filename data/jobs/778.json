@@ -1,20 +1,20 @@
 {
-  "update_time": "2026-09-01 09:05:30",
+  "update_time": "2026-10-01 10:39:39",
   "school_id": "778",
   "school_name": "绵阳职业技术学院",
-  "jobrateyear": "2019",
+  "jobrateyear": "2025",
   "jobrate": {
     "job": {
-      "1": "90.60"
+      "1": "93.99"
     },
     "postgraduate": {
-      "1": "10.00"
+      "1": "0.00"
     },
     "abroad": {
       "1": "0.00"
     },
     "content": {
-      "1": ""
+      "1": "<p><img src=\"https://static-data.gaokao.cn//upload/image/202608/core_1787024031_3771_thumb.png\" title=\"core_1787024031_3771_thumb.png\" alt=\"core_1787024031_3771.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202608/core_1787024043_4264_thumb.png\" title=\"core_1787024043_4264_thumb.png\" alt=\"core_1787024043_4264.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202608/core_1787024051_7287_thumb.png\" title=\"core_1787024051_7287_thumb.png\" alt=\"core_1787024051_7287.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202608/core_1787024065_6003_thumb.png\" title=\"core_1787024065_6003_thumb.png\" alt=\"core_1787024065_6003.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202608/core_1787024073_5027_thumb.png\" title=\"core_1787024073_5027_thumb.png\" alt=\"core_1787024073_5027.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202608/core_1787024092_9739_thumb.png\" title=\"core_1787024092_9739_thumb.png\" alt=\"core_1787024092_9739.png\"></p>"
     }
   },
   "province": [

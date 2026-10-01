@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-09-01 08:59:04",
+  "update_time": "2026-10-01 10:33:11",
   "school_id": "129",
   "school_name": "延边大学",
   "jobrateyear": "2024",
@@ -223,18 +223,6 @@
       "province_name": "天津市"
     },
     {
-      "id": "24372",
-      "school_id": "129",
-      "province": "河南省",
-      "rate": "1.17",
-      "num": "59",
-      "sort": "59",
-      "update_id": "2094",
-      "update_time": "2025-01-06 10:10:08",
-      "year": "2023",
-      "province_name": "河南省"
-    },
-    {
       "id": "24371",
       "school_id": "129",
       "province": "四川省",
@@ -245,6 +233,18 @@
       "update_time": "2025-01-06 10:10:08",
       "year": "2023",
       "province_name": "四川省"
+    },
+    {
+      "id": "24372",
+      "school_id": "129",
+      "province": "河南省",
+      "rate": "1.17",
+      "num": "59",
+      "sort": "59",
+      "update_id": "2094",
+      "update_time": "2025-01-06 10:10:08",
+      "year": "2023",
+      "province_name": "河南省"
     },
     {
       "id": "24370",

@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-09-01 09:21:17",
+  "update_time": "2026-10-01 10:55:05",
   "school_id": "2493",
   "school_name": "成都理工大学工程技术学院",
   "jobrateyear": "2024",
@@ -91,16 +91,16 @@
       "province_name": "江西"
     },
     {
-      "id": "19969",
+      "id": "19970",
       "school_id": "2493",
-      "province": "宁夏",
+      "province": "西藏",
       "rate": "0.41",
       "num": "18",
       "sort": "18",
       "update_id": "1639",
       "update_time": "2024-06-18 17:22:45",
       "year": "2023",
-      "province_name": "宁夏"
+      "province_name": "西藏"
     },
     {
       "id": "19968",
@@ -115,16 +115,16 @@
       "province_name": "河南"
     },
     {
-      "id": "19970",
+      "id": "19969",
       "school_id": "2493",
-      "province": "西藏",
+      "province": "宁夏",
       "rate": "0.41",
       "num": "18",
       "sort": "18",
       "update_id": "1639",
       "update_time": "2024-06-18 17:22:45",
       "year": "2023",
-      "province_name": "西藏"
+      "province_name": "宁夏"
     },
     {
       "id": "19967",

@@ -1,9 +1,22 @@
 {
-  "update_time": "2026-09-01 09:16:31",
+  "update_time": "2026-10-01 10:50:24",
   "school_id": "2020",
   "school_name": "常德职业技术学院",
-  "jobrateyear": "",
-  "jobrate": {},
+  "jobrateyear": "2025",
+  "jobrate": {
+    "job": {
+      "1": "91.08"
+    },
+    "postgraduate": {
+      "1": "0.00"
+    },
+    "abroad": {
+      "1": "0.00"
+    },
+    "content": {
+      "1": "<p><img src=\"https://static-data.gaokao.cn//upload/image/202608/core_1786953986_3625_thumb.png\" title=\"core_1786953986_3625_thumb.png\" alt=\"core_1786953986_3625.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202608/core_1786953999_7473_thumb.png\" title=\"core_1786953999_7473_thumb.png\" alt=\"core_1786953999_7473.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202608/core_1786954008_2109_thumb.png\" title=\"core_1786954008_2109_thumb.png\" alt=\"core_1786954008_2109.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202608/core_1786954048_8810_thumb.png\" title=\"core_1786954048_8810_thumb.png\" alt=\"core_1786954048_8810.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202608/core_1786954057_8822_thumb.png\" title=\"core_1786954057_8822_thumb.png\" alt=\"core_1786954057_8822.png\"></p>"
+    }
+  },
   "province": [],
   "attr": {},
   "company": {},

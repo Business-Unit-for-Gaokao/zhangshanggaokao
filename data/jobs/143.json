@@ -1,20 +1,20 @@
 {
-  "update_time": "2026-09-01 08:59:13",
+  "update_time": "2026-10-01 10:33:19",
   "school_id": "143",
   "school_name": "北京理工大学",
-  "jobrateyear": "2022",
+  "jobrateyear": "2024",
   "jobrate": {
     "job": {
-      "1": "95.02"
+      "1": "0.00"
     },
     "postgraduate": {
-      "1": "55.85"
+      "1": "62.93"
     },
     "abroad": {
-      "1": "10.28"
+      "1": "8.97"
     },
     "content": {
-      "1": ""
+      "1": "<p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788403518_8131_thumb.png\" title=\"core_1788403518_8131_thumb.png\" alt=\"core_1788403518_8131.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788403536_4476_thumb.png\" title=\"core_1788403536_4476_thumb.png\" alt=\"core_1788403536_4476.png\"></p>"
     }
   },
   "province": [

@@ -1,9 +1,22 @@
 {
-  "update_time": "2026-09-01 09:04:13",
+  "update_time": "2026-10-01 10:38:22",
   "school_id": "636",
   "school_name": "广州南洋理工职业学院",
-  "jobrateyear": "",
-  "jobrate": {},
+  "jobrateyear": "2024",
+  "jobrate": {
+    "job": {
+      "1": "95.40"
+    },
+    "postgraduate": {
+      "1": "4.38"
+    },
+    "abroad": {
+      "1": "0.10"
+    },
+    "content": {
+      "1": "<p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788861425_5585_thumb.png\" title=\"core_1788861425_5585_thumb.png\" alt=\"core_1788861425_5585.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788861437_7287_thumb.png\" title=\"core_1788861437_7287_thumb.png\" alt=\"core_1788861437_7287.png\"></p>"
+    }
+  },
   "province": [],
   "attr": {},
   "company": {},

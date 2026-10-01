@@ -1,20 +1,20 @@
 {
-  "update_time": "2026-09-01 09:12:01",
+  "update_time": "2026-10-01 10:46:03",
   "school_id": "1581",
   "school_name": "河北农业大学现代科技学院",
-  "jobrateyear": "2022",
+  "jobrateyear": "2024",
   "jobrate": {
     "job": {
-      "1": "81.85"
+      "1": "81.38"
     },
     "postgraduate": {
-      "1": "12.05"
+      "1": "14.49"
     },
     "abroad": {
-      "1": "0.05"
+      "1": "0.19"
     },
     "content": {
-      "1": ""
+      "1": "<p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788418975_5097_thumb.png\" title=\"core_1788418975_5097_thumb.png\" alt=\"core_1788418975_5097.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788419025_8107_thumb.png\" title=\"core_1788419025_8107_thumb.png\" alt=\"core_1788419025_8107.png\"></p>"
     }
   },
   "province": [],

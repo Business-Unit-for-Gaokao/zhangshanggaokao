@@ -1,20 +1,20 @@
 {
-  "update_time": "2026-09-01 09:16:54",
+  "update_time": "2026-10-01 10:50:49",
   "school_id": "2058",
   "school_name": "广州理工学院",
-  "jobrateyear": "2023",
+  "jobrateyear": "2024",
   "jobrate": {
     "job": {
-      "1": "91.20"
+      "1": "87.25"
     },
     "postgraduate": {
       "1": "0.00"
     },
     "abroad": {
-      "1": "0.64"
+      "1": "0.00"
     },
     "content": {
-      "1": ""
+      "1": "<p><img src=\"https://static-data.gaokao.cn//upload/image/202607/core_1785203304_6619_thumb.png\" title=\"core_1785203304_6619_thumb.png\" alt=\"core_1785203304_6619.png\"></p>"
     }
   },
   "province": [

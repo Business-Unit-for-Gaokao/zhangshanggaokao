@@ -1,9 +1,22 @@
 {
-  "update_time": "2026-09-01 09:14:20",
+  "update_time": "2026-10-01 10:48:17",
   "school_id": "1812",
   "school_name": "铜陵职业技术学院",
-  "jobrateyear": "",
-  "jobrate": {},
+  "jobrateyear": "2025",
+  "jobrate": {
+    "job": {
+      "1": "94.91"
+    },
+    "postgraduate": {
+      "1": "8.00"
+    },
+    "abroad": {
+      "1": "0.00"
+    },
+    "content": {
+      "1": "<p><img src=\"https://static-data.gaokao.cn//upload/image/202608/core_1786950645_6328_thumb.png\" title=\"core_1786950645_6328_thumb.png\" alt=\"core_1786950645_6328.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202608/core_1786950663_4413_thumb.png\" title=\"core_1786950663_4413_thumb.png\" alt=\"core_1786950663_4413.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202608/core_1786950677_1082_thumb.png\" title=\"core_1786950677_1082_thumb.png\" alt=\"core_1786950677_1082.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202608/core_1786950690_2678_thumb.png\" title=\"core_1786950690_2678_thumb.png\" alt=\"core_1786950690_2678.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202608/core_1786950720_9522_thumb.png\" title=\"core_1786950720_9522_thumb.png\" alt=\"core_1786950720_9522.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202608/core_1786950727_9743_thumb.png\" title=\"core_1786950727_9743_thumb.png\" alt=\"core_1786950727_9743.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202608/core_1786950738_3610_thumb.png\" title=\"core_1786950738_3610_thumb.png\" alt=\"core_1786950738_3610.png\"></p>"
+    }
+  },
   "province": [],
   "attr": {},
   "company": {},

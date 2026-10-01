@@ -1,20 +1,20 @@
 {
-  "update_time": "2026-09-01 09:21:14",
+  "update_time": "2026-10-01 10:55:01",
   "school_id": "2487",
   "school_name": "新疆理工学院",
-  "jobrateyear": "2023",
+  "jobrateyear": "2024",
   "jobrate": {
     "job": {
-      "1": "96.30"
+      "1": "88.01"
     },
     "postgraduate": {
-      "1": "1.40"
+      "1": "2.69"
     },
     "abroad": {
-      "1": "0.10"
+      "1": "0.00"
     },
     "content": {
-      "1": ""
+      "1": "<p><img src=\"https://static-data.gaokao.cn//upload/image/202608/core_1785811370_8392_thumb.png\" title=\"core_1785811370_8392_thumb.png\" alt=\"core_1785811370_8392.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202608/core_1785811381_7778_thumb.png\" title=\"core_1785811381_7778_thumb.png\" alt=\"core_1785811381_7778.png\"></p>"
     }
   },
   "province": [

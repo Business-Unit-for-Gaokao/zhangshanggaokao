@@ -1,9 +1,22 @@
 {
-  "update_time": "2026-09-01 09:30:31",
+  "update_time": "2026-10-01 11:04:30",
   "school_id": "3802",
   "school_name": "平顶山科技职业学院",
-  "jobrateyear": "",
-  "jobrate": {},
+  "jobrateyear": "2025",
+  "jobrate": {
+    "job": {
+      "1": "92.24"
+    },
+    "postgraduate": {
+      "1": "0.00"
+    },
+    "abroad": {
+      "1": "0.00"
+    },
+    "content": {
+      "1": "<p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1789116852_5839_thumb.jpg\" xss=removed title=\"core_1789116852_5839_thumb.jpg\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1789116852_2156_thumb.jpg\" xss=removed title=\"core_1789116852_2156_thumb.jpg\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1789116852_3604_thumb.jpg\" xss=removed title=\"core_1789116852_3604_thumb.jpg\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1789116852_1109_thumb.jpg\" xss=removed title=\"core_1789116852_1109_thumb.jpg\"></p><p><br></p>"
+    }
+  },
   "province": [],
   "attr": {},
   "company": {},

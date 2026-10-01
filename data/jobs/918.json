@@ -1,9 +1,22 @@
 {
-  "update_time": "2026-09-01 09:06:43",
+  "update_time": "2026-10-01 10:40:55",
   "school_id": "918",
   "school_name": "北京农业职业学院",
-  "jobrateyear": "",
-  "jobrate": {},
+  "jobrateyear": "2025",
+  "jobrate": {
+    "job": {
+      "1": "96.55"
+    },
+    "postgraduate": {
+      "1": "20.99"
+    },
+    "abroad": {
+      "1": "0.12"
+    },
+    "content": {
+      "1": "<p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788344660_7381_thumb.png\" title=\"core_1788344660_7381_thumb.png\" alt=\"core_1788344660_7381.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788344692_4501_thumb.png\" title=\"core_1788344692_4501_thumb.png\" alt=\"core_1788344692_4501.png\"></p><p><br></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788344748_6837_thumb.png\" title=\"core_1788344748_6837_thumb.png\" alt=\"core_1788344748_6837.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788344770_1084_thumb.png\" title=\"core_1788344770_1084_thumb.png\" alt=\"core_1788344770_1084.png\"></p><p><br></p>"
+    }
+  },
   "province": [],
   "attr": {},
   "company": {},

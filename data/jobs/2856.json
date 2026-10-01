@@ -1,9 +1,22 @@
 {
-  "update_time": "2026-09-01 09:23:16",
+  "update_time": "2026-10-01 10:57:08",
   "school_id": "2856",
   "school_name": "河北青年管理干部学院",
-  "jobrateyear": "",
-  "jobrate": {},
+  "jobrateyear": "2025",
+  "jobrate": {
+    "job": {
+      "1": "98.17"
+    },
+    "postgraduate": {
+      "1": "0.00"
+    },
+    "abroad": {
+      "1": "0.00"
+    },
+    "content": {
+      "1": "<p><img src=\"https://static-data.gaokao.cn//upload/image/202608/core_1786951927_3045_thumb.png\" title=\"core_1786951927_3045_thumb.png\" alt=\"core_1786951927_3045.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202608/core_1786951941_4210_thumb.png\" title=\"core_1786951941_4210_thumb.png\" alt=\"core_1786951941_4210.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202608/core_1786951951_5023_thumb.png\" title=\"core_1786951951_5023_thumb.png\" alt=\"core_1786951951_5023.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202608/core_1786951964_5713_thumb.png\" title=\"core_1786951964_5713_thumb.png\" alt=\"core_1786951964_5713.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202608/core_1786951971_4147_thumb.png\" title=\"core_1786951971_4147_thumb.png\" alt=\"core_1786951971_4147.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202608/core_1786951981_6684_thumb.png\" title=\"core_1786951981_6684_thumb.png\" alt=\"core_1786951981_6684.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202608/core_1786951991_5377_thumb.png\" title=\"core_1786951991_5377_thumb.png\" alt=\"core_1786951991_5377.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202608/core_1786952000_3193_thumb.png\" title=\"core_1786952000_3193_thumb.png\" alt=\"core_1786952000_3193.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202608/core_1786952017_2576_thumb.png\" title=\"core_1786952017_2576_thumb.png\" alt=\"core_1786952017_2576.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202608/core_1786952034_1175_thumb.png\" title=\"core_1786952034_1175_thumb.png\" alt=\"core_1786952034_1175.png\"></p>"
+    }
+  },
   "province": [],
   "attr": {},
   "company": {},

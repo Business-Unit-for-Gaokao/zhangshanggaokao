@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-09-01 08:58:53",
+  "update_time": "2026-10-01 10:33:00",
   "school_id": "111",
   "school_name": "南京大学",
   "jobrateyear": "2024",
@@ -18,6 +18,42 @@
     }
   },
   "province": [
+    {
+      "id": "14939",
+      "school_id": "111",
+      "province": "东北地区",
+      "rate": "0.77",
+      "num": "0",
+      "sort": "1",
+      "update_id": "1721",
+      "update_time": "2024-05-29 10:47:49",
+      "year": "2022",
+      "province_name": "东北地区"
+    },
+    {
+      "id": "14938",
+      "school_id": "111",
+      "province": "西北地区",
+      "rate": "3.64",
+      "num": "0",
+      "sort": "1",
+      "update_id": "1721",
+      "update_time": "2024-05-29 10:47:49",
+      "year": "2022",
+      "province_name": "西北地区"
+    },
+    {
+      "id": "14937",
+      "school_id": "111",
+      "province": "华中地区",
+      "rate": "3.09",
+      "num": "0",
+      "sort": "1",
+      "update_id": "1721",
+      "update_time": "2024-05-29 10:47:49",
+      "year": "2022",
+      "province_name": "华中地区"
+    },
     {
       "id": "14933",
       "school_id": "111",
@@ -65,42 +101,6 @@
       "update_time": "2024-05-29 10:47:49",
       "year": "2022",
       "province_name": "西南地区"
-    },
-    {
-      "id": "14937",
-      "school_id": "111",
-      "province": "华中地区",
-      "rate": "3.09",
-      "num": "0",
-      "sort": "1",
-      "update_id": "1721",
-      "update_time": "2024-05-29 10:47:49",
-      "year": "2022",
-      "province_name": "华中地区"
-    },
-    {
-      "id": "14938",
-      "school_id": "111",
-      "province": "西北地区",
-      "rate": "3.64",
-      "num": "0",
-      "sort": "1",
-      "update_id": "1721",
-      "update_time": "2024-05-29 10:47:49",
-      "year": "2022",
-      "province_name": "西北地区"
-    },
-    {
-      "id": "14939",
-      "school_id": "111",
-      "province": "东北地区",
-      "rate": "0.77",
-      "num": "0",
-      "sort": "1",
-      "update_id": "1721",
-      "update_time": "2024-05-29 10:47:49",
-      "year": "2022",
-      "province_name": "东北地区"
     }
   ],
   "attr": {

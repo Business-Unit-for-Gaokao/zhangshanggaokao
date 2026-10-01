@@ -1,20 +1,20 @@
 {
-  "update_time": "2026-09-01 09:15:10",
+  "update_time": "2026-10-01 10:49:04",
   "school_id": "1892",
   "school_name": "闽南科技学院",
-  "jobrateyear": "2019",
+  "jobrateyear": "2024",
   "jobrate": {
     "job": {
-      "1": "98.91"
+      "1": "90.93"
     },
     "postgraduate": {
       "1": "0.00"
     },
     "abroad": {
-      "1": "0.00"
+      "1": "0.08"
     },
     "content": {
-      "1": ""
+      "1": "<p><img src=\"https://static-data.gaokao.cn//upload/image/202606/core_1781924624_4664_thumb.png\" title=\"core_1781924624_4664_thumb.png\" alt=\"core_1781924624_4664.png\"></p>"
     }
   },
   "province": [
@@ -43,18 +43,6 @@
       "province_name": "龙岩市"
     },
     {
-      "id": "1488",
-      "school_id": "1892",
-      "province": "三明市",
-      "rate": "3.00",
-      "num": "69",
-      "sort": "69",
-      "update_id": "0",
-      "update_time": "2018-12-18 15:40:13",
-      "year": "2019",
-      "province_name": "三明市"
-    },
-    {
       "id": "1491",
       "school_id": "1892",
       "province": "宁德市",
@@ -65,6 +53,18 @@
       "update_time": "2018-12-18 15:40:13",
       "year": "2019",
       "province_name": "宁德市"
+    },
+    {
+      "id": "1488",
+      "school_id": "1892",
+      "province": "三明市",
+      "rate": "3.00",
+      "num": "69",
+      "sort": "69",
+      "update_id": "0",
+      "update_time": "2018-12-18 15:40:13",
+      "year": "2019",
+      "province_name": "三明市"
     },
     {
       "id": "1490",

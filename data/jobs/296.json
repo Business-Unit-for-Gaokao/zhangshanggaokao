@@ -1,9 +1,22 @@
 {
-  "update_time": "2026-09-01 09:00:47",
+  "update_time": "2026-10-01 10:34:54",
   "school_id": "296",
   "school_name": "广东药科大学",
-  "jobrateyear": "",
-  "jobrate": {},
+  "jobrateyear": "2024",
+  "jobrate": {
+    "job": {
+      "1": "83.43"
+    },
+    "postgraduate": {
+      "1": "19.35"
+    },
+    "abroad": {
+      "1": "2.58"
+    },
+    "content": {
+      "1": "<p><img src=\"https://static-data.gaokao.cn//upload/image/202608/core_1786589837_2323_thumb.png\" title=\"core_1786589837_2323_thumb.png\" alt=\"core_1786589837_2323.png\"></p>"
+    }
+  },
   "province": [],
   "attr": {},
   "company": {},

@@ -1,9 +1,22 @@
 {
-  "update_time": "2026-09-01 09:17:08",
+  "update_time": "2026-10-01 10:51:04",
   "school_id": "2084",
   "school_name": "宜宾职业技术学院",
-  "jobrateyear": "",
-  "jobrate": {},
+  "jobrateyear": "2024",
+  "jobrate": {
+    "job": {
+      "1": "95.30"
+    },
+    "postgraduate": {
+      "1": "17.38"
+    },
+    "abroad": {
+      "1": "0.00"
+    },
+    "content": {
+      "1": "<p>宜宾职业技术学院 2024 届毕业生总人数为 4529 人。四川省是学院的主要生\r\n源地，省内生源共 4427 人，占比为 97.75%。省内主要生源地是宜宾市，占比为\r\n35.35%。2024 届毕业生的总体毕业去向落实率为 95.30%，落实毕业去向 4316\r\n人。</p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788316202_7925_thumb.png\" title=\"core_1788316202_7925_thumb.png\" alt=\"core_1788316202_7925.png\"></p><p><br></p>"
+    }
+  },
   "province": [],
   "attr": {},
   "company": {},

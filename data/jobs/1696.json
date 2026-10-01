@@ -1,9 +1,22 @@
 {
-  "update_time": "2026-09-01 09:13:07",
+  "update_time": "2026-10-01 10:47:09",
   "school_id": "1696",
   "school_name": "辽宁地质工程职业学院",
-  "jobrateyear": "",
-  "jobrate": {},
+  "jobrateyear": "2025",
+  "jobrate": {
+    "job": {
+      "1": "93.03"
+    },
+    "postgraduate": {
+      "1": "6.63"
+    },
+    "abroad": {
+      "1": "0.15"
+    },
+    "content": {
+      "1": "<p></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788419654_8631_thumb.png\" title=\"core_1788419654_8631_thumb.png\" alt=\"core_1788419654_8631.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788419664_9679_thumb.png\" title=\"core_1788419664_9679_thumb.png\" alt=\"core_1788419664_9679.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788419674_5654_thumb.png\" title=\"core_1788419674_5654_thumb.png\" alt=\"core_1788419674_5654.png\"><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788419683_7537_thumb.png\" title=\"core_1788419683_7537_thumb.png\" alt=\"core_1788419683_7537.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788419711_8646_thumb.png\" title=\"core_1788419711_8646_thumb.png\" alt=\"core_1788419711_8646.png\"></p>"
+    }
+  },
   "province": [],
   "attr": {},
   "company": {},

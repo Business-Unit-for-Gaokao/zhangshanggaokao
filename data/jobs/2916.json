@@ -1,9 +1,22 @@
 {
-  "update_time": "2026-09-01 09:23:38",
+  "update_time": "2026-10-01 10:57:28",
   "school_id": "2916",
   "school_name": "重庆轻工职业学院",
-  "jobrateyear": "",
-  "jobrate": {},
+  "jobrateyear": "2024",
+  "jobrate": {
+    "job": {
+      "1": "0.00"
+    },
+    "postgraduate": {
+      "1": "0.00"
+    },
+    "abroad": {
+      "1": "0.00"
+    },
+    "content": {
+      "1": "<p><img src=\"https://static-data.gaokao.cn//upload/image/202608/core_1786695977_7675_thumb.png\" title=\"core_1786695977_7675_thumb.png\" alt=\"core_1786695977_7675.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202608/core_1786695999_4527_thumb.png\" title=\"core_1786695999_4527_thumb.png\" alt=\"core_1786695999_4527.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202608/core_1786696022_4674_thumb.png\" title=\"core_1786696022_4674_thumb.png\" alt=\"core_1786696022_4674.png\"></p><p><br></p>"
+    }
+  },
   "province": [],
   "attr": {},
   "company": {},

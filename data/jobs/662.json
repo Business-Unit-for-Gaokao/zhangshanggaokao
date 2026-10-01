@@ -1,20 +1,20 @@
 {
-  "update_time": "2026-09-01 09:04:26",
+  "update_time": "2026-10-01 10:38:36",
   "school_id": "662",
   "school_name": "上海邦德职业技术学院",
-  "jobrateyear": "2019",
+  "jobrateyear": "2025",
   "jobrate": {
     "job": {
-      "1": "100.00"
+      "1": "0.00"
     },
     "postgraduate": {
-      "1": "1.46"
+      "1": "0.00"
     },
     "abroad": {
-      "1": "1.23"
+      "1": "0.00"
     },
     "content": {
-      "1": ""
+      "1": "<p>2025年，学校毕业生始终深受用人单位满意，用人单位满意度达到95%以上。</p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788488541_6207_thumb.png\" title=\"core_1788488541_6207_thumb.png\" alt=\"core_1788488541_6207.png\"></p>"
     }
   },
   "province": [

@@ -1,20 +1,20 @@
 {
-  "update_time": "2026-09-01 09:04:38",
+  "update_time": "2026-10-01 10:38:47",
   "school_id": "684",
   "school_name": "上海兴伟学院",
-  "jobrateyear": "2023",
+  "jobrateyear": "2024",
   "jobrate": {
     "job": {
-      "1": "97.00"
+      "1": "83.78"
     },
     "postgraduate": {
-      "1": "0.00"
+      "1": "18.92"
     },
     "abroad": {
-      "1": "13.00"
+      "1": "0.00"
     },
     "content": {
-      "1": ""
+      "1": "<p><img src=\"https://static-data.gaokao.cn//upload/image/202608/core_1787551365_1676_thumb.png\" title=\"core_1787551365_1676_thumb.png\" alt=\"core_1787551365_1676.png\"></p>"
     }
   },
   "province": [],

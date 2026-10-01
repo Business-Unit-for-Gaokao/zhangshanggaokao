@@ -1,20 +1,20 @@
 {
-  "update_time": "2026-09-01 09:19:56",
+  "update_time": "2026-10-01 10:53:44",
   "school_id": "2364",
   "school_name": "广西民族师范学院",
-  "jobrateyear": "2023",
+  "jobrateyear": "2024",
   "jobrate": {
     "job": {
-      "1": "81.32"
+      "1": "84.16"
     },
     "postgraduate": {
-      "1": "4.52"
+      "1": "4.41"
     },
     "abroad": {
-      "1": "0.22"
+      "1": "0.26"
     },
     "content": {
-      "1": ""
+      "1": "<p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788342716_6595_thumb.png\" title=\"core_1788342716_6595_thumb.png\" alt=\"core_1788342716_6595.png\"></p>"
     }
   },
   "province": [

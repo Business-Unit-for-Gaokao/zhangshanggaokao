@@ -1,9 +1,22 @@
 {
-  "update_time": "2026-09-01 09:24:02",
+  "update_time": "2026-10-01 10:57:53",
   "school_id": "2970",
   "school_name": "福建幼儿师范高等专科学校",
-  "jobrateyear": "",
-  "jobrate": {},
+  "jobrateyear": "2024",
+  "jobrate": {
+    "job": {
+      "1": "94.41"
+    },
+    "postgraduate": {
+      "1": "0.00"
+    },
+    "abroad": {
+      "1": "0.00"
+    },
+    "content": {
+      "1": ""
+    }
+  },
   "province": [],
   "attr": {},
   "company": {},

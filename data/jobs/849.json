@@ -1,9 +1,22 @@
 {
-  "update_time": "2026-09-01 09:06:06",
+  "update_time": "2026-10-01 10:40:19",
   "school_id": "849",
   "school_name": "天津工艺美术职业学院",
-  "jobrateyear": "",
-  "jobrate": {},
+  "jobrateyear": "2025",
+  "jobrate": {
+    "job": {
+      "1": "85.90"
+    },
+    "postgraduate": {
+      "1": "6.12"
+    },
+    "abroad": {
+      "1": "0.18"
+    },
+    "content": {
+      "1": "<p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788405625_8217_thumb.png\" title=\"core_1788405625_8217_thumb.png\" alt=\"core_1788405625_8217.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788405634_7900_thumb.png\" title=\"core_1788405634_7900_thumb.png\" alt=\"core_1788405634_7900.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788405644_2241_thumb.png\" title=\"core_1788405644_2241_thumb.png\" alt=\"core_1788405644_2241.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788405681_5866_thumb.png\" title=\"core_1788405681_5866_thumb.png\" alt=\"core_1788405681_5866.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788405698_1461_thumb.png\" title=\"core_1788405698_1461_thumb.png\" alt=\"core_1788405698_1461.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788405711_5207_thumb.png\" title=\"core_1788405711_5207_thumb.png\" alt=\"core_1788405711_5207.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788405725_7039_thumb.png\" title=\"core_1788405725_7039_thumb.png\" alt=\"core_1788405725_7039.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788405740_2348_thumb.png\" title=\"core_1788405740_2348_thumb.png\" alt=\"core_1788405740_2348.png\"></p>"
+    }
+  },
   "province": [],
   "attr": {},
   "company": {},

@@ -1,9 +1,22 @@
 {
-  "update_time": "2026-09-01 09:10:45",
+  "update_time": "2026-10-01 10:44:50",
   "school_id": "1406",
   "school_name": "江苏信息职业技术学院",
-  "jobrateyear": "",
-  "jobrate": {},
+  "jobrateyear": "2024",
+  "jobrate": {
+    "job": {
+      "1": "95.31"
+    },
+    "postgraduate": {
+      "1": "0.00"
+    },
+    "abroad": {
+      "1": "0.00"
+    },
+    "content": {
+      "1": "<p xss=removed>截至2024年12月31日，已就业毕业生人数为3814人，其中毕业生升学747人，毕业生毕业去向落实率95.31%，高于全国和全省同类院校，学校高质量就业保持在较高水平。</p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1789702195_9433_thumb.png\" title=\"core_1789702195_9433_thumb.png\" alt=\"core_1789702195_9433.png\"></p>"
+    }
+  },
   "province": [],
   "attr": {},
   "company": {},

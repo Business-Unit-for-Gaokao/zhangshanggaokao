@@ -1,20 +1,20 @@
 {
-  "update_time": "2026-09-01 09:03:22",
+  "update_time": "2026-10-01 10:37:32",
   "school_id": "546",
   "school_name": "宁夏医科大学",
-  "jobrateyear": "2019",
+  "jobrateyear": "2025",
   "jobrate": {
     "job": {
-      "1": "92.17"
+      "1": "90.44"
     },
     "postgraduate": {
-      "1": "17.64"
+      "1": "0.00"
     },
     "abroad": {
       "1": "0.00"
     },
     "content": {
-      "1": ""
+      "1": "<p><img src=\"https://static-data.gaokao.cn//upload/image/202608/core_1786676909_7432_thumb.png\" title=\"core_1786676909_7432_thumb.png\" alt=\"core_1786676909_7432.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202608/core_1786676952_6978_thumb.png\" title=\"core_1786676952_6978_thumb.png\" alt=\"core_1786676952_6978.png\"></p>"
     }
   },
   "province": [

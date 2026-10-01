@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-09-01 09:00:32",
+  "update_time": "2026-10-01 10:34:39",
   "school_id": "273",
   "school_name": "四川轻化工大学",
   "jobrateyear": "2024",
@@ -43,18 +43,6 @@
       "province_name": "重庆"
     },
     {
-      "id": "14645",
-      "school_id": "273",
-      "province": "自贡",
-      "rate": "2.95",
-      "num": "0",
-      "sort": "295",
-      "update_id": "2004",
-      "update_time": "2024-05-23 15:19:52",
-      "year": "2023",
-      "province_name": "自贡"
-    },
-    {
       "id": "14650",
       "school_id": "273",
       "province": "眉山",
@@ -67,16 +55,16 @@
       "province_name": "眉山"
     },
     {
-      "id": "14647",
+      "id": "14645",
       "school_id": "273",
-      "province": "乐山",
-      "rate": "2.99",
+      "province": "自贡",
+      "rate": "2.95",
       "num": "0",
-      "sort": "299",
+      "sort": "295",
       "update_id": "2004",
       "update_time": "2024-05-23 15:19:52",
       "year": "2023",
-      "province_name": "乐山"
+      "province_name": "自贡"
     },
     {
       "id": "14649",
@@ -89,6 +77,18 @@
       "update_time": "2024-05-23 15:19:52",
       "year": "2023",
       "province_name": "德阳"
+    },
+    {
+      "id": "14647",
+      "school_id": "273",
+      "province": "乐山",
+      "rate": "2.99",
+      "num": "0",
+      "sort": "299",
+      "update_id": "2004",
+      "update_time": "2024-05-23 15:19:52",
+      "year": "2023",
+      "province_name": "乐山"
     },
     {
       "id": "14646",

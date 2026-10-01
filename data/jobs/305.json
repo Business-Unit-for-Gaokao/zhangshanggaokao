@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-09-01 09:00:53",
+  "update_time": "2026-10-01 10:34:59",
   "school_id": "305",
   "school_name": "星海音乐学院",
   "jobrateyear": "2024",
@@ -67,18 +67,6 @@
       "province_name": "安徽省"
     },
     {
-      "id": "31345",
-      "school_id": "305",
-      "province": "河南省",
-      "rate": "0.65",
-      "num": "0",
-      "sort": "65",
-      "update_id": "1988",
-      "update_time": "2025-11-27 16:04:49",
-      "year": "2024",
-      "province_name": "河南省"
-    },
-    {
       "id": "31346",
       "school_id": "305",
       "province": "北京市",
@@ -89,6 +77,18 @@
       "update_time": "2025-11-27 16:04:49",
       "year": "2024",
       "province_name": "北京市"
+    },
+    {
+      "id": "31345",
+      "school_id": "305",
+      "province": "河南省",
+      "rate": "0.65",
+      "num": "0",
+      "sort": "65",
+      "update_id": "1988",
+      "update_time": "2025-11-27 16:04:49",
+      "year": "2024",
+      "province_name": "河南省"
     },
     {
       "id": "31344",

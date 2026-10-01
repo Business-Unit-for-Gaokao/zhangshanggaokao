@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-09-01 09:04:53",
+  "update_time": "2026-10-01 10:39:01",
   "school_id": "710",
   "school_name": "哈尔滨电力职业技术学院",
   "jobrateyear": "2024",
@@ -79,30 +79,6 @@
       "province_name": "西藏自治区"
     },
     {
-      "id": "29187",
-      "school_id": "710",
-      "province": "海南省",
-      "rate": "0.27",
-      "num": "2",
-      "sort": "27",
-      "update_id": "2234",
-      "update_time": "2025-11-13 11:18:40",
-      "year": "2024",
-      "province_name": "海南省"
-    },
-    {
-      "id": "29186",
-      "school_id": "710",
-      "province": "广西壮族自治区",
-      "rate": "0.27",
-      "num": "2",
-      "sort": "27",
-      "update_id": "2234",
-      "update_time": "2025-11-13 11:18:40",
-      "year": "2024",
-      "province_name": "广西壮族自治区"
-    },
-    {
       "id": "29185",
       "school_id": "710",
       "province": "新疆维吾尔自治区",
@@ -125,6 +101,30 @@
       "update_time": "2025-11-13 11:18:40",
       "year": "2024",
       "province_name": "河南省"
+    },
+    {
+      "id": "29186",
+      "school_id": "710",
+      "province": "广西壮族自治区",
+      "rate": "0.27",
+      "num": "2",
+      "sort": "27",
+      "update_id": "2234",
+      "update_time": "2025-11-13 11:18:40",
+      "year": "2024",
+      "province_name": "广西壮族自治区"
+    },
+    {
+      "id": "29187",
+      "school_id": "710",
+      "province": "海南省",
+      "rate": "0.27",
+      "num": "2",
+      "sort": "27",
+      "update_id": "2234",
+      "update_time": "2025-11-13 11:18:40",
+      "year": "2024",
+      "province_name": "海南省"
     },
     {
       "id": "29183",

@@ -1,9 +1,22 @@
 {
-  "update_time": "2026-09-01 09:12:18",
+  "update_time": "2026-10-01 10:46:20",
   "school_id": "1613",
   "school_name": "吉林电子信息职业技术学院",
-  "jobrateyear": "",
-  "jobrate": {},
+  "jobrateyear": "2025",
+  "jobrate": {
+    "job": {
+      "1": "92.08"
+    },
+    "postgraduate": {
+      "1": "0.00"
+    },
+    "abroad": {
+      "1": "0.00"
+    },
+    "content": {
+      "1": "<p><img src=\"https://static-data.gaokao.cn//upload/image/202608/core_1787033756_5652_thumb.png\" title=\"core_1787033756_5652_thumb.png\" alt=\"core_1787033756_5652.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202608/core_1787033768_8309_thumb.png\" title=\"core_1787033768_8309_thumb.png\" alt=\"core_1787033768_8309.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202608/core_1787033778_6496_thumb.png\" title=\"core_1787033778_6496_thumb.png\" alt=\"core_1787033778_6496.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202608/core_1787033788_2548_thumb.png\" title=\"core_1787033788_2548_thumb.png\" alt=\"core_1787033788_2548.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202608/core_1787033797_3395_thumb.png\" title=\"core_1787033797_3395_thumb.png\" alt=\"core_1787033797_3395.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202608/core_1787033808_3709_thumb.png\" title=\"core_1787033808_3709_thumb.png\" alt=\"core_1787033808_3709.png\"></p>"
+    }
+  },
   "province": [],
   "attr": {},
   "company": {},

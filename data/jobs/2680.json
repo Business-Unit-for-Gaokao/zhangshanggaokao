@@ -1,9 +1,22 @@
 {
-  "update_time": "2026-09-01 09:22:47",
+  "update_time": "2026-10-01 10:56:38",
   "school_id": "2680",
   "school_name": "广州华夏职业学院",
-  "jobrateyear": "",
-  "jobrate": {},
+  "jobrateyear": "2024",
+  "jobrate": {
+    "job": {
+      "1": "95.58"
+    },
+    "postgraduate": {
+      "1": "0.00"
+    },
+    "abroad": {
+      "1": "0.00"
+    },
+    "content": {
+      "1": "<p><img src=\"https://static-data.gaokao.cn//upload/image/202608/core_1787033967_8125_thumb.png\" title=\"core_1787033967_8125_thumb.png\" alt=\"core_1787033967_8125.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202608/core_1787033984_3158_thumb.png\" title=\"core_1787033984_3158_thumb.png\" alt=\"core_1787033984_3158.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202608/core_1787033994_3773_thumb.png\" title=\"core_1787033994_3773_thumb.png\" alt=\"core_1787033994_3773.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202608/core_1787034007_2792_thumb.png\" title=\"core_1787034007_2792_thumb.png\" alt=\"core_1787034007_2792.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202608/core_1787034018_1459_thumb.png\" title=\"core_1787034018_1459_thumb.png\" alt=\"core_1787034018_1459.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202608/core_1787034035_2734_thumb.png\" title=\"core_1787034035_2734_thumb.png\" alt=\"core_1787034035_2734.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202608/core_1787034046_1056_thumb.png\" title=\"core_1787034046_1056_thumb.png\" alt=\"core_1787034046_1056.png\"></p>"
+    }
+  },
   "province": [],
   "attr": {},
   "company": {},

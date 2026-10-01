@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-09-01 09:03:54",
+  "update_time": "2026-10-01 10:38:02",
   "school_id": "598",
   "school_name": "河北农业大学",
   "jobrateyear": "2021",
@@ -31,18 +31,6 @@
       "province_name": "安徽"
     },
     {
-      "id": "22621",
-      "school_id": "598",
-      "province": "江西",
-      "rate": "0.14",
-      "num": "7",
-      "sort": "7",
-      "update_id": "1988",
-      "update_time": "2024-09-24 11:55:09",
-      "year": "2021",
-      "province_name": "江西"
-    },
-    {
       "id": "22622",
       "school_id": "598",
       "province": "重庆",
@@ -53,6 +41,18 @@
       "update_time": "2024-09-24 11:55:09",
       "year": "2021",
       "province_name": "重庆"
+    },
+    {
+      "id": "22621",
+      "school_id": "598",
+      "province": "江西",
+      "rate": "0.14",
+      "num": "7",
+      "sort": "7",
+      "update_id": "1988",
+      "update_time": "2024-09-24 11:55:09",
+      "year": "2021",
+      "province_name": "江西"
     },
     {
       "id": "22620",
@@ -139,18 +139,6 @@
       "province_name": "新疆"
     },
     {
-      "id": "22613",
-      "school_id": "598",
-      "province": "陕西",
-      "rate": "0.52",
-      "num": "25",
-      "sort": "25",
-      "update_id": "1988",
-      "update_time": "2024-09-24 11:55:09",
-      "year": "2021",
-      "province_name": "陕西"
-    },
-    {
       "id": "22614",
       "school_id": "598",
       "province": "辽宁",
@@ -161,6 +149,18 @@
       "update_time": "2024-09-24 11:55:09",
       "year": "2021",
       "province_name": "辽宁"
+    },
+    {
+      "id": "22613",
+      "school_id": "598",
+      "province": "陕西",
+      "rate": "0.52",
+      "num": "25",
+      "sort": "25",
+      "update_id": "1988",
+      "update_time": "2024-09-24 11:55:09",
+      "year": "2021",
+      "province_name": "陕西"
     },
     {
       "id": "22612",

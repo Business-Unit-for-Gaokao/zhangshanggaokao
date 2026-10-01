@@ -1,9 +1,22 @@
 {
-  "update_time": "2026-09-01 09:15:01",
+  "update_time": "2026-10-01 10:48:54",
   "school_id": "1876",
   "school_name": "泉州经贸职业技术学院",
-  "jobrateyear": "",
-  "jobrate": {},
+  "jobrateyear": "2025",
+  "jobrate": {
+    "job": {
+      "1": "95.85"
+    },
+    "postgraduate": {
+      "1": "0.00"
+    },
+    "abroad": {
+      "1": "0.00"
+    },
+    "content": {
+      "1": "<p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1789371136_4819_thumb.jpg\" xss=removed title=\"core_1789371136_4819_thumb.jpg\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1789371136_7029_thumb.jpg\" xss=removed title=\"core_1789371136_7029_thumb.jpg\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1789371136_3049_thumb.jpg\" xss=removed title=\"core_1789371136_3049_thumb.jpg\"></p><p><br></p>"
+    }
+  },
   "province": [],
   "attr": {},
   "company": {},

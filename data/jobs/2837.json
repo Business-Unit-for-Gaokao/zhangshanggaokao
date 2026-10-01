@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-09-01 09:23:07",
+  "update_time": "2026-10-01 10:56:59",
   "school_id": "2837",
   "school_name": "山东协和学院",
   "jobrateyear": "2024",
@@ -67,18 +67,6 @@
       "province_name": "枣庄市"
     },
     {
-      "id": "6014",
-      "school_id": "2837",
-      "province": "德州市",
-      "rate": "0.70",
-      "num": "9",
-      "sort": "9",
-      "update_id": "0",
-      "update_time": "2018-12-18 15:40:16",
-      "year": "2019",
-      "province_name": "德州市"
-    },
-    {
       "id": "6004",
       "school_id": "2837",
       "province": "泰安市",
@@ -89,6 +77,18 @@
       "update_time": "2018-12-18 15:40:16",
       "year": "2019",
       "province_name": "泰安市"
+    },
+    {
+      "id": "6014",
+      "school_id": "2837",
+      "province": "德州市",
+      "rate": "0.70",
+      "num": "9",
+      "sort": "9",
+      "update_id": "0",
+      "update_time": "2018-12-18 15:40:16",
+      "year": "2019",
+      "province_name": "德州市"
     },
     {
       "id": "6013",

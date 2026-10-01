@@ -1,20 +1,20 @@
 {
-  "update_time": "2026-09-01 09:01:28",
+  "update_time": "2026-10-01 10:35:38",
   "school_id": "363",
   "school_name": "西安邮电大学",
-  "jobrateyear": "2020",
+  "jobrateyear": "2024",
   "jobrate": {
     "job": {
-      "1": "78.82"
+      "1": "87.38"
     },
     "postgraduate": {
-      "1": "19.76"
+      "1": "24.00"
     },
     "abroad": {
-      "1": "2.31"
+      "1": "6.55"
     },
     "content": {
-      "1": ""
+      "1": "<p><img src=\"https://static-data.gaokao.cn//upload/image/202608/core_1786695602_9783_thumb.png\" title=\"core_1786695602_9783_thumb.png\" alt=\"core_1786695602_9783.png\"></p>"
     }
   },
   "province": [
@@ -43,18 +43,6 @@
       "province_name": "澳门特别行政区"
     },
     {
-      "id": "17821",
-      "school_id": "363",
-      "province": "黑龙江省",
-      "rate": "0.22",
-      "num": "5",
-      "sort": "5",
-      "update_id": "2004",
-      "update_time": "2024-06-13 16:10:05",
-      "year": "2022",
-      "province_name": "黑龙江省"
-    },
-    {
       "id": "17820",
       "school_id": "363",
       "province": "宁夏回族自治区",
@@ -77,6 +65,18 @@
       "update_time": "2024-06-13 16:10:05",
       "year": "2022",
       "province_name": "内蒙古自治区"
+    },
+    {
+      "id": "17821",
+      "school_id": "363",
+      "province": "黑龙江省",
+      "rate": "0.22",
+      "num": "5",
+      "sort": "5",
+      "update_id": "2004",
+      "update_time": "2024-06-13 16:10:05",
+      "year": "2022",
+      "province_name": "黑龙江省"
     },
     {
       "id": "17818",

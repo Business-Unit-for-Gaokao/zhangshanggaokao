@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-09-01 09:19:51",
+  "update_time": "2026-10-01 10:53:38",
   "school_id": "2353",
   "school_name": "大连艺术学院",
   "jobrateyear": "2024",
@@ -115,18 +115,6 @@
       "province_name": "贵州省"
     },
     {
-      "id": "19998",
-      "school_id": "2353",
-      "province": "重庆市",
-      "rate": "0.55",
-      "num": "15",
-      "sort": "15",
-      "update_id": "2004",
-      "update_time": "2024-06-20 10:52:54",
-      "year": "2022",
-      "province_name": "重庆市"
-    },
-    {
       "id": "19994",
       "school_id": "2353",
       "province": "湖南省",
@@ -137,6 +125,18 @@
       "update_time": "2024-06-20 10:52:54",
       "year": "2022",
       "province_name": "湖南省"
+    },
+    {
+      "id": "19998",
+      "school_id": "2353",
+      "province": "重庆市",
+      "rate": "0.55",
+      "num": "15",
+      "sort": "15",
+      "update_id": "2004",
+      "update_time": "2024-06-20 10:52:54",
+      "year": "2022",
+      "province_name": "重庆市"
     },
     {
       "id": "20002",

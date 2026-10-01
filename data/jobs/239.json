@@ -1,20 +1,20 @@
 {
-  "update_time": "2026-09-01 09:00:11",
+  "update_time": "2026-10-01 10:34:18",
   "school_id": "239",
   "school_name": "昌吉学院",
-  "jobrateyear": "2019",
+  "jobrateyear": "2024",
   "jobrate": {
     "job": {
-      "1": "90.06"
+      "1": "90.26"
     },
     "postgraduate": {
-      "1": "4.36"
+      "1": "0.00"
     },
     "abroad": {
-      "1": "0.74"
+      "1": "0.00"
     },
     "content": {
-      "1": ""
+      "1": "<p><img src=\"https://static-data.gaokao.cn//upload/image/202608/core_1787126666_8226_thumb.png\" title=\"core_1787126666_8226_thumb.png\" alt=\"core_1787126666_8226.png\"></p>"
     }
   },
   "province": [
@@ -31,18 +31,6 @@
       "province_name": "其他省市"
     },
     {
-      "id": "728",
-      "school_id": "239",
-      "province": "克拉玛依市",
-      "rate": "0.65",
-      "num": "7",
-      "sort": "7",
-      "update_id": "0",
-      "update_time": "2018-12-18 15:40:13",
-      "year": "2019",
-      "province_name": "克拉玛依市"
-    },
-    {
       "id": "734",
       "school_id": "239",
       "province": "博州",
@@ -53,6 +41,18 @@
       "update_time": "2018-12-18 15:40:13",
       "year": "2019",
       "province_name": "博州"
+    },
+    {
+      "id": "728",
+      "school_id": "239",
+      "province": "克拉玛依市",
+      "rate": "0.65",
+      "num": "7",
+      "sort": "7",
+      "update_id": "0",
+      "update_time": "2018-12-18 15:40:13",
+      "year": "2019",
+      "province_name": "克拉玛依市"
     },
     {
       "id": "732",

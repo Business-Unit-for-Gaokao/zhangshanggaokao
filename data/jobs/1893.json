@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-09-01 09:15:11",
+  "update_time": "2026-10-01 10:49:05",
   "school_id": "1893",
   "school_name": "福州大学至诚学院",
   "jobrateyear": "2019",
@@ -31,18 +31,6 @@
       "province_name": "甘肃省"
     },
     {
-      "id": "1522",
-      "school_id": "1893",
-      "province": "云南省",
-      "rate": "0.10",
-      "num": "2",
-      "sort": "2",
-      "update_id": "0",
-      "update_time": "2018-12-18 15:40:13",
-      "year": "2019",
-      "province_name": "云南省"
-    },
-    {
       "id": "1544",
       "school_id": "1893",
       "province": "海南省",
@@ -53,6 +41,18 @@
       "update_time": "2018-12-18 15:40:13",
       "year": "2019",
       "province_name": "海南省"
+    },
+    {
+      "id": "1522",
+      "school_id": "1893",
+      "province": "云南省",
+      "rate": "0.10",
+      "num": "2",
+      "sort": "2",
+      "update_id": "0",
+      "update_time": "2018-12-18 15:40:13",
+      "year": "2019",
+      "province_name": "云南省"
     },
     {
       "id": "1523",
@@ -79,6 +79,18 @@
       "province_name": "重庆市"
     },
     {
+      "id": "1537",
+      "school_id": "1893",
+      "province": "辽宁省",
+      "rate": "0.19",
+      "num": "4",
+      "sort": "4",
+      "update_id": "0",
+      "update_time": "2018-12-18 15:40:13",
+      "year": "2019",
+      "province_name": "辽宁省"
+    },
+    {
       "id": "1524",
       "school_id": "1893",
       "province": "四川省",
@@ -103,18 +115,6 @@
       "province_name": "湖南省"
     },
     {
-      "id": "1537",
-      "school_id": "1893",
-      "province": "辽宁省",
-      "rate": "0.19",
-      "num": "4",
-      "sort": "4",
-      "update_id": "0",
-      "update_time": "2018-12-18 15:40:13",
-      "year": "2019",
-      "province_name": "辽宁省"
-    },
-    {
       "id": "1527",
       "school_id": "1893",
       "province": "山东省",
@@ -127,18 +127,6 @@
       "province_name": "山东省"
     },
     {
-      "id": "1521",
-      "school_id": "1893",
-      "province": "漳州市",
-      "rate": "0.34",
-      "num": "7",
-      "sort": "7",
-      "update_id": "0",
-      "update_time": "2018-12-18 15:40:13",
-      "year": "2019",
-      "province_name": "漳州市"
-    },
-    {
       "id": "1545",
       "school_id": "1893",
       "province": "广西壮族自治区",
@@ -149,6 +137,18 @@
       "update_time": "2018-12-18 15:40:13",
       "year": "2019",
       "province_name": "广西壮族自治区"
+    },
+    {
+      "id": "1521",
+      "school_id": "1893",
+      "province": "漳州市",
+      "rate": "0.34",
+      "num": "7",
+      "sort": "7",
+      "update_id": "0",
+      "update_time": "2018-12-18 15:40:13",
+      "year": "2019",
+      "province_name": "漳州市"
     },
     {
       "id": "1525",

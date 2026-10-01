@@ -1,9 +1,22 @@
 {
-  "update_time": "2026-09-01 09:17:31",
+  "update_time": "2026-10-01 10:51:25",
   "school_id": "2119",
   "school_name": "山东化工职业学院",
-  "jobrateyear": "",
-  "jobrate": {},
+  "jobrateyear": "2025",
+  "jobrate": {
+    "job": {
+      "1": "93.23"
+    },
+    "postgraduate": {
+      "1": "7.68"
+    },
+    "abroad": {
+      "1": "0.07"
+    },
+    "content": {
+      "1": "<p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788509279_4688_thumb.png\" title=\"core_1788509279_4688_thumb.png\" alt=\"core_1788509279_4688.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788509288_5496_thumb.png\" title=\"core_1788509288_5496_thumb.png\" alt=\"core_1788509288_5496.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788509337_3536_thumb.png\" title=\"core_1788509337_3536_thumb.png\" alt=\"core_1788509337_3536.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788509353_7182_thumb.png\" title=\"core_1788509353_7182_thumb.png\" alt=\"core_1788509353_7182.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788509363_9609_thumb.png\" title=\"core_1788509363_9609_thumb.png\" alt=\"core_1788509363_9609.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788509376_1746_thumb.png\" title=\"core_1788509376_1746_thumb.png\" alt=\"core_1788509376_1746.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788509385_3835_thumb.png\" title=\"core_1788509385_3835_thumb.png\" alt=\"core_1788509385_3835.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788509398_9390_thumb.png\" title=\"core_1788509398_9390_thumb.png\" alt=\"core_1788509398_9390.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788509413_3222_thumb.png\" title=\"core_1788509413_3222_thumb.png\" alt=\"core_1788509413_3222.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788509422_1033_thumb.png\" title=\"core_1788509422_1033_thumb.png\" alt=\"core_1788509422_1033.png\"></p>"
+    }
+  },
   "province": [],
   "attr": {},
   "company": {},

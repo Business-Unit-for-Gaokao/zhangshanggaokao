@@ -1,20 +1,20 @@
 {
-  "update_time": "2026-09-01 09:00:05",
+  "update_time": "2026-10-01 10:34:13",
   "school_id": "229",
   "school_name": "东北财经大学",
-  "jobrateyear": "2022",
+  "jobrateyear": "2024",
   "jobrate": {
     "job": {
-      "1": "87.31"
+      "1": "88.64"
     },
     "postgraduate": {
-      "1": "37.29"
+      "1": "26.90"
     },
     "abroad": {
-      "1": "15.20"
+      "1": "18.40"
     },
     "content": {
-      "1": ""
+      "1": "<p><img src=\"https://static-data.gaokao.cn//upload/image/202608/core_1787211590_6772_thumb.png\" title=\"core_1787211590_6772_thumb.png\" alt=\"core_1787211590_6772.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202608/core_1787211608_8803_thumb.png\" title=\"core_1787211608_8803_thumb.png\" alt=\"core_1787211608_8803.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202608/core_1787211622_8426_thumb.png\" title=\"core_1787211622_8426_thumb.png\" alt=\"core_1787211622_8426.png\"></p>"
     }
   },
   "province": [
@@ -31,28 +31,16 @@
       "province_name": "西部地区"
     },
     {
-      "id": "14958",
+      "id": "14955",
       "school_id": "229",
-      "province": "长三角地区",
-      "rate": "10.87",
+      "province": "一带一路地区",
+      "rate": "76.93",
       "num": "0",
       "sort": "1",
       "update_id": "1721",
       "update_time": "2024-05-29 10:47:49",
       "year": "2022",
-      "province_name": "长三角地区"
-    },
-    {
-      "id": "14957",
-      "school_id": "229",
-      "province": "京津冀地区",
-      "rate": "12.20",
-      "num": "0",
-      "sort": "1",
-      "update_id": "1721",
-      "update_time": "2024-05-29 10:47:49",
-      "year": "2022",
-      "province_name": "京津冀地区"
+      "province_name": "一带一路地区"
     },
     {
       "id": "14956",
@@ -67,16 +55,28 @@
       "province_name": "长江经济带"
     },
     {
-      "id": "14955",
+      "id": "14957",
       "school_id": "229",
-      "province": "一带一路地区",
-      "rate": "76.93",
+      "province": "京津冀地区",
+      "rate": "12.20",
       "num": "0",
       "sort": "1",
       "update_id": "1721",
       "update_time": "2024-05-29 10:47:49",
       "year": "2022",
-      "province_name": "一带一路地区"
+      "province_name": "京津冀地区"
+    },
+    {
+      "id": "14958",
+      "school_id": "229",
+      "province": "长三角地区",
+      "rate": "10.87",
+      "num": "0",
+      "sort": "1",
+      "update_id": "1721",
+      "update_time": "2024-05-29 10:47:49",
+      "year": "2022",
+      "province_name": "长三角地区"
     }
   ],
   "attr": {

@@ -1,9 +1,22 @@
 {
-  "update_time": "2026-09-01 09:23:32",
+  "update_time": "2026-10-01 10:57:24",
   "school_id": "2907",
   "school_name": "安阳幼儿师范高等专科学校",
-  "jobrateyear": "",
-  "jobrate": {},
+  "jobrateyear": "2024",
+  "jobrate": {
+    "job": {
+      "1": "95.36"
+    },
+    "postgraduate": {
+      "1": "0.00"
+    },
+    "abroad": {
+      "1": "0.00"
+    },
+    "content": {
+      "1": "<p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788948237_3772_thumb.jpg\" xss=removed title=\"core_1788948237_3772_thumb.jpg\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788948237_8419_thumb.jpg\" xss=removed title=\"core_1788948237_8419_thumb.jpg\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788948238_3891_thumb.jpg\" xss=removed title=\"core_1788948238_3891_thumb.jpg\"></p><p><br></p>"
+    }
+  },
   "province": [],
   "attr": {},
   "company": {},

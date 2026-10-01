@@ -1,9 +1,22 @@
 {
-  "update_time": "2026-09-01 09:18:02",
+  "update_time": "2026-10-01 10:51:55",
   "school_id": "2171",
   "school_name": "云南文化艺术职业学院",
-  "jobrateyear": "",
-  "jobrate": {},
+  "jobrateyear": "2024",
+  "jobrate": {
+    "job": {
+      "1": "86.96"
+    },
+    "postgraduate": {
+      "1": "0.00"
+    },
+    "abroad": {
+      "1": "0.00"
+    },
+    "content": {
+      "1": "<p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788508631_8161_thumb.png\" title=\"core_1788508631_8161_thumb.png\" alt=\"core_1788508631_8161.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788508642_3434_thumb.png\" title=\"core_1788508642_3434_thumb.png\" alt=\"core_1788508642_3434.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788508658_1380_thumb.png\" title=\"core_1788508658_1380_thumb.png\" alt=\"core_1788508658_1380.png\"></p>"
+    }
+  },
   "province": [],
   "attr": {},
   "company": {},

@@ -1,20 +1,20 @@
 {
-  "update_time": "2026-09-01 09:02:14",
+  "update_time": "2026-10-01 10:36:25",
   "school_id": "435",
   "school_name": "湖北汽车工业学院",
-  "jobrateyear": "2023",
+  "jobrateyear": "2024",
   "jobrate": {
     "job": {
-      "1": "95.30"
+      "1": "92.24"
     },
     "postgraduate": {
-      "1": "8.70"
+      "1": "0.00"
     },
     "abroad": {
-      "1": "0.70"
+      "1": "0.00"
     },
     "content": {
-      "1": ""
+      "1": "<p><img src=\"https://static-data.gaokao.cn//upload/image/202608/core_1787652827_5909_thumb.png\" title=\"core_1787652827_5909_thumb.png\" alt=\"core_1787652827_5909.png\"></p>"
     }
   },
   "province": [

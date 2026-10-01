@@ -1,20 +1,20 @@
 {
-  "update_time": "2026-09-01 09:01:48",
+  "update_time": "2026-10-01 10:35:57",
   "school_id": "392",
   "school_name": "湖南农业大学",
-  "jobrateyear": "2023",
+  "jobrateyear": "2024",
   "jobrate": {
     "job": {
-      "1": "86.64"
+      "1": "88.11"
     },
     "postgraduate": {
-      "1": "27.70"
+      "1": "0.00"
     },
     "abroad": {
-      "1": "1.69"
+      "1": "0.00"
     },
     "content": {
-      "1": ""
+      "1": "<p><img src=\"https://static-data.gaokao.cn//upload/image/202608/core_1787127627_2370_thumb.png\" title=\"core_1787127627_2370_thumb.png\" alt=\"core_1787127627_2370.png\"></p>"
     }
   },
   "province": [

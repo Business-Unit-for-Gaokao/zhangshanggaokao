@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-09-01 09:16:02",
+  "update_time": "2026-10-01 10:49:57",
   "school_id": "1975",
   "school_name": "武汉生物工程学院",
   "jobrateyear": "2024",
@@ -19,18 +19,6 @@
   },
   "province": [
     {
-      "id": "19502",
-      "school_id": "1975",
-      "province": "山西省",
-      "rate": "0.16",
-      "num": "7",
-      "sort": "7",
-      "update_id": "2004",
-      "update_time": "2024-06-18 14:05:08",
-      "year": "2022",
-      "province_name": "山西省"
-    },
-    {
       "id": "19505",
       "school_id": "1975",
       "province": "吉林省",
@@ -41,6 +29,18 @@
       "update_time": "2024-06-18 14:05:08",
       "year": "2022",
       "province_name": "吉林省"
+    },
+    {
+      "id": "19502",
+      "school_id": "1975",
+      "province": "山西省",
+      "rate": "0.16",
+      "num": "7",
+      "sort": "7",
+      "update_id": "2004",
+      "update_time": "2024-06-18 14:05:08",
+      "year": "2022",
+      "province_name": "山西省"
     },
     {
       "id": "19503",

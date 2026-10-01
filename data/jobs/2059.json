@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-09-01 09:16:55",
+  "update_time": "2026-10-01 10:50:50",
   "school_id": "2059",
   "school_name": "广州城市理工学院",
   "jobrateyear": "2024",
@@ -67,18 +67,6 @@
       "province_name": "云浮市"
     },
     {
-      "id": "3931",
-      "school_id": "2059",
-      "province": "阳江市",
-      "rate": "0.67",
-      "num": "32",
-      "sort": "32",
-      "update_id": "0",
-      "update_time": "2018-12-18 15:40:15",
-      "year": "2019",
-      "province_name": "阳江市"
-    },
-    {
       "id": "3933",
       "school_id": "2059",
       "province": "韶关市",
@@ -89,6 +77,18 @@
       "update_time": "2018-12-18 15:40:15",
       "year": "2019",
       "province_name": "韶关市"
+    },
+    {
+      "id": "3931",
+      "school_id": "2059",
+      "province": "阳江市",
+      "rate": "0.67",
+      "num": "32",
+      "sort": "32",
+      "update_id": "0",
+      "update_time": "2018-12-18 15:40:15",
+      "year": "2019",
+      "province_name": "阳江市"
     },
     {
       "id": "3929",
@@ -127,18 +127,6 @@
       "province_name": "肇庆市"
     },
     {
-      "id": "3937",
-      "school_id": "2059",
-      "province": "梅州市",
-      "rate": "0.82",
-      "num": "39",
-      "sort": "39",
-      "update_id": "0",
-      "update_time": "2018-12-18 15:40:15",
-      "year": "2019",
-      "province_name": "梅州市"
-    },
-    {
       "id": "3938",
       "school_id": "2059",
       "province": "茂名市",
@@ -149,6 +137,18 @@
       "update_time": "2018-12-18 15:40:15",
       "year": "2019",
       "province_name": "茂名市"
+    },
+    {
+      "id": "3937",
+      "school_id": "2059",
+      "province": "梅州市",
+      "rate": "0.82",
+      "num": "39",
+      "sort": "39",
+      "update_id": "0",
+      "update_time": "2018-12-18 15:40:15",
+      "year": "2019",
+      "province_name": "梅州市"
     },
     {
       "id": "3936",

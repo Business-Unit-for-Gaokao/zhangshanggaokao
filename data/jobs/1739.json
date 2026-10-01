@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-09-01 09:13:32",
+  "update_time": "2026-10-01 10:47:32",
   "school_id": "1739",
   "school_name": "柳州职业技术大学",
   "jobrateyear": "2024",
@@ -163,16 +163,16 @@
       "province_name": "海南省"
     },
     {
-      "id": "28355",
+      "id": "28353",
       "school_id": "1739",
-      "province": "河南省",
+      "province": "重庆市",
       "rate": "0.24",
       "num": "9",
       "sort": "9",
       "update_id": "2314",
       "update_time": "2025-11-11 17:41:55",
       "year": "2024",
-      "province_name": "河南省"
+      "province_name": "重庆市"
     },
     {
       "id": "28354",
@@ -187,16 +187,16 @@
       "province_name": "贵州省"
     },
     {
-      "id": "28353",
+      "id": "28355",
       "school_id": "1739",
-      "province": "重庆市",
+      "province": "河南省",
       "rate": "0.24",
       "num": "9",
       "sort": "9",
       "update_id": "2314",
       "update_time": "2025-11-11 17:41:55",
       "year": "2024",
-      "province_name": "重庆市"
+      "province_name": "河南省"
     },
     {
       "id": "28351",

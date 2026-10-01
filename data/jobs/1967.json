@@ -1,20 +1,20 @@
 {
-  "update_time": "2026-09-01 09:15:57",
+  "update_time": "2026-10-01 10:49:51",
   "school_id": "1967",
   "school_name": "武昌工学院",
-  "jobrateyear": "2021",
+  "jobrateyear": "2024",
   "jobrate": {
     "job": {
-      "1": "80.31"
+      "1": "91.13"
     },
     "postgraduate": {
-      "1": "9.20"
+      "1": "0.00"
     },
     "abroad": {
-      "1": "1.86"
+      "1": "0.00"
     },
     "content": {
-      "1": ""
+      "1": "<p><img src=\"https://static-data.gaokao.cn//upload/image/202606/core_1781935293_5663_thumb.jpg\" xss=removed title=\"core_1781935293_5663_thumb.jpg\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202606/core_1781935293_3009_thumb.jpg\" xss=removed title=\"core_1781935293_3009_thumb.jpg\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202606/core_1781935293_3645_thumb.jpg\" xss=removed title=\"core_1781935293_3645_thumb.jpg\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202606/core_1781935293_8020_thumb.jpg\" xss=removed title=\"core_1781935293_8020_thumb.jpg\"></p><p><br></p>"
     }
   },
   "province": [
@@ -55,18 +55,6 @@
       "province_name": "海南省"
     },
     {
-      "id": "25487",
-      "school_id": "1967",
-      "province": "甘肃省",
-      "rate": "0.19",
-      "num": "0",
-      "sort": "19",
-      "update_id": "2094",
-      "update_time": "2025-01-08 11:20:23",
-      "year": "2021",
-      "province_name": "甘肃省"
-    },
-    {
       "id": "25486",
       "school_id": "1967",
       "province": "云南省",
@@ -89,6 +77,18 @@
       "update_time": "2025-01-08 11:20:23",
       "year": "2021",
       "province_name": "安徽省"
+    },
+    {
+      "id": "25487",
+      "school_id": "1967",
+      "province": "甘肃省",
+      "rate": "0.19",
+      "num": "0",
+      "sort": "19",
+      "update_id": "2094",
+      "update_time": "2025-01-08 11:20:23",
+      "year": "2021",
+      "province_name": "甘肃省"
     },
     {
       "id": "25484",
@@ -199,18 +199,6 @@
       "province_name": "山东省"
     },
     {
-      "id": "25474",
-      "school_id": "1967",
-      "province": "吉林省",
-      "rate": "0.97",
-      "num": "0",
-      "sort": "97",
-      "update_id": "2094",
-      "update_time": "2025-01-08 11:20:23",
-      "year": "2021",
-      "province_name": "吉林省"
-    },
-    {
       "id": "25475",
       "school_id": "1967",
       "province": "江西省",
@@ -221,6 +209,18 @@
       "update_time": "2025-01-08 11:20:23",
       "year": "2021",
       "province_name": "江西省"
+    },
+    {
+      "id": "25474",
+      "school_id": "1967",
+      "province": "吉林省",
+      "rate": "0.97",
+      "num": "0",
+      "sort": "97",
+      "update_id": "2094",
+      "update_time": "2025-01-08 11:20:23",
+      "year": "2021",
+      "province_name": "吉林省"
     },
     {
       "id": "25473",

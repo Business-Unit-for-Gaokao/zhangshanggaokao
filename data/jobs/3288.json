@@ -1,9 +1,22 @@
 {
-  "update_time": "2026-09-01 09:25:50",
+  "update_time": "2026-10-01 10:59:46",
   "school_id": "3288",
   "school_name": "武汉铁路桥梁职业学院",
-  "jobrateyear": "",
-  "jobrate": {},
+  "jobrateyear": "2025",
+  "jobrate": {
+    "job": {
+      "1": "98.07"
+    },
+    "postgraduate": {
+      "1": "14.86"
+    },
+    "abroad": {
+      "1": "0.77"
+    },
+    "content": {
+      "1": "<p><img src=\"https://static-data.gaokao.cn//upload/image/202608/core_1786954182_5709_thumb.png\" title=\"core_1786954182_5709_thumb.png\" alt=\"core_1786954182_5709.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202608/core_1786954197_1646_thumb.png\" title=\"core_1786954197_1646_thumb.png\" alt=\"core_1786954197_1646.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202608/core_1786954209_7999_thumb.png\" title=\"core_1786954209_7999_thumb.png\" alt=\"core_1786954209_7999.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202608/core_1786954225_2377_thumb.png\" title=\"core_1786954225_2377_thumb.png\" alt=\"core_1786954225_2377.png\"></p><p><br></p>"
+    }
+  },
   "province": [],
   "attr": {},
   "company": {},

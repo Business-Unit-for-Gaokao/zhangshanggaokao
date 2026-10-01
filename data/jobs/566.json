@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-09-01 09:03:35",
+  "update_time": "2026-10-01 10:37:45",
   "school_id": "566",
   "school_name": "中央财经大学",
   "jobrateyear": "2024",
@@ -31,18 +31,6 @@
       "province_name": "东北地区"
     },
     {
-      "id": "23950",
-      "school_id": "566",
-      "province": "华南地区(其他)",
-      "rate": "4.02",
-      "num": "17",
-      "sort": "17",
-      "update_id": "2094",
-      "update_time": "2024-12-25 15:33:05",
-      "year": "2020",
-      "province_name": "华南地区(其他)"
-    },
-    {
       "id": "23947",
       "school_id": "566",
       "province": "华北地区(其他)",
@@ -53,6 +41,18 @@
       "update_time": "2024-12-25 15:33:05",
       "year": "2020",
       "province_name": "华北地区(其他)"
+    },
+    {
+      "id": "23950",
+      "school_id": "566",
+      "province": "华南地区(其他)",
+      "rate": "4.02",
+      "num": "17",
+      "sort": "17",
+      "update_id": "2094",
+      "update_time": "2024-12-25 15:33:05",
+      "year": "2020",
+      "province_name": "华南地区(其他)"
     },
     {
       "id": "23948",

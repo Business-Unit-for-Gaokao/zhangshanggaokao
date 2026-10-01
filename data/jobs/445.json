@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-09-01 09:02:21",
+  "update_time": "2026-10-01 10:36:31",
   "school_id": "445",
   "school_name": "湖北经济学院",
   "jobrateyear": "2024",
@@ -223,18 +223,6 @@
       "province_name": "福建省"
     },
     {
-      "id": "14550",
-      "school_id": "445",
-      "province": "江西省",
-      "rate": "0.73",
-      "num": "25",
-      "sort": "25",
-      "update_id": "2004",
-      "update_time": "2024-06-09 17:31:40",
-      "year": "2022",
-      "province_name": "江西省"
-    },
-    {
       "id": "14552",
       "school_id": "445",
       "province": "重庆市",
@@ -245,6 +233,18 @@
       "update_time": "2024-06-09 17:31:40",
       "year": "2022",
       "province_name": "重庆市"
+    },
+    {
+      "id": "14550",
+      "school_id": "445",
+      "province": "江西省",
+      "rate": "0.73",
+      "num": "25",
+      "sort": "25",
+      "update_id": "2004",
+      "update_time": "2024-06-09 17:31:40",
+      "year": "2022",
+      "province_name": "江西省"
     },
     {
       "id": "14547",

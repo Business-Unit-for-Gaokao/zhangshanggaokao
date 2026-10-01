@@ -1,20 +1,20 @@
 {
-  "update_time": "2026-09-01 09:03:04",
+  "update_time": "2026-10-01 10:37:14",
   "school_id": "517",
   "school_name": "内蒙古农业大学",
-  "jobrateyear": "2023",
+  "jobrateyear": "2024",
   "jobrate": {
     "job": {
-      "1": "70.33"
+      "1": "86.53"
     },
     "postgraduate": {
-      "1": "12.49"
+      "1": "19.85"
     },
     "abroad": {
-      "1": "0.31"
+      "1": "0.55"
     },
     "content": {
-      "1": ""
+      "1": "<p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788486599_7196_thumb.png\" title=\"core_1788486599_7196_thumb.png\" alt=\"core_1788486599_7196.png\"></p>"
     }
   },
   "province": [

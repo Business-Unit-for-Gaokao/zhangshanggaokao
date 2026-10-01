@@ -1,9 +1,22 @@
 {
-  "update_time": "2026-09-01 09:05:41",
+  "update_time": "2026-10-01 10:39:52",
   "school_id": "797",
   "school_name": "四川化工职业技术学院",
-  "jobrateyear": "",
-  "jobrate": {},
+  "jobrateyear": "2025",
+  "jobrate": {
+    "job": {
+      "1": "0.00"
+    },
+    "postgraduate": {
+      "1": "0.00"
+    },
+    "abroad": {
+      "1": "0.00"
+    },
+    "content": {
+      "1": "<p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788488088_1990_thumb.jpg\" xss=removed title=\"core_1788488088_1990_thumb.jpg\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788488088_1781_thumb.jpg\" xss=removed title=\"core_1788488088_1781_thumb.jpg\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788488088_5435_thumb.jpg\" xss=removed title=\"core_1788488088_5435_thumb.jpg\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788488088_5888_thumb.jpg\" xss=removed title=\"core_1788488088_5888_thumb.jpg\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788488088_5197_thumb.jpg\" xss=removed title=\"core_1788488088_5197_thumb.jpg\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788488089_2543_thumb.jpg\" xss=removed title=\"core_1788488089_2543_thumb.jpg\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788488089_3852_thumb.jpg\" xss=removed title=\"core_1788488089_3852_thumb.jpg\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788488089_3391_thumb.jpg\" xss=removed title=\"core_1788488089_3391_thumb.jpg\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788488090_1010_thumb.jpg\" xss=removed title=\"core_1788488090_1010_thumb.jpg\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788488090_8686_thumb.jpg\" xss=removed title=\"core_1788488090_8686_thumb.jpg\"></p><p><br></p>"
+    }
+  },
   "province": [],
   "attr": {},
   "company": {},

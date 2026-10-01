@@ -1,20 +1,20 @@
 {
-  "update_time": "2026-09-01 09:07:58",
+  "update_time": "2026-10-01 10:42:09",
   "school_id": "1048",
   "school_name": "金陵科技学院",
-  "jobrateyear": "2019",
+  "jobrateyear": "2024",
   "jobrate": {
     "job": {
-      "1": "97.56"
+      "1": "94.95"
     },
     "postgraduate": {
       "1": "0.00"
     },
     "abroad": {
-      "1": "0.00"
+      "1": "16.95"
     },
     "content": {
-      "1": ""
+      "1": "<p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788422095_5737_thumb.png\" title=\"core_1788422095_5737_thumb.png\" alt=\"core_1788422095_5737.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788421995_7105_thumb.png\" title=\"core_1788421995_7105_thumb.png\" alt=\"core_1788421995_7105.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788422019_7177_thumb.png\" title=\"core_1788422019_7177_thumb.png\" alt=\"core_1788422019_7177.png\"></p>"
     }
   },
   "province": [

@@ -1,20 +1,20 @@
 {
-  "update_time": "2026-09-01 09:03:27",
+  "update_time": "2026-10-01 10:37:37",
   "school_id": "553",
   "school_name": "山东第二医科大学",
-  "jobrateyear": "2019",
+  "jobrateyear": "2024",
   "jobrate": {
     "job": {
-      "1": "87.09"
+      "1": "90.97"
     },
     "postgraduate": {
-      "1": "20.33"
+      "1": "0.00"
     },
     "abroad": {
-      "1": "0.12"
+      "1": "0.00"
     },
     "content": {
-      "1": ""
+      "1": "<p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788422560_3680_thumb.png\" title=\"core_1788422560_3680_thumb.png\" alt=\"core_1788422560_3680.png\"></p>"
     }
   },
   "province": [

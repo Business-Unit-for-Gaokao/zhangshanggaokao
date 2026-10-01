@@ -1,9 +1,22 @@
 {
-  "update_time": "2026-09-01 09:17:36",
+  "update_time": "2026-10-01 10:51:30",
   "school_id": "2127",
   "school_name": "山东商务职业学院",
-  "jobrateyear": "",
-  "jobrate": {},
+  "jobrateyear": "2025",
+  "jobrate": {
+    "job": {
+      "1": "97.65"
+    },
+    "postgraduate": {
+      "1": "0.00"
+    },
+    "abroad": {
+      "1": "0.00"
+    },
+    "content": {
+      "1": "<p xss=removed>学校2025届共有毕业生6380人，非师范类毕业生6128人，师范类毕业生252人。截至12月24日，已有6230名毕业生落实毕业去向（升学1744人），总体毕业去向落实率为97.65%，同比增长0.15%；困难生221名，毕业去向落实率为100%；直接就业率67.76%，同比增长1.32%；对口就业率94.15%，同比增长0.85%；自主创业率0.67%，同比下降0.16%；本省域直接就业率87.81%，同比增长0.25%（见表7）。</p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1789121284_3501_thumb.png\" title=\"core_1789121284_3501_thumb.png\" alt=\"core_1789121284_3501.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1789121298_8446_thumb.png\" title=\"core_1789121298_8446_thumb.png\" alt=\"core_1789121298_8446.png\"></p>"
+    }
+  },
   "province": [],
   "attr": {},
   "company": {},

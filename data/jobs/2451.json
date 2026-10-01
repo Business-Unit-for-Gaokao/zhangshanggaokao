@@ -1,11 +1,11 @@
 {
-  "update_time": "2026-09-01 09:20:51",
+  "update_time": "2026-10-01 10:54:39",
   "school_id": "2451",
   "school_name": "郑州商学院",
-  "jobrateyear": "2022",
+  "jobrateyear": "2024",
   "jobrate": {
     "job": {
-      "1": "84.70"
+      "1": "82.23"
     },
     "postgraduate": {
       "1": "0.00"
@@ -14,7 +14,7 @@
       "1": "0.00"
     },
     "content": {
-      "1": ""
+      "1": "<p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788515641_8110_thumb.png\" title=\"core_1788515641_8110_thumb.png\" alt=\"core_1788515641_8110.png\"></p>"
     }
   },
   "province": [

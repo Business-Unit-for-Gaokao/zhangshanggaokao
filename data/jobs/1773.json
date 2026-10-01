@@ -1,9 +1,22 @@
 {
-  "update_time": "2026-09-01 09:13:53",
+  "update_time": "2026-10-01 10:47:51",
   "school_id": "1773",
   "school_name": "浙江同济科技职业学院",
-  "jobrateyear": "",
-  "jobrate": {},
+  "jobrateyear": "2025",
+  "jobrate": {
+    "job": {
+      "1": "98.03"
+    },
+    "postgraduate": {
+      "1": "18.18"
+    },
+    "abroad": {
+      "1": "0.05"
+    },
+    "content": {
+      "1": "<p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1789021499_5843_thumb.jpg\" xss=removed title=\"core_1789021499_5843_thumb.jpg\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1789021499_7153_thumb.jpg\" xss=removed title=\"core_1789021499_7153_thumb.jpg\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1789021499_7191_thumb.jpg\" xss=removed title=\"core_1789021499_7191_thumb.jpg\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1789021499_2060_thumb.jpg\" xss=removed title=\"core_1789021499_2060_thumb.jpg\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1789021500_2073_thumb.jpg\" xss=removed title=\"core_1789021500_2073_thumb.jpg\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1789021500_7132_thumb.jpg\" xss=removed title=\"core_1789021500_7132_thumb.jpg\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1789021500_4965_thumb.jpg\" xss=removed title=\"core_1789021500_4965_thumb.jpg\"></p><p><br></p>"
+    }
+  },
   "province": [],
   "attr": {},
   "company": {},

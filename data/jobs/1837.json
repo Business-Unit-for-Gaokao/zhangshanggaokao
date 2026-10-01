@@ -1,9 +1,22 @@
 {
-  "update_time": "2026-09-01 09:14:36",
+  "update_time": "2026-10-01 10:48:33",
   "school_id": "1837",
   "school_name": "安徽艺术职业学院",
-  "jobrateyear": "",
-  "jobrate": {},
+  "jobrateyear": "2025",
+  "jobrate": {
+    "job": {
+      "1": "91.66"
+    },
+    "postgraduate": {
+      "1": "0.00"
+    },
+    "abroad": {
+      "1": "0.00"
+    },
+    "content": {
+      "1": "<p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788400599_7202_thumb.png\" title=\"core_1788400599_7202_thumb.png\" alt=\"core_1788400599_7202.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788400622_1718_thumb.png\" title=\"core_1788400622_1718_thumb.png\" alt=\"core_1788400622_1718.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788400635_9930_thumb.png\" title=\"core_1788400635_9930_thumb.png\" alt=\"core_1788400635_9930.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788400653_7501_thumb.png\" title=\"core_1788400653_7501_thumb.png\" alt=\"core_1788400653_7501.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788400671_3949_thumb.png\" title=\"core_1788400671_3949_thumb.png\" alt=\"core_1788400671_3949.png\"></p><p><br></p>"
+    }
+  },
   "province": [],
   "attr": {},
   "company": {},

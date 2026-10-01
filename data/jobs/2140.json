@@ -1,9 +1,22 @@
 {
-  "update_time": "2026-09-01 09:17:45",
+  "update_time": "2026-10-01 10:51:39",
   "school_id": "2140",
   "school_name": "德州科技职业学院",
-  "jobrateyear": "",
-  "jobrate": {},
+  "jobrateyear": "2025",
+  "jobrate": {
+    "job": {
+      "1": "95.86"
+    },
+    "postgraduate": {
+      "1": "0.00"
+    },
+    "abroad": {
+      "1": "0.00"
+    },
+    "content": {
+      "1": "<p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788403281_9162_thumb.png\" title=\"core_1788403281_9162_thumb.png\" alt=\"core_1788403281_9162.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788403294_9766_thumb.png\" title=\"core_1788403294_9766_thumb.png\" alt=\"core_1788403294_9766.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788403307_4960_thumb.png\" title=\"core_1788403307_4960_thumb.png\" alt=\"core_1788403307_4960.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788403324_3658_thumb.png\" title=\"core_1788403324_3658_thumb.png\" alt=\"core_1788403324_3658.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788403339_7515_thumb.png\" title=\"core_1788403339_7515_thumb.png\" alt=\"core_1788403339_7515.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788403356_9369_thumb.png\" title=\"core_1788403356_9369_thumb.png\" alt=\"core_1788403356_9369.png\"></p>"
+    }
+  },
   "province": [],
   "attr": {},
   "company": {},

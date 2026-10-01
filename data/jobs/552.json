@@ -1,20 +1,20 @@
 {
-  "update_time": "2026-09-01 09:03:26",
+  "update_time": "2026-10-01 10:37:36",
   "school_id": "552",
   "school_name": "潍坊学院",
-  "jobrateyear": "2019",
+  "jobrateyear": "2025",
   "jobrate": {
     "job": {
-      "1": "92.81"
+      "1": "89.67"
     },
     "postgraduate": {
-      "1": "9.29"
+      "1": "0.00"
     },
     "abroad": {
-      "1": "0.41"
+      "1": "0.00"
     },
     "content": {
-      "1": ""
+      "1": "<p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788489817_3701_thumb.png\" title=\"core_1788489817_3701_thumb.png\" alt=\"core_1788489817_3701.png\"></p>"
     }
   },
   "province": [

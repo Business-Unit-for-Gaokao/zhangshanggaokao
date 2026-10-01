@@ -1,11 +1,11 @@
 {
-  "update_time": "2026-09-01 09:27:53",
+  "update_time": "2026-10-01 11:01:54",
   "school_id": "3518",
   "school_name": "郑州轨道工程职业学院",
-  "jobrateyear": "2023",
+  "jobrateyear": "2025",
   "jobrate": {
     "job": {
-      "1": "76.07"
+      "1": "86.34"
     },
     "postgraduate": {
       "1": "0.00"
@@ -14,7 +14,7 @@
       "1": "0.00"
     },
     "content": {
-      "1": ""
+      "1": "<p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788340311_9183_thumb.png\" title=\"core_1788340311_9183_thumb.png\" alt=\"core_1788340311_9183.png\"></p>"
     }
   },
   "province": [],

@@ -1,20 +1,20 @@
 {
-  "update_time": "2026-09-01 09:07:44",
+  "update_time": "2026-10-01 10:41:56",
   "school_id": "1021",
   "school_name": "福建中医药大学",
-  "jobrateyear": "2019",
+  "jobrateyear": "2024",
   "jobrate": {
     "job": {
-      "1": "91.53"
+      "1": "86.71"
     },
     "postgraduate": {
-      "1": "23.94"
+      "1": "0.00"
     },
     "abroad": {
-      "1": "0.37"
+      "1": "0.00"
     },
     "content": {
-      "1": ""
+      "1": "<p><img src=\"https://static-data.gaokao.cn//upload/image/202607/core_1785312075_8238_thumb.png\" title=\"core_1785312075_8238_thumb.png\" alt=\"core_1785312075_8238.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202607/core_1785312130_3210_thumb.png\" title=\"core_1785312130_3210_thumb.png\" alt=\"core_1785312130_3210.png\"></p><p><br></p>"
     }
   },
   "province": [],

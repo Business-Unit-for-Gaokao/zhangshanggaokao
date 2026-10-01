@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-09-01 09:20:57",
+  "update_time": "2026-10-01 10:54:45",
   "school_id": "2460",
   "school_name": "湖北工程学院新技术学院",
   "jobrateyear": "2019",
@@ -43,28 +43,16 @@
       "province_name": "甘肃省"
     },
     {
-      "id": "3189",
+      "id": "3183",
       "school_id": "2460",
-      "province": "吉林省",
+      "province": "山东省",
       "rate": "0.09",
       "num": "1",
       "sort": "1",
       "update_id": "0",
       "update_time": "2018-12-18 15:40:14",
       "year": "2019",
-      "province_name": "吉林省"
-    },
-    {
-      "id": "3186",
-      "school_id": "2460",
-      "province": "辽宁省",
-      "rate": "0.09",
-      "num": "1",
-      "sort": "1",
-      "update_id": "0",
-      "update_time": "2018-12-18 15:40:14",
-      "year": "2019",
-      "province_name": "辽宁省"
+      "province_name": "山东省"
     },
     {
       "id": "3184",
@@ -79,16 +67,28 @@
       "province_name": "宁夏回族自治区"
     },
     {
-      "id": "3183",
+      "id": "3186",
       "school_id": "2460",
-      "province": "山东省",
+      "province": "辽宁省",
       "rate": "0.09",
       "num": "1",
       "sort": "1",
       "update_id": "0",
       "update_time": "2018-12-18 15:40:14",
       "year": "2019",
-      "province_name": "山东省"
+      "province_name": "辽宁省"
+    },
+    {
+      "id": "3189",
+      "school_id": "2460",
+      "province": "吉林省",
+      "rate": "0.09",
+      "num": "1",
+      "sort": "1",
+      "update_id": "0",
+      "update_time": "2018-12-18 15:40:14",
+      "year": "2019",
+      "province_name": "吉林省"
     },
     {
       "id": "3177",
@@ -103,16 +103,16 @@
       "province_name": "西藏自治区"
     },
     {
-      "id": "3182",
+      "id": "3176",
       "school_id": "2460",
-      "province": "山西省",
+      "province": "新疆维吾尔自治区",
       "rate": "0.26",
       "num": "3",
       "sort": "3",
       "update_id": "0",
       "update_time": "2018-12-18 15:40:14",
       "year": "2019",
-      "province_name": "山西省"
+      "province_name": "新疆维吾尔自治区"
     },
     {
       "id": "3195",
@@ -127,18 +127,6 @@
       "province_name": "贵州省"
     },
     {
-      "id": "3176",
-      "school_id": "2460",
-      "province": "新疆维吾尔自治区",
-      "rate": "0.26",
-      "num": "3",
-      "sort": "3",
-      "update_id": "0",
-      "update_time": "2018-12-18 15:40:14",
-      "year": "2019",
-      "province_name": "新疆维吾尔自治区"
-    },
-    {
       "id": "3175",
       "school_id": "2460",
       "province": "云南省",
@@ -149,6 +137,18 @@
       "update_time": "2018-12-18 15:40:14",
       "year": "2019",
       "province_name": "云南省"
+    },
+    {
+      "id": "3182",
+      "school_id": "2460",
+      "province": "山西省",
+      "rate": "0.26",
+      "num": "3",
+      "sort": "3",
+      "update_id": "0",
+      "update_time": "2018-12-18 15:40:14",
+      "year": "2019",
+      "province_name": "山西省"
     },
     {
       "id": "3201",
@@ -163,16 +163,16 @@
       "province_name": "安徽省"
     },
     {
-      "id": "3181",
+      "id": "3194",
       "school_id": "2460",
-      "province": "陕西省",
+      "province": "海南省",
       "rate": "0.35",
       "num": "4",
       "sort": "4",
       "update_id": "0",
       "update_time": "2018-12-18 15:40:14",
       "year": "2019",
-      "province_name": "陕西省"
+      "province_name": "海南省"
     },
     {
       "id": "3178",
@@ -187,16 +187,16 @@
       "province_name": "天津市"
     },
     {
-      "id": "3194",
+      "id": "3181",
       "school_id": "2460",
-      "province": "海南省",
+      "province": "陕西省",
       "rate": "0.35",
       "num": "4",
       "sort": "4",
       "update_id": "0",
       "update_time": "2018-12-18 15:40:14",
       "year": "2019",
-      "province_name": "海南省"
+      "province_name": "陕西省"
     },
     {
       "id": "3179",

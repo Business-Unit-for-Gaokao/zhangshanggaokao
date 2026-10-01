@@ -1,9 +1,22 @@
 {
-  "update_time": "2026-09-01 09:12:40",
+  "update_time": "2026-10-01 10:46:43",
   "school_id": "1648",
   "school_name": "山西财贸职业技术学院",
-  "jobrateyear": "",
-  "jobrate": {},
+  "jobrateyear": "2024",
+  "jobrate": {
+    "job": {
+      "1": "95.30"
+    },
+    "postgraduate": {
+      "1": "0.00"
+    },
+    "abroad": {
+      "1": "0.00"
+    },
+    "content": {
+      "1": "<p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788514448_2620_thumb.png\" title=\"core_1788514448_2620_thumb.png\" alt=\"core_1788514448_2620.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788514457_2912_thumb.png\" title=\"core_1788514457_2912_thumb.png\" alt=\"core_1788514457_2912.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788514467_4890_thumb.png\" title=\"core_1788514467_4890_thumb.png\" alt=\"core_1788514467_4890.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788514477_1472_thumb.png\" title=\"core_1788514477_1472_thumb.png\" alt=\"core_1788514477_1472.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788514495_2887_thumb.png\" title=\"core_1788514495_2887_thumb.png\" alt=\"core_1788514495_2887.png\"></p><p><br></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788514504_2244_thumb.png\" title=\"core_1788514504_2244_thumb.png\" alt=\"core_1788514504_2244.png\"></p>"
+    }
+  },
   "province": [],
   "attr": {},
   "company": {},

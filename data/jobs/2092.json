@@ -1,9 +1,22 @@
 {
-  "update_time": "2026-09-01 09:17:13",
+  "update_time": "2026-10-01 10:51:08",
   "school_id": "2092",
   "school_name": "四川文化传媒职业学院",
-  "jobrateyear": "",
-  "jobrate": {},
+  "jobrateyear": "2025",
+  "jobrate": {
+    "job": {
+      "1": "87.70"
+    },
+    "postgraduate": {
+      "1": "26.30"
+    },
+    "abroad": {
+      "1": "0.00"
+    },
+    "content": {
+      "1": "<p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788333534_3433_thumb.png\" title=\"core_1788333534_3433_thumb.png\" alt=\"core_1788333534_3433.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788333545_3782_thumb.png\" title=\"core_1788333545_3782_thumb.png\" alt=\"core_1788333545_3782.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788333571_7527_thumb.png\" title=\"core_1788333571_7527_thumb.png\" alt=\"core_1788333571_7527.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788333584_6480_thumb.png\" title=\"core_1788333584_6480_thumb.png\" alt=\"core_1788333584_6480.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788333595_3181_thumb.png\" title=\"core_1788333595_3181_thumb.png\" alt=\"core_1788333595_3181.png\"></p>"
+    }
+  },
   "province": [],
   "attr": {},
   "company": {},

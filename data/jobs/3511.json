@@ -1,9 +1,22 @@
 {
-  "update_time": "2026-09-01 09:27:48",
+  "update_time": "2026-10-01 11:01:50",
   "school_id": "3511",
   "school_name": "河南对外经济贸易职业学院",
-  "jobrateyear": "",
-  "jobrate": {},
+  "jobrateyear": "2024",
+  "jobrate": {
+    "job": {
+      "1": "70.01"
+    },
+    "postgraduate": {
+      "1": "14.06"
+    },
+    "abroad": {
+      "1": "0.00"
+    },
+    "content": {
+      "1": "<p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788329412_3031_thumb.png\" title=\"core_1788329412_3031_thumb.png\" alt=\"core_1788329412_3031.png\"></p>"
+    }
+  },
   "province": [],
   "attr": {},
   "company": {},

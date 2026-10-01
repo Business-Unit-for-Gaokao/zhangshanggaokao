@@ -1,20 +1,20 @@
 {
-  "update_time": "2026-09-01 09:23:12",
+  "update_time": "2026-10-01 10:57:04",
   "school_id": "2846",
   "school_name": "陕西服装工程学院",
-  "jobrateyear": "2023",
+  "jobrateyear": "2024",
   "jobrate": {
     "job": {
-      "1": "93.91"
+      "1": "86.54"
     },
     "postgraduate": {
-      "1": "22.09"
+      "1": "0.69"
     },
     "abroad": {
-      "1": "0.10"
+      "1": "0.18"
     },
     "content": {
-      "1": ""
+      "1": "<p><img src=\"https://static-data.gaokao.cn//upload/image/202608/core_1786586556_9598_thumb.png\" title=\"core_1786586556_9598_thumb.png\" alt=\"core_1786586556_9598.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202608/core_1786586578_5161_thumb.png\" title=\"core_1786586578_5161_thumb.png\" alt=\"core_1786586578_5161.png\"></p>"
     }
   },
   "province": [
@@ -72,8 +72,8 @@
     "中初教育单位": "3.52",
     "国有企业": "2.31",
     "其他事业单位": "1.99",
-    "医疗卫生单位": "1.20",
     "机关": "1.20",
+    "医疗卫生单位": "1.20",
     "城镇社区": "0.28",
     "三资企业": "0.14",
     "高等教育单位": "0.09",

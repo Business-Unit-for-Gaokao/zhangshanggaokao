@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-09-01 09:07:56",
+  "update_time": "2026-10-01 10:42:08",
   "school_id": "1046",
   "school_name": "广西财经学院",
   "jobrateyear": "2024",
@@ -127,16 +127,16 @@
       "province_name": "贵州"
     },
     {
-      "id": "22218",
+      "id": "22220",
       "school_id": "1046",
-      "province": "福建",
+      "province": "天津",
       "rate": "0.24",
       "num": "11",
       "sort": "11",
       "update_id": "1988",
       "update_time": "2024-09-23 10:24:23",
       "year": "2023",
-      "province_name": "福建"
+      "province_name": "天津"
     },
     {
       "id": "22219",
@@ -151,16 +151,16 @@
       "province_name": "安徽"
     },
     {
-      "id": "22220",
+      "id": "22218",
       "school_id": "1046",
-      "province": "天津",
+      "province": "福建",
       "rate": "0.24",
       "num": "11",
       "sort": "11",
       "update_id": "1988",
       "update_time": "2024-09-23 10:24:23",
       "year": "2023",
-      "province_name": "天津"
+      "province_name": "福建"
     },
     {
       "id": "22217",

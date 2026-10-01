@@ -1,20 +1,20 @@
 {
-  "update_time": "2026-09-01 09:21:50",
+  "update_time": "2026-10-01 10:55:41",
   "school_id": "2546",
   "school_name": "南京医科大学康达学院",
-  "jobrateyear": "2019",
+  "jobrateyear": "2024",
   "jobrate": {
     "job": {
-      "1": "72.91"
+      "1": "64.09"
     },
     "postgraduate": {
-      "1": "4.70"
+      "1": "0.00"
     },
     "abroad": {
-      "1": "0.60"
+      "1": "0.00"
     },
     "content": {
-      "1": ""
+      "1": "<p><img src=\"https://static-data.gaokao.cn//upload/image/202606/core_1782029717_9408_thumb.jpg\" xss=removed title=\"core_1782029717_9408_thumb.jpg\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202606/core_1782029717_9901_thumb.jpg\" xss=removed title=\"core_1782029717_9901_thumb.jpg\"></p><p><br></p>"
     }
   },
   "province": [

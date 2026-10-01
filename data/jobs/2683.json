@@ -1,9 +1,22 @@
 {
-  "update_time": "2026-09-01 09:22:49",
+  "update_time": "2026-10-01 10:56:40",
   "school_id": "2683",
   "school_name": "广东环境保护工程职业学院",
-  "jobrateyear": "",
-  "jobrate": {},
+  "jobrateyear": "2025",
+  "jobrate": {
+    "job": {
+      "1": "0.00"
+    },
+    "postgraduate": {
+      "1": "18.59"
+    },
+    "abroad": {
+      "1": "0.00"
+    },
+    "content": {
+      "1": "<p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788431027_4614_thumb.png\" title=\"core_1788431027_4614_thumb.png\" alt=\"core_1788431027_4614.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788431042_4857_thumb.png\" title=\"core_1788431042_4857_thumb.png\" alt=\"core_1788431042_4857.png\"></p>"
+    }
+  },
   "province": [],
   "attr": {},
   "company": {},

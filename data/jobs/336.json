@@ -1,20 +1,20 @@
 {
-  "update_time": "2026-09-01 09:01:11",
+  "update_time": "2026-10-01 10:35:18",
   "school_id": "336",
   "school_name": "延安大学",
-  "jobrateyear": "2021",
+  "jobrateyear": "2024",
   "jobrate": {
     "job": {
-      "1": "87.77"
+      "1": "0.00"
     },
     "postgraduate": {
-      "1": "13.49"
+      "1": "0.00"
     },
     "abroad": {
-      "1": "0.57"
+      "1": "0.59"
     },
     "content": {
-      "1": ""
+      "1": "<p>全校3922名本科毕业生中，签订就业协议形式就业1645人（41.94%），同比减少2.54个百分点；签订劳动合同形式就业187人（4.77%），同比减少3.05个百分点；国内升学714人（18.20%），同比减少2.15个百分点；有23名毕业生选择出国（境），比例为0.59%。学校2024届本科毕业生就业单位以企业单位为主，占毕业生比例为41.08%，其次是其他事业单位和其他，占比分别为6.60%和5.20%。</p>"
     }
   },
   "province": [
@@ -43,16 +43,16 @@
       "province_name": "黑龙江省"
     },
     {
-      "id": "24420",
+      "id": "24418",
       "school_id": "336",
-      "province": "吉林省",
+      "province": "西藏自治区",
       "rate": "0.16",
       "num": "5",
       "sort": "5",
       "update_id": "2094",
       "update_time": "2025-01-06 10:33:10",
       "year": "2021",
-      "province_name": "吉林省"
+      "province_name": "西藏自治区"
     },
     {
       "id": "24419",
@@ -67,16 +67,16 @@
       "province_name": "广西壮族自治区"
     },
     {
-      "id": "24418",
+      "id": "24420",
       "school_id": "336",
-      "province": "西藏自治区",
+      "province": "吉林省",
       "rate": "0.16",
       "num": "5",
       "sort": "5",
       "update_id": "2094",
       "update_time": "2025-01-06 10:33:10",
       "year": "2021",
-      "province_name": "西藏自治区"
+      "province_name": "吉林省"
     },
     {
       "id": "24417",
@@ -91,18 +91,6 @@
       "province_name": "辽宁省"
     },
     {
-      "id": "24416",
-      "school_id": "336",
-      "province": "海南省",
-      "rate": "0.23",
-      "num": "7",
-      "sort": "7",
-      "update_id": "2094",
-      "update_time": "2025-01-06 10:33:10",
-      "year": "2021",
-      "province_name": "海南省"
-    },
-    {
       "id": "24415",
       "school_id": "336",
       "province": "福建省",
@@ -113,6 +101,18 @@
       "update_time": "2025-01-06 10:33:10",
       "year": "2021",
       "province_name": "福建省"
+    },
+    {
+      "id": "24416",
+      "school_id": "336",
+      "province": "海南省",
+      "rate": "0.23",
+      "num": "7",
+      "sort": "7",
+      "update_id": "2094",
+      "update_time": "2025-01-06 10:33:10",
+      "year": "2021",
+      "province_name": "海南省"
     },
     {
       "id": "24414",
@@ -127,18 +127,6 @@
       "province_name": "宁夏回族自治区"
     },
     {
-      "id": "24413",
-      "school_id": "336",
-      "province": "新疆维吾尔自治区",
-      "rate": "0.30",
-      "num": "9",
-      "sort": "9",
-      "update_id": "2094",
-      "update_time": "2025-01-06 10:33:10",
-      "year": "2021",
-      "province_name": "新疆维吾尔自治区"
-    },
-    {
       "id": "24412",
       "school_id": "336",
       "province": "云南省",
@@ -149,6 +137,18 @@
       "update_time": "2025-01-06 10:33:10",
       "year": "2021",
       "province_name": "云南省"
+    },
+    {
+      "id": "24413",
+      "school_id": "336",
+      "province": "新疆维吾尔自治区",
+      "rate": "0.30",
+      "num": "9",
+      "sort": "9",
+      "update_id": "2094",
+      "update_time": "2025-01-06 10:33:10",
+      "year": "2021",
+      "province_name": "新疆维吾尔自治区"
     },
     {
       "id": "24411",
@@ -163,16 +163,16 @@
       "province_name": "贵州省"
     },
     {
-      "id": "24410",
+      "id": "24408",
       "school_id": "336",
-      "province": "甘肃省",
+      "province": "安徽省",
       "rate": "0.36",
       "num": "11",
       "sort": "11",
       "update_id": "2094",
       "update_time": "2025-01-06 10:33:10",
       "year": "2021",
-      "province_name": "甘肃省"
+      "province_name": "安徽省"
     },
     {
       "id": "24409",
@@ -187,28 +187,16 @@
       "province_name": "江西省"
     },
     {
-      "id": "24408",
+      "id": "24410",
       "school_id": "336",
-      "province": "安徽省",
+      "province": "甘肃省",
       "rate": "0.36",
       "num": "11",
       "sort": "11",
       "update_id": "2094",
       "update_time": "2025-01-06 10:33:10",
       "year": "2021",
-      "province_name": "安徽省"
-    },
-    {
-      "id": "24407",
-      "school_id": "336",
-      "province": "重庆市",
-      "rate": "0.40",
-      "num": "12",
-      "sort": "12",
-      "update_id": "2094",
-      "update_time": "2025-01-06 10:33:10",
-      "year": "2021",
-      "province_name": "重庆市"
+      "province_name": "甘肃省"
     },
     {
       "id": "24406",
@@ -223,16 +211,16 @@
       "province_name": "湖南省"
     },
     {
-      "id": "24405",
+      "id": "24407",
       "school_id": "336",
-      "province": "山东省",
-      "rate": "0.56",
-      "num": "17",
-      "sort": "17",
+      "province": "重庆市",
+      "rate": "0.40",
+      "num": "12",
+      "sort": "12",
       "update_id": "2094",
       "update_time": "2025-01-06 10:33:10",
       "year": "2021",
-      "province_name": "山东省"
+      "province_name": "重庆市"
     },
     {
       "id": "24404",
@@ -245,6 +233,18 @@
       "update_time": "2025-01-06 10:33:10",
       "year": "2021",
       "province_name": "内蒙古自治区"
+    },
+    {
+      "id": "24405",
+      "school_id": "336",
+      "province": "山东省",
+      "rate": "0.56",
+      "num": "17",
+      "sort": "17",
+      "update_id": "2094",
+      "update_time": "2025-01-06 10:33:10",
+      "year": "2021",
+      "province_name": "山东省"
     },
     {
       "id": "24403",

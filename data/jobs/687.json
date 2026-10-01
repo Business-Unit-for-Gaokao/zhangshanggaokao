@@ -1,20 +1,20 @@
 {
-  "update_time": "2026-09-01 09:04:40",
+  "update_time": "2026-10-01 10:38:49",
   "school_id": "687",
   "school_name": "北华航天工业学院",
-  "jobrateyear": "2022",
+  "jobrateyear": "2024",
   "jobrate": {
     "job": {
-      "1": "93.10"
+      "1": "81.77"
     },
     "postgraduate": {
-      "1": "17.90"
+      "1": "17.78"
     },
     "abroad": {
-      "1": "0.70"
+      "1": "0.69"
     },
     "content": {
-      "1": ""
+      "1": "<p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788421567_5872_thumb.png\" title=\"core_1788421567_5872_thumb.png\" alt=\"core_1788421567_5872.png\"></p>"
     }
   },
   "province": [

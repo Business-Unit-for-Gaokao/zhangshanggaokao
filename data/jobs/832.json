@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-09-01 09:05:58",
+  "update_time": "2026-10-01 10:40:10",
   "school_id": "832",
   "school_name": "中国石油大学（北京）",
   "jobrateyear": "2021",
@@ -31,18 +31,6 @@
       "province_name": "华北地区"
     },
     {
-      "id": "23971",
-      "school_id": "832",
-      "province": "东北地区",
-      "rate": "4.76",
-      "num": "39",
-      "sort": "37",
-      "update_id": "2094",
-      "update_time": "2024-12-26 11:56:20",
-      "year": "2021",
-      "province_name": "东北地区"
-    },
-    {
       "id": "23972",
       "school_id": "832",
       "province": "华东地区",
@@ -53,6 +41,18 @@
       "update_time": "2024-12-26 11:56:20",
       "year": "2021",
       "province_name": "华东地区"
+    },
+    {
+      "id": "23971",
+      "school_id": "832",
+      "province": "东北地区",
+      "rate": "4.76",
+      "num": "39",
+      "sort": "37",
+      "update_id": "2094",
+      "update_time": "2024-12-26 11:56:20",
+      "year": "2021",
+      "province_name": "东北地区"
     },
     {
       "id": "23973",

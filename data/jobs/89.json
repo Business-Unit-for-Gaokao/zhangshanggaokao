@@ -1,20 +1,20 @@
 {
-  "update_time": "2026-09-01 08:58:39",
+  "update_time": "2026-10-01 10:32:45",
   "school_id": "89",
   "school_name": "天津中医药大学",
-  "jobrateyear": "2023",
+  "jobrateyear": "2024",
   "jobrate": {
     "job": {
-      "1": "93.85"
+      "1": "88.10"
     },
     "postgraduate": {
-      "1": "29.60"
+      "1": "36.26"
     },
     "abroad": {
-      "1": "22.00"
+      "1": "2.77"
     },
     "content": {
-      "1": ""
+      "1": "<p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788747803_7259_thumb.png\" title=\"core_1788747803_7259_thumb.png\" alt=\"core_1788747803_7259.png\"><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788747828_7815_thumb.png\" title=\"core_1788747828_7815_thumb.png\" alt=\"core_1788747828_7815.png\"></p>"
     }
   },
   "province": [

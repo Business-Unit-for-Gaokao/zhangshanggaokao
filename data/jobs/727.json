@@ -1,9 +1,22 @@
 {
-  "update_time": "2026-09-01 09:05:03",
+  "update_time": "2026-10-01 10:39:12",
   "school_id": "727",
   "school_name": "唐山职业技术学院",
-  "jobrateyear": "",
-  "jobrate": {},
+  "jobrateyear": "2025",
+  "jobrate": {
+    "job": {
+      "1": "0.00"
+    },
+    "postgraduate": {
+      "1": "0.00"
+    },
+    "abroad": {
+      "1": "0.00"
+    },
+    "content": {
+      "1": "<p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788945136_5813_thumb.jpg\" xss=removed title=\"core_1788945136_5813_thumb.jpg\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788945136_5698_thumb.jpg\" xss=removed title=\"core_1788945136_5698_thumb.jpg\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788945136_1573_thumb.jpg\" xss=removed title=\"core_1788945136_1573_thumb.jpg\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788945136_3419_thumb.jpg\" xss=removed title=\"core_1788945136_3419_thumb.jpg\"></p><p><br></p>"
+    }
+  },
   "province": [],
   "attr": {},
   "company": {},

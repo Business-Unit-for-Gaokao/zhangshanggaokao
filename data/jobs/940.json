@@ -1,9 +1,22 @@
 {
-  "update_time": "2026-09-01 09:06:56",
+  "update_time": "2026-10-01 10:41:08",
   "school_id": "940",
   "school_name": "江西旅游商贸职业学院",
-  "jobrateyear": "",
-  "jobrate": {},
+  "jobrateyear": "2024",
+  "jobrate": {
+    "job": {
+      "1": "85.64"
+    },
+    "postgraduate": {
+      "1": "16.24"
+    },
+    "abroad": {
+      "1": "0.00"
+    },
+    "content": {
+      "1": "<p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788314117_1618_thumb.png\" title=\"core_1788314117_1618_thumb.png\" alt=\"core_1788314117_1618.png\"></p>"
+    }
+  },
   "province": [],
   "attr": {},
   "company": {},

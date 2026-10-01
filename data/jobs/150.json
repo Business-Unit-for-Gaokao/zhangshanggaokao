@@ -1,20 +1,20 @@
 {
-  "update_time": "2026-09-01 08:59:17",
+  "update_time": "2026-10-01 10:33:23",
   "school_id": "150",
   "school_name": "江苏理工学院",
-  "jobrateyear": "2022",
+  "jobrateyear": "2024",
   "jobrate": {
     "job": {
-      "1": "94.53"
+      "1": "86.67"
     },
     "postgraduate": {
-      "1": "13.23"
+      "1": "0.00"
     },
     "abroad": {
-      "1": "1.84"
+      "1": "0.00"
     },
     "content": {
-      "1": ""
+      "1": "<p><img src=\"https://static-data.gaokao.cn//upload/image/202606/core_1782013148_1331_thumb.jpg\" xss=removed title=\"core_1782013148_1331_thumb.jpg\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202606/core_1782013148_7439_thumb.jpg\" xss=removed title=\"core_1782013148_7439_thumb.jpg\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202606/core_1782013148_1502_thumb.jpg\" xss=removed title=\"core_1782013148_1502_thumb.jpg\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202606/core_1782013148_4711_thumb.jpg\" xss=removed title=\"core_1782013148_4711_thumb.jpg\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202606/core_1782013149_6953_thumb.jpg\" xss=removed title=\"core_1782013149_6953_thumb.jpg\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202606/core_1782013149_6709_thumb.jpg\" xss=removed title=\"core_1782013149_6709_thumb.jpg\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202606/core_1782013150_2004_thumb.jpg\" xss=removed title=\"core_1782013150_2004_thumb.jpg\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202606/core_1782013150_9889_thumb.jpg\" xss=removed title=\"core_1782013150_9889_thumb.jpg\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202606/core_1782013150_9298_thumb.jpg\" xss=removed title=\"core_1782013150_9298_thumb.jpg\"></p><p><br></p>"
     }
   },
   "province": [

@@ -1,20 +1,20 @@
 {
-  "update_time": "2026-09-01 09:18:12",
+  "update_time": "2026-10-01 10:52:03",
   "school_id": "2184",
   "school_name": "云南经济管理学院",
-  "jobrateyear": "2021",
+  "jobrateyear": "2024",
   "jobrate": {
     "job": {
-      "1": "71.90"
+      "1": "80.04"
     },
     "postgraduate": {
-      "1": "0.20"
+      "1": "1.39"
     },
     "abroad": {
-      "1": "0.09"
+      "1": "0.34"
     },
     "content": {
-      "1": ""
+      "1": "<p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788516324_9127_thumb.png\" title=\"core_1788516324_9127_thumb.png\" alt=\"core_1788516324_9127.png\"></p>"
     }
   },
   "province": [

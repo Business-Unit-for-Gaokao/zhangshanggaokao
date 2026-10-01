@@ -1,20 +1,20 @@
 {
-  "update_time": "2026-09-01 09:00:15",
+  "update_time": "2026-10-01 10:34:23",
   "school_id": "246",
   "school_name": "浙江科技大学",
-  "jobrateyear": "2023",
+  "jobrateyear": "2024",
   "jobrate": {
     "job": {
-      "1": "95.51"
+      "1": "95.03"
     },
     "postgraduate": {
-      "1": "16.55"
+      "1": "0.00"
     },
     "abroad": {
-      "1": "5.24"
+      "1": "0.00"
     },
     "content": {
-      "1": ""
+      "1": "<p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788490399_4477_thumb.png\" title=\"core_1788490399_4477_thumb.png\" alt=\"core_1788490399_4477.png\"></p>"
     }
   },
   "province": [

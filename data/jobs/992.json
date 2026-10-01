@@ -1,9 +1,22 @@
 {
-  "update_time": "2026-09-01 09:07:26",
+  "update_time": "2026-10-01 10:41:38",
   "school_id": "992",
   "school_name": "广东理工职业学院",
-  "jobrateyear": "",
-  "jobrate": {},
+  "jobrateyear": "2025",
+  "jobrate": {
+    "job": {
+      "1": "94.50"
+    },
+    "postgraduate": {
+      "1": "0.00"
+    },
+    "abroad": {
+      "1": "0.00"
+    },
+    "content": {
+      "1": "<p>截至 2025 年 9 月 4 日，2025 届毕业去向落实人数 6442 人，毕业去向落实率为\r\n94.50%（见图 3-4）。毕业生平均薪酬超 4590 元，专业匹配度 92.4%，升学占比\r\n16.9%，就业结构持续优化。</p><p><img src=\"https://static-data.gaokao.cn//upload/image/202608/core_1786678257_5079_thumb.png\" title=\"core_1786678257_5079_thumb.png\" alt=\"core_1786678257_5079.png\"></p>"
+    }
+  },
   "province": [],
   "attr": {},
   "company": {},

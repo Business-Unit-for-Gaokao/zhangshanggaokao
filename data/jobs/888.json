@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-09-01 09:06:27",
+  "update_time": "2026-10-01 10:40:40",
   "school_id": "888",
   "school_name": "萍乡学院",
   "jobrateyear": "2024",
@@ -91,18 +91,6 @@
       "province_name": "黑龙江省"
     },
     {
-      "id": "26065",
-      "school_id": "888",
-      "province": "青海省",
-      "rate": "0.15",
-      "num": "3",
-      "sort": "3",
-      "update_id": "2096",
-      "update_time": "2025-01-09 14:14:27",
-      "year": "2023",
-      "province_name": "青海省"
-    },
-    {
       "id": "26064",
       "school_id": "888",
       "province": "宁夏回族自治区",
@@ -113,6 +101,18 @@
       "update_time": "2025-01-09 14:14:27",
       "year": "2023",
       "province_name": "宁夏回族自治区"
+    },
+    {
+      "id": "26065",
+      "school_id": "888",
+      "province": "青海省",
+      "rate": "0.15",
+      "num": "3",
+      "sort": "3",
+      "update_id": "2096",
+      "update_time": "2025-01-09 14:14:27",
+      "year": "2023",
+      "province_name": "青海省"
     },
     {
       "id": "26066",
@@ -223,18 +223,6 @@
       "province_name": "云南省"
     },
     {
-      "id": "26055",
-      "school_id": "888",
-      "province": "甘肃省",
-      "rate": "0.44",
-      "num": "9",
-      "sort": "9",
-      "update_id": "2096",
-      "update_time": "2025-01-09 14:14:27",
-      "year": "2023",
-      "province_name": "甘肃省"
-    },
-    {
       "id": "26054",
       "school_id": "888",
       "province": "新疆维吾尔自治区",
@@ -245,6 +233,18 @@
       "update_time": "2025-01-09 14:14:27",
       "year": "2023",
       "province_name": "新疆维吾尔自治区"
+    },
+    {
+      "id": "26055",
+      "school_id": "888",
+      "province": "甘肃省",
+      "rate": "0.44",
+      "num": "9",
+      "sort": "9",
+      "update_id": "2096",
+      "update_time": "2025-01-09 14:14:27",
+      "year": "2023",
+      "province_name": "甘肃省"
     },
     {
       "id": "26053",

@@ -1,9 +1,22 @@
 {
-  "update_time": "2026-09-01 09:23:44",
+  "update_time": "2026-10-01 10:57:35",
   "school_id": "2930",
   "school_name": "湖南食品药品职业学院",
-  "jobrateyear": "",
-  "jobrate": {},
+  "jobrateyear": "2024",
+  "jobrate": {
+    "job": {
+      "1": "87.05"
+    },
+    "postgraduate": {
+      "1": "0.00"
+    },
+    "abroad": {
+      "1": "0.00"
+    },
+    "content": {
+      "1": "<p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1789379847_1278_thumb.jpg\" xss=removed title=\"core_1789379847_1278_thumb.jpg\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1789379847_2513_thumb.jpg\" xss=removed title=\"core_1789379847_2513_thumb.jpg\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1789379847_9454_thumb.jpg\" xss=removed title=\"core_1789379847_9454_thumb.jpg\"></p><p><br></p>"
+    }
+  },
   "province": [],
   "attr": {},
   "company": {},

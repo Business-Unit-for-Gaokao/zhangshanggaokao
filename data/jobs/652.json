@@ -1,20 +1,20 @@
 {
-  "update_time": "2026-09-01 09:04:23",
+  "update_time": "2026-10-01 10:38:32",
   "school_id": "652",
   "school_name": "沧州医学高等专科学校",
-  "jobrateyear": "2019",
+  "jobrateyear": "2025",
   "jobrate": {
     "job": {
-      "1": "95.90"
+      "1": "98.23"
     },
     "postgraduate": {
-      "1": "5.80"
+      "1": "0.00"
     },
     "abroad": {
       "1": "0.00"
     },
     "content": {
-      "1": ""
+      "1": "<p xss=removed>多措并举下，学校2025届毕业生共3558人，截至2025年12月25日，毕业生落实去向3495人，落实率为98.23%。（见表1-10）</p><p xss=removed><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788425050_2369_thumb.png\" title=\"core_1788425050_2369_thumb.png\" alt=\"core_1788425050_2369.png\"></p><p xss=removed><br></p>"
     }
   },
   "province": [],

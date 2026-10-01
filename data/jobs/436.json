@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-09-01 09:02:15",
+  "update_time": "2026-10-01 10:36:25",
   "school_id": "436",
   "school_name": "武汉轻工大学",
   "jobrateyear": "2025",
@@ -79,18 +79,6 @@
       "province_name": "西藏自治区"
     },
     {
-      "id": "25220",
-      "school_id": "436",
-      "province": "陕西省",
-      "rate": "0.23",
-      "num": "7",
-      "sort": "7",
-      "update_id": "2094",
-      "update_time": "2025-01-07 17:52:35",
-      "year": "2020",
-      "province_name": "陕西省"
-    },
-    {
       "id": "25208",
       "school_id": "436",
       "province": "海南省",
@@ -101,6 +89,18 @@
       "update_time": "2025-01-07 17:52:35",
       "year": "2020",
       "province_name": "海南省"
+    },
+    {
+      "id": "25220",
+      "school_id": "436",
+      "province": "陕西省",
+      "rate": "0.23",
+      "num": "7",
+      "sort": "7",
+      "update_id": "2094",
+      "update_time": "2025-01-07 17:52:35",
+      "year": "2020",
+      "province_name": "陕西省"
     },
     {
       "id": "25218",

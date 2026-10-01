@@ -1,20 +1,20 @@
 {
-  "update_time": "2026-09-01 08:58:46",
+  "update_time": "2026-10-01 10:32:54",
   "school_id": "101",
   "school_name": "西南财经大学",
-  "jobrateyear": "2021",
+  "jobrateyear": "2024",
   "jobrate": {
     "job": {
-      "1": "91.83"
+      "1": "0.00"
     },
     "postgraduate": {
-      "1": "25.29"
+      "1": "30.58"
     },
     "abroad": {
-      "1": "15.73"
+      "1": "18.42"
     },
     "content": {
-      "1": ""
+      "1": "<p><img src=\"https://static-data.gaokao.cn//upload/image/202606/core_1782026227_7877_thumb.jpg\" xss=removed title=\"core_1782026227_7877_thumb.jpg\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202606/core_1782026227_2741_thumb.jpg\" xss=removed title=\"core_1782026227_2741_thumb.jpg\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202606/core_1782026227_5981_thumb.jpg\" xss=removed title=\"core_1782026227_5981_thumb.jpg\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202606/core_1782026227_4863_thumb.jpg\" xss=removed title=\"core_1782026227_4863_thumb.jpg\"></p><p><br></p>"
     }
   },
   "province": [

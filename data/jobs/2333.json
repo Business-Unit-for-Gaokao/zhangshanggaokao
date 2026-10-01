@@ -1,9 +1,22 @@
 {
-  "update_time": "2026-09-01 09:19:42",
+  "update_time": "2026-10-01 10:53:29",
   "school_id": "2333",
   "school_name": "辽宁铁道职业技术学院",
-  "jobrateyear": "",
-  "jobrate": {},
+  "jobrateyear": "2025",
+  "jobrate": {
+    "job": {
+      "1": "91.45"
+    },
+    "postgraduate": {
+      "1": "0.00"
+    },
+    "abroad": {
+      "1": "0.00"
+    },
+    "content": {
+      "1": "<p xss=removed>2025届学校毕业生总数2715人，截至2025年8月31日，就业2483人，毕业去向落实率为91.45%（指标横向对比如图表1-3所示），其中协议合同就业2363人，协议合同率为87.03%，灵活就业192人，灵活就业率为7.07%，专升本39人，升学率为1.44%，基本实现充分就业。近年来学校毕业去向落实率稳居省内高校前列。学校就业工作已经形成了“就业率高、就业质量好、就业起薪高、就业稳定性强、就业发展前景好”的良好局面（近三年学校毕业生就业情况如表1-6所示）。</p><p xss=removed><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1789366458_1583_thumb.png\" title=\"core_1789366458_1583_thumb.png\" alt=\"core_1789366458_1583.png\"></p><p xss=removed>图表 1-3 2024-2025学年“应届毕业生毕业去向落实率”指标横向对比图数据来源：全国高等职业学校人才培养工作状态数据采集与管理平台</p><p xss=removed>表 1-6 近三年学校毕业生就业情况表</p><p xss=removed><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1789366492_7941_thumb.png\" title=\"core_1789366492_7941_thumb.png\" alt=\"core_1789366492_7941.png\"></p><p xss=removed>数据来源：辽宁省大学生智慧就业创业云平台</p>"
+    }
+  },
   "province": [],
   "attr": {},
   "company": {},

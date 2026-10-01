@@ -1,9 +1,22 @@
 {
-  "update_time": "2026-09-01 09:14:57",
+  "update_time": "2026-10-01 10:48:52",
   "school_id": "1871",
   "school_name": "厦门海洋职业技术学院",
-  "jobrateyear": "",
-  "jobrate": {},
+  "jobrateyear": "2025",
+  "jobrate": {
+    "job": {
+      "1": "97.14"
+    },
+    "postgraduate": {
+      "1": "0.00"
+    },
+    "abroad": {
+      "1": "0.00"
+    },
+    "content": {
+      "1": "<p xss=removed>截至2025年8月31日，学校共有毕业生3915人，毕业生去向落实人数为3803人，其中升学人数为723人。初次毕业生去向落实率为97.14%，近三年平均达到97%以上，其中本省区域内毕业生去向落实率为88.27%，相比于上一年度提升了1.41%。在满意度调查中，应届毕业生满意度为97.77%，用人单位满意度为95.77%。</p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1789121129_2172_thumb.png\" title=\"core_1789121129_2172_thumb.png\" alt=\"core_1789121129_2172.png\"></p>"
+    }
+  },
   "province": [],
   "attr": {},
   "company": {},

@@ -1,9 +1,22 @@
 {
-  "update_time": "2026-09-01 09:24:52",
+  "update_time": "2026-10-01 10:58:49",
   "school_id": "3129",
   "school_name": "河北工艺美术职业学院",
-  "jobrateyear": "",
-  "jobrate": {},
+  "jobrateyear": "2025",
+  "jobrate": {
+    "job": {
+      "1": "88.73"
+    },
+    "postgraduate": {
+      "1": "0.00"
+    },
+    "abroad": {
+      "1": "0.00"
+    },
+    "content": {
+      "1": "<p xss=removed>学院不断加强就业状况跟踪与质量监测。2025届毕业生共计2919人，较上年增加319人。截至2025年8月31日，落实毕业去向人数达2590人，去向落实率为88.73%。为科学评估就业质量，学院委托第三方机构开展了2025届毕业生就业质量跟踪调研。调研数据显示（见图1-8、图1-9、图1-10）：本届毕业生就业满意度与对母校的总体满意度均保持在较高水平；用人单位对河北工艺美术职业学院毕业生的专业能力与综合素养认可度高，继续聘用意愿强烈；从就业流向看，毕业生主要集中于京津冀地区，并在文化创意、工艺美术、数字媒体等专业对口领域就业，实现了学以致用。</p><p xss=removed><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1789111112_5422_thumb.png\" title=\"core_1789111112_5422_thumb.png\" alt=\"core_1789111112_5422.png\"></p><p xss=removed><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1789111126_3749_thumb.png\" title=\"core_1789111126_3749_thumb.png\" alt=\"core_1789111126_3749.png\"></p><p><br></p>"
+    }
+  },
   "province": [],
   "attr": {},
   "company": {},

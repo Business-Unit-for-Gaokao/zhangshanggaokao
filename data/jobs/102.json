@@ -1,20 +1,20 @@
 {
-  "update_time": "2026-09-01 08:58:47",
+  "update_time": "2026-10-01 10:32:54",
   "school_id": "102",
   "school_name": "厦门大学",
-  "jobrateyear": "2022",
+  "jobrateyear": "2024",
   "jobrate": {
     "job": {
-      "1": "91.10"
+      "1": "92.80"
     },
     "postgraduate": {
-      "1": "40.80"
+      "1": "0.00"
     },
     "abroad": {
-      "1": "10.20"
+      "1": "0.00"
     },
     "content": {
-      "1": ""
+      "1": "<p><img src=\"https://static-data.gaokao.cn//upload/image/202608/core_1787725725_5564_thumb.png\" title=\"core_1787725725_5564_thumb.png\" alt=\"core_1787725725_5564.png\"></p>"
     }
   },
   "province": [
@@ -31,88 +31,16 @@
       "province_name": "厦门市"
     },
     {
-      "id": "13771",
+      "id": "13763",
       "school_id": "102",
-      "province": "四川省",
-      "rate": "1.80",
-      "num": "23",
+      "province": "深圳市",
+      "rate": "14.10",
+      "num": "184",
       "sort": "5",
       "update_id": "1721",
       "update_time": "2024-05-29 10:47:49",
       "year": "2022",
-      "province_name": "四川省"
-    },
-    {
-      "id": "13770",
-      "school_id": "102",
-      "province": "湖北省",
-      "rate": "1.30",
-      "num": "17",
-      "sort": "5",
-      "update_id": "1721",
-      "update_time": "2024-05-29 10:47:49",
-      "year": "2022",
-      "province_name": "湖北省"
-    },
-    {
-      "id": "13769",
-      "school_id": "102",
-      "province": "江苏省",
-      "rate": "3.30",
-      "num": "43",
-      "sort": "5",
-      "update_id": "1721",
-      "update_time": "2024-05-29 10:47:49",
-      "year": "2022",
-      "province_name": "江苏省"
-    },
-    {
-      "id": "13768",
-      "school_id": "102",
-      "province": "北京市",
-      "rate": "5.10",
-      "num": "66",
-      "sort": "5",
-      "update_id": "1721",
-      "update_time": "2024-05-29 10:47:49",
-      "year": "2022",
-      "province_name": "北京市"
-    },
-    {
-      "id": "13767",
-      "school_id": "102",
-      "province": "广东省（不含深圳）",
-      "rate": "5.50",
-      "num": "72",
-      "sort": "5",
-      "update_id": "1721",
-      "update_time": "2024-05-29 10:47:49",
-      "year": "2022",
-      "province_name": "广东省（不含深圳）"
-    },
-    {
-      "id": "13766",
-      "school_id": "102",
-      "province": "浙江省",
-      "rate": "4.80",
-      "num": "63",
-      "sort": "5",
-      "update_id": "1721",
-      "update_time": "2024-05-29 10:47:49",
-      "year": "2022",
-      "province_name": "浙江省"
-    },
-    {
-      "id": "13765",
-      "school_id": "102",
-      "province": "上海市",
-      "rate": "5.80",
-      "num": "76",
-      "sort": "5",
-      "update_id": "1721",
-      "update_time": "2024-05-29 10:47:49",
-      "year": "2022",
-      "province_name": "上海市"
+      "province_name": "深圳市"
     },
     {
       "id": "13764",
@@ -127,16 +55,88 @@
       "province_name": "福建省（不含厦门）"
     },
     {
-      "id": "13763",
+      "id": "13765",
       "school_id": "102",
-      "province": "深圳市",
-      "rate": "14.10",
-      "num": "184",
+      "province": "上海市",
+      "rate": "5.80",
+      "num": "76",
       "sort": "5",
       "update_id": "1721",
       "update_time": "2024-05-29 10:47:49",
       "year": "2022",
-      "province_name": "深圳市"
+      "province_name": "上海市"
+    },
+    {
+      "id": "13766",
+      "school_id": "102",
+      "province": "浙江省",
+      "rate": "4.80",
+      "num": "63",
+      "sort": "5",
+      "update_id": "1721",
+      "update_time": "2024-05-29 10:47:49",
+      "year": "2022",
+      "province_name": "浙江省"
+    },
+    {
+      "id": "13767",
+      "school_id": "102",
+      "province": "广东省（不含深圳）",
+      "rate": "5.50",
+      "num": "72",
+      "sort": "5",
+      "update_id": "1721",
+      "update_time": "2024-05-29 10:47:49",
+      "year": "2022",
+      "province_name": "广东省（不含深圳）"
+    },
+    {
+      "id": "13768",
+      "school_id": "102",
+      "province": "北京市",
+      "rate": "5.10",
+      "num": "66",
+      "sort": "5",
+      "update_id": "1721",
+      "update_time": "2024-05-29 10:47:49",
+      "year": "2022",
+      "province_name": "北京市"
+    },
+    {
+      "id": "13769",
+      "school_id": "102",
+      "province": "江苏省",
+      "rate": "3.30",
+      "num": "43",
+      "sort": "5",
+      "update_id": "1721",
+      "update_time": "2024-05-29 10:47:49",
+      "year": "2022",
+      "province_name": "江苏省"
+    },
+    {
+      "id": "13770",
+      "school_id": "102",
+      "province": "湖北省",
+      "rate": "1.30",
+      "num": "17",
+      "sort": "5",
+      "update_id": "1721",
+      "update_time": "2024-05-29 10:47:49",
+      "year": "2022",
+      "province_name": "湖北省"
+    },
+    {
+      "id": "13771",
+      "school_id": "102",
+      "province": "四川省",
+      "rate": "1.80",
+      "num": "23",
+      "sort": "5",
+      "update_id": "1721",
+      "update_time": "2024-05-29 10:47:49",
+      "year": "2022",
+      "province_name": "四川省"
     }
   ],
   "attr": {
@@ -159,11 +159,11 @@
     "天马微电子股份有限公司": "19",
     "厦门建发集团有限公司": "19",
     "普联技术有限公司": "17",
-    "中国建设银行股份有限公司": "14",
     "招商银行股份有限公司": "14",
+    "中国建设银行股份有限公司": "14",
+    "腾讯科技有限公司": "11",
     "国家电网有限公司": "11",
     "福建星网锐捷通讯股份有限公司": "11",
-    "腾讯科技有限公司": "11",
     "厦门象屿集团有限公司": "9",
     "阿里巴巴集团控股有限公司": "8",
     "宁德时代新能源科技股份有限公司": "8",

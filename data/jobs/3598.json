@@ -1,9 +1,22 @@
 {
-  "update_time": "2026-09-01 09:28:34",
+  "update_time": "2026-10-01 11:02:33",
   "school_id": "3598",
   "school_name": "宝鸡中北职业学院",
-  "jobrateyear": "",
-  "jobrate": {},
+  "jobrateyear": "2025",
+  "jobrate": {
+    "job": {
+      "1": "79.00"
+    },
+    "postgraduate": {
+      "1": "0.00"
+    },
+    "abroad": {
+      "1": "0.00"
+    },
+    "content": {
+      "1": "<p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788316218_3638_thumb.png\" title=\"core_1788316218_3638_thumb.png\" alt=\"core_1788316218_3638.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788316259_4727_thumb.png\" title=\"core_1788316259_4727_thumb.png\" alt=\"core_1788316259_4727.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788316275_1128_thumb.png\" title=\"core_1788316275_1128_thumb.png\" alt=\"core_1788316275_1128.png\"></p>"
+    }
+  },
   "province": [],
   "attr": {},
   "company": {},

@@ -1,9 +1,22 @@
 {
-  "update_time": "2026-09-01 09:05:15",
+  "update_time": "2026-10-01 10:39:25",
   "school_id": "753",
   "school_name": "石家庄信息工程职业学院",
-  "jobrateyear": "",
-  "jobrate": {},
+  "jobrateyear": "2025",
+  "jobrate": {
+    "job": {
+      "1": "97.32"
+    },
+    "postgraduate": {
+      "1": "20.62"
+    },
+    "abroad": {
+      "1": "0.00"
+    },
+    "content": {
+      "1": "<p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788506761_9133_thumb.png\" title=\"core_1788506761_9133_thumb.png\" alt=\"core_1788506761_9133.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788506772_8124_thumb.png\" title=\"core_1788506772_8124_thumb.png\" alt=\"core_1788506772_8124.png\"></p>"
+    }
+  },
   "province": [
     {
       "id": "10797",

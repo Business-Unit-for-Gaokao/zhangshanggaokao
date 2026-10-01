@@ -1,20 +1,20 @@
 {
-  "update_time": "2026-09-01 09:27:34",
+  "update_time": "2026-10-01 11:01:35",
   "school_id": "3490",
   "school_name": "永州师范高等专科学校",
-  "jobrateyear": "2023",
+  "jobrateyear": "2025",
   "jobrate": {
     "job": {
-      "1": "88.22"
+      "1": "90.17"
     },
     "postgraduate": {
-      "1": "9.96"
+      "1": "0.00"
     },
     "abroad": {
       "1": "0.00"
     },
     "content": {
-      "1": ""
+      "1": "<p><img src=\"https://static-data.gaokao.cn//upload/image/202608/core_1787130759_1476_thumb.png\" title=\"core_1787130759_1476_thumb.png\" alt=\"core_1787130759_1476.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202608/core_1787130782_9416_thumb.png\" title=\"core_1787130782_9416_thumb.png\" alt=\"core_1787130782_9416.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202608/core_1787130789_5401_thumb.png\" title=\"core_1787130789_5401_thumb.png\" alt=\"core_1787130789_5401.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202608/core_1787130801_6342_thumb.png\" title=\"core_1787130801_6342_thumb.png\" alt=\"core_1787130801_6342.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202608/core_1787130809_3588_thumb.png\" title=\"core_1787130809_3588_thumb.png\" alt=\"core_1787130809_3588.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202608/core_1787130829_4650_thumb.png\" title=\"core_1787130829_4650_thumb.png\" alt=\"core_1787130829_4650.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202608/core_1787130847_9362_thumb.png\" title=\"core_1787130847_9362_thumb.png\" alt=\"core_1787130847_9362.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202608/core_1787130855_1167_thumb.png\" title=\"core_1787130855_1167_thumb.png\" alt=\"core_1787130855_1167.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202608/core_1787130863_7465_thumb.png\" title=\"core_1787130863_7465_thumb.png\" alt=\"core_1787130863_7465.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202608/core_1787130875_4364_thumb.png\" title=\"core_1787130875_4364_thumb.png\" alt=\"core_1787130875_4364.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202608/core_1787130882_9494_thumb.png\" title=\"core_1787130882_9494_thumb.png\" alt=\"core_1787130882_9494.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202608/core_1787130913_1744_thumb.png\" title=\"core_1787130913_1744_thumb.png\" alt=\"core_1787130913_1744.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202608/core_1787130928_7490_thumb.png\" title=\"core_1787130928_7490_thumb.png\" alt=\"core_1787130928_7490.png\"></p>"
     }
   },
   "province": [

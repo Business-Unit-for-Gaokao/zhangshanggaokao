@@ -1,20 +1,20 @@
 {
-  "update_time": "2026-09-01 09:06:16",
+  "update_time": "2026-10-01 10:40:29",
   "school_id": "869",
   "school_name": "江西科技学院",
-  "jobrateyear": "2023",
+  "jobrateyear": "2024",
   "jobrate": {
     "job": {
-      "1": "81.51"
+      "1": "83.33"
     },
     "postgraduate": {
-      "1": "9.44"
+      "1": "0.00"
     },
     "abroad": {
-      "1": "0.25"
+      "1": "0.00"
     },
     "content": {
-      "1": ""
+      "1": "<p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788774780_7263_thumb.png\" title=\"core_1788774780_7263_thumb.png\" alt=\"core_1788774780_7263.png\"></p>"
     }
   },
   "province": [
@@ -187,18 +187,6 @@
       "province_name": "陕西省"
     },
     {
-      "id": "26799",
-      "school_id": "869",
-      "province": "河南省",
-      "rate": "0.60",
-      "num": "46",
-      "sort": "46",
-      "update_id": "2094",
-      "update_time": "2025-01-10 16:43:26",
-      "year": "2023",
-      "province_name": "河南省"
-    },
-    {
       "id": "26798",
       "school_id": "869",
       "province": "四川省",
@@ -209,6 +197,18 @@
       "update_time": "2025-01-10 16:43:26",
       "year": "2023",
       "province_name": "四川省"
+    },
+    {
+      "id": "26799",
+      "school_id": "869",
+      "province": "河南省",
+      "rate": "0.60",
+      "num": "46",
+      "sort": "46",
+      "update_id": "2094",
+      "update_time": "2025-01-10 16:43:26",
+      "year": "2023",
+      "province_name": "河南省"
     },
     {
       "id": "26797",

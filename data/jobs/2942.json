@@ -1,9 +1,22 @@
 {
-  "update_time": "2026-09-01 09:23:49",
+  "update_time": "2026-10-01 10:57:40",
   "school_id": "2942",
   "school_name": "广州东华职业学院",
-  "jobrateyear": "",
-  "jobrate": {},
+  "jobrateyear": "2024",
+  "jobrate": {
+    "job": {
+      "1": "96.43"
+    },
+    "postgraduate": {
+      "1": "0.00"
+    },
+    "abroad": {
+      "1": "0.00"
+    },
+    "content": {
+      "1": "<p>学校 2024 届毕业生 1708 人，截止 2024 年 8 月 31 日初次去向落实率 91.25%，截\r\n止 2024 年 12 月 10 日总体去向落实率 96.43%，远高于全省平均水平；专业对口率\r\n77.63%，与 2023 届同期相比提高了 6.58%；平均月薪 4078.97 元，与 2023 届毕业生\r\n同期相比提高了 257.82 元/月。用人单位满意度 95.26%，与 2023 年相比提高了 5.26%；\r\n毕业生满意度 81.01%，与 2023 年相比提高了 2.41%。</p><p><img src=\"https://static-data.gaokao.cn//upload/image/202608/core_1788161302_3438_thumb.png\" title=\"core_1788161302_3438_thumb.png\" alt=\"core_1788161302_3438.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202608/core_1788161313_7848_thumb.png\" title=\"core_1788161313_7848_thumb.png\" alt=\"core_1788161313_7848.png\"></p>"
+    }
+  },
   "province": [],
   "attr": {},
   "company": {},

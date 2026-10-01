@@ -1,34 +1,34 @@
 {
-  "update_time": "2026-09-01 09:15:55",
+  "update_time": "2026-10-01 10:49:50",
   "school_id": "1964",
   "school_name": "武汉工商学院",
-  "jobrateyear": "2021",
+  "jobrateyear": "2024",
   "jobrate": {
     "job": {
-      "1": "91.11"
+      "1": "91.32"
     },
     "postgraduate": {
-      "1": "15.00"
+      "1": "4.94"
     },
     "abroad": {
-      "1": "2.00"
+      "1": "0.00"
     },
     "content": {
-      "1": ""
+      "1": "<p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788503781_7581_thumb.png\" title=\"core_1788503781_7581_thumb.png\" alt=\"core_1788503781_7581.png\"></p><p><br></p>"
     }
   },
   "province": [
     {
-      "id": "25331",
+      "id": "25329",
       "school_id": "1964",
-      "province": "青海省",
+      "province": "辽宁省",
       "rate": "0.04",
       "num": "4",
       "sort": "4",
       "update_id": "2094",
       "update_time": "2025-01-08 09:40:06",
       "year": "2021",
-      "province_name": "青海省"
+      "province_name": "辽宁省"
     },
     {
       "id": "25330",
@@ -43,16 +43,16 @@
       "province_name": "宁夏回族自治区"
     },
     {
-      "id": "25329",
+      "id": "25331",
       "school_id": "1964",
-      "province": "辽宁省",
+      "province": "青海省",
       "rate": "0.04",
       "num": "4",
       "sort": "4",
       "update_id": "2094",
       "update_time": "2025-01-08 09:40:06",
       "year": "2021",
-      "province_name": "辽宁省"
+      "province_name": "青海省"
     },
     {
       "id": "25328",
@@ -175,18 +175,6 @@
       "province_name": "山西省"
     },
     {
-      "id": "25317",
-      "school_id": "1964",
-      "province": "河北省",
-      "rate": "0.56",
-      "num": "56",
-      "sort": "56",
-      "update_id": "2094",
-      "update_time": "2025-01-08 09:40:06",
-      "year": "2021",
-      "province_name": "河北省"
-    },
-    {
       "id": "25318",
       "school_id": "1964",
       "province": "湖南省",
@@ -197,6 +185,18 @@
       "update_time": "2025-01-08 09:40:06",
       "year": "2021",
       "province_name": "湖南省"
+    },
+    {
+      "id": "25317",
+      "school_id": "1964",
+      "province": "河北省",
+      "rate": "0.56",
+      "num": "56",
+      "sort": "56",
+      "update_id": "2094",
+      "update_time": "2025-01-08 09:40:06",
+      "year": "2021",
+      "province_name": "河北省"
     },
     {
       "id": "25316",

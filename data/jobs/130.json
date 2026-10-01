@@ -1,20 +1,20 @@
 {
-  "update_time": "2026-09-01 08:59:05",
+  "update_time": "2026-10-01 10:33:12",
   "school_id": "130",
   "school_name": "上海财经大学",
-  "jobrateyear": "2023",
+  "jobrateyear": "2024",
   "jobrate": {
     "job": {
-      "1": "96.31"
+      "1": "92.84"
     },
     "postgraduate": {
-      "1": "11.85"
+      "1": "34.31"
     },
     "abroad": {
-      "1": "8.09"
+      "1": "25.53"
     },
     "content": {
-      "1": ""
+      "1": "<p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788512461_7994_thumb.png\" title=\"core_1788512461_7994_thumb.png\" alt=\"core_1788512461_7994.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788512827_4910_thumb.png\" title=\"core_1788512827_4910_thumb.png\" alt=\"core_1788512827_4910.png\"></p>"
     }
   },
   "province": [

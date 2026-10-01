@@ -1,20 +1,20 @@
 {
-  "update_time": "2026-09-01 09:04:31",
+  "update_time": "2026-10-01 10:38:40",
   "school_id": "671",
   "school_name": "上海工艺美术职业学院",
-  "jobrateyear": "2019",
+  "jobrateyear": "2025",
   "jobrate": {
     "job": {
-      "1": "99.05"
+      "1": "95.41"
     },
     "postgraduate": {
-      "1": "10.14"
+      "1": "24.33"
     },
     "abroad": {
-      "1": "1.58"
+      "1": "0.00"
     },
     "content": {
-      "1": ""
+      "1": "<p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788506843_7286_thumb.png\" title=\"core_1788506843_7286_thumb.png\" alt=\"core_1788506843_7286.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788506954_6873_thumb.png\" title=\"core_1788506954_6873_thumb.png\" alt=\"core_1788506954_6873.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788506977_2589_thumb.png\" title=\"core_1788506977_2589_thumb.png\" alt=\"core_1788506977_2589.png\"></p><p><br></p>"
     }
   },
   "province": [

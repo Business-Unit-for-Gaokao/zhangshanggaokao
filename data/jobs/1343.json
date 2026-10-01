@@ -1,17 +1,17 @@
 {
-  "update_time": "2026-09-01 09:10:18",
+  "update_time": "2026-10-01 10:44:23",
   "school_id": "1343",
   "school_name": "西交利物浦大学",
-  "jobrateyear": "2024",
+  "jobrateyear": "2025",
   "jobrate": {
     "job": {
-      "1": "93.39"
+      "1": "93.10"
     },
     "postgraduate": {
-      "1": "0.29"
+      "1": "0.20"
     },
     "abroad": {
-      "1": "88.19"
+      "1": "86.23"
     },
     "content": {
       "1": ""
@@ -391,19 +391,7 @@
     "国家税务总局常州市钟楼区税务局": "1",
     "招商局工业智能科技 (江苏) 有限公司": "1"
   },
-  "gradute": [
-    {
-      "id": "265",
-      "school_id": "1343",
-      "female_num": "1426",
-      "men_num": "1109",
-      "men_rate": "43.75",
-      "female_rate": "56.25",
-      "update_id": null,
-      "update_time": null,
-      "year": "2019"
-    }
-  ],
+  "gradute": [],
   "remark": "",
   "salary": {
     "6": "11100"

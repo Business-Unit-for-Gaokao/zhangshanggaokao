@@ -1,20 +1,20 @@
 {
-  "update_time": "2026-09-01 09:03:12",
+  "update_time": "2026-10-01 10:37:22",
   "school_id": "530",
   "school_name": "广西医科大学",
-  "jobrateyear": "2023",
+  "jobrateyear": "2024",
   "jobrate": {
     "job": {
-      "1": "87.35"
+      "1": "89.48"
     },
     "postgraduate": {
-      "1": "29.92"
+      "1": "26.67"
     },
     "abroad": {
-      "1": "0.18"
+      "1": "0.38"
     },
     "content": {
-      "1": ""
+      "1": "<p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788511494_2548_thumb.png\" title=\"core_1788511494_2548_thumb.png\" alt=\"core_1788511494_2548.png\"></p>"
     }
   },
   "province": [
@@ -187,6 +187,18 @@
       "province_name": "江西"
     },
     {
+      "id": "23424",
+      "school_id": "530",
+      "province": "新疆",
+      "rate": "0.51",
+      "num": "17",
+      "sort": "17",
+      "update_id": "1988",
+      "update_time": "2024-10-31 11:35:41",
+      "year": "2023",
+      "province_name": "新疆"
+    },
+    {
       "id": "23423",
       "school_id": "530",
       "province": "海南",
@@ -209,18 +221,6 @@
       "update_time": "2024-10-31 11:35:41",
       "year": "2023",
       "province_name": "四川"
-    },
-    {
-      "id": "23424",
-      "school_id": "530",
-      "province": "新疆",
-      "rate": "0.51",
-      "num": "17",
-      "sort": "17",
-      "update_id": "1988",
-      "update_time": "2024-10-31 11:35:41",
-      "year": "2023",
-      "province_name": "新疆"
     },
     {
       "id": "23422",

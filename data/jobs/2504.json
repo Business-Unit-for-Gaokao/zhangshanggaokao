@@ -1,9 +1,22 @@
 {
-  "update_time": "2026-09-01 09:21:24",
+  "update_time": "2026-10-01 10:55:13",
   "school_id": "2504",
   "school_name": "四川现代职业学院",
-  "jobrateyear": "",
-  "jobrate": {},
+  "jobrateyear": "2024",
+  "jobrate": {
+    "job": {
+      "1": "95.04"
+    },
+    "postgraduate": {
+      "1": "0.00"
+    },
+    "abroad": {
+      "1": "0.00"
+    },
+    "content": {
+      "1": "<p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1789439602_2126_thumb.jpg\" title=\"core_1789439602_2126_thumb.jpg\" alt=\"core_1789439602_2126.jpg\"></p>"
+    }
+  },
   "province": [],
   "attr": {},
   "company": {},

@@ -1,9 +1,22 @@
 {
-  "update_time": "2026-09-01 09:06:42",
+  "update_time": "2026-10-01 10:40:54",
   "school_id": "917",
   "school_name": "江西应用工程职业学院",
-  "jobrateyear": "",
-  "jobrate": {},
+  "jobrateyear": "2025",
+  "jobrate": {
+    "job": {
+      "1": "98.18"
+    },
+    "postgraduate": {
+      "1": "9.34"
+    },
+    "abroad": {
+      "1": "0.00"
+    },
+    "content": {
+      "1": "<p xss=removed><span xss=removed><span xss=removed>毕业生就业质量与社会贡献度保持稳定。</span><span xss=removed>2025</span><span xss=removed>届毕业生人数为</span><span xss=removed>2742</span><span xss=removed>人，毕业生去向落实率达到</span><span xss=removed>98.18%</span><span xss=removed>，就业基本面保持稳定。同时，积极引导毕业生服务地方经济建设，本省域直接就业率</span><span xss=removed>74.13%</span><span xss=removed>，在安徽省内就业的毕业生比例呈上升趋势，毕业生留马率达</span><span xss=removed>42.17%</span><span xss=removed>，较上年显著提高。</span></span></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788745353_7166_thumb.png\" title=\"core_1788745353_7166_thumb.png\" alt=\"core_1788745353_7166.png\"></p>"
+    }
+  },
   "province": [],
   "attr": {},
   "company": {},

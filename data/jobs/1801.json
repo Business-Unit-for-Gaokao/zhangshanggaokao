@@ -1,20 +1,20 @@
 {
-  "update_time": "2026-09-01 09:14:12",
+  "update_time": "2026-10-01 10:48:09",
   "school_id": "1801",
   "school_name": "合肥师范学院",
-  "jobrateyear": "2023",
+  "jobrateyear": "2024",
   "jobrate": {
     "job": {
-      "1": "95.32"
+      "1": "91.43"
     },
     "postgraduate": {
-      "1": "12.06"
+      "1": "14.09"
     },
     "abroad": {
-      "1": "0.70"
+      "1": "0.92"
     },
     "content": {
-      "1": ""
+      "1": "<p><img src=\"https://static-data.gaokao.cn//upload/image/202608/core_1787727033_8620_thumb.png\" title=\"core_1787727033_8620_thumb.png\" alt=\"core_1787727033_8620.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202608/core_1787727051_2944_thumb.png\" title=\"core_1787727051_2944_thumb.png\" alt=\"core_1787727051_2944.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202608/core_1787727070_9298_thumb.png\" title=\"core_1787727070_9298_thumb.png\" alt=\"core_1787727070_9298.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202608/core_1787727107_7282_thumb.png\" title=\"core_1787727107_7282_thumb.png\" alt=\"core_1787727107_7282.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202608/core_1787727131_9969_thumb.png\" title=\"core_1787727131_9969_thumb.png\" alt=\"core_1787727131_9969.png\"></p><p><br></p>"
     }
   },
   "province": [
@@ -139,18 +139,6 @@
       "province_name": "天津市"
     },
     {
-      "id": "23496",
-      "school_id": "1801",
-      "province": "山西省",
-      "rate": "0.18",
-      "num": "6",
-      "sort": "6",
-      "update_id": "1988",
-      "update_time": "2024-10-31 15:09:17",
-      "year": "2023",
-      "province_name": "山西省"
-    },
-    {
       "id": "23495",
       "school_id": "1801",
       "province": "辽宁省",
@@ -161,6 +149,18 @@
       "update_time": "2024-10-31 15:09:17",
       "year": "2023",
       "province_name": "辽宁省"
+    },
+    {
+      "id": "23496",
+      "school_id": "1801",
+      "province": "山西省",
+      "rate": "0.18",
+      "num": "6",
+      "sort": "6",
+      "update_id": "1988",
+      "update_time": "2024-10-31 15:09:17",
+      "year": "2023",
+      "province_name": "山西省"
     },
     {
       "id": "23494",

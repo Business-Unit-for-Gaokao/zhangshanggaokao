@@ -1,20 +1,20 @@
 {
-  "update_time": "2026-09-01 08:58:11",
+  "update_time": "2026-10-01 10:32:18",
   "school_id": "44",
   "school_name": "湖南大学",
-  "jobrateyear": "2021",
+  "jobrateyear": "2024",
   "jobrate": {
     "job": {
-      "1": "87.88"
+      "1": "87.83"
     },
     "postgraduate": {
-      "1": "37.25"
+      "1": "38.49"
     },
     "abroad": {
-      "1": "8.51"
+      "1": "8.63"
     },
     "content": {
-      "1": ""
+      "1": "<p><img src=\"https://static-data.gaokao.cn//upload/image/202608/core_1787623488_9499_thumb.png\" title=\"core_1787623488_9499_thumb.png\" alt=\"core_1787623488_9499.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202608/core_1787623496_3334_thumb.png\" title=\"core_1787623496_3334_thumb.png\" alt=\"core_1787623496_3334.png\"></p>"
     }
   },
   "province": [

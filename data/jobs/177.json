@@ -1,20 +1,20 @@
 {
-  "update_time": "2026-09-01 08:59:32",
+  "update_time": "2026-10-01 10:33:40",
   "school_id": "177",
   "school_name": "南昌航空大学",
-  "jobrateyear": "2022",
+  "jobrateyear": "2024",
   "jobrate": {
     "job": {
-      "1": "85.33"
+      "1": "82.95"
     },
     "postgraduate": {
-      "1": "35.75"
+      "1": "0.00"
     },
     "abroad": {
       "1": "0.00"
     },
     "content": {
-      "1": ""
+      "1": "<p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788488838_7920_thumb.png\" title=\"core_1788488838_7920_thumb.png\" alt=\"core_1788488838_7920.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788488889_9872_thumb.png\" title=\"core_1788488889_9872_thumb.png\" alt=\"core_1788488889_9872.png\"></p>"
     }
   },
   "province": [
@@ -55,18 +55,6 @@
       "province_name": "抚州市"
     },
     {
-      "id": "15017",
-      "school_id": "177",
-      "province": "宜春市",
-      "rate": "1.13",
-      "num": "22",
-      "sort": "22",
-      "update_id": "2004",
-      "update_time": "2024-05-31 16:52:11",
-      "year": "2022",
-      "province_name": "宜春市"
-    },
-    {
       "id": "15015",
       "school_id": "177",
       "province": "新余市",
@@ -77,6 +65,18 @@
       "update_time": "2024-05-31 16:52:11",
       "year": "2022",
       "province_name": "新余市"
+    },
+    {
+      "id": "15017",
+      "school_id": "177",
+      "province": "宜春市",
+      "rate": "1.13",
+      "num": "22",
+      "sort": "22",
+      "update_id": "2004",
+      "update_time": "2024-05-31 16:52:11",
+      "year": "2022",
+      "province_name": "宜春市"
     },
     {
       "id": "15016",

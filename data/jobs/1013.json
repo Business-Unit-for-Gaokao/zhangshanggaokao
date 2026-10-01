@@ -1,20 +1,20 @@
 {
-  "update_time": "2026-09-01 09:07:38",
+  "update_time": "2026-10-01 10:41:51",
   "school_id": "1013",
   "school_name": "武汉铁路职业技术学院",
-  "jobrateyear": "2023",
+  "jobrateyear": "2025",
   "jobrate": {
     "job": {
-      "1": "97.92"
+      "1": "97.20"
     },
     "postgraduate": {
-      "1": "12.42"
+      "1": "10.26"
     },
     "abroad": {
-      "1": "0.02"
+      "1": "0.00"
     },
     "content": {
-      "1": ""
+      "1": "<p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788403526_4476_thumb.png\" title=\"core_1788403526_4476_thumb.png\" alt=\"core_1788403526_4476.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788403548_7900_thumb.png\" title=\"core_1788403548_7900_thumb.png\" alt=\"core_1788403548_7900.png\"></p>"
     }
   },
   "province": [

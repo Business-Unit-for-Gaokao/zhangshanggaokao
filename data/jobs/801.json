@@ -1,20 +1,20 @@
 {
-  "update_time": "2026-09-01 09:05:44",
+  "update_time": "2026-10-01 10:39:54",
   "school_id": "801",
   "school_name": "四川工业科技学院",
-  "jobrateyear": "2022",
+  "jobrateyear": "2024",
   "jobrate": {
     "job": {
-      "1": "88.46"
+      "1": "87.78"
     },
     "postgraduate": {
-      "1": "13.76"
+      "1": "1.72"
     },
     "abroad": {
-      "1": "0.04"
+      "1": "0.00"
     },
     "content": {
-      "1": ""
+      "1": "<p><img src=\"https://static-data.gaokao.cn//upload/image/202608/core_1787543200_8149_thumb.png\" title=\"core_1787543200_8149_thumb.png\" alt=\"core_1787543200_8149.png\"></p>"
     }
   },
   "province": [

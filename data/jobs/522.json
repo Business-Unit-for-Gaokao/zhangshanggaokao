@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-09-01 09:03:08",
+  "update_time": "2026-10-01 10:37:17",
   "school_id": "522",
   "school_name": "黔南民族师范学院",
   "jobrateyear": "2024",
@@ -115,18 +115,6 @@
       "province_name": "国外"
     },
     {
-      "id": "22042",
-      "school_id": "522",
-      "province": "甘肃省",
-      "rate": "0.14",
-      "num": "4",
-      "sort": "4",
-      "update_id": "2094",
-      "update_time": "2024-09-20 11:45:28",
-      "year": "2022",
-      "province_name": "甘肃省"
-    },
-    {
       "id": "22043",
       "school_id": "522",
       "province": "西藏自治区",
@@ -137,6 +125,18 @@
       "update_time": "2024-09-20 11:45:28",
       "year": "2022",
       "province_name": "西藏自治区"
+    },
+    {
+      "id": "22042",
+      "school_id": "522",
+      "province": "甘肃省",
+      "rate": "0.14",
+      "num": "4",
+      "sort": "4",
+      "update_id": "2094",
+      "update_time": "2024-09-20 11:45:28",
+      "year": "2022",
+      "province_name": "甘肃省"
     },
     {
       "id": "22041",
@@ -199,18 +199,6 @@
       "province_name": "江西省"
     },
     {
-      "id": "22035",
-      "school_id": "522",
-      "province": "河北省",
-      "rate": "0.37",
-      "num": "11",
-      "sort": "11",
-      "update_id": "2094",
-      "update_time": "2024-09-20 11:45:28",
-      "year": "2022",
-      "province_name": "河北省"
-    },
-    {
       "id": "22036",
       "school_id": "522",
       "province": "河南省",
@@ -221,6 +209,18 @@
       "update_time": "2024-09-20 11:45:28",
       "year": "2022",
       "province_name": "河南省"
+    },
+    {
+      "id": "22035",
+      "school_id": "522",
+      "province": "河北省",
+      "rate": "0.37",
+      "num": "11",
+      "sort": "11",
+      "update_id": "2094",
+      "update_time": "2024-09-20 11:45:28",
+      "year": "2022",
+      "province_name": "河北省"
     },
     {
       "id": "22034",
@@ -259,18 +259,6 @@
       "province_name": "福建省"
     },
     {
-      "id": "22031",
-      "school_id": "522",
-      "province": "重庆市",
-      "rate": "0.57",
-      "num": "17",
-      "sort": "17",
-      "update_id": "2094",
-      "update_time": "2024-09-20 11:45:28",
-      "year": "2022",
-      "province_name": "重庆市"
-    },
-    {
       "id": "22030",
       "school_id": "522",
       "province": "安徽省",
@@ -281,6 +269,18 @@
       "update_time": "2024-09-20 11:45:28",
       "year": "2022",
       "province_name": "安徽省"
+    },
+    {
+      "id": "22031",
+      "school_id": "522",
+      "province": "重庆市",
+      "rate": "0.57",
+      "num": "17",
+      "sort": "17",
+      "update_id": "2094",
+      "update_time": "2024-09-20 11:45:28",
+      "year": "2022",
+      "province_name": "重庆市"
     },
     {
       "id": "22029",

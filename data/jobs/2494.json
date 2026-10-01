@@ -1,20 +1,20 @@
 {
-  "update_time": "2026-09-01 09:21:18",
+  "update_time": "2026-10-01 10:55:06",
   "school_id": "2494",
   "school_name": "四川传媒学院",
-  "jobrateyear": "2019",
+  "jobrateyear": "2024",
   "jobrate": {
     "job": {
-      "1": "94.99"
+      "1": "89.05"
     },
     "postgraduate": {
-      "1": "0.99"
+      "1": "2.06"
     },
     "abroad": {
-      "1": "1.87"
+      "1": "3.59"
     },
     "content": {
-      "1": ""
+      "1": "<p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788430113_6576_thumb.png\" title=\"core_1788430113_6576_thumb.png\" alt=\"core_1788430113_6576.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788430153_6479_thumb.png\" title=\"core_1788430153_6479_thumb.png\" alt=\"core_1788430153_6479.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788430183_3691_thumb.png\" title=\"core_1788430183_3691_thumb.png\" alt=\"core_1788430183_3691.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788430200_2817_thumb.png\" title=\"core_1788430200_2817_thumb.png\" alt=\"core_1788430200_2817.png\"></p>"
     }
   },
   "province": [],

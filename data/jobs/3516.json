@@ -1,9 +1,22 @@
 {
-  "update_time": "2026-09-01 09:27:52",
+  "update_time": "2026-10-01 11:01:53",
   "school_id": "3516",
   "school_name": "林州建筑职业技术学院",
-  "jobrateyear": "",
-  "jobrate": {},
+  "jobrateyear": "2025",
+  "jobrate": {
+    "job": {
+      "1": "82.74"
+    },
+    "postgraduate": {
+      "1": "0.00"
+    },
+    "abroad": {
+      "1": "0.00"
+    },
+    "content": {
+      "1": "<p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1789032990_9301_thumb.png\" title=\"core_1789032990_9301_thumb.png\" alt=\"core_1789032990_9301.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1789033014_9205_thumb.png\" title=\"core_1789033014_9205_thumb.png\" alt=\"core_1789033014_9205.png\"></p>"
+    }
+  },
   "province": [],
   "attr": {},
   "company": {},

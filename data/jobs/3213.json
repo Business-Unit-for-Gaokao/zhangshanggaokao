@@ -1,9 +1,22 @@
 {
-  "update_time": "2026-09-01 09:25:11",
+  "update_time": "2026-10-01 10:59:06",
   "school_id": "3213",
   "school_name": "广州卫生职业技术学院",
-  "jobrateyear": "",
-  "jobrate": {},
+  "jobrateyear": "2025",
+  "jobrate": {
+    "job": {
+      "1": "95.14"
+    },
+    "postgraduate": {
+      "1": "0.00"
+    },
+    "abroad": {
+      "1": "0.00"
+    },
+    "content": {
+      "1": "<p xss=removed>2025 届毕业生参与就业人数 2592 人，已就业人数为2466 人，毕业去向落实率为 95.14%，专业对口率为 85.49%，其中单位就业人数占比85.73%，自主创业人数占比 0.23%，自由职业人数占比 4.21%，升学人数占比4.98%，详见图 2-8。</p><p xss=removed><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788340173_3713_thumb.png\" title=\"core_1788340173_3713_thumb.png\" alt=\"core_1788340173_3713.png\"></p>"
+    }
+  },
   "province": [],
   "attr": {},
   "company": {},

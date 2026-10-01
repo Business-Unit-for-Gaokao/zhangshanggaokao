@@ -1,20 +1,20 @@
 {
-  "update_time": "2026-09-01 09:07:11",
+  "update_time": "2026-10-01 10:41:22",
   "school_id": "964",
   "school_name": "广东技术师范大学",
-  "jobrateyear": "2021",
+  "jobrateyear": "2024",
   "jobrate": {
     "job": {
-      "1": "93.29"
+      "1": "0.00"
     },
     "postgraduate": {
-      "1": "5.77"
+      "1": "5.78"
     },
     "abroad": {
-      "1": "0.55"
+      "1": "1.86"
     },
     "content": {
-      "1": ""
+      "1": "<p><img src=\"https://static-data.gaokao.cn//upload/image/202608/core_1786688741_9672_thumb.png\" title=\"core_1786688741_9672_thumb.png\" alt=\"core_1786688741_9672.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202608/core_1786688759_6276_thumb.png\" title=\"core_1786688759_6276_thumb.png\" alt=\"core_1786688759_6276.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202608/core_1786688786_5977_thumb.png\" title=\"core_1786688786_5977_thumb.png\" alt=\"core_1786688786_5977.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202608/core_1786688804_4987_thumb.png\" title=\"core_1786688804_4987_thumb.png\" alt=\"core_1786688804_4987.png\"></p><p><br></p><p><br></p>"
     }
   },
   "province": [

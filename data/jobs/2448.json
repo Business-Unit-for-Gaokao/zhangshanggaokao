@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-09-01 09:20:50",
+  "update_time": "2026-10-01 10:54:38",
   "school_id": "2448",
   "school_name": "安阳学院",
   "jobrateyear": "2020",
@@ -31,18 +31,6 @@
       "province_name": "宁夏回族自治区"
     },
     {
-      "id": "23230",
-      "school_id": "2448",
-      "province": "海南省",
-      "rate": "0.39",
-      "num": "12",
-      "sort": "12",
-      "update_id": "1988",
-      "update_time": "2024-10-17 09:31:34",
-      "year": "2020",
-      "province_name": "海南省"
-    },
-    {
       "id": "23231",
       "school_id": "2448",
       "province": "吉林省",
@@ -53,6 +41,18 @@
       "update_time": "2024-10-17 09:31:34",
       "year": "2020",
       "province_name": "吉林省"
+    },
+    {
+      "id": "23230",
+      "school_id": "2448",
+      "province": "海南省",
+      "rate": "0.39",
+      "num": "12",
+      "sort": "12",
+      "update_id": "1988",
+      "update_time": "2024-10-17 09:31:34",
+      "year": "2020",
+      "province_name": "海南省"
     },
     {
       "id": "23232",

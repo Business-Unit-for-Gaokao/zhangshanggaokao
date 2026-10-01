@@ -1,20 +1,20 @@
 {
-  "update_time": "2026-09-01 09:15:12",
+  "update_time": "2026-10-01 10:49:06",
   "school_id": "1895",
   "school_name": "闽南理工学院",
-  "jobrateyear": "2020",
+  "jobrateyear": "2024",
   "jobrate": {
     "job": {
-      "1": "79.02"
+      "1": "88.37"
     },
     "postgraduate": {
-      "1": "0.38"
+      "1": "1.15"
     },
     "abroad": {
-      "1": "0.20"
+      "1": "0.18"
     },
     "content": {
-      "1": ""
+      "1": "<p><img src=\"https://static-data.gaokao.cn//upload/image/202608/core_1786695805_2957_thumb.png\" title=\"core_1786695805_2957_thumb.png\" alt=\"core_1786695805_2957.png\"></p>"
     }
   },
   "province": [

@@ -1,9 +1,22 @@
 {
-  "update_time": "2026-09-01 09:08:52",
+  "update_time": "2026-10-01 10:43:04",
   "school_id": "1165",
   "school_name": "菏泽医学专科学校",
-  "jobrateyear": "",
-  "jobrate": {},
+  "jobrateyear": "2025",
+  "jobrate": {
+    "job": {
+      "1": "97.03"
+    },
+    "postgraduate": {
+      "1": "37.89"
+    },
+    "abroad": {
+      "1": "0.22"
+    },
+    "content": {
+      "1": "<p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1789353432_9145_thumb.jpg\" xss=removed title=\"core_1789353432_9145_thumb.jpg\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1789353432_6476_thumb.jpg\" xss=removed title=\"core_1789353432_6476_thumb.jpg\"></p><p><br></p>"
+    }
+  },
   "province": [],
   "attr": {},
   "company": {},

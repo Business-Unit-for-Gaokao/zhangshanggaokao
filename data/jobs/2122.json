@@ -1,9 +1,22 @@
 {
-  "update_time": "2026-09-01 09:17:33",
+  "update_time": "2026-10-01 10:51:27",
   "school_id": "2122",
   "school_name": "山东电子职业技术学院",
-  "jobrateyear": "",
-  "jobrate": {},
+  "jobrateyear": "2025",
+  "jobrate": {
+    "job": {
+      "1": "91.30"
+    },
+    "postgraduate": {
+      "1": "0.00"
+    },
+    "abroad": {
+      "1": "0.00"
+    },
+    "content": {
+      "1": "<p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1789005251_8379_thumb.jpg\" xss=removed title=\"core_1789005251_8379_thumb.jpg\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1789005251_4155_thumb.jpg\" xss=removed title=\"core_1789005251_4155_thumb.jpg\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1789005251_1602_thumb.jpg\" xss=removed title=\"core_1789005251_1602_thumb.jpg\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1789005251_7349_thumb.jpg\" xss=removed title=\"core_1789005251_7349_thumb.jpg\"></p><p><br></p>"
+    }
+  },
   "province": [],
   "attr": {},
   "company": {},

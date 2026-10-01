@@ -1,20 +1,20 @@
 {
-  "update_time": "2026-09-01 09:08:25",
+  "update_time": "2026-10-01 10:42:36",
   "school_id": "1112",
   "school_name": "北京工业大学耿丹学院",
-  "jobrateyear": "2023",
+  "jobrateyear": "2024",
   "jobrate": {
     "job": {
-      "1": "90.28"
+      "1": "82.02"
     },
     "postgraduate": {
-      "1": "0.90"
+      "1": "1.83"
     },
     "abroad": {
-      "1": "10.70"
+      "1": "11.93"
     },
     "content": {
-      "1": ""
+      "1": "<p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788749186_5261_thumb.png\" title=\"core_1788749186_5261_thumb.png\" alt=\"core_1788749186_5261.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788749204_2764_thumb.png\" title=\"core_1788749204_2764_thumb.png\" alt=\"core_1788749204_2764.png\"></p>"
     }
   },
   "province": [

@@ -1,9 +1,22 @@
 {
-  "update_time": "2026-09-01 09:13:35",
+  "update_time": "2026-10-01 10:47:34",
   "school_id": "1743",
   "school_name": "广西国际商务职业技术学院",
-  "jobrateyear": "",
-  "jobrate": {},
+  "jobrateyear": "2025",
+  "jobrate": {
+    "job": {
+      "1": "92.92"
+    },
+    "postgraduate": {
+      "1": "0.00"
+    },
+    "abroad": {
+      "1": "0.00"
+    },
+    "content": {
+      "1": "<p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1789096677_5949_thumb.jpg\" xss=removed title=\"core_1789096677_5949_thumb.jpg\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1789096677_7470_thumb.jpg\" xss=removed title=\"core_1789096677_7470_thumb.jpg\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1789096677_1713_thumb.jpg\" xss=removed title=\"core_1789096677_1713_thumb.jpg\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1789096677_9000_thumb.jpg\" xss=removed title=\"core_1789096677_9000_thumb.jpg\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1789096677_5282_thumb.jpg\" xss=removed title=\"core_1789096677_5282_thumb.jpg\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1789096678_4920_thumb.jpg\" xss=removed title=\"core_1789096678_4920_thumb.jpg\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1789096678_5713_thumb.jpg\" xss=removed title=\"core_1789096678_5713_thumb.jpg\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1789096678_3914_thumb.jpg\" xss=removed title=\"core_1789096678_3914_thumb.jpg\"></p><p><br></p>"
+    }
+  },
   "province": [],
   "attr": {},
   "company": {},

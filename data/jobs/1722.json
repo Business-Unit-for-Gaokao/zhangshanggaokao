@@ -1,9 +1,22 @@
 {
-  "update_time": "2026-09-01 09:13:22",
+  "update_time": "2026-10-01 10:47:22",
   "school_id": "1722",
   "school_name": "甘肃畜牧工程职业技术学院",
-  "jobrateyear": "",
-  "jobrate": {},
+  "jobrateyear": "2024",
+  "jobrate": {
+    "job": {
+      "1": "0.00"
+    },
+    "postgraduate": {
+      "1": "0.00"
+    },
+    "abroad": {
+      "1": "0.00"
+    },
+    "content": {
+      "1": "<p><img src=\"https://static-data.gaokao.cn//upload/image/202608/core_1787023753_5886_thumb.png\" title=\"core_1787023753_5886_thumb.png\" alt=\"core_1787023753_5886.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202608/core_1787023772_6371_thumb.png\" title=\"core_1787023772_6371_thumb.png\" alt=\"core_1787023772_6371.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202608/core_1787023781_2964_thumb.png\" title=\"core_1787023781_2964_thumb.png\" alt=\"core_1787023781_2964.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202608/core_1787023796_8748_thumb.png\" title=\"core_1787023796_8748_thumb.png\" alt=\"core_1787023796_8748.png\"></p>"
+    }
+  },
   "province": [],
   "attr": {},
   "company": {},

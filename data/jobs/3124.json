@@ -1,9 +1,22 @@
 {
-  "update_time": "2026-09-01 09:24:50",
+  "update_time": "2026-10-01 10:58:46",
   "school_id": "3124",
   "school_name": "渤海理工职业学院",
-  "jobrateyear": "",
-  "jobrate": {},
+  "jobrateyear": "2025",
+  "jobrate": {
+    "job": {
+      "1": "69.30"
+    },
+    "postgraduate": {
+      "1": "0.00"
+    },
+    "abroad": {
+      "1": "0.00"
+    },
+    "content": {
+      "1": ""
+    }
+  },
   "province": [],
   "attr": {},
   "company": {},

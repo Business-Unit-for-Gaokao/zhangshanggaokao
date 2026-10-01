@@ -1,20 +1,20 @@
 {
-  "update_time": "2026-09-01 09:08:00",
+  "update_time": "2026-10-01 10:42:11",
   "school_id": "1052",
   "school_name": "湖北经济学院法商学院",
-  "jobrateyear": "2022",
+  "jobrateyear": "2024",
   "jobrate": {
     "job": {
-      "1": "91.25"
+      "1": "82.58"
     },
     "postgraduate": {
-      "1": "4.40"
+      "1": "5.28"
     },
     "abroad": {
-      "1": "1.33"
+      "1": "1.79"
     },
     "content": {
-      "1": ""
+      "1": "<p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788515762_4761_thumb.png\" title=\"core_1788515762_4761_thumb.png\" alt=\"core_1788515762_4761.png\"></p>"
     }
   },
   "province": [

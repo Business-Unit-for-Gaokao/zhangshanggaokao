@@ -1,9 +1,22 @@
 {
-  "update_time": "2026-09-01 09:18:37",
+  "update_time": "2026-10-01 10:52:26",
   "school_id": "2226",
   "school_name": "九州职业技术学院",
-  "jobrateyear": "",
-  "jobrate": {},
+  "jobrateyear": "2025",
+  "jobrate": {
+    "job": {
+      "1": "92.99"
+    },
+    "postgraduate": {
+      "1": "0.00"
+    },
+    "abroad": {
+      "1": "0.00"
+    },
+    "content": {
+      "1": "<p><img src=\"https://static-data.gaokao.cn//upload/image/202608/core_1788162552_1017_thumb.png\" title=\"core_1788162552_1017_thumb.png\" alt=\"core_1788162552_1017.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202608/core_1788162564_9011_thumb.png\" title=\"core_1788162564_9011_thumb.png\" alt=\"core_1788162564_9011.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202608/core_1788162571_9563_thumb.png\" title=\"core_1788162571_9563_thumb.png\" alt=\"core_1788162571_9563.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202608/core_1788162582_6345_thumb.png\" title=\"core_1788162582_6345_thumb.png\" alt=\"core_1788162582_6345.png\"></p>"
+    }
+  },
   "province": [],
   "attr": {},
   "company": {},

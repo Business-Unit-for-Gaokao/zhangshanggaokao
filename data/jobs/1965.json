@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-09-01 09:15:56",
+  "update_time": "2026-10-01 10:49:50",
   "school_id": "1965",
   "school_name": "湖北工业大学工程技术学院",
   "jobrateyear": "2022",
@@ -163,18 +163,6 @@
       "province_name": "贵州省"
     },
     {
-      "id": "19383",
-      "school_id": "1965",
-      "province": "重庆市",
-      "rate": "0.60",
-      "num": "15",
-      "sort": "15",
-      "update_id": "2004",
-      "update_time": "2024-06-18 14:05:08",
-      "year": "2022",
-      "province_name": "重庆市"
-    },
-    {
       "id": "19382",
       "school_id": "1965",
       "province": "河北省",
@@ -185,6 +173,18 @@
       "update_time": "2024-06-18 14:05:08",
       "year": "2022",
       "province_name": "河北省"
+    },
+    {
+      "id": "19383",
+      "school_id": "1965",
+      "province": "重庆市",
+      "rate": "0.60",
+      "num": "15",
+      "sort": "15",
+      "update_id": "2004",
+      "update_time": "2024-06-18 14:05:08",
+      "year": "2022",
+      "province_name": "重庆市"
     },
     {
       "id": "19381",

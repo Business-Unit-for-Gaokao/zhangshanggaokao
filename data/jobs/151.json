@@ -1,20 +1,20 @@
 {
-  "update_time": "2026-09-01 08:59:17",
+  "update_time": "2026-10-01 10:33:24",
   "school_id": "151",
   "school_name": "南京审计大学",
-  "jobrateyear": "2020",
+  "jobrateyear": "2024",
   "jobrate": {
     "job": {
-      "1": "85.30"
+      "1": "98.99"
     },
     "postgraduate": {
-      "1": "16.40"
+      "1": "0.00"
     },
     "abroad": {
-      "1": "8.33"
+      "1": "0.00"
     },
     "content": {
-      "1": ""
+      "1": "<p>2024 届应届毕业生 4245 人，实际毕业 4202 人，毕业率 98.99%；4187 人获学士学位，学士学位授予率 98.63%。截止到目前，学校总体就业率为 91.1%。应届毕业学生中初次就业率为86.55%。其中协议就业 2428 人，占比 57.21%。</p>"
     }
   },
   "province": [
@@ -91,18 +91,6 @@
       "province_name": "山西"
     },
     {
-      "id": "14825",
-      "school_id": "151",
-      "province": "重庆",
-      "rate": "0.42",
-      "num": "11",
-      "sort": "11",
-      "update_id": "2004",
-      "update_time": "2024-05-27 18:28:20",
-      "year": "2020",
-      "province_name": "重庆"
-    },
-    {
       "id": "14824",
       "school_id": "151",
       "province": "湖南",
@@ -115,16 +103,16 @@
       "province_name": "湖南"
     },
     {
-      "id": "14823",
+      "id": "14825",
       "school_id": "151",
-      "province": "辽宁",
-      "rate": "0.46",
-      "num": "12",
-      "sort": "12",
+      "province": "重庆",
+      "rate": "0.42",
+      "num": "11",
+      "sort": "11",
       "update_id": "2004",
       "update_time": "2024-05-27 18:28:20",
       "year": "2020",
-      "province_name": "辽宁"
+      "province_name": "重庆"
     },
     {
       "id": "14822",
@@ -139,6 +127,18 @@
       "province_name": "河北"
     },
     {
+      "id": "14823",
+      "school_id": "151",
+      "province": "辽宁",
+      "rate": "0.46",
+      "num": "12",
+      "sort": "12",
+      "update_id": "2004",
+      "update_time": "2024-05-27 18:28:20",
+      "year": "2020",
+      "province_name": "辽宁"
+    },
+    {
       "id": "14821",
       "school_id": "151",
       "province": "甘肃",
@@ -149,18 +149,6 @@
       "update_time": "2024-05-27 18:28:20",
       "year": "2020",
       "province_name": "甘肃"
-    },
-    {
-      "id": "14820",
-      "school_id": "151",
-      "province": "青海",
-      "rate": "0.62",
-      "num": "16",
-      "sort": "16",
-      "update_id": "2004",
-      "update_time": "2024-05-27 18:28:20",
-      "year": "2020",
-      "province_name": "青海"
     },
     {
       "id": "14819",
@@ -187,16 +175,16 @@
       "province_name": "天津"
     },
     {
-      "id": "14817",
+      "id": "14820",
       "school_id": "151",
-      "province": "湖北",
-      "rate": "0.69",
-      "num": "18",
-      "sort": "18",
+      "province": "青海",
+      "rate": "0.62",
+      "num": "16",
+      "sort": "16",
       "update_id": "2004",
       "update_time": "2024-05-27 18:28:20",
       "year": "2020",
-      "province_name": "湖北"
+      "province_name": "青海"
     },
     {
       "id": "14816",
@@ -209,6 +197,18 @@
       "update_time": "2024-05-27 18:28:20",
       "year": "2020",
       "province_name": "福建"
+    },
+    {
+      "id": "14817",
+      "school_id": "151",
+      "province": "湖北",
+      "rate": "0.69",
+      "num": "18",
+      "sort": "18",
+      "update_id": "2004",
+      "update_time": "2024-05-27 18:28:20",
+      "year": "2020",
+      "province_name": "湖北"
     },
     {
       "id": "14815",
@@ -271,18 +271,6 @@
       "province_name": "四川"
     },
     {
-      "id": "14810",
-      "school_id": "151",
-      "province": "云南",
-      "rate": "1.27",
-      "num": "33",
-      "sort": "33",
-      "update_id": "2004",
-      "update_time": "2024-05-27 18:28:20",
-      "year": "2020",
-      "province_name": "云南"
-    },
-    {
       "id": "14809",
       "school_id": "151",
       "province": "广西",
@@ -293,6 +281,18 @@
       "update_time": "2024-05-27 18:28:20",
       "year": "2020",
       "province_name": "广西"
+    },
+    {
+      "id": "14810",
+      "school_id": "151",
+      "province": "云南",
+      "rate": "1.27",
+      "num": "33",
+      "sort": "33",
+      "update_id": "2004",
+      "update_time": "2024-05-27 18:28:20",
+      "year": "2020",
+      "province_name": "云南"
     },
     {
       "id": "14808",

@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-09-01 09:05:43",
+  "update_time": "2026-10-01 10:39:54",
   "school_id": "800",
   "school_name": "四川交通职业技术学院",
   "jobrateyear": "2024",
@@ -19,18 +19,6 @@
   },
   "province": [
     {
-      "id": "28827",
-      "school_id": "800",
-      "province": "眉山",
-      "rate": "1.46",
-      "num": "0",
-      "sort": "146",
-      "update_id": "2314",
-      "update_time": "2025-11-12 15:00:39",
-      "year": "2024",
-      "province_name": "眉山"
-    },
-    {
       "id": "28828",
       "school_id": "800",
       "province": "广元",
@@ -43,16 +31,16 @@
       "province_name": "广元"
     },
     {
-      "id": "28825",
+      "id": "28827",
       "school_id": "800",
-      "province": "泸州",
-      "rate": "1.60",
+      "province": "眉山",
+      "rate": "1.46",
       "num": "0",
-      "sort": "160",
+      "sort": "146",
       "update_id": "2314",
       "update_time": "2025-11-12 15:00:39",
       "year": "2024",
-      "province_name": "泸州"
+      "province_name": "眉山"
     },
     {
       "id": "28826",
@@ -67,6 +55,18 @@
       "province_name": "绵阳"
     },
     {
+      "id": "28825",
+      "school_id": "800",
+      "province": "泸州",
+      "rate": "1.60",
+      "num": "0",
+      "sort": "160",
+      "update_id": "2314",
+      "update_time": "2025-11-12 15:00:39",
+      "year": "2024",
+      "province_name": "泸州"
+    },
+    {
       "id": "28824",
       "school_id": "800",
       "province": "上海",
@@ -79,18 +79,6 @@
       "province_name": "上海"
     },
     {
-      "id": "28822",
-      "school_id": "800",
-      "province": "宜宾",
-      "rate": "2.26",
-      "num": "0",
-      "sort": "226",
-      "update_id": "2314",
-      "update_time": "2025-11-12 15:00:39",
-      "year": "2024",
-      "province_name": "宜宾"
-    },
-    {
       "id": "28823",
       "school_id": "800",
       "province": "德阳",
@@ -101,6 +89,18 @@
       "update_time": "2025-11-12 15:00:39",
       "year": "2024",
       "province_name": "德阳"
+    },
+    {
+      "id": "28822",
+      "school_id": "800",
+      "province": "宜宾",
+      "rate": "2.26",
+      "num": "0",
+      "sort": "226",
+      "update_id": "2314",
+      "update_time": "2025-11-12 15:00:39",
+      "year": "2024",
+      "province_name": "宜宾"
     },
     {
       "id": "28821",

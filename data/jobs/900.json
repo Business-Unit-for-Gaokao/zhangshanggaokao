@@ -1,9 +1,22 @@
 {
-  "update_time": "2026-09-01 09:06:34",
+  "update_time": "2026-10-01 10:40:46",
   "school_id": "900",
   "school_name": "江西工业贸易职业技术学院",
-  "jobrateyear": "",
-  "jobrate": {},
+  "jobrateyear": "2025",
+  "jobrate": {
+    "job": {
+      "1": "88.67"
+    },
+    "postgraduate": {
+      "1": "19.45"
+    },
+    "abroad": {
+      "1": "0.02"
+    },
+    "content": {
+      "1": "<p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1789357051_1042_thumb.jpg\" xss=removed title=\"core_1789357051_1042_thumb.jpg\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1789357051_9763_thumb.jpg\" xss=removed title=\"core_1789357051_9763_thumb.jpg\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1789357051_4470_thumb.jpg\" xss=removed title=\"core_1789357051_4470_thumb.jpg\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1789357052_1536_thumb.jpg\" xss=removed title=\"core_1789357052_1536_thumb.jpg\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1789357052_6136_thumb.jpg\" xss=removed title=\"core_1789357052_6136_thumb.jpg\"></p><p><br></p>"
+    }
+  },
   "province": [],
   "attr": {},
   "company": {},

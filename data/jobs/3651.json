@@ -1,9 +1,22 @@
 {
-  "update_time": "2026-09-01 09:29:04",
+  "update_time": "2026-10-01 11:03:05",
   "school_id": "3651",
   "school_name": "桂林信息工程职业学院",
-  "jobrateyear": "",
-  "jobrate": {},
+  "jobrateyear": "2025",
+  "jobrate": {
+    "job": {
+      "1": "0.00"
+    },
+    "postgraduate": {
+      "1": "0.00"
+    },
+    "abroad": {
+      "1": "0.00"
+    },
+    "content": {
+      "1": "<p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788508499_2296_thumb.png\" title=\"core_1788508499_2296_thumb.png\" alt=\"core_1788508499_2296.png\"></p>"
+    }
+  },
   "province": [],
   "attr": {},
   "company": {},

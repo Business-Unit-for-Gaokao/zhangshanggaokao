@@ -1,9 +1,22 @@
 {
-  "update_time": "2026-09-01 09:28:21",
+  "update_time": "2026-10-01 11:02:19",
   "school_id": "3578",
   "school_name": "滨州科技职业学院",
-  "jobrateyear": "",
-  "jobrate": {},
+  "jobrateyear": "2025",
+  "jobrate": {
+    "job": {
+      "1": "90.74"
+    },
+    "postgraduate": {
+      "1": "6.80"
+    },
+    "abroad": {
+      "1": "0.00"
+    },
+    "content": {
+      "1": "<p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788252266_7600_thumb.png\" title=\"core_1788252266_7600_thumb.png\" alt=\"core_1788252266_7600.png\"></p><p><br></p>"
+    }
+  },
   "province": [],
   "attr": {},
   "company": {},

@@ -1,9 +1,22 @@
 {
-  "update_time": "2026-09-01 09:22:52",
+  "update_time": "2026-10-01 10:56:43",
   "school_id": "2688",
   "school_name": "广西科技职业学院",
-  "jobrateyear": "",
-  "jobrate": {},
+  "jobrateyear": "2025",
+  "jobrate": {
+    "job": {
+      "1": "71.24"
+    },
+    "postgraduate": {
+      "1": "6.01"
+    },
+    "abroad": {
+      "1": "0.00"
+    },
+    "content": {
+      "1": "<p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788428721_9357_thumb.png\" title=\"core_1788428721_9357_thumb.png\" alt=\"core_1788428721_9357.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788428736_6231_thumb.png\" title=\"core_1788428736_6231_thumb.png\" alt=\"core_1788428736_6231.png\"></p>"
+    }
+  },
   "province": [],
   "attr": {},
   "company": {},

@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-09-01 09:03:14",
+  "update_time": "2026-10-01 10:37:24",
   "school_id": "534",
   "school_name": "山东交通学院",
   "jobrateyear": "2024",
@@ -19,16 +19,16 @@
   },
   "province": [
     {
-      "id": "12797",
+      "id": "12795",
       "school_id": "534",
-      "province": "聊城",
-      "rate": "1.82",
+      "province": "泰安",
+      "rate": "2.20",
       "num": "0",
       "sort": "0",
       "update_id": "1579",
       "update_time": "2022-03-29 09:51:11",
       "year": "2019",
-      "province_name": "聊城"
+      "province_name": "泰安"
     },
     {
       "id": "12806",
@@ -127,16 +127,16 @@
       "province_name": "德州"
     },
     {
-      "id": "12789",
+      "id": "12797",
       "school_id": "534",
-      "province": "济南",
-      "rate": "35.29",
+      "province": "聊城",
+      "rate": "1.82",
       "num": "0",
       "sort": "0",
       "update_id": "1579",
       "update_time": "2022-03-29 09:51:11",
       "year": "2019",
-      "province_name": "济南"
+      "province_name": "聊城"
     },
     {
       "id": "12796",
@@ -149,18 +149,6 @@
       "update_time": "2022-03-29 09:51:11",
       "year": "2019",
       "province_name": "威海"
-    },
-    {
-      "id": "12795",
-      "school_id": "534",
-      "province": "泰安",
-      "rate": "2.20",
-      "num": "0",
-      "sort": "0",
-      "update_id": "1579",
-      "update_time": "2022-03-29 09:51:11",
-      "year": "2019",
-      "province_name": "泰安"
     },
     {
       "id": "12794",
@@ -221,6 +209,18 @@
       "update_time": "2022-03-29 09:51:11",
       "year": "2019",
       "province_name": "青岛"
+    },
+    {
+      "id": "12789",
+      "school_id": "534",
+      "province": "济南",
+      "rate": "35.29",
+      "num": "0",
+      "sort": "0",
+      "update_id": "1579",
+      "update_time": "2022-03-29 09:51:11",
+      "year": "2019",
+      "province_name": "济南"
     }
   ],
   "attr": {

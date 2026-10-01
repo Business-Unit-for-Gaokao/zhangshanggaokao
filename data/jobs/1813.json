@@ -1,9 +1,22 @@
 {
-  "update_time": "2026-09-01 09:14:21",
+  "update_time": "2026-10-01 10:48:17",
   "school_id": "1813",
   "school_name": "安徽警官职业学院",
-  "jobrateyear": "",
-  "jobrate": {},
+  "jobrateyear": "2025",
+  "jobrate": {
+    "job": {
+      "1": "89.82"
+    },
+    "postgraduate": {
+      "1": "27.74"
+    },
+    "abroad": {
+      "1": "0.03"
+    },
+    "content": {
+      "1": "<p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788340695_7064_thumb.png\" title=\"core_1788340695_7064_thumb.png\" alt=\"core_1788340695_7064.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788340706_2649_thumb.png\" title=\"core_1788340706_2649_thumb.png\" alt=\"core_1788340706_2649.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788340722_2469_thumb.png\" title=\"core_1788340722_2469_thumb.png\" alt=\"core_1788340722_2469.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788340735_6243_thumb.png\" title=\"core_1788340735_6243_thumb.png\" alt=\"core_1788340735_6243.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788340753_7097_thumb.png\" title=\"core_1788340753_7097_thumb.png\" alt=\"core_1788340753_7097.png\"></p><p><br><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788340793_4944_thumb.png\" title=\"core_1788340793_4944_thumb.png\" alt=\"core_1788340793_4944.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788340827_2475_thumb.png\" title=\"core_1788340827_2475_thumb.png\" alt=\"core_1788340827_2475.png\"></p><p><br></p>"
+    }
+  },
   "province": [],
   "attr": {},
   "company": {},

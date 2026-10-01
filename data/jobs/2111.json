@@ -1,20 +1,20 @@
 {
-  "update_time": "2026-09-01 09:17:25",
+  "update_time": "2026-10-01 10:51:19",
   "school_id": "2111",
   "school_name": "山东交通职业学院",
-  "jobrateyear": "2023",
+  "jobrateyear": "2025",
   "jobrate": {
     "job": {
-      "1": "91.80"
+      "1": "97.22"
     },
     "postgraduate": {
-      "1": "17.30"
+      "1": "0.00"
     },
     "abroad": {
       "1": "0.00"
     },
     "content": {
-      "1": ""
+      "1": "<p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788502279_4396_thumb.png\" title=\"core_1788502279_4396_thumb.png\" alt=\"core_1788502279_4396.png\"><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788502584_4456_thumb.png\" title=\"core_1788502584_4456_thumb.png\" alt=\"core_1788502584_4456.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788502592_7150_thumb.png\" title=\"core_1788502592_7150_thumb.png\" alt=\"core_1788502592_7150.png\"><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788502618_8564_thumb.png\" title=\"core_1788502618_8564_thumb.png\" alt=\"core_1788502618_8564.png\"><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788502632_1668_thumb.png\" title=\"core_1788502632_1668_thumb.png\" alt=\"core_1788502632_1668.png\"></p>"
     }
   },
   "province": [],

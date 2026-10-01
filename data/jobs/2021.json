@@ -1,9 +1,22 @@
 {
-  "update_time": "2026-09-01 09:16:31",
+  "update_time": "2026-10-01 10:50:25",
   "school_id": "2021",
   "school_name": "湖南化工职业技术学院",
-  "jobrateyear": "",
-  "jobrate": {},
+  "jobrateyear": "2025",
+  "jobrate": {
+    "job": {
+      "1": "91.03"
+    },
+    "postgraduate": {
+      "1": "0.00"
+    },
+    "abroad": {
+      "1": "0.00"
+    },
+    "content": {
+      "1": "<p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788429060_3983_thumb.png\" title=\"core_1788429060_3983_thumb.png\" alt=\"core_1788429060_3983.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788429073_8590_thumb.png\" title=\"core_1788429073_8590_thumb.png\" alt=\"core_1788429073_8590.png\"></p>"
+    }
+  },
   "province": [],
   "attr": {},
   "company": {},

@@ -1,9 +1,22 @@
 {
-  "update_time": "2026-09-01 09:25:43",
+  "update_time": "2026-10-01 10:59:39",
   "school_id": "3275",
   "school_name": "三亚中瑞酒店管理职业学院",
-  "jobrateyear": "",
-  "jobrate": {},
+  "jobrateyear": "2025",
+  "jobrate": {
+    "job": {
+      "1": "97.07"
+    },
+    "postgraduate": {
+      "1": "0.00"
+    },
+    "abroad": {
+      "1": "0.00"
+    },
+    "content": {
+      "1": "<p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788508159_8356_thumb.png\" title=\"core_1788508159_8356_thumb.png\" alt=\"core_1788508159_8356.png\"></p>"
+    }
+  },
   "province": [],
   "attr": {},
   "company": {},

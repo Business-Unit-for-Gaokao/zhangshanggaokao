@@ -1,20 +1,20 @@
 {
-  "update_time": "2026-09-01 09:24:08",
+  "update_time": "2026-10-01 10:57:59",
   "school_id": "2996",
   "school_name": "贵州理工学院",
-  "jobrateyear": "2022",
+  "jobrateyear": "2024",
   "jobrate": {
     "job": {
-      "1": "81.10"
+      "1": "83.55"
     },
     "postgraduate": {
-      "1": "4.40"
+      "1": "3.77"
     },
     "abroad": {
-      "1": "0.50"
+      "1": "0.45"
     },
     "content": {
-      "1": ""
+      "1": "<p><img src=\"https://static-data.gaokao.cn//upload/image/202608/core_1787710231_7689_thumb.png\" title=\"core_1787710231_7689_thumb.png\" alt=\"core_1787710231_7689.png\"></p>"
     }
   },
   "province": [

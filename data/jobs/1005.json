@@ -1,9 +1,22 @@
 {
-  "update_time": "2026-09-01 09:07:34",
+  "update_time": "2026-10-01 10:41:46",
   "school_id": "1005",
   "school_name": "广州康大职业技术学院",
-  "jobrateyear": "",
-  "jobrate": {},
+  "jobrateyear": "2024",
+  "jobrate": {
+    "job": {
+      "1": "90.00"
+    },
+    "postgraduate": {
+      "1": "2.61"
+    },
+    "abroad": {
+      "1": "0.00"
+    },
+    "content": {
+      "1": "<p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788501884_4983_thumb.png\" title=\"core_1788501884_4983_thumb.png\" alt=\"core_1788501884_4983.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788501896_5589_thumb.png\" title=\"core_1788501896_5589_thumb.png\" alt=\"core_1788501896_5589.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788501912_7493_thumb.png\" title=\"core_1788501912_7493_thumb.png\" alt=\"core_1788501912_7493.png\"></p>"
+    }
+  },
   "province": [],
   "attr": {},
   "company": {

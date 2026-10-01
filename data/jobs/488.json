@@ -1,20 +1,20 @@
 {
-  "update_time": "2026-09-01 09:02:48",
+  "update_time": "2026-10-01 10:36:57",
   "school_id": "488",
   "school_name": "兰州交通大学",
-  "jobrateyear": "2019",
+  "jobrateyear": "2024",
   "jobrate": {
     "job": {
-      "1": "97.12"
+      "1": "85.49"
     },
     "postgraduate": {
-      "1": "10.49"
+      "1": "0.00"
     },
     "abroad": {
-      "1": "1.01"
+      "1": "0.70"
     },
     "content": {
-      "1": ""
+      "1": "<p><img src=\"https://static-data.gaokao.cn//upload/image/202606/core_1782024458_1660_thumb.jpg\" xss=removed title=\"core_1782024458_1660_thumb.jpg\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202606/core_1782024458_5865_thumb.jpg\" xss=removed title=\"core_1782024458_5865_thumb.jpg\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202606/core_1782024458_7513_thumb.jpg\" xss=removed title=\"core_1782024458_7513_thumb.jpg\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202606/core_1782024458_1868_thumb.jpg\" xss=removed title=\"core_1782024458_1868_thumb.jpg\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202606/core_1782024458_9211_thumb.jpg\" xss=removed title=\"core_1782024458_9211_thumb.jpg\"></p><p><br></p>"
     }
   },
   "province": [

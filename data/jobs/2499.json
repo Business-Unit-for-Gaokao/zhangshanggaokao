@@ -1,20 +1,20 @@
 {
-  "update_time": "2026-09-01 09:21:21",
+  "update_time": "2026-10-01 10:55:10",
   "school_id": "2499",
   "school_name": "绵阳城市学院",
-  "jobrateyear": "2019",
+  "jobrateyear": "2024",
   "jobrate": {
     "job": {
-      "1": "97.15"
+      "1": "82.40"
     },
     "postgraduate": {
-      "1": "1.27"
+      "1": "0.00"
     },
     "abroad": {
       "1": "0.00"
     },
     "content": {
-      "1": ""
+      "1": "<p><img src=\"https://static-data.gaokao.cn//upload/image/202608/core_1787733297_9828_thumb.png\" title=\"core_1787733297_9828_thumb.png\" alt=\"core_1787733297_9828.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202608/core_1787733311_1586_thumb.png\" title=\"core_1787733311_1586_thumb.png\" alt=\"core_1787733311_1586.png\"></p>"
     }
   },
   "province": [

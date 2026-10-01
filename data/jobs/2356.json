@@ -1,20 +1,20 @@
 {
-  "update_time": "2026-09-01 09:19:52",
+  "update_time": "2026-10-01 10:53:40",
   "school_id": "2356",
   "school_name": "大连装备制造职业技术学院",
-  "jobrateyear": "2022",
+  "jobrateyear": "2024",
   "jobrate": {
     "job": {
-      "1": "95.75"
+      "1": "92.02"
     },
     "postgraduate": {
-      "1": "0.54"
+      "1": "0.00"
     },
     "abroad": {
       "1": "0.00"
     },
     "content": {
-      "1": ""
+      "1": "<p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1789694787_7718_thumb.jpg\" xss=removed title=\"core_1789694787_7718_thumb.jpg\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1789694787_7208_thumb.jpg\" xss=removed title=\"core_1789694787_7208_thumb.jpg\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1789694787_9042_thumb.jpg\" xss=removed title=\"core_1789694787_9042_thumb.jpg\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1789694788_2992_thumb.jpg\" xss=removed title=\"core_1789694788_2992_thumb.jpg\"></p><p><br></p>"
     }
   },
   "province": [],

@@ -1,20 +1,20 @@
 {
-  "update_time": "2026-09-01 08:59:01",
+  "update_time": "2026-10-01 10:33:08",
   "school_id": "124",
   "school_name": "哈尔滨工程大学",
-  "jobrateyear": "2022",
+  "jobrateyear": "2024",
   "jobrate": {
     "job": {
-      "1": "92.26"
+      "1": "93.00"
     },
     "postgraduate": {
-      "1": "52.33"
+      "1": "59.09"
     },
     "abroad": {
-      "1": "4.65"
+      "1": "0.00"
     },
     "content": {
-      "1": ""
+      "1": "<p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788511088_7223_thumb.png\" title=\"core_1788511088_7223_thumb.png\" alt=\"core_1788511088_7223.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788511100_2754_thumb.png\" title=\"core_1788511100_2754_thumb.png\" alt=\"core_1788511100_2754.png\"></p>"
     }
   },
   "province": [
@@ -110,8 +110,8 @@
     "中国航天科工集团有限公司": "8",
     "中国兵器工业集团有限公司": "8",
     "中国兵器装备集团有限公司": "5",
-    "中国航天科技集团有限公司": "3",
     "部队及所属单位": "3",
+    "中国航天科技集团有限公司": "3",
     "中国商用飞机有限责任公司": "0",
     "中国工程物理研究院": "0"
   },

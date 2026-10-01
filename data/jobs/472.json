@@ -1,20 +1,20 @@
 {
-  "update_time": "2026-09-01 09:02:38",
+  "update_time": "2026-10-01 10:36:47",
   "school_id": "472",
   "school_name": "仰恩大学",
-  "jobrateyear": "2022",
+  "jobrateyear": "2024",
   "jobrate": {
     "job": {
-      "1": "95.62"
+      "1": "91.50"
     },
     "postgraduate": {
-      "1": "0.00"
+      "1": "0.78"
     },
     "abroad": {
-      "1": "0.00"
+      "1": "0.12"
     },
     "content": {
-      "1": ""
+      "1": "<p><img src=\"https://static-data.gaokao.cn//upload/image/202608/core_1786696688_7873_thumb.png\" title=\"core_1786696688_7873_thumb.png\" alt=\"core_1786696688_7873.png\"></p>"
     }
   },
   "province": [

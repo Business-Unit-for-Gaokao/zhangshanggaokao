@@ -1,9 +1,22 @@
 {
-  "update_time": "2026-09-01 09:27:39",
+  "update_time": "2026-10-01 11:01:40",
   "school_id": "3497",
   "school_name": "山西通用航空职业技术学院",
-  "jobrateyear": "",
-  "jobrate": {},
+  "jobrateyear": "2025",
+  "jobrate": {
+    "job": {
+      "1": "95.17"
+    },
+    "postgraduate": {
+      "1": "21.04"
+    },
+    "abroad": {
+      "1": "0.00"
+    },
+    "content": {
+      "1": "<p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788418156_6365_thumb.png\" title=\"core_1788418156_6365_thumb.png\" alt=\"core_1788418156_6365.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788418166_4082_thumb.png\" title=\"core_1788418166_4082_thumb.png\" alt=\"core_1788418166_4082.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788418178_4709_thumb.png\" title=\"core_1788418178_4709_thumb.png\" alt=\"core_1788418178_4709.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788418189_7517_thumb.png\" title=\"core_1788418189_7517_thumb.png\" alt=\"core_1788418189_7517.png\"></p><p><br></p>"
+    }
+  },
   "province": [],
   "attr": {},
   "company": {},

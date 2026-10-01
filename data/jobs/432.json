@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-09-01 09:02:13",
+  "update_time": "2026-10-01 10:36:23",
   "school_id": "432",
   "school_name": "武汉纺织大学",
   "jobrateyear": "2022",
@@ -31,18 +31,6 @@
       "province_name": "北京市"
     },
     {
-      "id": "17295",
-      "school_id": "432",
-      "province": "江苏省",
-      "rate": "4.63",
-      "num": "0",
-      "sort": "5",
-      "update_id": "2004",
-      "update_time": "2024-06-10 17:06:41",
-      "year": "2022",
-      "province_name": "江苏省"
-    },
-    {
       "id": "17296",
       "school_id": "432",
       "province": "上海市",
@@ -53,6 +41,18 @@
       "update_time": "2024-06-10 17:06:41",
       "year": "2022",
       "province_name": "上海市"
+    },
+    {
+      "id": "17295",
+      "school_id": "432",
+      "province": "江苏省",
+      "rate": "4.63",
+      "num": "0",
+      "sort": "5",
+      "update_id": "2004",
+      "update_time": "2024-06-10 17:06:41",
+      "year": "2022",
+      "province_name": "江苏省"
     },
     {
       "id": "17294",

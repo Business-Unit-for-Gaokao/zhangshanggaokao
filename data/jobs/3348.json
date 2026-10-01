@@ -1,9 +1,22 @@
 {
-  "update_time": "2026-09-01 09:26:25",
+  "update_time": "2026-10-01 11:00:23",
   "school_id": "3348",
   "school_name": "江苏旅游职业学院",
-  "jobrateyear": "",
-  "jobrate": {},
+  "jobrateyear": "2024",
+  "jobrate": {
+    "job": {
+      "1": "94.13"
+    },
+    "postgraduate": {
+      "1": "0.00"
+    },
+    "abroad": {
+      "1": "0.00"
+    },
+    "content": {
+      "1": "<p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788486945_4936_thumb.png\" title=\"core_1788486945_4936_thumb.png\" alt=\"core_1788486945_4936.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788486969_3548_thumb.png\" title=\"core_1788486969_3548_thumb.png\" alt=\"core_1788486969_3548.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788486982_9114_thumb.png\" title=\"core_1788486982_9114_thumb.png\" alt=\"core_1788486982_9114.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788486991_4191_thumb.png\" title=\"core_1788486991_4191_thumb.png\" alt=\"core_1788486991_4191.png\"></p>"
+    }
+  },
   "province": [],
   "attr": {},
   "company": {},

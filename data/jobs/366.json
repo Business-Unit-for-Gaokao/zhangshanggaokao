@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-09-01 09:01:30",
+  "update_time": "2026-10-01 10:35:40",
   "school_id": "366",
   "school_name": "咸阳师范学院",
   "jobrateyear": "2024",
@@ -91,6 +91,18 @@
       "province_name": "重庆市"
     },
     {
+      "id": "17779",
+      "school_id": "366",
+      "province": "贵州省",
+      "rate": "0.27",
+      "num": "9",
+      "sort": "9",
+      "update_id": "2004",
+      "update_time": "2024-06-13 16:10:05",
+      "year": "2023",
+      "province_name": "贵州省"
+    },
+    {
       "id": "17778",
       "school_id": "366",
       "province": "广西壮族自治区",
@@ -113,18 +125,6 @@
       "update_time": "2024-06-13 16:10:05",
       "year": "2023",
       "province_name": "云南省"
-    },
-    {
-      "id": "17779",
-      "school_id": "366",
-      "province": "贵州省",
-      "rate": "0.27",
-      "num": "9",
-      "sort": "9",
-      "update_id": "2004",
-      "update_time": "2024-06-13 16:10:05",
-      "year": "2023",
-      "province_name": "贵州省"
     },
     {
       "id": "17776",
@@ -199,18 +199,6 @@
       "province_name": "江西省"
     },
     {
-      "id": "17769",
-      "school_id": "366",
-      "province": "河北省",
-      "rate": "0.67",
-      "num": "22",
-      "sort": "22",
-      "update_id": "2004",
-      "update_time": "2024-06-13 16:10:05",
-      "year": "2023",
-      "province_name": "河北省"
-    },
-    {
       "id": "17770",
       "school_id": "366",
       "province": "湖南省",
@@ -221,6 +209,18 @@
       "update_time": "2024-06-13 16:10:05",
       "year": "2023",
       "province_name": "湖南省"
+    },
+    {
+      "id": "17769",
+      "school_id": "366",
+      "province": "河北省",
+      "rate": "0.67",
+      "num": "22",
+      "sort": "22",
+      "update_id": "2004",
+      "update_time": "2024-06-13 16:10:05",
+      "year": "2023",
+      "province_name": "河北省"
     },
     {
       "id": "17768",
@@ -319,18 +319,6 @@
       "province_name": "河南省"
     },
     {
-      "id": "17760",
-      "school_id": "366",
-      "province": "浙江省",
-      "rate": "1.24",
-      "num": "41",
-      "sort": "41",
-      "update_id": "2004",
-      "update_time": "2024-06-13 16:10:05",
-      "year": "2023",
-      "province_name": "浙江省"
-    },
-    {
       "id": "17759",
       "school_id": "366",
       "province": "宁夏回族自治区",
@@ -341,6 +329,18 @@
       "update_time": "2024-06-13 16:10:05",
       "year": "2023",
       "province_name": "宁夏回族自治区"
+    },
+    {
+      "id": "17760",
+      "school_id": "366",
+      "province": "浙江省",
+      "rate": "1.24",
+      "num": "41",
+      "sort": "41",
+      "update_id": "2004",
+      "update_time": "2024-06-13 16:10:05",
+      "year": "2023",
+      "province_name": "浙江省"
     },
     {
       "id": "17758",

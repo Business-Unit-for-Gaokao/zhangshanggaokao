@@ -1,20 +1,20 @@
 {
-  "update_time": "2026-09-01 09:01:41",
+  "update_time": "2026-10-01 10:35:51",
   "school_id": "383",
   "school_name": "西安培华学院",
-  "jobrateyear": "2023",
+  "jobrateyear": "2024",
   "jobrate": {
     "job": {
-      "1": "88.36"
+      "1": "91.20"
     },
     "postgraduate": {
-      "1": "1.34"
+      "1": "0.00"
     },
     "abroad": {
-      "1": "0.33"
+      "1": "0.00"
     },
     "content": {
-      "1": ""
+      "1": "<p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788488284_5157_thumb.png\" title=\"core_1788488284_5157_thumb.png\" alt=\"core_1788488284_5157.png\"></p>"
     }
   },
   "province": [
@@ -55,18 +55,6 @@
       "province_name": "黑龙江"
     },
     {
-      "id": "17586",
-      "school_id": "383",
-      "province": "云南",
-      "rate": "0.10",
-      "num": "5",
-      "sort": "5",
-      "update_id": "2004",
-      "update_time": "2024-06-12 17:44:37",
-      "year": "2023",
-      "province_name": "云南"
-    },
-    {
       "id": "17571",
       "school_id": "383",
       "province": "辽宁",
@@ -77,6 +65,18 @@
       "update_time": "2024-06-12 17:44:37",
       "year": "2023",
       "province_name": "辽宁"
+    },
+    {
+      "id": "17586",
+      "school_id": "383",
+      "province": "云南",
+      "rate": "0.10",
+      "num": "5",
+      "sort": "5",
+      "update_id": "2004",
+      "update_time": "2024-06-12 17:44:37",
+      "year": "2023",
+      "province_name": "云南"
     },
     {
       "id": "17592",
@@ -139,18 +139,6 @@
       "province_name": "青海"
     },
     {
-      "id": "17587",
-      "school_id": "383",
-      "province": "重庆",
-      "rate": "0.47",
-      "num": "24",
-      "sort": "24",
-      "update_id": "2004",
-      "update_time": "2024-06-12 17:44:37",
-      "year": "2023",
-      "province_name": "重庆"
-    },
-    {
       "id": "17568",
       "school_id": "383",
       "province": "海南",
@@ -161,6 +149,18 @@
       "update_time": "2024-06-12 17:44:37",
       "year": "2023",
       "province_name": "海南"
+    },
+    {
+      "id": "17587",
+      "school_id": "383",
+      "province": "重庆",
+      "rate": "0.47",
+      "num": "24",
+      "sort": "24",
+      "update_id": "2004",
+      "update_time": "2024-06-12 17:44:37",
+      "year": "2023",
+      "province_name": "重庆"
     },
     {
       "id": "17591",

@@ -1,9 +1,22 @@
 {
-  "update_time": "2026-09-01 09:24:36",
+  "update_time": "2026-10-01 10:58:33",
   "school_id": "3095",
   "school_name": "四川文轩职业学院",
-  "jobrateyear": "",
-  "jobrate": {},
+  "jobrateyear": "2025",
+  "jobrate": {
+    "job": {
+      "1": "92.32"
+    },
+    "postgraduate": {
+      "1": "0.00"
+    },
+    "abroad": {
+      "1": "0.00"
+    },
+    "content": {
+      "1": "<p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788341607_3447_thumb.png\" title=\"core_1788341607_3447_thumb.png\" alt=\"core_1788341607_3447.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788341619_5271_thumb.png\" title=\"core_1788341619_5271_thumb.png\" alt=\"core_1788341619_5271.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788341638_1038_thumb.png\" title=\"core_1788341638_1038_thumb.png\" alt=\"core_1788341638_1038.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788341650_8099_thumb.png\" title=\"core_1788341650_8099_thumb.png\" alt=\"core_1788341650_8099.png\"></p>"
+    }
+  },
   "province": [],
   "attr": {},
   "company": {},

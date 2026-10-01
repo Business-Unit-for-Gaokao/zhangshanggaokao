@@ -1,9 +1,22 @@
 {
-  "update_time": "2026-09-01 09:16:57",
+  "update_time": "2026-10-01 10:50:53",
   "school_id": "2063",
   "school_name": "广州松田职业学院",
-  "jobrateyear": "",
-  "jobrate": {},
+  "jobrateyear": "2025",
+  "jobrate": {
+    "job": {
+      "1": "90.85"
+    },
+    "postgraduate": {
+      "1": "7.71"
+    },
+    "abroad": {
+      "1": "0.00"
+    },
+    "content": {
+      "1": "<p xss=removed>（1）毕业去向落实率</p><p xss=removed>根据全国高校毕业生就业管理系统数据显示，学校2026届毕业生中，纳入毕业去向统计人数为2360人，落实就业去向人数为2144人，毕业去向落实率为90.85%。</p><p xss=removed>（2）专业对口率</p><p xss=removed>2025届毕业生就业的专业对口率为85.91%。其中跨境电子商务专业最高，为100%；对口率最低的是云计算技术应用专业，为57.14%。</p><p xss=removed>（3）薪酬情况</p><p xss=removed>2025届毕业生平均薪酬为3616元，略高于于2024届毕业生3580元的平均薪酬。在学校31个专业中，平均月薪最高的是市场营销专业，为4742元；最低的是婴幼儿托育服务与管理专业，为2914元。</p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1789092540_1100_thumb.png\" title=\"core_1789092540_1100_thumb.png\" alt=\"core_1789092540_1100.png\"></p><p>（4）专升本学历提升情况</p><p>2025年学校毕业生共有182名毕业生升学深造，占比毕业生总人数的7.71%。在录取的学校当中，被广州应用科技学院录取的人数最多，有38人；其次是广州白云学院，有32人。</p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1789092726_7357_thumb.png\" title=\"core_1789092726_7357_thumb.png\" alt=\"core_1789092726_7357.png\"></p><p><br></p><p><br></p>"
+    }
+  },
   "province": [],
   "attr": {},
   "company": {},

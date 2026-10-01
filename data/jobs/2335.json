@@ -1,9 +1,22 @@
 {
-  "update_time": "2026-09-01 09:19:43",
+  "update_time": "2026-10-01 10:53:31",
   "school_id": "2335",
   "school_name": "辽宁现代服务职业技术学院",
-  "jobrateyear": "",
-  "jobrate": {},
+  "jobrateyear": "2025",
+  "jobrate": {
+    "job": {
+      "1": "89.03"
+    },
+    "postgraduate": {
+      "1": "0.00"
+    },
+    "abroad": {
+      "1": "0.00"
+    },
+    "content": {
+      "1": "<p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788342348_5468_thumb.png\" title=\"core_1788342348_5468_thumb.png\" alt=\"core_1788342348_5468.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788342358_1584_thumb.png\" title=\"core_1788342358_1584_thumb.png\" alt=\"core_1788342358_1584.png\"></p>"
+    }
+  },
   "province": [],
   "attr": {},
   "company": {},

@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-09-01 08:58:19",
+  "update_time": "2026-10-01 10:32:25",
   "school_id": "57",
   "school_name": "西安电子科技大学",
   "jobrateyear": "2025",
@@ -43,18 +43,6 @@
       "province_name": "广州"
     },
     {
-      "id": "33349",
-      "school_id": "57",
-      "province": "南京",
-      "rate": "2.20",
-      "num": "0",
-      "sort": "220",
-      "update_id": "2096",
-      "update_time": "2026-01-20 17:06:41",
-      "year": "2025",
-      "province_name": "南京"
-    },
-    {
       "id": "33348",
       "school_id": "57",
       "province": "武汉",
@@ -65,6 +53,18 @@
       "update_time": "2026-01-20 17:06:41",
       "year": "2025",
       "province_name": "武汉"
+    },
+    {
+      "id": "33349",
+      "school_id": "57",
+      "province": "南京",
+      "rate": "2.20",
+      "num": "0",
+      "sort": "220",
+      "update_id": "2096",
+      "update_time": "2026-01-20 17:06:41",
+      "year": "2025",
+      "province_name": "南京"
     },
     {
       "id": "33347",

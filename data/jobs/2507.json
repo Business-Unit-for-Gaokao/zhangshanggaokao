@@ -1,9 +1,22 @@
 {
-  "update_time": "2026-09-01 09:21:26",
+  "update_time": "2026-10-01 10:55:15",
   "school_id": "2507",
   "school_name": "德州职业技术学院",
-  "jobrateyear": "",
-  "jobrate": {},
+  "jobrateyear": "2025",
+  "jobrate": {
+    "job": {
+      "1": "91.96"
+    },
+    "postgraduate": {
+      "1": "0.00"
+    },
+    "abroad": {
+      "1": "0.00"
+    },
+    "content": {
+      "1": "<p>就业情况持续向好，毕业生满意度显著提升。从毕业去向及落实率看，2025 届毕业生 5097 人，截止 2025 年 8 月 31 日已落实就业去向人数4687人，总体去向落实率 91.96%，直接就业率80.69%。（见图1-32）其中，单位就业 4113 人、升学 538 人、自主创业36 人。（见图1-33）[22]环比去年同期，学校总体去向落实率、直接就业率均有所提升。</p><p><img src=\"https://static-data.gaokao.cn//upload/image/202608/core_1787130645_9604_thumb.png\" title=\"core_1787130645_9604_thumb.png\" alt=\"core_1787130645_9604.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202608/core_1787130665_2502_thumb.png\" title=\"core_1787130665_2502_thumb.png\" alt=\"core_1787130665_2502.png\"></p>"
+    }
+  },
   "province": [],
   "attr": {},
   "company": {},

@@ -1,9 +1,22 @@
 {
-  "update_time": "2026-09-01 09:05:06",
+  "update_time": "2026-10-01 10:39:15",
   "school_id": "732",
   "school_name": "黑龙江旅游职业技术学院",
-  "jobrateyear": "",
-  "jobrate": {},
+  "jobrateyear": "2025",
+  "jobrate": {
+    "job": {
+      "1": "90.53"
+    },
+    "postgraduate": {
+      "1": "16.38"
+    },
+    "abroad": {
+      "1": "0.00"
+    },
+    "content": {
+      "1": "<p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788427483_5518_thumb.png\" title=\"core_1788427483_5518_thumb.png\" alt=\"core_1788427483_5518.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788427493_5841_thumb.png\" title=\"core_1788427493_5841_thumb.png\" alt=\"core_1788427493_5841.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788427505_6325_thumb.png\" title=\"core_1788427505_6325_thumb.png\" alt=\"core_1788427505_6325.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788427520_4803_thumb.png\" title=\"core_1788427520_4803_thumb.png\" alt=\"core_1788427520_4803.png\"></p>"
+    }
+  },
   "province": [],
   "attr": {},
   "company": {},

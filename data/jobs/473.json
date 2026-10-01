@@ -1,20 +1,20 @@
 {
-  "update_time": "2026-09-01 09:02:39",
+  "update_time": "2026-10-01 10:36:48",
   "school_id": "473",
   "school_name": "福建师范大学",
-  "jobrateyear": "2022",
+  "jobrateyear": "2024",
   "jobrate": {
     "job": {
-      "1": "90.62"
+      "1": "93.38"
     },
     "postgraduate": {
-      "1": "24.90"
+      "1": "30.38"
     },
     "abroad": {
-      "1": "2.37"
+      "1": "0.00"
     },
     "content": {
-      "1": ""
+      "1": "<p><img src=\"https://static-data.gaokao.cn//upload/image/202608/core_1787208924_6044_thumb.png\" title=\"core_1787208924_6044_thumb.png\" alt=\"core_1787208924_6044.png\"></p>"
     }
   },
   "province": [
@@ -295,8 +295,8 @@
     "科研设计单位": "0.26",
     "城镇社区": "0.11",
     "医疗卫生单位": "0.11",
-    "部队": "0.04",
-    "农村建制村": "0.04"
+    "农村建制村": "0.04",
+    "部队": "0.04"
   },
   "company": {},
   "gradute": [

@@ -1,9 +1,22 @@
 {
-  "update_time": "2026-09-01 09:04:39",
+  "update_time": "2026-10-01 10:38:48",
   "school_id": "686",
   "school_name": "上海行健职业学院",
-  "jobrateyear": "",
-  "jobrate": {},
+  "jobrateyear": "2025",
+  "jobrate": {
+    "job": {
+      "1": "93.54"
+    },
+    "postgraduate": {
+      "1": "27.16"
+    },
+    "abroad": {
+      "1": "0.00"
+    },
+    "content": {
+      "1": "<p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788316994_1390_thumb.png\" title=\"core_1788316994_1390_thumb.png\" alt=\"core_1788316994_1390.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788317007_8041_thumb.png\" title=\"core_1788317007_8041_thumb.png\" alt=\"core_1788317007_8041.png\"></p>"
+    }
+  },
   "province": [],
   "attr": {},
   "company": {},

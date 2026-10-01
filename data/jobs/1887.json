@@ -1,9 +1,22 @@
 {
-  "update_time": "2026-09-01 09:15:07",
+  "update_time": "2026-10-01 10:49:01",
   "school_id": "1887",
   "school_name": "漳州卫生职业学院",
-  "jobrateyear": "",
-  "jobrate": {},
+  "jobrateyear": "2025",
+  "jobrate": {
+    "job": {
+      "1": "95.72"
+    },
+    "postgraduate": {
+      "1": "8.95"
+    },
+    "abroad": {
+      "1": "0.00"
+    },
+    "content": {
+      "1": "<p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788404018_9883_thumb.png\" title=\"core_1788404018_9883_thumb.png\" alt=\"core_1788404018_9883.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788404034_5334_thumb.png\" title=\"core_1788404034_5334_thumb.png\" alt=\"core_1788404034_5334.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788404048_3768_thumb.png\" title=\"core_1788404048_3768_thumb.png\" alt=\"core_1788404048_3768.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788404159_8214_thumb.png\" title=\"core_1788404159_8214_thumb.png\" alt=\"core_1788404159_8214.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788404176_4161_thumb.png\" title=\"core_1788404176_4161_thumb.png\" alt=\"core_1788404176_4161.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788404188_7413_thumb.png\" title=\"core_1788404188_7413_thumb.png\" alt=\"core_1788404188_7413.png\"></p>"
+    }
+  },
   "province": [],
   "attr": {},
   "company": {},

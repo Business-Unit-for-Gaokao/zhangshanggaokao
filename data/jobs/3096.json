@@ -1,9 +1,22 @@
 {
-  "update_time": "2026-09-01 09:24:36",
+  "update_time": "2026-10-01 10:58:34",
   "school_id": "3096",
   "school_name": "四川三河职业学院",
-  "jobrateyear": "",
-  "jobrate": {},
+  "jobrateyear": "2023",
+  "jobrate": {
+    "job": {
+      "1": "92.40"
+    },
+    "postgraduate": {
+      "1": "13.20"
+    },
+    "abroad": {
+      "1": "0.00"
+    },
+    "content": {
+      "1": "<p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788251959_5624_thumb.png\" title=\"core_1788251959_5624_thumb.png\" alt=\"core_1788251959_5624.png\"></p>"
+    }
+  },
   "province": [],
   "attr": {},
   "company": {},

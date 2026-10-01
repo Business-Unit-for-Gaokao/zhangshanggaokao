@@ -1,9 +1,22 @@
 {
-  "update_time": "2026-09-01 09:16:32",
+  "update_time": "2026-10-01 10:50:26",
   "school_id": "2022",
   "school_name": "湖南城建职业技术学院",
-  "jobrateyear": "",
-  "jobrate": {},
+  "jobrateyear": "2025",
+  "jobrate": {
+    "job": {
+      "1": "93.29"
+    },
+    "postgraduate": {
+      "1": "9.95"
+    },
+    "abroad": {
+      "1": "0.00"
+    },
+    "content": {
+      "1": "<p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788428078_9472_thumb.png\" title=\"core_1788428078_9472_thumb.png\" alt=\"core_1788428078_9472.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788428089_2720_thumb.png\" title=\"core_1788428089_2720_thumb.png\" alt=\"core_1788428089_2720.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788428100_8135_thumb.png\" title=\"core_1788428100_8135_thumb.png\" alt=\"core_1788428100_8135.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788428117_6525_thumb.png\" title=\"core_1788428117_6525_thumb.png\" alt=\"core_1788428117_6525.png\"></p>"
+    }
+  },
   "province": [],
   "attr": {},
   "company": {},

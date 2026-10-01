@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-09-01 09:01:32",
+  "update_time": "2026-10-01 10:35:42",
   "school_id": "369",
   "school_name": "宝鸡文理学院",
   "jobrateyear": "2024",
@@ -79,16 +79,16 @@
       "province_name": "天津市"
     },
     {
-      "id": "28981",
+      "id": "28983",
       "school_id": "369",
-      "province": "重庆市",
+      "province": "安徽省",
       "rate": "0.29",
       "num": "11",
       "sort": "11",
       "update_id": "1988",
       "update_time": "2025-11-12 16:45:32",
       "year": "2024",
-      "province_name": "重庆市"
+      "province_name": "安徽省"
     },
     {
       "id": "28982",
@@ -103,28 +103,16 @@
       "province_name": "湖北省"
     },
     {
-      "id": "28983",
+      "id": "28981",
       "school_id": "369",
-      "province": "安徽省",
+      "province": "重庆市",
       "rate": "0.29",
       "num": "11",
       "sort": "11",
       "update_id": "1988",
       "update_time": "2025-11-12 16:45:32",
       "year": "2024",
-      "province_name": "安徽省"
-    },
-    {
-      "id": "28980",
-      "school_id": "369",
-      "province": "海南省",
-      "rate": "0.35",
-      "num": "13",
-      "sort": "13",
-      "update_id": "1988",
-      "update_time": "2025-11-12 16:45:32",
-      "year": "2024",
-      "province_name": "海南省"
+      "province_name": "重庆市"
     },
     {
       "id": "28979",
@@ -137,6 +125,18 @@
       "update_time": "2025-11-12 16:45:32",
       "year": "2024",
       "province_name": "内蒙古自治区"
+    },
+    {
+      "id": "28980",
+      "school_id": "369",
+      "province": "海南省",
+      "rate": "0.35",
+      "num": "13",
+      "sort": "13",
+      "update_id": "1988",
+      "update_time": "2025-11-12 16:45:32",
+      "year": "2024",
+      "province_name": "海南省"
     },
     {
       "id": "28978",

@@ -1,20 +1,20 @@
 {
-  "update_time": "2026-09-01 09:21:34",
+  "update_time": "2026-10-01 10:55:23",
   "school_id": "2520",
   "school_name": "保山学院",
-  "jobrateyear": "2021",
+  "jobrateyear": "2024",
   "jobrate": {
     "job": {
-      "1": "88.14"
+      "1": "83.47"
     },
     "postgraduate": {
-      "1": "7.70"
+      "1": "0.00"
     },
     "abroad": {
       "1": "0.00"
     },
     "content": {
-      "1": ""
+      "1": "<p><img src=\"https://static-data.gaokao.cn//upload/image/202606/core_1782023072_9111_thumb.jpg\" xss=removed title=\"core_1782023072_9111_thumb.jpg\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202606/core_1782023072_9068_thumb.jpg\" xss=removed title=\"core_1782023072_9068_thumb.jpg\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202606/core_1782023072_4816_thumb.jpg\" xss=removed title=\"core_1782023072_4816_thumb.jpg\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202606/core_1782023072_9740_thumb.jpg\" xss=removed title=\"core_1782023072_9740_thumb.jpg\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202606/core_1782023072_1535_thumb.jpg\" xss=removed title=\"core_1782023072_1535_thumb.jpg\"></p><p><br></p>"
     }
   },
   "province": [

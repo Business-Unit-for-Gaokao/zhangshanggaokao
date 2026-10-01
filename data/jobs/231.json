@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-09-01 09:00:06",
+  "update_time": "2026-10-01 10:34:14",
   "school_id": "231",
   "school_name": "西南民族大学",
   "jobrateyear": "2023",
@@ -103,6 +103,18 @@
       "province_name": "黑龙江省"
     },
     {
+      "id": "24666",
+      "school_id": "231",
+      "province": "福建省",
+      "rate": "1.17",
+      "num": "0",
+      "sort": "117",
+      "update_id": "2094",
+      "update_time": "2025-01-06 14:58:34",
+      "year": "2023",
+      "province_name": "福建省"
+    },
+    {
       "id": "24665",
       "school_id": "231",
       "province": "河南省",
@@ -125,18 +137,6 @@
       "update_time": "2025-01-06 14:58:34",
       "year": "2023",
       "province_name": "辽宁省"
-    },
-    {
-      "id": "24666",
-      "school_id": "231",
-      "province": "福建省",
-      "rate": "1.17",
-      "num": "0",
-      "sort": "117",
-      "update_id": "2094",
-      "update_time": "2025-01-06 14:58:34",
-      "year": "2023",
-      "province_name": "福建省"
     },
     {
       "id": "24663",

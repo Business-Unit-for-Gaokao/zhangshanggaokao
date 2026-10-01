@@ -1,9 +1,22 @@
 {
-  "update_time": "2026-09-01 09:12:46",
+  "update_time": "2026-10-01 10:46:49",
   "school_id": "1660",
   "school_name": "山西管理职业学院",
-  "jobrateyear": "",
-  "jobrate": {},
+  "jobrateyear": "2024",
+  "jobrate": {
+    "job": {
+      "1": "83.79"
+    },
+    "postgraduate": {
+      "1": "18.72"
+    },
+    "abroad": {
+      "1": "0.00"
+    },
+    "content": {
+      "1": "<p><img src=\"https://static-data.gaokao.cn//upload/image/202608/core_1787020178_3410_thumb.png\" title=\"core_1787020178_3410_thumb.png\" alt=\"core_1787020178_3410.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202608/core_1787020191_1497_thumb.png\" title=\"core_1787020191_1497_thumb.png\" alt=\"core_1787020191_1497.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202608/core_1787020200_5544_thumb.png\" title=\"core_1787020200_5544_thumb.png\" alt=\"core_1787020200_5544.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202608/core_1787020221_7808_thumb.png\" title=\"core_1787020221_7808_thumb.png\" alt=\"core_1787020221_7808.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202608/core_1787020235_9485_thumb.png\" title=\"core_1787020235_9485_thumb.png\" alt=\"core_1787020235_9485.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202608/core_1787020250_2153_thumb.png\" title=\"core_1787020250_2153_thumb.png\" alt=\"core_1787020250_2153.png\"></p>"
+    }
+  },
   "province": [],
   "attr": {},
   "company": {},

@@ -1,13 +1,38 @@
 {
-  "update_time": "2026-09-01 09:23:43",
+  "update_time": "2026-10-01 10:57:34",
   "school_id": "2928",
   "school_name": "山东海事职业学院",
-  "jobrateyear": "",
-  "jobrate": {},
+  "jobrateyear": "2025",
+  "jobrate": {
+    "job": {
+      "1": "95.81"
+    },
+    "postgraduate": {
+      "1": "0.00"
+    },
+    "abroad": {
+      "1": "0.00"
+    },
+    "content": {
+      "1": "<p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1789116392_7126_thumb.jpg\" xss=removed title=\"core_1789116392_7126_thumb.jpg\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1789116392_4744_thumb.jpg\" xss=removed title=\"core_1789116392_4744_thumb.jpg\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1789116392_7352_thumb.jpg\" xss=removed title=\"core_1789116392_7352_thumb.jpg\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1789116392_9025_thumb.jpg\" xss=removed title=\"core_1789116392_9025_thumb.jpg\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1789116392_1660_thumb.jpg\" xss=removed title=\"core_1789116392_1660_thumb.jpg\"></p><p><br></p>"
+    }
+  },
   "province": [],
   "attr": {},
   "company": {},
-  "gradute": [],
+  "gradute": [
+    {
+      "id": "2874",
+      "school_id": "2928",
+      "female_num": "1564",
+      "men_num": "2561",
+      "men_rate": "62.08",
+      "female_rate": "37.92",
+      "update_id": "1211",
+      "update_time": "2026-09-11 16:48:06",
+      "year": "2025"
+    }
+  ],
   "remark": "",
   "salary": {
     "6": "8600"

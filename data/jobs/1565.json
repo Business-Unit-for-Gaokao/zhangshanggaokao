@@ -1,9 +1,22 @@
 {
-  "update_time": "2026-09-01 09:11:54",
+  "update_time": "2026-10-01 10:45:56",
   "school_id": "1565",
   "school_name": "铜仁职业技术大学",
-  "jobrateyear": "",
-  "jobrate": {},
+  "jobrateyear": "2025",
+  "jobrate": {
+    "job": {
+      "1": "87.19"
+    },
+    "postgraduate": {
+      "1": "19.88"
+    },
+    "abroad": {
+      "1": "0.00"
+    },
+    "content": {
+      "1": "<p>\"截至8月31日，学校毕业生初次就业去向落实率达到87.19%，高出全省平均水平，持续保持在高位区间，其中，单位就业3002人，占66.74%、升学894人，占19.88%、自由职业4人，占0.09%、自主创业23人，占0.51%，待就业575 人，占12.78%。多元化渠道并进，体现了毕业生就业选择的广泛性和适应性。\"<img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788406673_5299_thumb.png\" title=\"core_1788406673_5299_thumb.png\" alt=\"core_1788406673_5299.png\"></p>"
+    }
+  },
   "province": [],
   "attr": {},
   "company": {},

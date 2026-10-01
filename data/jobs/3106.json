@@ -1,9 +1,22 @@
 {
-  "update_time": "2026-09-01 09:24:40",
+  "update_time": "2026-10-01 10:58:37",
   "school_id": "3106",
   "school_name": "辽宁轨道交通职业学院",
-  "jobrateyear": "",
-  "jobrate": {},
+  "jobrateyear": "2025",
+  "jobrate": {
+    "job": {
+      "1": "95.14"
+    },
+    "postgraduate": {
+      "1": "0.00"
+    },
+    "abroad": {
+      "1": "0.00"
+    },
+    "content": {
+      "1": "<p><img src=\"https://static-data.gaokao.cn//upload/image/202608/core_1787024826_7872_thumb.png\" title=\"core_1787024826_7872_thumb.png\" alt=\"core_1787024826_7872.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202608/core_1787024837_2936_thumb.png\" title=\"core_1787024837_2936_thumb.png\" alt=\"core_1787024837_2936.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202608/core_1787024847_3380_thumb.png\" title=\"core_1787024847_3380_thumb.png\" alt=\"core_1787024847_3380.png\"></p>"
+    }
+  },
   "province": [],
   "attr": {},
   "company": {},

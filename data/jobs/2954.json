@@ -1,9 +1,22 @@
 {
-  "update_time": "2026-09-01 09:23:55",
+  "update_time": "2026-10-01 10:57:46",
   "school_id": "2954",
   "school_name": "泉州幼儿师范高等专科学校",
-  "jobrateyear": "",
-  "jobrate": {},
+  "jobrateyear": "2025",
+  "jobrate": {
+    "job": {
+      "1": "96.30"
+    },
+    "postgraduate": {
+      "1": "21.47"
+    },
+    "abroad": {
+      "1": "0.00"
+    },
+    "content": {
+      "1": "<p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788493477_9806_thumb.png\" title=\"core_1788493477_9806_thumb.png\" alt=\"core_1788493477_9806.png\"></p><p><br></p>"
+    }
+  },
   "province": [],
   "attr": {},
   "company": {},

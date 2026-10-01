@@ -1,9 +1,22 @@
 {
-  "update_time": "2026-09-01 09:07:17",
+  "update_time": "2026-10-01 10:41:29",
   "school_id": "975",
   "school_name": "潮汕职业技术学院",
-  "jobrateyear": "",
-  "jobrate": {},
+  "jobrateyear": "2025",
+  "jobrate": {
+    "job": {
+      "1": "90.50"
+    },
+    "postgraduate": {
+      "1": "4.45"
+    },
+    "abroad": {
+      "1": "0.00"
+    },
+    "content": {
+      "1": "<p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1789094464_5379_thumb.jpg\" xss=removed title=\"core_1789094464_5379_thumb.jpg\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1789094464_2917_thumb.jpg\" xss=removed title=\"core_1789094464_2917_thumb.jpg\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1789094464_7226_thumb.jpg\" xss=removed title=\"core_1789094464_7226_thumb.jpg\"></p><p><br></p>"
+    }
+  },
   "province": [],
   "attr": {},
   "company": {},

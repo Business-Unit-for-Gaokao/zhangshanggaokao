@@ -1,20 +1,20 @@
 {
-  "update_time": "2026-09-01 09:10:50",
+  "update_time": "2026-10-01 10:44:56",
   "school_id": "1419",
   "school_name": "长春工业大学人文信息学院",
-  "jobrateyear": "2022",
+  "jobrateyear": "2024",
   "jobrate": {
     "job": {
-      "1": "89.60"
+      "1": "85.24"
     },
     "postgraduate": {
-      "1": "4.20"
+      "1": "0.00"
     },
     "abroad": {
-      "1": "0.01"
+      "1": "0.00"
     },
     "content": {
-      "1": ""
+      "1": "<p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788492476_7531_thumb.png\" title=\"core_1788492476_7531_thumb.png\" alt=\"core_1788492476_7531.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788492506_4346_thumb.png\" title=\"core_1788492506_4346_thumb.png\" alt=\"core_1788492506_4346.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788492536_9394_thumb.png\" title=\"core_1788492536_9394_thumb.png\" alt=\"core_1788492536_9394.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788492553_9363_thumb.png\" title=\"core_1788492553_9363_thumb.png\" alt=\"core_1788492553_9363.png\"></p>"
     }
   },
   "province": [

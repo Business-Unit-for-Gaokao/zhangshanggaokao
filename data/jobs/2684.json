@@ -1,9 +1,22 @@
 {
-  "update_time": "2026-09-01 09:22:50",
+  "update_time": "2026-10-01 10:56:41",
   "school_id": "2684",
   "school_name": "东莞职业技术学院",
-  "jobrateyear": "",
-  "jobrate": {},
+  "jobrateyear": "2025",
+  "jobrate": {
+    "job": {
+      "1": "97.00"
+    },
+    "postgraduate": {
+      "1": "0.00"
+    },
+    "abroad": {
+      "1": "0.00"
+    },
+    "content": {
+      "1": "<p xss=removed>学校2025届毕业生共5368人，截至2025年8月31日，已就业人数5211人，初次毕业去向落实率超97%。较之去年提升1.72%。</p>"
+    }
+  },
   "province": [],
   "attr": {},
   "company": {},

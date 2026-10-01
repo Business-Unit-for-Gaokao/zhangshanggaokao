@@ -1,20 +1,20 @@
 {
-  "update_time": "2026-09-01 09:01:05",
+  "update_time": "2026-10-01 10:35:12",
   "school_id": "326",
   "school_name": "上海音乐学院",
-  "jobrateyear": "2023",
+  "jobrateyear": "2024",
   "jobrate": {
     "job": {
-      "1": "96.91"
+      "1": "98.87"
     },
     "postgraduate": {
-      "1": "17.88"
+      "1": "0.00"
     },
     "abroad": {
-      "1": "9.00"
+      "1": "0.00"
     },
     "content": {
-      "1": ""
+      "1": "<p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788749643_2397_thumb.png\" title=\"core_1788749643_2397_thumb.png\" alt=\"core_1788749643_2397.png\"></p>"
     }
   },
   "province": [

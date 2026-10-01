@@ -1,9 +1,22 @@
 {
-  "update_time": "2026-09-01 09:24:33",
+  "update_time": "2026-10-01 10:58:31",
   "school_id": "3090",
   "school_name": "徐州生物工程职业技术学院",
-  "jobrateyear": "",
-  "jobrate": {},
+  "jobrateyear": "2025",
+  "jobrate": {
+    "job": {
+      "1": "94.13"
+    },
+    "postgraduate": {
+      "1": "8.40"
+    },
+    "abroad": {
+      "1": "0.00"
+    },
+    "content": {
+      "1": "<p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788422664_8925_thumb.png\" title=\"core_1788422664_8925_thumb.png\" alt=\"core_1788422664_8925.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788422678_3179_thumb.png\" title=\"core_1788422678_3179_thumb.png\" alt=\"core_1788422678_3179.png\"></p>"
+    }
+  },
   "province": [],
   "attr": {},
   "company": {},

@@ -1,13 +1,38 @@
 {
-  "update_time": "2026-09-01 09:07:41",
+  "update_time": "2026-10-01 10:41:53",
   "school_id": "1016",
   "school_name": "武汉航海职业技术学院",
-  "jobrateyear": "",
-  "jobrate": {},
+  "jobrateyear": "2025",
+  "jobrate": {
+    "job": {
+      "1": "89.24"
+    },
+    "postgraduate": {
+      "1": "10.82"
+    },
+    "abroad": {
+      "1": "0.00"
+    },
+    "content": {
+      "1": "<p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1789113477_7647_thumb.jpg\" xss=removed title=\"core_1789113477_7647_thumb.jpg\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1789113477_5874_thumb.jpg\" xss=removed title=\"core_1789113477_5874_thumb.jpg\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1789113477_6831_thumb.jpg\" xss=removed title=\"core_1789113477_6831_thumb.jpg\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1789113477_5434_thumb.jpg\" xss=removed title=\"core_1789113477_5434_thumb.jpg\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1789113478_3613_thumb.jpg\" xss=removed title=\"core_1789113478_3613_thumb.jpg\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1789113478_8624_thumb.jpg\" xss=removed title=\"core_1789113478_8624_thumb.jpg\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1789113478_5738_thumb.jpg\" xss=removed title=\"core_1789113478_5738_thumb.jpg\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1789113479_5966_thumb.jpg\" xss=removed title=\"core_1789113479_5966_thumb.jpg\"></p><p><br></p>"
+    }
+  },
   "province": [],
   "attr": {},
   "company": {},
-  "gradute": [],
+  "gradute": [
+    {
+      "id": "2873",
+      "school_id": "1016",
+      "female_num": "414",
+      "men_num": "1213",
+      "men_rate": "74.55",
+      "female_rate": "25.45",
+      "update_id": "1211",
+      "update_time": "2026-09-11 15:58:41",
+      "year": "2025"
+    }
+  ],
   "remark": "",
   "salary": {
     "6": "8600"

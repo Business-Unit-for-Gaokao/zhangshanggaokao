@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-09-01 09:20:11",
+  "update_time": "2026-10-01 10:53:59",
   "school_id": "2387",
   "school_name": "浙江农林大学暨阳学院",
   "jobrateyear": "2024",
@@ -43,16 +43,16 @@
       "province_name": "西藏"
     },
     {
-      "id": "18714",
+      "id": "18716",
       "school_id": "2387",
-      "province": "天津",
+      "province": "山西",
       "rate": "0.09",
       "num": "2",
       "sort": "2",
       "update_id": "2004",
       "update_time": "2024-06-15 10:39:07",
       "year": "2023",
-      "province_name": "天津"
+      "province_name": "山西"
     },
     {
       "id": "18715",
@@ -67,16 +67,16 @@
       "province_name": "陕西"
     },
     {
-      "id": "18716",
+      "id": "18714",
       "school_id": "2387",
-      "province": "山西",
+      "province": "天津",
       "rate": "0.09",
       "num": "2",
       "sort": "2",
       "update_id": "2004",
       "update_time": "2024-06-15 10:39:07",
       "year": "2023",
-      "province_name": "山西"
+      "province_name": "天津"
     },
     {
       "id": "18717",
@@ -103,16 +103,16 @@
       "province_name": "河北"
     },
     {
-      "id": "18719",
+      "id": "18721",
       "school_id": "2387",
-      "province": "新疆",
+      "province": "湖北",
       "rate": "0.22",
       "num": "5",
       "sort": "5",
       "update_id": "2004",
       "update_time": "2024-06-15 10:39:07",
       "year": "2023",
-      "province_name": "新疆"
+      "province_name": "湖北"
     },
     {
       "id": "18720",
@@ -127,16 +127,16 @@
       "province_name": "山东"
     },
     {
-      "id": "18721",
+      "id": "18719",
       "school_id": "2387",
-      "province": "湖北",
+      "province": "新疆",
       "rate": "0.22",
       "num": "5",
       "sort": "5",
       "update_id": "2004",
       "update_time": "2024-06-15 10:39:07",
       "year": "2023",
-      "province_name": "湖北"
+      "province_name": "新疆"
     },
     {
       "id": "18722",

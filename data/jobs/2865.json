@@ -1,9 +1,22 @@
 {
-  "update_time": "2026-09-01 09:23:19",
+  "update_time": "2026-10-01 10:57:12",
   "school_id": "2865",
   "school_name": "山西卫生健康职业学院",
-  "jobrateyear": "",
-  "jobrate": {},
+  "jobrateyear": "2024",
+  "jobrate": {
+    "job": {
+      "1": "83.99"
+    },
+    "postgraduate": {
+      "1": "0.00"
+    },
+    "abroad": {
+      "1": "0.00"
+    },
+    "content": {
+      "1": "<p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788487289_7408_thumb.png\" title=\"core_1788487289_7408_thumb.png\" alt=\"core_1788487289_7408.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788487318_6722_thumb.png\" title=\"core_1788487318_6722_thumb.png\" alt=\"core_1788487318_6722.png\"></p><p><br></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788487345_1559_thumb.png\" title=\"core_1788487345_1559_thumb.png\" alt=\"core_1788487345_1559.png\"></p><p><br></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788487363_5412_thumb.png\" title=\"core_1788487363_5412_thumb.png\" alt=\"core_1788487363_5412.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788487387_7313_thumb.png\" title=\"core_1788487387_7313_thumb.png\" alt=\"core_1788487387_7313.png\"></p>"
+    }
+  },
   "province": [],
   "attr": {},
   "company": {},

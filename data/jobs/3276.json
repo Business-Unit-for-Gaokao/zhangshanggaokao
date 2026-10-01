@@ -1,9 +1,22 @@
 {
-  "update_time": "2026-09-01 09:25:44",
+  "update_time": "2026-10-01 10:59:39",
   "school_id": "3276",
   "school_name": "运城师范高等专科学校",
-  "jobrateyear": "",
-  "jobrate": {},
+  "jobrateyear": "2025",
+  "jobrate": {
+    "job": {
+      "1": "85.29"
+    },
+    "postgraduate": {
+      "1": "28.09"
+    },
+    "abroad": {
+      "1": "0.14"
+    },
+    "content": {
+      "1": "<p><br></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788317064_2140_thumb.png\" title=\"core_1788317064_2140_thumb.png\" alt=\"core_1788317064_2140.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788317097_5896_thumb.png\" title=\"core_1788317097_5896_thumb.png\" alt=\"core_1788317097_5896.png\"></p><p><br></p>"
+    }
+  },
   "province": [],
   "attr": {},
   "company": {},

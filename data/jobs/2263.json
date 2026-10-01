@@ -1,9 +1,22 @@
 {
-  "update_time": "2026-09-01 09:19:00",
+  "update_time": "2026-10-01 10:52:48",
   "school_id": "2263",
   "school_name": "西安城市建设职业学院",
-  "jobrateyear": "",
-  "jobrate": {},
+  "jobrateyear": "2025",
+  "jobrate": {
+    "job": {
+      "1": "0.00"
+    },
+    "postgraduate": {
+      "1": "0.00"
+    },
+    "abroad": {
+      "1": "0.00"
+    },
+    "content": {
+      "1": "<p><img src=\"https://static-data.gaokao.cn//upload/image/202608/core_1788162027_7319_thumb.png\" title=\"core_1788162027_7319_thumb.png\" alt=\"core_1788162027_7319.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202608/core_1788162088_7355_thumb.png\" title=\"core_1788162088_7355_thumb.png\" alt=\"core_1788162088_7355.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202608/core_1788162099_2483_thumb.png\" title=\"core_1788162099_2483_thumb.png\" alt=\"core_1788162099_2483.png\"></p>"
+    }
+  },
   "province": [],
   "attr": {},
   "company": {},

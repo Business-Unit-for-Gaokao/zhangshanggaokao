@@ -1,9 +1,22 @@
 {
-  "update_time": "2026-09-01 09:27:57",
+  "update_time": "2026-10-01 11:01:59",
   "school_id": "3524",
   "school_name": "重庆智能工程职业学院",
-  "jobrateyear": "",
-  "jobrate": {},
+  "jobrateyear": "2025",
+  "jobrate": {
+    "job": {
+      "1": "96.85"
+    },
+    "postgraduate": {
+      "1": "0.00"
+    },
+    "abroad": {
+      "1": "0.00"
+    },
+    "content": {
+      "1": ""
+    }
+  },
   "province": [],
   "attr": {},
   "company": {},

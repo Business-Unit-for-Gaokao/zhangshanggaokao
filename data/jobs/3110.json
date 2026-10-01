@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-09-01 09:24:42",
+  "update_time": "2026-10-01 10:58:38",
   "school_id": "3110",
   "school_name": "湖南幼儿师范高等专科学校",
   "jobrateyear": "2019",
@@ -115,18 +115,6 @@
       "province_name": "广东"
     },
     {
-      "id": "10907",
-      "school_id": "3110",
-      "province": "云南",
-      "rate": "1.81",
-      "num": "26",
-      "sort": "26",
-      "update_id": "825",
-      "update_time": "2021-06-03 11:40:51",
-      "year": "2019",
-      "province_name": "云南"
-    },
-    {
       "id": "10908",
       "school_id": "3110",
       "province": "甘肃",
@@ -137,6 +125,18 @@
       "update_time": "2021-06-03 11:40:51",
       "year": "2019",
       "province_name": "甘肃"
+    },
+    {
+      "id": "10907",
+      "school_id": "3110",
+      "province": "云南",
+      "rate": "1.81",
+      "num": "26",
+      "sort": "26",
+      "update_id": "825",
+      "update_time": "2021-06-03 11:40:51",
+      "year": "2019",
+      "province_name": "云南"
     },
     {
       "id": "10906",

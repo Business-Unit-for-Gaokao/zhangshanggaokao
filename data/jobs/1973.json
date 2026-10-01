@@ -1,20 +1,20 @@
 {
-  "update_time": "2026-09-01 09:16:01",
+  "update_time": "2026-10-01 10:49:55",
   "school_id": "1973",
   "school_name": "荆州学院",
-  "jobrateyear": "2022",
+  "jobrateyear": "2024",
   "jobrate": {
     "job": {
-      "1": "91.39"
+      "1": "81.79"
     },
     "postgraduate": {
-      "1": "2.68"
+      "1": "3.04"
     },
     "abroad": {
       "1": "0.00"
     },
     "content": {
-      "1": ""
+      "1": "<p><img src=\"https://static-data.gaokao.cn//upload/image/202608/core_1786697819_7525_thumb.png\" title=\"core_1786697819_7525_thumb.png\" alt=\"core_1786697819_7525.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202608/core_1786697880_1233_thumb.png\" title=\"core_1786697880_1233_thumb.png\" alt=\"core_1786697880_1233.png\"><img src=\"https://static-data.gaokao.cn//upload/image/202608/core_1786697894_5595_thumb.png\" title=\"core_1786697894_5595_thumb.png\" alt=\"core_1786697894_5595.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202608/core_1786697914_7960_thumb.png\" title=\"core_1786697914_7960_thumb.png\" alt=\"core_1786697914_7960.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202608/core_1786697928_8817_thumb.png\" title=\"core_1786697928_8817_thumb.png\" alt=\"core_1786697928_8817.png\"></p><p><br></p>"
     }
   },
   "province": [
@@ -43,18 +43,6 @@
       "province_name": "内蒙古自治区"
     },
     {
-      "id": "19495",
-      "school_id": "1973",
-      "province": "青海省",
-      "rate": "0.12",
-      "num": "4",
-      "sort": "4",
-      "update_id": "2004",
-      "update_time": "2024-06-18 14:05:08",
-      "year": "2022",
-      "province_name": "青海省"
-    },
-    {
       "id": "19496",
       "school_id": "1973",
       "province": "宁夏回族自治区",
@@ -65,6 +53,18 @@
       "update_time": "2024-06-18 14:05:08",
       "year": "2022",
       "province_name": "宁夏回族自治区"
+    },
+    {
+      "id": "19495",
+      "school_id": "1973",
+      "province": "青海省",
+      "rate": "0.12",
+      "num": "4",
+      "sort": "4",
+      "update_id": "2004",
+      "update_time": "2024-06-18 14:05:08",
+      "year": "2022",
+      "province_name": "青海省"
     },
     {
       "id": "19492",
@@ -222,11 +222,11 @@
     "国家基层项目": "0.44",
     "地方基层项目": "0.17",
     "高等教育单位": "0.09",
-    "医疗卫生单位": "0.03",
     "科研设计单位": "0.03",
+    "医疗卫生单位": "0.03",
     "其他": "2.05",
-    "企业": "82.33",
-    "事业单位": "1.12"
+    "事业单位": "1.12",
+    "企业": "82.33"
   },
   "company": {},
   "gradute": [],

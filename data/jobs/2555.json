@@ -1,20 +1,20 @@
 {
-  "update_time": "2026-09-01 09:21:55",
+  "update_time": "2026-10-01 10:55:46",
   "school_id": "2555",
   "school_name": "南通大学杏林学院",
-  "jobrateyear": "2022",
+  "jobrateyear": "2024",
   "jobrate": {
     "job": {
-      "1": "74.21"
+      "1": "80.57"
     },
     "postgraduate": {
-      "1": "10.74"
+      "1": "0.00"
     },
     "abroad": {
-      "1": "0.07"
+      "1": "0.00"
     },
     "content": {
-      "1": ""
+      "1": "<p><img src=\"https://static-data.gaokao.cn//upload/image/202606/core_1782028263_4758_thumb.jpg\" xss=removed title=\"core_1782028263_4758_thumb.jpg\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202606/core_1782028263_7202_thumb.jpg\" xss=removed title=\"core_1782028263_7202_thumb.jpg\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202606/core_1782028263_7437_thumb.jpg\" xss=removed title=\"core_1782028263_7437_thumb.jpg\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202606/core_1782028263_5069_thumb.jpg\" xss=removed title=\"core_1782028263_5069_thumb.jpg\"></p><p><br></p>"
     }
   },
   "province": [],

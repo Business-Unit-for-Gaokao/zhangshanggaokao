@@ -1,20 +1,20 @@
 {
-  "update_time": "2026-09-01 09:05:35",
+  "update_time": "2026-10-01 10:39:45",
   "school_id": "786",
   "school_name": "辽宁工程技术大学",
-  "jobrateyear": "2022",
+  "jobrateyear": "2024",
   "jobrate": {
     "job": {
-      "1": "85.91"
+      "1": "81.55"
     },
     "postgraduate": {
-      "1": "16.54"
+      "1": "13.69"
     },
     "abroad": {
-      "1": "0.27"
+      "1": "0.41"
     },
     "content": {
-      "1": ""
+      "1": "<p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788510413_7315_thumb.png\" title=\"core_1788510413_7315_thumb.png\" alt=\"core_1788510413_7315.png\"></p>"
     }
   },
   "province": [

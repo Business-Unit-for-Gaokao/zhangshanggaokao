@@ -1,9 +1,22 @@
 {
-  "update_time": "2026-09-01 09:24:53",
+  "update_time": "2026-10-01 10:58:49",
   "school_id": "3143",
   "school_name": "南京城市职业学院",
-  "jobrateyear": "",
-  "jobrate": {},
+  "jobrateyear": "2025",
+  "jobrate": {
+    "job": {
+      "1": "90.42"
+    },
+    "postgraduate": {
+      "1": "0.00"
+    },
+    "abroad": {
+      "1": "0.00"
+    },
+    "content": {
+      "1": "<p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1789011223_4646_thumb.jpg\" xss=removed title=\"core_1789011223_4646_thumb.jpg\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1789011224_2411_thumb.jpg\" xss=removed title=\"core_1789011224_2411_thumb.jpg\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1789011224_2455_thumb.jpg\" xss=removed title=\"core_1789011224_2455_thumb.jpg\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1789011224_6763_thumb.jpg\" xss=removed title=\"core_1789011224_6763_thumb.jpg\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1789011224_1353_thumb.jpg\" xss=removed title=\"core_1789011224_1353_thumb.jpg\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1789011224_6092_thumb.jpg\" xss=removed title=\"core_1789011224_6092_thumb.jpg\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1789011225_4373_thumb.jpg\" xss=removed title=\"core_1789011225_4373_thumb.jpg\"></p><p><br></p>"
+    }
+  },
   "province": [],
   "attr": {},
   "company": {},

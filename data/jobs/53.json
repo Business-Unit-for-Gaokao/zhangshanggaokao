@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-09-01 08:58:16",
+  "update_time": "2026-10-01 10:32:23",
   "school_id": "53",
   "school_name": "对外经济贸易大学",
   "jobrateyear": "2023",
@@ -115,18 +115,6 @@
       "province_name": "重庆市"
     },
     {
-      "id": "22124",
-      "school_id": "53",
-      "province": "广西壮族自治区",
-      "rate": "0.57",
-      "num": "11",
-      "sort": "11",
-      "update_id": "1988",
-      "update_time": "2024-09-20 14:12:09",
-      "year": "2022",
-      "province_name": "广西壮族自治区"
-    },
-    {
       "id": "22129",
       "school_id": "53",
       "province": "贵州省",
@@ -137,6 +125,18 @@
       "update_time": "2024-09-20 14:12:09",
       "year": "2022",
       "province_name": "贵州省"
+    },
+    {
+      "id": "22124",
+      "school_id": "53",
+      "province": "广西壮族自治区",
+      "rate": "0.57",
+      "num": "11",
+      "sort": "11",
+      "update_id": "1988",
+      "update_time": "2024-09-20 14:12:09",
+      "year": "2022",
+      "province_name": "广西壮族自治区"
     },
     {
       "id": "22130",

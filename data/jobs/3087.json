@@ -1,9 +1,22 @@
 {
-  "update_time": "2026-09-01 09:24:31",
+  "update_time": "2026-10-01 10:58:29",
   "school_id": "3087",
   "school_name": "云南现代职业技术学院",
-  "jobrateyear": "",
-  "jobrate": {},
+  "jobrateyear": "2025",
+  "jobrate": {
+    "job": {
+      "1": "93.48"
+    },
+    "postgraduate": {
+      "1": "0.00"
+    },
+    "abroad": {
+      "1": "0.00"
+    },
+    "content": {
+      "1": "<p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788337078_9479_thumb.png\" title=\"core_1788337078_9479_thumb.png\" alt=\"core_1788337078_9479.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788337096_5196_thumb.png\" title=\"core_1788337096_5196_thumb.png\" alt=\"core_1788337096_5196.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788337109_1060_thumb.png\" title=\"core_1788337109_1060_thumb.png\" alt=\"core_1788337109_1060.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788337126_5491_thumb.png\" title=\"core_1788337126_5491_thumb.png\" alt=\"core_1788337126_5491.png\"></p>"
+    }
+  },
   "province": [],
   "attr": {},
   "company": {},

@@ -1,9 +1,22 @@
 {
-  "update_time": "2026-09-01 09:22:55",
+  "update_time": "2026-10-01 10:56:46",
   "school_id": "2693",
   "school_name": "榆林职业技术学院",
-  "jobrateyear": "",
-  "jobrate": {},
+  "jobrateyear": "2024",
+  "jobrate": {
+    "job": {
+      "1": "95.34"
+    },
+    "postgraduate": {
+      "1": "0.00"
+    },
+    "abroad": {
+      "1": "0.00"
+    },
+    "content": {
+      "1": "<p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1789439875_2841_thumb.jpg\" xss=removed title=\"core_1789439875_2841_thumb.jpg\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1789439875_4192_thumb.jpg\" xss=removed title=\"core_1789439875_4192_thumb.jpg\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1789439875_3764_thumb.jpg\" xss=removed title=\"core_1789439875_3764_thumb.jpg\"></p><p><br></p>"
+    }
+  },
   "province": [],
   "attr": {},
   "company": {},

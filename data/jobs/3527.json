@@ -1,9 +1,22 @@
 {
-  "update_time": "2026-09-01 09:27:59",
+  "update_time": "2026-10-01 11:02:01",
   "school_id": "3527",
   "school_name": "南充电影工业职业学院",
-  "jobrateyear": "",
-  "jobrate": {},
+  "jobrateyear": "2023",
+  "jobrate": {
+    "job": {
+      "1": "92.31"
+    },
+    "postgraduate": {
+      "1": "23.07"
+    },
+    "abroad": {
+      "1": "0.00"
+    },
+    "content": {
+      "1": "<p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788405904_4666_thumb.png\" title=\"core_1788405904_4666_thumb.png\" alt=\"core_1788405904_4666.png\"></p>"
+    }
+  },
   "province": [],
   "attr": {},
   "company": {},

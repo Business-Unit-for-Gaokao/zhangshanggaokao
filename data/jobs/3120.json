@@ -1,9 +1,22 @@
 {
-  "update_time": "2026-09-01 09:24:48",
+  "update_time": "2026-10-01 10:58:44",
   "school_id": "3120",
   "school_name": "九江科技职业大学",
-  "jobrateyear": "",
-  "jobrate": {},
+  "jobrateyear": "2025",
+  "jobrate": {
+    "job": {
+      "1": "92.31"
+    },
+    "postgraduate": {
+      "1": "0.00"
+    },
+    "abroad": {
+      "1": "0.00"
+    },
+    "content": {
+      "1": "<p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788333670_6657_thumb.png\" title=\"core_1788333670_6657_thumb.png\" alt=\"core_1788333670_6657.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788333694_6297_thumb.png\" title=\"core_1788333694_6297_thumb.png\" alt=\"core_1788333694_6297.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788333733_5832_thumb.png\" title=\"core_1788333733_5832_thumb.png\" alt=\"core_1788333733_5832.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788333781_5876_thumb.png\" title=\"core_1788333781_5876_thumb.png\" alt=\"core_1788333781_5876.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788333993_5352_thumb.png\" title=\"core_1788333993_5352_thumb.png\" alt=\"core_1788333993_5352.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788334030_3735_thumb.png\" title=\"core_1788334030_3735_thumb.png\" alt=\"core_1788334030_3735.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788334096_1292_thumb.png\" title=\"core_1788334096_1292_thumb.png\" alt=\"core_1788334096_1292.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788334126_2157_thumb.png\" title=\"core_1788334126_2157_thumb.png\" alt=\"core_1788334126_2157.png\"></p><p><br></p>"
+    }
+  },
   "province": [],
   "attr": {},
   "company": {},

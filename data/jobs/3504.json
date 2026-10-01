@@ -1,9 +1,22 @@
 {
-  "update_time": "2026-09-01 09:27:43",
+  "update_time": "2026-10-01 11:01:44",
   "school_id": "3504",
   "school_name": "南昌健康职业技术学院",
-  "jobrateyear": "",
-  "jobrate": {},
+  "jobrateyear": "2025",
+  "jobrate": {
+    "job": {
+      "1": "86.00"
+    },
+    "postgraduate": {
+      "1": "2.92"
+    },
+    "abroad": {
+      "1": "0.00"
+    },
+    "content": {
+      "1": "<p><img src=\"https://static-data.gaokao.cn//upload/image/202608/core_1787131013_8866_thumb.png\" title=\"core_1787131013_8866_thumb.png\" alt=\"core_1787131013_8866.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202608/core_1787131020_4277_thumb.png\" title=\"core_1787131020_4277_thumb.png\" alt=\"core_1787131020_4277.png\"></p>"
+    }
+  },
   "province": [],
   "attr": {},
   "company": {},

@@ -1,20 +1,20 @@
 {
-  "update_time": "2026-09-01 09:24:27",
+  "update_time": "2026-10-01 10:58:25",
   "school_id": "3074",
   "school_name": "四川电子机械职业技术学院",
-  "jobrateyear": "2021",
+  "jobrateyear": "2025",
   "jobrate": {
     "job": {
-      "1": "97.15"
+      "1": "97.68"
     },
     "postgraduate": {
-      "1": "18.57"
+      "1": "0.00"
     },
     "abroad": {
       "1": "0.00"
     },
     "content": {
-      "1": ""
+      "1": "<p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788329695_6857_thumb.png\" title=\"core_1788329695_6857_thumb.png\" alt=\"core_1788329695_6857.png\"></p>"
     }
   },
   "province": [

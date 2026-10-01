@@ -1,20 +1,20 @@
 {
-  "update_time": "2026-09-01 09:24:39",
+  "update_time": "2026-10-01 10:58:37",
   "school_id": "3105",
   "school_name": "辽宁轻工职业学院",
-  "jobrateyear": "2023",
+  "jobrateyear": "2025",
   "jobrate": {
     "job": {
-      "1": "91.27"
+      "1": "94.12"
     },
     "postgraduate": {
-      "1": "14.44"
+      "1": "0.00"
     },
     "abroad": {
-      "1": "0.21"
+      "1": "0.00"
     },
     "content": {
-      "1": ""
+      "1": "<p><img src=\"https://static-data.gaokao.cn//upload/image/202608/core_1788162257_4754_thumb.png\" title=\"core_1788162257_4754_thumb.png\" alt=\"core_1788162257_4754.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202608/core_1788162266_8945_thumb.png\" title=\"core_1788162266_8945_thumb.png\" alt=\"core_1788162266_8945.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202608/core_1788162274_8565_thumb.png\" title=\"core_1788162274_8565_thumb.png\" alt=\"core_1788162274_8565.png\"></p><p><br></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202608/core_1788162283_5972_thumb.png\" title=\"core_1788162283_5972_thumb.png\" alt=\"core_1788162283_5972.png\"></p>"
     }
   },
   "province": [

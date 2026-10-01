@@ -1,9 +1,22 @@
 {
-  "update_time": "2026-09-01 09:07:02",
+  "update_time": "2026-10-01 10:41:14",
   "school_id": "950",
   "school_name": "江西艺术职业学院",
-  "jobrateyear": "",
-  "jobrate": {},
+  "jobrateyear": "2025",
+  "jobrate": {
+    "job": {
+      "1": "75.70"
+    },
+    "postgraduate": {
+      "1": "22.11"
+    },
+    "abroad": {
+      "1": "0.00"
+    },
+    "content": {
+      "1": "<p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788502072_3545_thumb.png\" title=\"core_1788502072_3545_thumb.png\" alt=\"core_1788502072_3545.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788502083_2310_thumb.png\" title=\"core_1788502083_2310_thumb.png\" alt=\"core_1788502083_2310.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788502100_3240_thumb.png\" title=\"core_1788502100_3240_thumb.png\" alt=\"core_1788502100_3240.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788502115_5274_thumb.png\" title=\"core_1788502115_5274_thumb.png\" alt=\"core_1788502115_5274.png\"></p>"
+    }
+  },
   "province": [],
   "attr": {},
   "company": {},

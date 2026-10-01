@@ -1,9 +1,22 @@
 {
-  "update_time": "2026-09-01 09:16:23",
+  "update_time": "2026-10-01 10:50:17",
   "school_id": "2008",
   "school_name": "湖南环境生物职业技术学院",
-  "jobrateyear": "",
-  "jobrate": {},
+  "jobrateyear": "2025",
+  "jobrate": {
+    "job": {
+      "1": "89.25"
+    },
+    "postgraduate": {
+      "1": "5.77"
+    },
+    "abroad": {
+      "1": "0.00"
+    },
+    "content": {
+      "1": "<p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788502807_9690_thumb.png\" title=\"core_1788502807_9690_thumb.png\" alt=\"core_1788502807_9690.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788502828_9171_thumb.png\" title=\"core_1788502828_9171_thumb.png\" alt=\"core_1788502828_9171.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788502840_4231_thumb.png\" title=\"core_1788502840_4231_thumb.png\" alt=\"core_1788502840_4231.png\"></p><p><br></p>"
+    }
+  },
   "province": [],
   "attr": {},
   "company": {},

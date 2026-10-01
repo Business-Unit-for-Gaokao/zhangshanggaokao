@@ -1,9 +1,22 @@
 {
-  "update_time": "2026-09-01 09:06:39",
+  "update_time": "2026-10-01 10:40:52",
   "school_id": "912",
   "school_name": "北京北大方正软件职业技术学院",
-  "jobrateyear": "",
-  "jobrate": {},
+  "jobrateyear": "2025",
+  "jobrate": {
+    "job": {
+      "1": "95.39"
+    },
+    "postgraduate": {
+      "1": "10.25"
+    },
+    "abroad": {
+      "1": "0.00"
+    },
+    "content": {
+      "1": "<p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788508283_1579_thumb.png\" title=\"core_1788508283_1579_thumb.png\" alt=\"core_1788508283_1579.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788508296_7160_thumb.png\" title=\"core_1788508296_7160_thumb.png\" alt=\"core_1788508296_7160.png\"></p>"
+    }
+  },
   "province": [],
   "attr": {},
   "company": {},

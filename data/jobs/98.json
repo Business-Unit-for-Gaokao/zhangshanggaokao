@@ -1,20 +1,20 @@
 {
-  "update_time": "2026-09-01 08:58:45",
+  "update_time": "2026-10-01 10:32:52",
   "school_id": "98",
   "school_name": "华南师范大学",
-  "jobrateyear": "2022",
+  "jobrateyear": "2024",
   "jobrate": {
     "job": {
-      "1": "90.66"
+      "1": "0.00"
     },
     "postgraduate": {
-      "1": "21.28"
+      "1": "69.69"
     },
     "abroad": {
-      "1": "5.51"
+      "1": "30.31"
     },
     "content": {
-      "1": ""
+      "1": "<p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788415770_9057_thumb.png\" title=\"core_1788415770_9057_thumb.png\" alt=\"core_1788415770_9057.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788415787_8870_thumb.png\" title=\"core_1788415787_8870_thumb.png\" alt=\"core_1788415787_8870.png\"></p>"
     }
   },
   "province": [

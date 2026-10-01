@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-09-01 09:03:05",
+  "update_time": "2026-10-01 10:37:15",
   "school_id": "518",
   "school_name": "遵义医科大学",
   "jobrateyear": "2024",
@@ -91,18 +91,6 @@
       "province_name": "辽宁省"
     },
     {
-      "id": "23750",
-      "school_id": "518",
-      "province": "安徽省",
-      "rate": "0.24",
-      "num": "7",
-      "sort": "7",
-      "update_id": "2094",
-      "update_time": "2024-11-12 18:08:11",
-      "year": "2023",
-      "province_name": "安徽省"
-    },
-    {
       "id": "23746",
       "school_id": "518",
       "province": "甘肃省",
@@ -113,6 +101,18 @@
       "update_time": "2024-11-12 18:08:11",
       "year": "2023",
       "province_name": "甘肃省"
+    },
+    {
+      "id": "23750",
+      "school_id": "518",
+      "province": "安徽省",
+      "rate": "0.24",
+      "num": "7",
+      "sort": "7",
+      "update_id": "2094",
+      "update_time": "2024-11-12 18:08:11",
+      "year": "2023",
+      "province_name": "安徽省"
     },
     {
       "id": "23741",
@@ -295,18 +295,6 @@
       "province_name": "江苏省"
     },
     {
-      "id": "23734",
-      "school_id": "518",
-      "province": "云南省",
-      "rate": "2.10",
-      "num": "60",
-      "sort": "60",
-      "update_id": "2094",
-      "update_time": "2024-11-12 18:08:11",
-      "year": "2023",
-      "province_name": "云南省"
-    },
-    {
       "id": "23732",
       "school_id": "518",
       "province": "浙江省",
@@ -317,6 +305,18 @@
       "update_time": "2024-11-12 18:08:11",
       "year": "2023",
       "province_name": "浙江省"
+    },
+    {
+      "id": "23734",
+      "school_id": "518",
+      "province": "云南省",
+      "rate": "2.10",
+      "num": "60",
+      "sort": "60",
+      "update_id": "2094",
+      "update_time": "2024-11-12 18:08:11",
+      "year": "2023",
+      "province_name": "云南省"
     },
     {
       "id": "23733",

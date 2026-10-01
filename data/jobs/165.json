@@ -1,20 +1,20 @@
 {
-  "update_time": "2026-09-01 08:59:24",
+  "update_time": "2026-10-01 10:33:33",
   "school_id": "165",
   "school_name": "江西理工大学",
-  "jobrateyear": "2022",
+  "jobrateyear": "2024",
   "jobrate": {
     "job": {
-      "1": "85.43"
+      "1": "84.24"
     },
     "postgraduate": {
-      "1": "37.73"
+      "1": "22.23"
     },
     "abroad": {
-      "1": "0.61"
+      "1": "0.55"
     },
     "content": {
-      "1": ""
+      "1": "<p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788419957_3538_thumb.png\" title=\"core_1788419957_3538_thumb.png\" alt=\"core_1788419957_3538.png\"></p>"
     }
   },
   "province": [

@@ -1,9 +1,22 @@
 {
-  "update_time": "2026-09-01 09:10:57",
+  "update_time": "2026-10-01 10:45:04",
   "school_id": "1436",
   "school_name": "江苏海事职业技术学院",
-  "jobrateyear": "",
-  "jobrate": {},
+  "jobrateyear": "2025",
+  "jobrate": {
+    "job": {
+      "1": "95.50"
+    },
+    "postgraduate": {
+      "1": "18.01"
+    },
+    "abroad": {
+      "1": "0.00"
+    },
+    "content": {
+      "1": "<p><img src=\"https://static-data.gaokao.cn//upload/image/202608/core_1788169594_2402_thumb.png\" title=\"core_1788169594_2402_thumb.png\" alt=\"core_1788169594_2402.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202608/core_1788169613_1390_thumb.png\" title=\"core_1788169613_1390_thumb.png\" alt=\"core_1788169613_1390.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202608/core_1788169634_8178_thumb.png\" title=\"core_1788169634_8178_thumb.png\" alt=\"core_1788169634_8178.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202608/core_1788169652_6036_thumb.png\" title=\"core_1788169652_6036_thumb.png\" alt=\"core_1788169652_6036.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202608/core_1788169667_2297_thumb.png\" title=\"core_1788169667_2297_thumb.png\" alt=\"core_1788169667_2297.png\"></p>"
+    }
+  },
   "province": [],
   "attr": {},
   "company": {},

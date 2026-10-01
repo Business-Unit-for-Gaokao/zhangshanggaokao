@@ -1,9 +1,22 @@
 {
-  "update_time": "2026-09-01 09:29:33",
+  "update_time": "2026-10-01 11:03:31",
   "school_id": "3691",
   "school_name": "山东文化艺术职业学院",
-  "jobrateyear": "",
-  "jobrate": {},
+  "jobrateyear": "2024",
+  "jobrate": {
+    "job": {
+      "1": "93.96"
+    },
+    "postgraduate": {
+      "1": "0.00"
+    },
+    "abroad": {
+      "1": "0.00"
+    },
+    "content": {
+      "1": "<p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1789380119_1166_thumb.jpg\" xss=removed title=\"core_1789380119_1166_thumb.jpg\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1789380119_3665_thumb.jpg\" xss=removed title=\"core_1789380119_3665_thumb.jpg\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1789380119_2326_thumb.jpg\" xss=removed title=\"core_1789380119_2326_thumb.jpg\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1789380119_6033_thumb.jpg\" xss=removed title=\"core_1789380119_6033_thumb.jpg\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1789380120_8131_thumb.jpg\" xss=removed title=\"core_1789380120_8131_thumb.jpg\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1789380120_6459_thumb.jpg\" xss=removed title=\"core_1789380120_6459_thumb.jpg\"></p><p><br></p>"
+    }
+  },
   "province": [],
   "attr": {},
   "company": {},

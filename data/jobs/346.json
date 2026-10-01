@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-09-01 09:01:18",
+  "update_time": "2026-10-01 10:35:25",
   "school_id": "346",
   "school_name": "西南林业大学",
   "jobrateyear": "2024",
@@ -127,18 +127,6 @@
       "province_name": "山东省"
     },
     {
-      "id": "8243",
-      "school_id": "346",
-      "province": "浙江省",
-      "rate": "1.33",
-      "num": "56",
-      "sort": "56",
-      "update_id": "0",
-      "update_time": "2018-12-18 15:40:17",
-      "year": "2019",
-      "province_name": "浙江省"
-    },
-    {
       "id": "8246",
       "school_id": "346",
       "province": "上海市",
@@ -149,6 +137,18 @@
       "update_time": "2018-12-18 15:40:17",
       "year": "2019",
       "province_name": "上海市"
+    },
+    {
+      "id": "8243",
+      "school_id": "346",
+      "province": "浙江省",
+      "rate": "1.33",
+      "num": "56",
+      "sort": "56",
+      "update_id": "0",
+      "update_time": "2018-12-18 15:40:17",
+      "year": "2019",
+      "province_name": "浙江省"
     },
     {
       "id": "8252",

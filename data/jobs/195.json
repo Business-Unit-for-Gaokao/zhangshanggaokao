@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-09-01 08:59:43",
+  "update_time": "2026-10-01 10:33:51",
   "school_id": "195",
   "school_name": "赣南医科大学",
   "jobrateyear": "2024",
@@ -55,18 +55,6 @@
       "province_name": "国外"
     },
     {
-      "id": "22171",
-      "school_id": "195",
-      "province": "宁夏",
-      "rate": "0.28",
-      "num": "6",
-      "sort": "6",
-      "update_id": "1988",
-      "update_time": "2024-09-20 15:08:36",
-      "year": "2021",
-      "province_name": "宁夏"
-    },
-    {
       "id": "22170",
       "school_id": "195",
       "province": "云南",
@@ -77,6 +65,18 @@
       "update_time": "2024-09-20 15:08:36",
       "year": "2021",
       "province_name": "云南"
+    },
+    {
+      "id": "22171",
+      "school_id": "195",
+      "province": "宁夏",
+      "rate": "0.28",
+      "num": "6",
+      "sort": "6",
+      "update_id": "1988",
+      "update_time": "2024-09-20 15:08:36",
+      "year": "2021",
+      "province_name": "宁夏"
     },
     {
       "id": "22169",
@@ -103,6 +103,18 @@
       "province_name": "青海"
     },
     {
+      "id": "22167",
+      "school_id": "195",
+      "province": "山西",
+      "rate": "0.42",
+      "num": "9",
+      "sort": "9",
+      "update_id": "1988",
+      "update_time": "2024-09-20 15:08:36",
+      "year": "2021",
+      "province_name": "山西"
+    },
+    {
       "id": "22166",
       "school_id": "195",
       "province": "新疆",
@@ -125,18 +137,6 @@
       "update_time": "2024-09-20 15:08:36",
       "year": "2021",
       "province_name": "甘肃"
-    },
-    {
-      "id": "22167",
-      "school_id": "195",
-      "province": "山西",
-      "rate": "0.42",
-      "num": "9",
-      "sort": "9",
-      "update_id": "1988",
-      "update_time": "2024-09-20 15:08:36",
-      "year": "2021",
-      "province_name": "山西"
     },
     {
       "id": "22164",
@@ -235,18 +235,6 @@
       "province_name": "河北"
     },
     {
-      "id": "22156",
-      "school_id": "195",
-      "province": "湖北",
-      "rate": "0.80",
-      "num": "17",
-      "sort": "17",
-      "update_id": "1988",
-      "update_time": "2024-09-20 15:08:36",
-      "year": "2021",
-      "province_name": "湖北"
-    },
-    {
       "id": "22155",
       "school_id": "195",
       "province": "广西",
@@ -257,6 +245,18 @@
       "update_time": "2024-09-20 15:08:36",
       "year": "2021",
       "province_name": "广西"
+    },
+    {
+      "id": "22156",
+      "school_id": "195",
+      "province": "湖北",
+      "rate": "0.80",
+      "num": "17",
+      "sort": "17",
+      "update_id": "1988",
+      "update_time": "2024-09-20 15:08:36",
+      "year": "2021",
+      "province_name": "湖北"
     },
     {
       "id": "22154",

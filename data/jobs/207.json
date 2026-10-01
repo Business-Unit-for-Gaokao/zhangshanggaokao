@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-09-01 08:59:51",
+  "update_time": "2026-10-01 10:33:58",
   "school_id": "207",
   "school_name": "锦州医科大学",
   "jobrateyear": "2024",
@@ -91,18 +91,6 @@
       "province_name": "福建省"
     },
     {
-      "id": "21737",
-      "school_id": "207",
-      "province": "广西壮族自治区",
-      "rate": "0.27",
-      "num": "0",
-      "sort": "27",
-      "update_id": "2094",
-      "update_time": "2024-09-18 17:56:37",
-      "year": "2021",
-      "province_name": "广西壮族自治区"
-    },
-    {
       "id": "21738",
       "school_id": "207",
       "province": "黑龙江省",
@@ -113,6 +101,18 @@
       "update_time": "2024-09-18 17:56:37",
       "year": "2021",
       "province_name": "黑龙江省"
+    },
+    {
+      "id": "21737",
+      "school_id": "207",
+      "province": "广西壮族自治区",
+      "rate": "0.27",
+      "num": "0",
+      "sort": "27",
+      "update_id": "2094",
+      "update_time": "2024-09-18 17:56:37",
+      "year": "2021",
+      "province_name": "广西壮族自治区"
     },
     {
       "id": "21736",
@@ -163,18 +163,6 @@
       "province_name": "山西省"
     },
     {
-      "id": "21732",
-      "school_id": "207",
-      "province": "吉林省",
-      "rate": "0.72",
-      "num": "0",
-      "sort": "72",
-      "update_id": "2094",
-      "update_time": "2024-09-18 17:56:37",
-      "year": "2021",
-      "province_name": "吉林省"
-    },
-    {
       "id": "21731",
       "school_id": "207",
       "province": "重庆市",
@@ -187,16 +175,16 @@
       "province_name": "重庆市"
     },
     {
-      "id": "21730",
+      "id": "21732",
       "school_id": "207",
-      "province": "内蒙古自治区",
-      "rate": "0.76",
+      "province": "吉林省",
+      "rate": "0.72",
       "num": "0",
-      "sort": "76",
+      "sort": "72",
       "update_id": "2094",
       "update_time": "2024-09-18 17:56:37",
       "year": "2021",
-      "province_name": "内蒙古自治区"
+      "province_name": "吉林省"
     },
     {
       "id": "21729",
@@ -209,6 +197,18 @@
       "update_time": "2024-09-18 17:56:37",
       "year": "2021",
       "province_name": "甘肃省"
+    },
+    {
+      "id": "21730",
+      "school_id": "207",
+      "province": "内蒙古自治区",
+      "rate": "0.76",
+      "num": "0",
+      "sort": "76",
+      "update_id": "2094",
+      "update_time": "2024-09-18 17:56:37",
+      "year": "2021",
+      "province_name": "内蒙古自治区"
     },
     {
       "id": "21728",

@@ -1,20 +1,20 @@
 {
-  "update_time": "2026-09-01 09:11:22",
+  "update_time": "2026-10-01 10:45:26",
   "school_id": "1492",
   "school_name": "重庆传媒职业学院",
-  "jobrateyear": "2023",
+  "jobrateyear": "2025",
   "jobrate": {
     "job": {
-      "1": "87.03"
+      "1": "0.00"
     },
     "postgraduate": {
-      "1": "14.54"
+      "1": "0.00"
     },
     "abroad": {
-      "1": "0.07"
+      "1": "0.00"
     },
     "content": {
-      "1": ""
+      "1": "<p><img src=\"https://static-data.gaokao.cn//upload/image/202608/core_1787046433_1887_thumb.png\" title=\"core_1787046433_1887_thumb.png\" alt=\"core_1787046433_1887.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202608/core_1787046441_7770_thumb.png\" title=\"core_1787046441_7770_thumb.png\" alt=\"core_1787046441_7770.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202608/core_1787046448_7509_thumb.png\" title=\"core_1787046448_7509_thumb.png\" alt=\"core_1787046448_7509.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202608/core_1787046463_6066_thumb.png\" title=\"core_1787046463_6066_thumb.png\" alt=\"core_1787046463_6066.png\"></p>"
     }
   },
   "province": [

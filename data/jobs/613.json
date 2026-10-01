@@ -1,9 +1,22 @@
 {
-  "update_time": "2026-09-01 09:04:02",
+  "update_time": "2026-10-01 10:38:11",
   "school_id": "613",
   "school_name": "广东工贸职业技术学院",
-  "jobrateyear": "",
-  "jobrate": {},
+  "jobrateyear": "2024",
+  "jobrate": {
+    "job": {
+      "1": "93.70"
+    },
+    "postgraduate": {
+      "1": "21.00"
+    },
+    "abroad": {
+      "1": "0.00"
+    },
+    "content": {
+      "1": "<p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788339236_4917_thumb.png\" title=\"core_1788339236_4917_thumb.png\" alt=\"core_1788339236_4917.png\"></p>"
+    }
+  },
   "province": [],
   "attr": {},
   "company": {},

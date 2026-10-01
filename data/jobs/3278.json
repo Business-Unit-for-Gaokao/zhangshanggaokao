@@ -1,9 +1,22 @@
 {
-  "update_time": "2026-09-01 09:25:45",
+  "update_time": "2026-10-01 10:59:41",
   "school_id": "3278",
   "school_name": "阳泉职业技术学院",
-  "jobrateyear": "",
-  "jobrate": {},
+  "jobrateyear": "2024",
+  "jobrate": {
+    "job": {
+      "1": "92.20"
+    },
+    "postgraduate": {
+      "1": "9.10"
+    },
+    "abroad": {
+      "1": "0.00"
+    },
+    "content": {
+      "1": "<p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788422883_4444_thumb.png\" title=\"core_1788422883_4444_thumb.png\" alt=\"core_1788422883_4444.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788422893_7514_thumb.png\" title=\"core_1788422893_7514_thumb.png\" alt=\"core_1788422893_7514.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788423006_3799_thumb.png\" title=\"core_1788423006_3799_thumb.png\" alt=\"core_1788423006_3799.png\"></p>"
+    }
+  },
   "province": [],
   "attr": {},
   "company": {},

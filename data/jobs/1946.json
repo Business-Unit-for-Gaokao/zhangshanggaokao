@@ -1,9 +1,22 @@
 {
-  "update_time": "2026-09-01 09:15:44",
+  "update_time": "2026-10-01 10:49:39",
   "school_id": "1946",
   "school_name": "湖北工业职业技术学院",
-  "jobrateyear": "",
-  "jobrate": {},
+  "jobrateyear": "2025",
+  "jobrate": {
+    "job": {
+      "1": "92.10"
+    },
+    "postgraduate": {
+      "1": "11.91"
+    },
+    "abroad": {
+      "1": "0.00"
+    },
+    "content": {
+      "1": "<p></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788403741_3476_thumb.png\" title=\"core_1788403741_3476_thumb.png\" alt=\"core_1788403741_3476.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788403751_6058_thumb.png\" title=\"core_1788403751_6058_thumb.png\" alt=\"core_1788403751_6058.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788403763_6307_thumb.png\" title=\"core_1788403763_6307_thumb.png\" alt=\"core_1788403763_6307.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788403787_8128_thumb.png\" title=\"core_1788403787_8128_thumb.png\" alt=\"core_1788403787_8128.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788403803_9971_thumb.png\" title=\"core_1788403803_9971_thumb.png\" alt=\"core_1788403803_9971.png\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788403813_2123_thumb.png\" title=\"core_1788403813_2123_thumb.png\" alt=\"core_1788403813_2123.png\"></p>"
+    }
+  },
   "province": [],
   "attr": {},
   "company": {},

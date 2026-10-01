@@ -1,9 +1,22 @@
 {
-  "update_time": "2026-09-01 09:07:41",
+  "update_time": "2026-10-01 10:41:54",
   "school_id": "1017",
   "school_name": "长沙南方职业学院",
-  "jobrateyear": "",
-  "jobrate": {},
+  "jobrateyear": "2024",
+  "jobrate": {
+    "job": {
+      "1": "94.66"
+    },
+    "postgraduate": {
+      "1": "0.00"
+    },
+    "abroad": {
+      "1": "0.00"
+    },
+    "content": {
+      "1": "<p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1789378705_8481_thumb.jpg\" xss=removed title=\"core_1789378705_8481_thumb.jpg\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1789378705_6749_thumb.jpg\" xss=removed title=\"core_1789378705_6749_thumb.jpg\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1789378705_2428_thumb.jpg\" xss=removed title=\"core_1789378705_2428_thumb.jpg\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1789378705_2339_thumb.jpg\" xss=removed title=\"core_1789378705_2339_thumb.jpg\"></p><p><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1789378706_8996_thumb.jpg\" xss=removed title=\"core_1789378706_8996_thumb.jpg\"></p><p><br></p>"
+    }
+  },
   "province": [],
   "attr": {},
   "company": {},

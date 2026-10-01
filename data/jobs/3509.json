@@ -1,9 +1,22 @@
 {
-  "update_time": "2026-09-01 09:27:47",
+  "update_time": "2026-10-01 11:01:48",
   "school_id": "3509",
   "school_name": "潍坊环境工程职业学院",
-  "jobrateyear": "",
-  "jobrate": {},
+  "jobrateyear": "2025",
+  "jobrate": {
+    "job": {
+      "1": "90.76"
+    },
+    "postgraduate": {
+      "1": "0.00"
+    },
+    "abroad": {
+      "1": "0.00"
+    },
+    "content": {
+      "1": "<p xss=removed>2025 届毕业生共 3213 人，截至2025 年8 月31日已就业 2916 人，毕业去向落实率达90.76%。各二级学院梯度推进、成效显著：康养服务学院、文创商贸学院表现突出，智能制造学院、生态环境学院、信息技术学院就业率持续提升，形成了“全员推进、重点突破”的良好局面。</p><p xss=removed><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788418690_1891_thumb.png\" title=\"core_1788418690_1891_thumb.png\" alt=\"core_1788418690_1891.png\"></p><p xss=removed><img src=\"https://static-data.gaokao.cn//upload/image/202609/core_1788418708_8932_thumb.png\" title=\"core_1788418708_8932_thumb.png\" alt=\"core_1788418708_8932.png\"></p>"
+    }
+  },
   "province": [],
   "attr": {},
   "company": {},
