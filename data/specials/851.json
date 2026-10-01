@@ -1,10 +1,10 @@
 {
-  "update_time": "2026-09-01 09:58:29",
+  "update_time": "2026-10-01 11:36:36",
   "school_id": "851",
   "school_name": "天津城市职业学院",
   "source_url": "https://static-data.gaokao.cn/www/2.0/school/851/pc_special.json?a=www.gaokao.cn",
-  "time": "2026-08-01 03:15:37",
-  "md5": "7838ebbd00c8ddf1354eaf94339bbef6",
+  "time": "2026-09-11 14:38:04",
+  "md5": "31ff10f3c5bcade66163921e01ef8196",
   "group_keys": [
     "2"
   ],
@@ -17,7 +17,7 @@
     "3",
     "4"
   ],
-  "special_group_count": 16,
+  "special_group_count": 15,
   "nation_feature_count": 0,
   "educational_strength": {
     "num_doctor": "0",
@@ -162,32 +162,6 @@
         "level2_id": "29",
         "level2_code": "55",
         "code": "5501"
-      },
-      {
-        "id": "1593132",
-        "school_id": "851",
-        "special_id": "8949",
-        "nation_feature": "2",
-        "province_feature": "2",
-        "is_important": "2",
-        "limit_year": "三年",
-        "year": "2022",
-        "level3_weight": "0",
-        "nation_first_class": "2",
-        "xueke_rank": "0",
-        "xueke_rank_score": "",
-        "ruanke_rank": "9999",
-        "ruanke_level": "",
-        "is_video": 2,
-        "special_name": "分布式发电与智能微电网技术",
-        "special_type": "2",
-        "type_name": "专科(高职)",
-        "level3_name": "电力技术类",
-        "level3_code": "139",
-        "level2_name": "能源动力与材料大类",
-        "level2_id": "17",
-        "level2_code": "43",
-        "code": "4301"
       },
       {
         "id": "1593134",
@@ -422,6 +396,32 @@
         "level2_id": "27",
         "level2_code": "53",
         "code": "5303"
+      },
+      {
+        "id": "1591627",
+        "school_id": "851",
+        "special_id": "9093",
+        "nation_feature": "2",
+        "province_feature": "2",
+        "is_important": "2",
+        "limit_year": "三年",
+        "year": "2022",
+        "level3_weight": "0",
+        "nation_first_class": "2",
+        "xueke_rank": "0",
+        "xueke_rank_score": "",
+        "ruanke_rank": "9999",
+        "ruanke_level": "",
+        "is_video": 2,
+        "special_name": "现代物流管理",
+        "special_type": "2",
+        "type_name": "专科(高职)",
+        "level3_name": "物流类",
+        "level3_code": "201",
+        "level2_name": "财经商贸大类",
+        "level2_id": "27",
+        "level2_code": "53",
+        "code": "5308"
       }
     ],
     "special_detail": {
@@ -556,32 +556,6 @@
           "level2_id": "29",
           "level2_code": "55",
           "code": "5501"
-        },
-        {
-          "id": "1593132",
-          "school_id": "851",
-          "special_id": "8949",
-          "nation_feature": "2",
-          "province_feature": "2",
-          "is_important": "2",
-          "limit_year": "三年",
-          "year": "2022",
-          "level3_weight": "0",
-          "nation_first_class": "2",
-          "xueke_rank": "0",
-          "xueke_rank_score": "",
-          "ruanke_rank": "9999",
-          "ruanke_level": "",
-          "is_video": 2,
-          "special_name": "分布式发电与智能微电网技术",
-          "special_type": "2",
-          "type_name": "专科(高职)",
-          "level3_name": "电力技术类",
-          "level3_code": "139",
-          "level2_name": "能源动力与材料大类",
-          "level2_id": "17",
-          "level2_code": "43",
-          "code": "4301"
         },
         {
           "id": "1593134",
@@ -1108,39 +1082,6 @@
       "4": []
     },
     "special": [
-      {
-        "level3_weight": "0",
-        "code": "4301",
-        "name": "电力技术类(专)",
-        "special": [
-          {
-            "id": "1593132",
-            "school_id": "851",
-            "special_id": "8949",
-            "nation_feature": "2",
-            "province_feature": "2",
-            "is_important": "2",
-            "limit_year": "三年",
-            "year": "2022",
-            "level3_weight": "0",
-            "nation_first_class": "2",
-            "xueke_rank": "0",
-            "xueke_rank_score": "",
-            "ruanke_rank": "9999",
-            "ruanke_level": "",
-            "is_video": 2,
-            "special_name": "分布式发电与智能微电网技术",
-            "special_type": "2",
-            "type_name": "专科(高职)",
-            "level3_name": "电力技术类",
-            "level3_code": "139",
-            "level2_name": "能源动力与材料大类",
-            "level2_id": "17",
-            "level2_code": "43",
-            "code": "4301"
-          }
-        ]
-      },
       {
         "level3_weight": "0",
         "code": "4404",
@@ -2042,32 +1983,6 @@
       "code": "5501"
     },
     {
-      "id": "1593132",
-      "school_id": "851",
-      "special_id": "8949",
-      "nation_feature": "2",
-      "province_feature": "2",
-      "is_important": "2",
-      "limit_year": "三年",
-      "year": "2022",
-      "level3_weight": "0",
-      "nation_first_class": "2",
-      "xueke_rank": "0",
-      "xueke_rank_score": "",
-      "ruanke_rank": "9999",
-      "ruanke_level": "",
-      "is_video": 2,
-      "special_name": "分布式发电与智能微电网技术",
-      "special_type": "2",
-      "type_name": "专科(高职)",
-      "level3_name": "电力技术类",
-      "level3_code": "139",
-      "level2_name": "能源动力与材料大类",
-      "level2_id": "17",
-      "level2_code": "43",
-      "code": "4301"
-    },
-    {
       "id": "1593134",
       "school_id": "851",
       "special_id": "8971",
@@ -2300,6 +2215,32 @@
       "level2_id": "27",
       "level2_code": "53",
       "code": "5303"
+    },
+    {
+      "id": "1591627",
+      "school_id": "851",
+      "special_id": "9093",
+      "nation_feature": "2",
+      "province_feature": "2",
+      "is_important": "2",
+      "limit_year": "三年",
+      "year": "2022",
+      "level3_weight": "0",
+      "nation_first_class": "2",
+      "xueke_rank": "0",
+      "xueke_rank_score": "",
+      "ruanke_rank": "9999",
+      "ruanke_level": "",
+      "is_video": 2,
+      "special_name": "现代物流管理",
+      "special_type": "2",
+      "type_name": "专科(高职)",
+      "level3_name": "物流类",
+      "level3_code": "201",
+      "level2_name": "财经商贸大类",
+      "level2_id": "27",
+      "level2_code": "53",
+      "code": "5308"
     }
   ]
 }

@@ -1,10 +1,10 @@
 {
-  "update_time": "2026-09-01 10:16:43",
+  "update_time": "2026-10-01 11:57:55",
   "school_id": "3252",
   "school_name": "江西洪州职业学院",
   "source_url": "https://static-data.gaokao.cn/www/2.0/school/3252/pc_special.json?a=www.gaokao.cn",
-  "time": "2026-08-01 03:13:04",
-  "md5": "4653f4d2be9523f8424cedd25ed0c9e1",
+  "time": "2026-09-11 15:14:56",
+  "md5": "e110d91d245db84b84d8207164c3c6fa",
   "group_keys": [
     "2"
   ],
@@ -17,7 +17,7 @@
     "3",
     "4"
   ],
-  "special_group_count": 21,
+  "special_group_count": 20,
   "nation_feature_count": 0,
   "educational_strength": {
     "num_doctor": "0",
@@ -398,9 +398,9 @@
         "code": "5303"
       },
       {
-        "id": "1788987",
+        "id": "1788989",
         "school_id": "3252",
-        "special_id": "9099",
+        "special_id": "9166",
         "nation_feature": "2",
         "province_feature": "2",
         "is_important": "2",
@@ -413,15 +413,15 @@
         "ruanke_rank": "9999",
         "ruanke_level": "",
         "is_video": 2,
-        "special_name": "酒店管理与数字化运营",
+        "special_name": "汽车制造与试验技术",
         "special_type": "2",
         "type_name": "专科(高职)",
-        "level3_name": "旅游类",
-        "level3_code": "202",
-        "level2_name": "旅游大类",
-        "level2_id": "28",
-        "level2_code": "54",
-        "code": "5401"
+        "level3_name": "汽车制造类",
+        "level3_code": "163",
+        "level2_name": "装备制造大类",
+        "level2_id": "20",
+        "level2_code": "46",
+        "code": "4607"
       }
     ],
     "special_detail": {
@@ -792,32 +792,6 @@
           "code": "5303"
         },
         {
-          "id": "1788987",
-          "school_id": "3252",
-          "special_id": "9099",
-          "nation_feature": "2",
-          "province_feature": "2",
-          "is_important": "2",
-          "limit_year": "三年",
-          "year": "2022",
-          "level3_weight": "0",
-          "nation_first_class": "2",
-          "xueke_rank": "0",
-          "xueke_rank_score": "",
-          "ruanke_rank": "9999",
-          "ruanke_level": "",
-          "is_video": 2,
-          "special_name": "酒店管理与数字化运营",
-          "special_type": "2",
-          "type_name": "专科(高职)",
-          "level3_name": "旅游类",
-          "level3_code": "202",
-          "level2_name": "旅游大类",
-          "level2_id": "28",
-          "level2_code": "54",
-          "code": "5401"
-        },
-        {
           "id": "1788989",
           "school_id": "3252",
           "special_id": "9166",
@@ -868,32 +842,6 @@
           "level2_id": "20",
           "level2_code": "46",
           "code": "4607"
-        },
-        {
-          "id": "1788991",
-          "school_id": "3252",
-          "special_id": "9076",
-          "nation_feature": "2",
-          "province_feature": "2",
-          "is_important": "2",
-          "limit_year": "三年",
-          "year": "2022",
-          "level3_weight": "0",
-          "nation_first_class": "2",
-          "xueke_rank": "0",
-          "xueke_rank_score": "",
-          "ruanke_rank": "9999",
-          "ruanke_level": "",
-          "is_video": 2,
-          "special_name": "婴幼儿托育服务与管理",
-          "special_type": "2",
-          "type_name": "专科(高职)",
-          "level3_name": "健康管理与促进类",
-          "level3_code": "192",
-          "level2_name": "医药卫生大类",
-          "level2_id": "26",
-          "level2_code": "52",
-          "code": "5208"
         },
         {
           "id": "1739383",
@@ -2200,32 +2148,6 @@
         "name": "健康管理与促进类(专)",
         "special": [
           {
-            "id": "1788991",
-            "school_id": "3252",
-            "special_id": "9076",
-            "nation_feature": "2",
-            "province_feature": "2",
-            "is_important": "2",
-            "limit_year": "三年",
-            "year": "2022",
-            "level3_weight": "0",
-            "nation_first_class": "2",
-            "xueke_rank": "0",
-            "xueke_rank_score": "",
-            "ruanke_rank": "9999",
-            "ruanke_level": "",
-            "is_video": 2,
-            "special_name": "婴幼儿托育服务与管理",
-            "special_type": "2",
-            "type_name": "专科(高职)",
-            "level3_name": "健康管理与促进类",
-            "level3_code": "192",
-            "level2_name": "医药卫生大类",
-            "level2_id": "26",
-            "level2_code": "52",
-            "code": "5208"
-          },
-          {
             "id": "2166684",
             "school_id": "3252",
             "special_id": "848",
@@ -2342,39 +2264,6 @@
             "level2_id": "27",
             "level2_code": "53",
             "code": "5307"
-          }
-        ]
-      },
-      {
-        "level3_weight": "0",
-        "code": "5401",
-        "name": "旅游类(专)",
-        "special": [
-          {
-            "id": "1788987",
-            "school_id": "3252",
-            "special_id": "9099",
-            "nation_feature": "2",
-            "province_feature": "2",
-            "is_important": "2",
-            "limit_year": "三年",
-            "year": "2022",
-            "level3_weight": "0",
-            "nation_first_class": "2",
-            "xueke_rank": "0",
-            "xueke_rank_score": "",
-            "ruanke_rank": "9999",
-            "ruanke_level": "",
-            "is_video": 2,
-            "special_name": "酒店管理与数字化运营",
-            "special_type": "2",
-            "type_name": "专科(高职)",
-            "level3_name": "旅游类",
-            "level3_code": "202",
-            "level2_name": "旅游大类",
-            "level2_id": "28",
-            "level2_code": "54",
-            "code": "5401"
           }
         ]
       },
@@ -2883,9 +2772,9 @@
       "code": "5303"
     },
     {
-      "id": "1788987",
+      "id": "1788989",
       "school_id": "3252",
-      "special_id": "9099",
+      "special_id": "9166",
       "nation_feature": "2",
       "province_feature": "2",
       "is_important": "2",
@@ -2898,15 +2787,15 @@
       "ruanke_rank": "9999",
       "ruanke_level": "",
       "is_video": 2,
-      "special_name": "酒店管理与数字化运营",
+      "special_name": "汽车制造与试验技术",
       "special_type": "2",
       "type_name": "专科(高职)",
-      "level3_name": "旅游类",
-      "level3_code": "202",
-      "level2_name": "旅游大类",
-      "level2_id": "28",
-      "level2_code": "54",
-      "code": "5401"
+      "level3_name": "汽车制造类",
+      "level3_code": "163",
+      "level2_name": "装备制造大类",
+      "level2_id": "20",
+      "level2_code": "46",
+      "code": "4607"
     }
   ]
 }

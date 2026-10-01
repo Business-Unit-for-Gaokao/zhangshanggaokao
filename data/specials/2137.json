@@ -1,10 +1,10 @@
 {
-  "update_time": "2026-09-01 10:09:25",
+  "update_time": "2026-10-01 11:49:18",
   "school_id": "2137",
   "school_name": "曲阜远东职业技术学院",
   "source_url": "https://static-data.gaokao.cn/www/2.0/school/2137/pc_special.json?a=www.gaokao.cn",
-  "time": "2026-08-01 03:14:06",
-  "md5": "d79407f3cc36ca9855a0cf904af428ce",
+  "time": "2026-09-11 14:58:41",
+  "md5": "0419792a9bbde4619171652abf83dd4b",
   "group_keys": [
     "2"
   ],
@@ -17,7 +17,7 @@
     "3",
     "4"
   ],
-  "special_group_count": 33,
+  "special_group_count": 32,
   "nation_feature_count": 0,
   "educational_strength": {
     "num_doctor": "0",
@@ -1206,32 +1206,6 @@
           "level2_id": "25",
           "level2_code": "51",
           "code": "5102"
-        },
-        {
-          "id": "132739",
-          "school_id": "2137",
-          "special_id": "882",
-          "nation_feature": "2",
-          "province_feature": "2",
-          "is_important": "2",
-          "limit_year": "三年",
-          "year": "2022",
-          "level3_weight": "0",
-          "nation_first_class": "2",
-          "xueke_rank": "0",
-          "xueke_rank_score": "",
-          "ruanke_rank": "9999",
-          "ruanke_level": "",
-          "is_video": 2,
-          "special_name": "市场营销",
-          "special_type": "2",
-          "type_name": "专科(高职)",
-          "level3_name": "工商管理类",
-          "level3_code": "198",
-          "level2_name": "财经商贸大类",
-          "level2_id": "27",
-          "level2_code": "53",
-          "code": "5306"
         },
         {
           "id": "1615493",
@@ -2850,39 +2824,6 @@
             "level2_id": "27",
             "level2_code": "53",
             "code": "5303"
-          }
-        ]
-      },
-      {
-        "level3_weight": "0",
-        "code": "5306",
-        "name": "工商管理类(专)",
-        "special": [
-          {
-            "id": "132739",
-            "school_id": "2137",
-            "special_id": "882",
-            "nation_feature": "2",
-            "province_feature": "2",
-            "is_important": "2",
-            "limit_year": "三年",
-            "year": "2022",
-            "level3_weight": "0",
-            "nation_first_class": "2",
-            "xueke_rank": "0",
-            "xueke_rank_score": "",
-            "ruanke_rank": "9999",
-            "ruanke_level": "",
-            "is_video": 2,
-            "special_name": "市场营销",
-            "special_type": "2",
-            "type_name": "专科(高职)",
-            "level3_name": "工商管理类",
-            "level3_code": "198",
-            "level2_name": "财经商贸大类",
-            "level2_id": "27",
-            "level2_code": "53",
-            "code": "5306"
           }
         ]
       },

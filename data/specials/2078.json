@@ -1,10 +1,10 @@
 {
-  "update_time": "2026-09-01 10:08:49",
+  "update_time": "2026-10-01 11:48:35",
   "school_id": "2078",
   "school_name": "新疆能源职业技术学院",
   "source_url": "https://static-data.gaokao.cn/www/2.0/school/2078/pc_special.json?a=www.gaokao.cn",
-  "time": "2026-08-01 03:14:11",
-  "md5": "db1b721226453a9f9697600d6cfc06f9",
+  "time": "2026-09-11 14:57:45",
+  "md5": "261b34563d1a02499d72fe8f5a314df3",
   "group_keys": [
     "2"
   ],
@@ -17,7 +17,7 @@
     "3",
     "4"
   ],
-  "special_group_count": 18,
+  "special_group_count": 16,
   "nation_feature_count": 0,
   "educational_strength": {
     "num_doctor": "0",
@@ -398,9 +398,9 @@
         "code": "4603"
       },
       {
-        "id": "1777556",
+        "id": "130452",
         "school_id": "2078",
-        "special_id": "9178",
+        "special_id": "783",
         "nation_feature": "2",
         "province_feature": "2",
         "is_important": "2",
@@ -413,15 +413,15 @@
         "ruanke_rank": "9999",
         "ruanke_level": "",
         "is_video": 2,
-        "special_name": "现代通信技术",
+        "special_name": "计算机应用技术",
         "special_type": "2",
         "type_name": "专科(高职)",
-        "level3_name": "通信类",
-        "level3_code": "184",
+        "level3_name": "计算机类",
+        "level3_code": "183",
         "level2_name": "电子与信息大类",
         "level2_id": "25",
         "level2_code": "51",
-        "code": "5103"
+        "code": "5102"
       }
     ],
     "special_detail": {
@@ -792,32 +792,6 @@
           "code": "4603"
         },
         {
-          "id": "1777556",
-          "school_id": "2078",
-          "special_id": "9178",
-          "nation_feature": "2",
-          "province_feature": "2",
-          "is_important": "2",
-          "limit_year": "三年",
-          "year": "2022",
-          "level3_weight": "0",
-          "nation_first_class": "2",
-          "xueke_rank": "0",
-          "xueke_rank_score": "",
-          "ruanke_rank": "9999",
-          "ruanke_level": "",
-          "is_video": 2,
-          "special_name": "现代通信技术",
-          "special_type": "2",
-          "type_name": "专科(高职)",
-          "level3_name": "通信类",
-          "level3_code": "184",
-          "level2_name": "电子与信息大类",
-          "level2_id": "25",
-          "level2_code": "51",
-          "code": "5103"
-        },
-        {
           "id": "130452",
           "school_id": "2078",
           "special_id": "783",
@@ -868,32 +842,6 @@
           "level2_id": "25",
           "level2_code": "51",
           "code": "5102"
-        },
-        {
-          "id": "1777558",
-          "school_id": "2078",
-          "special_id": "782",
-          "nation_feature": "2",
-          "province_feature": "2",
-          "is_important": "2",
-          "limit_year": "三年",
-          "year": "2022",
-          "level3_weight": "0",
-          "nation_first_class": "2",
-          "xueke_rank": "0",
-          "xueke_rank_score": "",
-          "ruanke_rank": "9999",
-          "ruanke_level": "",
-          "is_video": 2,
-          "special_name": "物联网应用技术",
-          "special_type": "2",
-          "type_name": "专科(高职)",
-          "level3_name": "电子信息类",
-          "level3_code": "182",
-          "level2_name": "电子与信息大类",
-          "level2_id": "25",
-          "level2_code": "51",
-          "code": "5101"
         },
         {
           "id": "130454",
@@ -1615,39 +1563,6 @@
       },
       {
         "level3_weight": "0",
-        "code": "5101",
-        "name": "电子信息类(专)",
-        "special": [
-          {
-            "id": "1777558",
-            "school_id": "2078",
-            "special_id": "782",
-            "nation_feature": "2",
-            "province_feature": "2",
-            "is_important": "2",
-            "limit_year": "三年",
-            "year": "2022",
-            "level3_weight": "0",
-            "nation_first_class": "2",
-            "xueke_rank": "0",
-            "xueke_rank_score": "",
-            "ruanke_rank": "9999",
-            "ruanke_level": "",
-            "is_video": 2,
-            "special_name": "物联网应用技术",
-            "special_type": "2",
-            "type_name": "专科(高职)",
-            "level3_name": "电子信息类",
-            "level3_code": "182",
-            "level2_name": "电子与信息大类",
-            "level2_id": "25",
-            "level2_code": "51",
-            "code": "5101"
-          }
-        ]
-      },
-      {
-        "level3_weight": "0",
         "code": "5102",
         "name": "计算机类(专)",
         "special": [
@@ -1832,39 +1747,6 @@
             "level2_id": "25",
             "level2_code": "51",
             "code": "5102"
-          }
-        ]
-      },
-      {
-        "level3_weight": "0",
-        "code": "5103",
-        "name": "通信类(专)",
-        "special": [
-          {
-            "id": "1777556",
-            "school_id": "2078",
-            "special_id": "9178",
-            "nation_feature": "2",
-            "province_feature": "2",
-            "is_important": "2",
-            "limit_year": "三年",
-            "year": "2022",
-            "level3_weight": "0",
-            "nation_first_class": "2",
-            "xueke_rank": "0",
-            "xueke_rank_score": "",
-            "ruanke_rank": "9999",
-            "ruanke_level": "",
-            "is_video": 2,
-            "special_name": "现代通信技术",
-            "special_type": "2",
-            "type_name": "专科(高职)",
-            "level3_name": "通信类",
-            "level3_code": "184",
-            "level2_name": "电子与信息大类",
-            "level2_id": "25",
-            "level2_code": "51",
-            "code": "5103"
           }
         ]
       },
@@ -2602,9 +2484,9 @@
       "code": "4603"
     },
     {
-      "id": "1777556",
+      "id": "130452",
       "school_id": "2078",
-      "special_id": "9178",
+      "special_id": "783",
       "nation_feature": "2",
       "province_feature": "2",
       "is_important": "2",
@@ -2617,15 +2499,15 @@
       "ruanke_rank": "9999",
       "ruanke_level": "",
       "is_video": 2,
-      "special_name": "现代通信技术",
+      "special_name": "计算机应用技术",
       "special_type": "2",
       "type_name": "专科(高职)",
-      "level3_name": "通信类",
-      "level3_code": "184",
+      "level3_name": "计算机类",
+      "level3_code": "183",
       "level2_name": "电子与信息大类",
       "level2_id": "25",
       "level2_code": "51",
-      "code": "5103"
+      "code": "5102"
     }
   ]
 }

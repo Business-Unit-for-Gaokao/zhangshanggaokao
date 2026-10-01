@@ -1,10 +1,10 @@
 {
-  "update_time": "2026-09-01 10:08:25",
+  "update_time": "2026-10-01 11:48:08",
   "school_id": "2034",
   "school_name": "湖南高速铁路职业技术学院",
   "source_url": "https://static-data.gaokao.cn/www/2.0/school/2034/pc_special.json?a=www.gaokao.cn",
-  "time": "2026-08-01 03:14:14",
-  "md5": "df54e2ae15e74354d3d806e93c7ea898",
+  "time": "2026-09-11 14:57:03",
+  "md5": "213de1f0856f8d6d5f7759398689fbce",
   "group_keys": [
     "2"
   ],
@@ -17,7 +17,7 @@
     "3",
     "4"
   ],
-  "special_group_count": 15,
+  "special_group_count": 14,
   "nation_feature_count": 0,
   "educational_strength": {
     "num_doctor": "0",
@@ -920,32 +920,6 @@
           "level2_id": "25",
           "level2_code": "51",
           "code": "5102"
-        },
-        {
-          "id": "2159243",
-          "school_id": "2034",
-          "special_id": "735",
-          "nation_feature": "2",
-          "province_feature": "2",
-          "is_important": "2",
-          "limit_year": "三年",
-          "year": "2022",
-          "level3_weight": "0",
-          "nation_first_class": "2",
-          "xueke_rank": "0",
-          "xueke_rank_score": "",
-          "ruanke_rank": "9999",
-          "ruanke_level": "",
-          "is_video": 2,
-          "special_name": "集装箱运输管理",
-          "special_type": "2",
-          "type_name": "专科(高职)",
-          "level3_name": "水上运输类",
-          "level3_code": "177",
-          "level2_name": "交通运输大类",
-          "level2_id": "24",
-          "level2_code": "50",
-          "code": "5003"
         },
         {
           "id": "2159244",
@@ -1941,39 +1915,6 @@
             "level2_id": "24",
             "level2_code": "50",
             "code": "5002"
-          }
-        ]
-      },
-      {
-        "level3_weight": "0",
-        "code": "5003",
-        "name": "水上运输类(专)",
-        "special": [
-          {
-            "id": "2159243",
-            "school_id": "2034",
-            "special_id": "735",
-            "nation_feature": "2",
-            "province_feature": "2",
-            "is_important": "2",
-            "limit_year": "三年",
-            "year": "2022",
-            "level3_weight": "0",
-            "nation_first_class": "2",
-            "xueke_rank": "0",
-            "xueke_rank_score": "",
-            "ruanke_rank": "9999",
-            "ruanke_level": "",
-            "is_video": 2,
-            "special_name": "集装箱运输管理",
-            "special_type": "2",
-            "type_name": "专科(高职)",
-            "level3_name": "水上运输类",
-            "level3_code": "177",
-            "level2_name": "交通运输大类",
-            "level2_id": "24",
-            "level2_code": "50",
-            "code": "5003"
           }
         ]
       },

@@ -1,10 +1,10 @@
 {
-  "update_time": "2026-09-01 10:13:53",
+  "update_time": "2026-10-01 11:54:40",
   "school_id": "2655",
   "school_name": "辽宁冶金职业技术学院",
   "source_url": "https://static-data.gaokao.cn/www/2.0/school/2655/pc_special.json?a=www.gaokao.cn",
-  "time": "2026-08-01 03:13:28",
-  "md5": "181855cedc3e60371bc12224b7fd5ce3",
+  "time": "2026-09-11 15:06:52",
+  "md5": "cf79667c4fec6d79e3afd3712a3c7ba9",
   "group_keys": [
     "2"
   ],
@@ -17,7 +17,7 @@
     "3",
     "4"
   ],
-  "special_group_count": 14,
+  "special_group_count": 13,
   "nation_feature_count": 0,
   "educational_strength": {
     "num_doctor": "0",
@@ -136,32 +136,6 @@
         "level2_id": "20",
         "level2_code": "46",
         "code": "4601"
-      },
-      {
-        "id": "83532",
-        "school_id": "2655",
-        "special_id": "445",
-        "nation_feature": "2",
-        "province_feature": "2",
-        "is_important": "1",
-        "limit_year": "三年",
-        "year": "2022",
-        "level3_weight": "0",
-        "nation_first_class": "2",
-        "xueke_rank": "0",
-        "xueke_rank_score": "",
-        "ruanke_rank": "9999",
-        "ruanke_level": "",
-        "is_video": 2,
-        "special_name": "矿物加工技术",
-        "special_type": "2",
-        "type_name": "专科(高职)",
-        "level3_name": "金属与非金属矿类",
-        "level3_code": "135",
-        "level2_name": "资源环境与安全大类",
-        "level2_id": "16",
-        "level2_code": "42",
-        "code": "4206"
       },
       {
         "id": "83539",
@@ -422,6 +396,32 @@
         "level2_id": "20",
         "level2_code": "46",
         "code": "4601"
+      },
+      {
+        "id": "1730464",
+        "school_id": "2655",
+        "special_id": "882",
+        "nation_feature": "2",
+        "province_feature": "2",
+        "is_important": "2",
+        "limit_year": "三年",
+        "year": "2022",
+        "level3_weight": "0",
+        "nation_first_class": "2",
+        "xueke_rank": "0",
+        "xueke_rank_score": "",
+        "ruanke_rank": "9999",
+        "ruanke_level": "",
+        "is_video": 2,
+        "special_name": "市场营销",
+        "special_type": "2",
+        "type_name": "专科(高职)",
+        "level3_name": "工商管理类",
+        "level3_code": "198",
+        "level2_name": "财经商贸大类",
+        "level2_id": "27",
+        "level2_code": "53",
+        "code": "5306"
       }
     ],
     "special_detail": {
@@ -530,32 +530,6 @@
           "level2_id": "20",
           "level2_code": "46",
           "code": "4601"
-        },
-        {
-          "id": "83532",
-          "school_id": "2655",
-          "special_id": "445",
-          "nation_feature": "2",
-          "province_feature": "2",
-          "is_important": "1",
-          "limit_year": "三年",
-          "year": "2022",
-          "level3_weight": "0",
-          "nation_first_class": "2",
-          "xueke_rank": "0",
-          "xueke_rank_score": "",
-          "ruanke_rank": "9999",
-          "ruanke_level": "",
-          "is_video": 2,
-          "special_name": "矿物加工技术",
-          "special_type": "2",
-          "type_name": "专科(高职)",
-          "level3_name": "金属与非金属矿类",
-          "level3_code": "135",
-          "level2_name": "资源环境与安全大类",
-          "level2_id": "16",
-          "level2_code": "42",
-          "code": "4206"
         },
         {
           "id": "83539",
@@ -1056,39 +1030,6 @@
       "4": []
     },
     "special": [
-      {
-        "level3_weight": "0",
-        "code": "4206",
-        "name": "金属与非金属矿类(专)",
-        "special": [
-          {
-            "id": "83532",
-            "school_id": "2655",
-            "special_id": "445",
-            "nation_feature": "2",
-            "province_feature": "2",
-            "is_important": "1",
-            "limit_year": "三年",
-            "year": "2022",
-            "level3_weight": "0",
-            "nation_first_class": "2",
-            "xueke_rank": "0",
-            "xueke_rank_score": "",
-            "ruanke_rank": "9999",
-            "ruanke_level": "",
-            "is_video": 2,
-            "special_name": "矿物加工技术",
-            "special_type": "2",
-            "type_name": "专科(高职)",
-            "level3_name": "金属与非金属矿类",
-            "level3_code": "135",
-            "level2_name": "资源环境与安全大类",
-            "level2_id": "16",
-            "level2_code": "42",
-            "code": "4206"
-          }
-        ]
-      },
       {
         "level3_weight": "0",
         "code": "4209",
@@ -1898,32 +1839,6 @@
       "code": "4601"
     },
     {
-      "id": "83532",
-      "school_id": "2655",
-      "special_id": "445",
-      "nation_feature": "2",
-      "province_feature": "2",
-      "is_important": "1",
-      "limit_year": "三年",
-      "year": "2022",
-      "level3_weight": "0",
-      "nation_first_class": "2",
-      "xueke_rank": "0",
-      "xueke_rank_score": "",
-      "ruanke_rank": "9999",
-      "ruanke_level": "",
-      "is_video": 2,
-      "special_name": "矿物加工技术",
-      "special_type": "2",
-      "type_name": "专科(高职)",
-      "level3_name": "金属与非金属矿类",
-      "level3_code": "135",
-      "level2_name": "资源环境与安全大类",
-      "level2_id": "16",
-      "level2_code": "42",
-      "code": "4206"
-    },
-    {
       "id": "83539",
       "school_id": "2655",
       "special_id": "600",
@@ -2182,6 +2097,32 @@
       "level2_id": "20",
       "level2_code": "46",
       "code": "4601"
+    },
+    {
+      "id": "1730464",
+      "school_id": "2655",
+      "special_id": "882",
+      "nation_feature": "2",
+      "province_feature": "2",
+      "is_important": "2",
+      "limit_year": "三年",
+      "year": "2022",
+      "level3_weight": "0",
+      "nation_first_class": "2",
+      "xueke_rank": "0",
+      "xueke_rank_score": "",
+      "ruanke_rank": "9999",
+      "ruanke_level": "",
+      "is_video": 2,
+      "special_name": "市场营销",
+      "special_type": "2",
+      "type_name": "专科(高职)",
+      "level3_name": "工商管理类",
+      "level3_code": "198",
+      "level2_name": "财经商贸大类",
+      "level2_id": "27",
+      "level2_code": "53",
+      "code": "5306"
     }
   ]
 }

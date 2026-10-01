@@ -1,10 +1,10 @@
 {
-  "update_time": "2026-09-01 10:11:04",
+  "update_time": "2026-10-01 11:51:13",
   "school_id": "2311",
   "school_name": "石家庄理工职业学院",
   "source_url": "https://static-data.gaokao.cn/www/2.0/school/2311/pc_special.json?a=www.gaokao.cn",
-  "time": "2026-08-01 03:13:52",
-  "md5": "0136caa6705a7e073ff7d46820495634",
+  "time": "2026-09-11 15:01:36",
+  "md5": "a014930300116ae7cce9bc6fbd960676",
   "group_keys": [
     "2"
   ],
@@ -17,7 +17,7 @@
     "3",
     "4"
   ],
-  "special_group_count": 29,
+  "special_group_count": 28,
   "nation_feature_count": 0,
   "educational_strength": {
     "num_doctor": "0",
@@ -1726,32 +1726,6 @@
           "level2_id": "26",
           "level2_code": "52",
           "code": "5202"
-        },
-        {
-          "id": "132061",
-          "school_id": "2311",
-          "special_id": "982",
-          "nation_feature": "2",
-          "province_feature": "2",
-          "is_important": "2",
-          "limit_year": "三年",
-          "year": "2022",
-          "level3_weight": "0",
-          "nation_first_class": "2",
-          "xueke_rank": "0",
-          "xueke_rank_score": "",
-          "ruanke_rank": "9999",
-          "ruanke_level": "",
-          "is_video": 2,
-          "special_name": "影视动画",
-          "special_type": "2",
-          "type_name": "专科(高职)",
-          "level3_name": "广播影视类",
-          "level3_code": "210",
-          "level2_name": "新闻传播大类",
-          "level2_id": "30",
-          "level2_code": "56",
-          "code": "5602"
         },
         {
           "id": "132063",
@@ -3653,39 +3627,6 @@
             "level2_id": "29",
             "level2_code": "55",
             "code": "5502"
-          }
-        ]
-      },
-      {
-        "level3_weight": "0",
-        "code": "5602",
-        "name": "广播影视类(专)",
-        "special": [
-          {
-            "id": "132061",
-            "school_id": "2311",
-            "special_id": "982",
-            "nation_feature": "2",
-            "province_feature": "2",
-            "is_important": "2",
-            "limit_year": "三年",
-            "year": "2022",
-            "level3_weight": "0",
-            "nation_first_class": "2",
-            "xueke_rank": "0",
-            "xueke_rank_score": "",
-            "ruanke_rank": "9999",
-            "ruanke_level": "",
-            "is_video": 2,
-            "special_name": "影视动画",
-            "special_type": "2",
-            "type_name": "专科(高职)",
-            "level3_name": "广播影视类",
-            "level3_code": "210",
-            "level2_name": "新闻传播大类",
-            "level2_id": "30",
-            "level2_code": "56",
-            "code": "5602"
           }
         ]
       },

@@ -1,10 +1,10 @@
 {
-  "update_time": "2026-09-01 10:09:26",
+  "update_time": "2026-10-01 11:49:20",
   "school_id": "2139",
   "school_name": "山东力明科技职业学院",
   "source_url": "https://static-data.gaokao.cn/www/2.0/school/2139/pc_special.json?a=www.gaokao.cn",
-  "time": "2026-08-01 03:14:06",
-  "md5": "1757ae9154dbdbe70585bb9c97188462",
+  "time": "2026-09-11 14:58:45",
+  "md5": "72d2f18ccf94891e1ea1cd6a97bb1712",
   "group_keys": [
     "2"
   ],
@@ -17,7 +17,7 @@
     "3",
     "4"
   ],
-  "special_group_count": 27,
+  "special_group_count": 26,
   "nation_feature_count": 0,
   "educational_strength": {
     "num_doctor": "0",
@@ -894,32 +894,6 @@
           "level2_id": "26",
           "level2_code": "52",
           "code": "5208"
-        },
-        {
-          "id": "2169767",
-          "school_id": "2139",
-          "special_id": "9049",
-          "nation_feature": "2",
-          "province_feature": "2",
-          "is_important": "2",
-          "limit_year": "",
-          "year": "2022",
-          "level3_weight": "0",
-          "nation_first_class": "2",
-          "xueke_rank": "0",
-          "xueke_rank_score": "",
-          "ruanke_rank": "9999",
-          "ruanke_level": "",
-          "is_video": 2,
-          "special_name": "新能源汽车检测与维修技术",
-          "special_type": "2",
-          "type_name": "专科(高职)",
-          "level3_name": "道路运输类",
-          "level3_code": "176",
-          "level2_name": "交通运输大类",
-          "level2_id": "24",
-          "level2_code": "50",
-          "code": "5002"
         },
         {
           "id": "1775784",
@@ -1979,39 +1953,6 @@
             "level2_id": "23",
             "level2_code": "49",
             "code": "4902"
-          }
-        ]
-      },
-      {
-        "level3_weight": "0",
-        "code": "5002",
-        "name": "道路运输类(专)",
-        "special": [
-          {
-            "id": "2169767",
-            "school_id": "2139",
-            "special_id": "9049",
-            "nation_feature": "2",
-            "province_feature": "2",
-            "is_important": "2",
-            "limit_year": "",
-            "year": "2022",
-            "level3_weight": "0",
-            "nation_first_class": "2",
-            "xueke_rank": "0",
-            "xueke_rank_score": "",
-            "ruanke_rank": "9999",
-            "ruanke_level": "",
-            "is_video": 2,
-            "special_name": "新能源汽车检测与维修技术",
-            "special_type": "2",
-            "type_name": "专科(高职)",
-            "level3_name": "道路运输类",
-            "level3_code": "176",
-            "level2_name": "交通运输大类",
-            "level2_id": "24",
-            "level2_code": "50",
-            "code": "5002"
           }
         ]
       },

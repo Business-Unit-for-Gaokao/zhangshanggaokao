@@ -1,10 +1,10 @@
 {
-  "update_time": "2026-09-01 10:14:33",
+  "update_time": "2026-10-01 11:55:26",
   "school_id": "2849",
   "school_name": "齐齐哈尔理工职业学院",
   "source_url": "https://static-data.gaokao.cn/www/2.0/school/2849/pc_special.json?a=www.gaokao.cn",
-  "time": "2026-08-01 03:13:23",
-  "md5": "d852ea30ddb9aa940c23abc5e5339fc9",
+  "time": "2026-09-11 15:09:11",
+  "md5": "080245f4f099ac79bcc148b7889f9b72",
   "group_keys": [
     "2"
   ],
@@ -17,7 +17,7 @@
     "3",
     "4"
   ],
-  "special_group_count": 15,
+  "special_group_count": 14,
   "nation_feature_count": 0,
   "educational_strength": {
     "num_doctor": "0",
@@ -844,32 +844,6 @@
           "code": "5102"
         },
         {
-          "id": "135001",
-          "school_id": "2849",
-          "special_id": "886",
-          "nation_feature": "2",
-          "province_feature": "2",
-          "is_important": "2",
-          "limit_year": "三年",
-          "year": "2022",
-          "level3_weight": "0",
-          "nation_first_class": "2",
-          "xueke_rank": "0",
-          "xueke_rank_score": "",
-          "ruanke_rank": "9999",
-          "ruanke_level": "",
-          "is_video": 2,
-          "special_name": "电子商务",
-          "special_type": "2",
-          "type_name": "专科(高职)",
-          "level3_name": "电子商务类",
-          "level3_code": "200",
-          "level2_name": "财经商贸大类",
-          "level2_id": "27",
-          "level2_code": "53",
-          "code": "5307"
-        },
-        {
           "id": "135006",
           "school_id": "2849",
           "special_id": "622",
@@ -1638,39 +1612,6 @@
             "level2_id": "27",
             "level2_code": "53",
             "code": "5306"
-          }
-        ]
-      },
-      {
-        "level3_weight": "0",
-        "code": "5307",
-        "name": "电子商务类(专)",
-        "special": [
-          {
-            "id": "135001",
-            "school_id": "2849",
-            "special_id": "886",
-            "nation_feature": "2",
-            "province_feature": "2",
-            "is_important": "2",
-            "limit_year": "三年",
-            "year": "2022",
-            "level3_weight": "0",
-            "nation_first_class": "2",
-            "xueke_rank": "0",
-            "xueke_rank_score": "",
-            "ruanke_rank": "9999",
-            "ruanke_level": "",
-            "is_video": 2,
-            "special_name": "电子商务",
-            "special_type": "2",
-            "type_name": "专科(高职)",
-            "level3_name": "电子商务类",
-            "level3_code": "200",
-            "level2_name": "财经商贸大类",
-            "level2_id": "27",
-            "level2_code": "53",
-            "code": "5307"
           }
         ]
       },

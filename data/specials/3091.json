@@ -1,10 +1,10 @@
 {
-  "update_time": "2026-09-01 10:15:48",
+  "update_time": "2026-10-01 11:56:52",
   "school_id": "3091",
   "school_name": "信阳涉外职业技术学院",
   "source_url": "https://static-data.gaokao.cn/www/2.0/school/3091/pc_special.json?a=www.gaokao.cn",
-  "time": "2026-08-01 03:13:12",
-  "md5": "6ebb8bbb32031f9c3c2807e3dd655d4c",
+  "time": "2026-09-11 15:12:40",
+  "md5": "0359af8b7ed50744cc8aaab2f517cf52",
   "group_keys": [
     "2"
   ],
@@ -17,7 +17,7 @@
     "3",
     "4"
   ],
-  "special_group_count": 25,
+  "special_group_count": 23,
   "nation_feature_count": 0,
   "educational_strength": {
     "num_doctor": "0",
@@ -896,32 +896,6 @@
           "code": "4601"
         },
         {
-          "id": "1792428",
-          "school_id": "3091",
-          "special_id": "9166",
-          "nation_feature": "2",
-          "province_feature": "2",
-          "is_important": "2",
-          "limit_year": "三年",
-          "year": "2022",
-          "level3_weight": "0",
-          "nation_first_class": "2",
-          "xueke_rank": "0",
-          "xueke_rank_score": "",
-          "ruanke_rank": "9999",
-          "ruanke_level": "",
-          "is_video": 2,
-          "special_name": "汽车制造与试验技术",
-          "special_type": "2",
-          "type_name": "专科(高职)",
-          "level3_name": "汽车制造类",
-          "level3_code": "163",
-          "level2_name": "装备制造大类",
-          "level2_id": "20",
-          "level2_code": "46",
-          "code": "4607"
-        },
-        {
           "id": "1792429",
           "school_id": "3091",
           "special_id": "896",
@@ -1130,32 +1104,6 @@
           "code": "5702"
         },
         {
-          "id": "131273",
-          "school_id": "3091",
-          "special_id": "373",
-          "nation_feature": "2",
-          "province_feature": "2",
-          "is_important": "2",
-          "limit_year": "三年",
-          "year": "2022",
-          "level3_weight": "0",
-          "nation_first_class": "2",
-          "xueke_rank": "0",
-          "xueke_rank_score": "",
-          "ruanke_rank": "9999",
-          "ruanke_level": "",
-          "is_video": 2,
-          "special_name": "园林技术",
-          "special_type": "2",
-          "type_name": "专科(高职)",
-          "level3_name": "林业类",
-          "level3_code": "127",
-          "level2_name": "农林牧渔大类",
-          "level2_id": "15",
-          "level2_code": "41",
-          "code": "4102"
-        },
-        {
           "id": "131280",
           "school_id": "3091",
           "special_id": "882",
@@ -1351,39 +1299,6 @@
       },
       {
         "level3_weight": "0",
-        "code": "4102",
-        "name": "林业类(专)",
-        "special": [
-          {
-            "id": "131273",
-            "school_id": "3091",
-            "special_id": "373",
-            "nation_feature": "2",
-            "province_feature": "2",
-            "is_important": "2",
-            "limit_year": "三年",
-            "year": "2022",
-            "level3_weight": "0",
-            "nation_first_class": "2",
-            "xueke_rank": "0",
-            "xueke_rank_score": "",
-            "ruanke_rank": "9999",
-            "ruanke_level": "",
-            "is_video": 2,
-            "special_name": "园林技术",
-            "special_type": "2",
-            "type_name": "专科(高职)",
-            "level3_name": "林业类",
-            "level3_code": "127",
-            "level2_name": "农林牧渔大类",
-            "level2_id": "15",
-            "level2_code": "41",
-            "code": "4102"
-          }
-        ]
-      },
-      {
-        "level3_weight": "0",
         "code": "4301",
         "name": "电力技术类(专)",
         "special": [
@@ -1563,39 +1478,6 @@
             "level2_id": "20",
             "level2_code": "46",
             "code": "4603"
-          }
-        ]
-      },
-      {
-        "level3_weight": "0",
-        "code": "4607",
-        "name": "汽车制造类(专)",
-        "special": [
-          {
-            "id": "1792428",
-            "school_id": "3091",
-            "special_id": "9166",
-            "nation_feature": "2",
-            "province_feature": "2",
-            "is_important": "2",
-            "limit_year": "三年",
-            "year": "2022",
-            "level3_weight": "0",
-            "nation_first_class": "2",
-            "xueke_rank": "0",
-            "xueke_rank_score": "",
-            "ruanke_rank": "9999",
-            "ruanke_level": "",
-            "is_video": 2,
-            "special_name": "汽车制造与试验技术",
-            "special_type": "2",
-            "type_name": "专科(高职)",
-            "level3_name": "汽车制造类",
-            "level3_code": "163",
-            "level2_name": "装备制造大类",
-            "level2_id": "20",
-            "level2_code": "46",
-            "code": "4607"
           }
         ]
       },

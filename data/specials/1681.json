@@ -1,10 +1,10 @@
 {
-  "update_time": "2026-09-01 10:04:59",
+  "update_time": "2026-10-01 11:44:09",
   "school_id": "1681",
   "school_name": "辽阳职业技术学院",
   "source_url": "https://static-data.gaokao.cn/www/2.0/school/1681/pc_special.json?a=www.gaokao.cn",
-  "time": "2026-08-01 03:14:42",
-  "md5": "8db91ad253ae63562b783e74a46f500a",
+  "time": "2026-09-11 14:51:09",
+  "md5": "cca618c2689ee0c72aaa2d4b17ead27e",
   "group_keys": [
     "2"
   ],
@@ -17,7 +17,7 @@
     "3",
     "4"
   ],
-  "special_group_count": 25,
+  "special_group_count": 24,
   "nation_feature_count": 0,
   "educational_strength": {
     "num_doctor": "0",
@@ -868,32 +868,6 @@
           "level2_id": "31",
           "level2_code": "57",
           "code": "5703"
-        },
-        {
-          "id": "1671621",
-          "school_id": "1681",
-          "special_id": "9066",
-          "nation_feature": "2",
-          "province_feature": "2",
-          "is_important": "2",
-          "limit_year": "三年",
-          "year": "2022",
-          "level3_weight": "0",
-          "nation_first_class": "2",
-          "xueke_rank": "0",
-          "xueke_rank_score": "",
-          "ruanke_rank": "9999",
-          "ruanke_level": "",
-          "is_video": 2,
-          "special_name": "现代移动通信技术",
-          "special_type": "2",
-          "type_name": "专科(高职)",
-          "level3_name": "通信类",
-          "level3_code": "184",
-          "level2_name": "电子与信息大类",
-          "level2_id": "25",
-          "level2_code": "51",
-          "code": "5103"
         },
         {
           "id": "1671622",
@@ -1988,39 +1962,6 @@
             "level2_id": "25",
             "level2_code": "51",
             "code": "5102"
-          }
-        ]
-      },
-      {
-        "level3_weight": "0",
-        "code": "5103",
-        "name": "通信类(专)",
-        "special": [
-          {
-            "id": "1671621",
-            "school_id": "1681",
-            "special_id": "9066",
-            "nation_feature": "2",
-            "province_feature": "2",
-            "is_important": "2",
-            "limit_year": "三年",
-            "year": "2022",
-            "level3_weight": "0",
-            "nation_first_class": "2",
-            "xueke_rank": "0",
-            "xueke_rank_score": "",
-            "ruanke_rank": "9999",
-            "ruanke_level": "",
-            "is_video": 2,
-            "special_name": "现代移动通信技术",
-            "special_type": "2",
-            "type_name": "专科(高职)",
-            "level3_name": "通信类",
-            "level3_code": "184",
-            "level2_name": "电子与信息大类",
-            "level2_id": "25",
-            "level2_code": "51",
-            "code": "5103"
           }
         ]
       },

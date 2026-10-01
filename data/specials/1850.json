@@ -1,10 +1,10 @@
 {
-  "update_time": "2026-09-01 10:06:36",
+  "update_time": "2026-10-01 11:46:00",
   "school_id": "1850",
   "school_name": "合肥共达职业技术学院",
   "source_url": "https://static-data.gaokao.cn/www/2.0/school/1850/pc_special.json?a=www.gaokao.cn",
-  "time": "2026-08-01 03:14:30",
-  "md5": "c1112ad407f85c525674f317bb1943f8",
+  "time": "2026-09-11 14:53:56",
+  "md5": "8a440defff696ac6c709b082994c43fe",
   "group_keys": [
     "2"
   ],
@@ -17,7 +17,7 @@
     "3",
     "4"
   ],
-  "special_group_count": 19,
+  "special_group_count": 18,
   "nation_feature_count": 0,
   "educational_strength": {
     "num_doctor": "0",
@@ -33,32 +33,6 @@
   "data": {
     "1": "",
     "2": [
-      {
-        "id": "64193",
-        "school_id": "1850",
-        "special_id": "417",
-        "nation_feature": "2",
-        "province_feature": "2",
-        "is_important": "2",
-        "limit_year": "三年",
-        "year": "2022",
-        "level3_weight": "0",
-        "nation_first_class": "2",
-        "xueke_rank": "0",
-        "xueke_rank_score": "",
-        "ruanke_rank": "9999",
-        "ruanke_level": "",
-        "is_video": 2,
-        "special_name": "工程测量技术",
-        "special_type": "2",
-        "type_name": "专科(高职)",
-        "level3_name": "测绘地理信息类",
-        "level3_code": "132",
-        "level2_name": "资源环境与安全大类",
-        "level2_id": "16",
-        "level2_code": "42",
-        "code": "4203"
-      },
       {
         "id": "64201",
         "school_id": "1850",
@@ -422,37 +396,37 @@
         "level2_id": "20",
         "level2_code": "46",
         "code": "4602"
+      },
+      {
+        "id": "1708676",
+        "school_id": "1850",
+        "special_id": "592",
+        "nation_feature": "2",
+        "province_feature": "2",
+        "is_important": "2",
+        "limit_year": "",
+        "year": "2022",
+        "level3_weight": "0",
+        "nation_first_class": "2",
+        "xueke_rank": "0",
+        "xueke_rank_score": "",
+        "ruanke_rank": "9999",
+        "ruanke_level": "",
+        "is_video": 2,
+        "special_name": "机电一体化技术",
+        "special_type": "2",
+        "type_name": "专科(高职)",
+        "level3_name": "自动化类",
+        "level3_code": "159",
+        "level2_name": "装备制造大类",
+        "level2_id": "20",
+        "level2_code": "46",
+        "code": "4603"
       }
     ],
     "special_detail": {
       "1": [],
       "2": [
-        {
-          "id": "64193",
-          "school_id": "1850",
-          "special_id": "417",
-          "nation_feature": "2",
-          "province_feature": "2",
-          "is_important": "2",
-          "limit_year": "三年",
-          "year": "2022",
-          "level3_weight": "0",
-          "nation_first_class": "2",
-          "xueke_rank": "0",
-          "xueke_rank_score": "",
-          "ruanke_rank": "9999",
-          "ruanke_level": "",
-          "is_video": 2,
-          "special_name": "工程测量技术",
-          "special_type": "2",
-          "type_name": "专科(高职)",
-          "level3_name": "测绘地理信息类",
-          "level3_code": "132",
-          "level2_name": "资源环境与安全大类",
-          "level2_id": "16",
-          "level2_code": "42",
-          "code": "4203"
-        },
         {
           "id": "64201",
           "school_id": "1850",
@@ -1186,39 +1160,6 @@
       "4": []
     },
     "special": [
-      {
-        "level3_weight": "0",
-        "code": "4203",
-        "name": "测绘地理信息类(专)",
-        "special": [
-          {
-            "id": "64193",
-            "school_id": "1850",
-            "special_id": "417",
-            "nation_feature": "2",
-            "province_feature": "2",
-            "is_important": "2",
-            "limit_year": "三年",
-            "year": "2022",
-            "level3_weight": "0",
-            "nation_first_class": "2",
-            "xueke_rank": "0",
-            "xueke_rank_score": "",
-            "ruanke_rank": "9999",
-            "ruanke_level": "",
-            "is_video": 2,
-            "special_name": "工程测量技术",
-            "special_type": "2",
-            "type_name": "专科(高职)",
-            "level3_name": "测绘地理信息类",
-            "level3_code": "132",
-            "level2_name": "资源环境与安全大类",
-            "level2_id": "16",
-            "level2_code": "42",
-            "code": "4203"
-          }
-        ]
-      },
       {
         "level3_weight": "0",
         "code": "4401",
@@ -2089,32 +2030,6 @@
   },
   "items": [
     {
-      "id": "64193",
-      "school_id": "1850",
-      "special_id": "417",
-      "nation_feature": "2",
-      "province_feature": "2",
-      "is_important": "2",
-      "limit_year": "三年",
-      "year": "2022",
-      "level3_weight": "0",
-      "nation_first_class": "2",
-      "xueke_rank": "0",
-      "xueke_rank_score": "",
-      "ruanke_rank": "9999",
-      "ruanke_level": "",
-      "is_video": 2,
-      "special_name": "工程测量技术",
-      "special_type": "2",
-      "type_name": "专科(高职)",
-      "level3_name": "测绘地理信息类",
-      "level3_code": "132",
-      "level2_name": "资源环境与安全大类",
-      "level2_id": "16",
-      "level2_code": "42",
-      "code": "4203"
-    },
-    {
       "id": "64201",
       "school_id": "1850",
       "special_id": "1262",
@@ -2477,6 +2392,32 @@
       "level2_id": "20",
       "level2_code": "46",
       "code": "4602"
+    },
+    {
+      "id": "1708676",
+      "school_id": "1850",
+      "special_id": "592",
+      "nation_feature": "2",
+      "province_feature": "2",
+      "is_important": "2",
+      "limit_year": "",
+      "year": "2022",
+      "level3_weight": "0",
+      "nation_first_class": "2",
+      "xueke_rank": "0",
+      "xueke_rank_score": "",
+      "ruanke_rank": "9999",
+      "ruanke_level": "",
+      "is_video": 2,
+      "special_name": "机电一体化技术",
+      "special_type": "2",
+      "type_name": "专科(高职)",
+      "level3_name": "自动化类",
+      "level3_code": "159",
+      "level2_name": "装备制造大类",
+      "level2_id": "20",
+      "level2_code": "46",
+      "code": "4603"
     }
   ]
 }

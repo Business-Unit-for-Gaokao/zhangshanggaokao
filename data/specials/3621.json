@@ -1,10 +1,10 @@
 {
-  "update_time": "2026-09-01 10:19:50",
+  "update_time": "2026-10-01 12:01:33",
   "school_id": "3621",
   "school_name": "保山职业学院",
   "source_url": "https://static-data.gaokao.cn/www/2.0/school/3621/pc_special.json?a=www.gaokao.cn",
-  "time": "2026-08-01 03:12:38",
-  "md5": "dfdc08b77c2d1338913635cdc43962af",
+  "time": "2026-09-11 15:20:53",
+  "md5": "e64a1a46433c58adde5ed010bf511769",
   "group_keys": [
     "2"
   ],
@@ -17,7 +17,7 @@
     "3",
     "4"
   ],
-  "special_group_count": 12,
+  "special_group_count": 11,
   "nation_feature_count": 0,
   "educational_strength": {
     "num_doctor": "0",
@@ -33,32 +33,6 @@
   "data": {
     "1": "",
     "2": [
-      {
-        "id": "2041602",
-        "school_id": "3621",
-        "special_id": "636",
-        "nation_feature": "2",
-        "province_feature": "2",
-        "is_important": "2",
-        "limit_year": "三年",
-        "year": "2022",
-        "level3_weight": "0",
-        "nation_first_class": "2",
-        "xueke_rank": "0",
-        "xueke_rank_score": "",
-        "ruanke_rank": "9999",
-        "ruanke_level": "",
-        "is_video": 2,
-        "special_name": "应用化工技术",
-        "special_type": "2",
-        "type_name": "专科(高职)",
-        "level3_name": "化工技术类",
-        "level3_code": "165",
-        "level2_name": "生物与化工大类",
-        "level2_id": "21",
-        "level2_code": "47",
-        "code": "4702"
-      },
       {
         "id": "2178318",
         "school_id": "3621",
@@ -422,37 +396,37 @@
         "level2_id": "25",
         "level2_code": "51",
         "code": "5103"
+      },
+      {
+        "id": "2169337",
+        "school_id": "3621",
+        "special_id": "8987",
+        "nation_feature": "2",
+        "province_feature": "2",
+        "is_important": "2",
+        "limit_year": "",
+        "year": "2022",
+        "level3_weight": "0",
+        "nation_first_class": "2",
+        "xueke_rank": "0",
+        "xueke_rank_score": "",
+        "ruanke_rank": "9999",
+        "ruanke_level": "",
+        "is_video": 2,
+        "special_name": "数字化设计与制造技术",
+        "special_type": "2",
+        "type_name": "专科(高职)",
+        "level3_name": "机械设计制造类",
+        "level3_code": "157",
+        "level2_name": "装备制造大类",
+        "level2_id": "20",
+        "level2_code": "46",
+        "code": "4601"
       }
     ],
     "special_detail": {
       "1": [],
       "2": [
-        {
-          "id": "2041602",
-          "school_id": "3621",
-          "special_id": "636",
-          "nation_feature": "2",
-          "province_feature": "2",
-          "is_important": "2",
-          "limit_year": "三年",
-          "year": "2022",
-          "level3_weight": "0",
-          "nation_first_class": "2",
-          "xueke_rank": "0",
-          "xueke_rank_score": "",
-          "ruanke_rank": "9999",
-          "ruanke_level": "",
-          "is_video": 2,
-          "special_name": "应用化工技术",
-          "special_type": "2",
-          "type_name": "专科(高职)",
-          "level3_name": "化工技术类",
-          "level3_code": "165",
-          "level2_name": "生物与化工大类",
-          "level2_id": "21",
-          "level2_code": "47",
-          "code": "4702"
-        },
         {
           "id": "2178318",
           "school_id": "3621",
@@ -1067,39 +1041,6 @@
       },
       {
         "level3_weight": "0",
-        "code": "4702",
-        "name": "化工技术类(专)",
-        "special": [
-          {
-            "id": "2041602",
-            "school_id": "3621",
-            "special_id": "636",
-            "nation_feature": "2",
-            "province_feature": "2",
-            "is_important": "2",
-            "limit_year": "三年",
-            "year": "2022",
-            "level3_weight": "0",
-            "nation_first_class": "2",
-            "xueke_rank": "0",
-            "xueke_rank_score": "",
-            "ruanke_rank": "9999",
-            "ruanke_level": "",
-            "is_video": 2,
-            "special_name": "应用化工技术",
-            "special_type": "2",
-            "type_name": "专科(高职)",
-            "level3_name": "化工技术类",
-            "level3_code": "165",
-            "level2_name": "生物与化工大类",
-            "level2_id": "21",
-            "level2_code": "47",
-            "code": "4702"
-          }
-        ]
-      },
-      {
-        "level3_weight": "0",
         "code": "4901",
         "name": "食品类(专)",
         "special": [
@@ -1415,32 +1356,6 @@
     }
   },
   "items": [
-    {
-      "id": "2041602",
-      "school_id": "3621",
-      "special_id": "636",
-      "nation_feature": "2",
-      "province_feature": "2",
-      "is_important": "2",
-      "limit_year": "三年",
-      "year": "2022",
-      "level3_weight": "0",
-      "nation_first_class": "2",
-      "xueke_rank": "0",
-      "xueke_rank_score": "",
-      "ruanke_rank": "9999",
-      "ruanke_level": "",
-      "is_video": 2,
-      "special_name": "应用化工技术",
-      "special_type": "2",
-      "type_name": "专科(高职)",
-      "level3_name": "化工技术类",
-      "level3_code": "165",
-      "level2_name": "生物与化工大类",
-      "level2_id": "21",
-      "level2_code": "47",
-      "code": "4702"
-    },
     {
       "id": "2178318",
       "school_id": "3621",
@@ -1804,6 +1719,32 @@
       "level2_id": "25",
       "level2_code": "51",
       "code": "5103"
+    },
+    {
+      "id": "2169337",
+      "school_id": "3621",
+      "special_id": "8987",
+      "nation_feature": "2",
+      "province_feature": "2",
+      "is_important": "2",
+      "limit_year": "",
+      "year": "2022",
+      "level3_weight": "0",
+      "nation_first_class": "2",
+      "xueke_rank": "0",
+      "xueke_rank_score": "",
+      "ruanke_rank": "9999",
+      "ruanke_level": "",
+      "is_video": 2,
+      "special_name": "数字化设计与制造技术",
+      "special_type": "2",
+      "type_name": "专科(高职)",
+      "level3_name": "机械设计制造类",
+      "level3_code": "157",
+      "level2_name": "装备制造大类",
+      "level2_id": "20",
+      "level2_code": "46",
+      "code": "4601"
     }
   ]
 }

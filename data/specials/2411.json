@@ -1,10 +1,10 @@
 {
-  "update_time": "2026-09-01 10:11:57",
+  "update_time": "2026-10-01 11:52:20",
   "school_id": "2411",
   "school_name": "淮北理工学院",
   "source_url": "https://static-data.gaokao.cn/www/2.0/school/2411/pc_special.json?a=www.gaokao.cn",
-  "time": "2026-08-01 03:13:44",
-  "md5": "37a06383b93680d7a2622209d55d792a",
+  "time": "2026-09-11 15:03:08",
+  "md5": "0e620c806629746ff46acd6ceeccdb95",
   "group_keys": [
     "1"
   ],
@@ -17,7 +17,7 @@
     "3",
     "4"
   ],
-  "special_group_count": 16,
+  "special_group_count": 15,
   "nation_feature_count": 0,
   "educational_strength": {
     "num_doctor": "0",
@@ -895,32 +895,6 @@
           "code": "0809"
         },
         {
-          "id": "1800877",
-          "school_id": "2411",
-          "special_id": "178",
-          "nation_feature": "2",
-          "province_feature": "2",
-          "is_important": "2",
-          "limit_year": "四年",
-          "year": "2022",
-          "level3_weight": "0",
-          "nation_first_class": "2",
-          "xueke_rank": "0",
-          "xueke_rank_score": "",
-          "ruanke_rank": "9999",
-          "ruanke_level": "",
-          "is_video": 2,
-          "special_name": "土木工程",
-          "special_type": "1",
-          "type_name": "本科(普通)",
-          "level3_name": "土木类",
-          "level3_code": "72",
-          "level2_name": "工学",
-          "level2_id": "10",
-          "level2_code": "08",
-          "code": "0810"
-        },
-        {
           "id": "2153945",
           "school_id": "2411",
           "special_id": "8320",
@@ -1572,39 +1546,6 @@
             "level2_id": "10",
             "level2_code": "08",
             "code": "0809"
-          }
-        ]
-      },
-      {
-        "level3_weight": "0",
-        "code": "0810",
-        "name": "土木类(本)",
-        "special": [
-          {
-            "id": "1800877",
-            "school_id": "2411",
-            "special_id": "178",
-            "nation_feature": "2",
-            "province_feature": "2",
-            "is_important": "2",
-            "limit_year": "四年",
-            "year": "2022",
-            "level3_weight": "0",
-            "nation_first_class": "2",
-            "xueke_rank": "0",
-            "xueke_rank_score": "",
-            "ruanke_rank": "9999",
-            "ruanke_level": "",
-            "is_video": 2,
-            "special_name": "土木工程",
-            "special_type": "1",
-            "type_name": "本科(普通)",
-            "level3_name": "土木类",
-            "level3_code": "72",
-            "level2_name": "工学",
-            "level2_id": "10",
-            "level2_code": "08",
-            "code": "0810"
           }
         ]
       },

@@ -1,10 +1,10 @@
 {
-  "update_time": "2026-09-01 09:58:44",
+  "update_time": "2026-10-01 11:36:54",
   "school_id": "881",
   "school_name": "北京青年政治学院",
   "source_url": "https://static-data.gaokao.cn/www/2.0/school/881/pc_special.json?a=www.gaokao.cn",
-  "time": "2026-08-01 03:15:35",
-  "md5": "405ebf7a7043a5006757089ce8b58207",
+  "time": "2026-09-11 14:38:32",
+  "md5": "5653289cd7a4d3b39d8b240857c34b59",
   "group_keys": [
     "2"
   ],
@@ -17,7 +17,7 @@
     "3",
     "4"
   ],
-  "special_group_count": 14,
+  "special_group_count": 13,
   "nation_feature_count": 0,
   "educational_strength": {
     "num_doctor": "0",
@@ -398,9 +398,9 @@
         "code": "5602"
       },
       {
-        "id": "122704",
+        "id": "2173793",
         "school_id": "881",
-        "special_id": "783",
+        "special_id": "9060",
         "nation_feature": "2",
         "province_feature": "2",
         "is_important": "2",
@@ -413,7 +413,7 @@
         "ruanke_rank": "9999",
         "ruanke_level": "",
         "is_video": 2,
-        "special_name": "计算机应用技术",
+        "special_name": "人工智能技术应用",
         "special_type": "2",
         "type_name": "专科(高职)",
         "level3_name": "计算机类",
@@ -792,32 +792,6 @@
           "code": "5602"
         },
         {
-          "id": "122704",
-          "school_id": "881",
-          "special_id": "783",
-          "nation_feature": "2",
-          "province_feature": "2",
-          "is_important": "2",
-          "limit_year": "三年",
-          "year": "2022",
-          "level3_weight": "0",
-          "nation_first_class": "2",
-          "xueke_rank": "0",
-          "xueke_rank_score": "",
-          "ruanke_rank": "9999",
-          "ruanke_level": "",
-          "is_video": 2,
-          "special_name": "计算机应用技术",
-          "special_type": "2",
-          "type_name": "专科(高职)",
-          "level3_name": "计算机类",
-          "level3_code": "183",
-          "level2_name": "电子与信息大类",
-          "level2_id": "25",
-          "level2_code": "51",
-          "code": "5102"
-        },
-        {
           "id": "2173793",
           "school_id": "881",
           "special_id": "9060",
@@ -1000,32 +974,6 @@
           "code": "5401"
         },
         {
-          "id": "2158306",
-          "school_id": "881",
-          "special_id": "870",
-          "nation_feature": "2",
-          "province_feature": "2",
-          "is_important": "2",
-          "limit_year": "三年",
-          "year": "2022",
-          "level3_weight": "0",
-          "nation_first_class": "2",
-          "xueke_rank": "0",
-          "xueke_rank_score": "",
-          "ruanke_rank": "9999",
-          "ruanke_level": "",
-          "is_video": 2,
-          "special_name": "国际商务",
-          "special_type": "2",
-          "type_name": "专科(高职)",
-          "level3_name": "经济贸易类",
-          "level3_code": "197",
-          "level2_name": "财经商贸大类",
-          "level2_id": "27",
-          "level2_code": "53",
-          "code": "5305"
-        },
-        {
           "id": "1032938",
           "school_id": "881",
           "special_id": "989",
@@ -1061,32 +1009,6 @@
         "code": "5102",
         "name": "计算机类(专)",
         "special": [
-          {
-            "id": "122704",
-            "school_id": "881",
-            "special_id": "783",
-            "nation_feature": "2",
-            "province_feature": "2",
-            "is_important": "2",
-            "limit_year": "三年",
-            "year": "2022",
-            "level3_weight": "0",
-            "nation_first_class": "2",
-            "xueke_rank": "0",
-            "xueke_rank_score": "",
-            "ruanke_rank": "9999",
-            "ruanke_level": "",
-            "is_video": 2,
-            "special_name": "计算机应用技术",
-            "special_type": "2",
-            "type_name": "专科(高职)",
-            "level3_name": "计算机类",
-            "level3_code": "183",
-            "level2_name": "电子与信息大类",
-            "level2_id": "25",
-            "level2_code": "51",
-            "code": "5102"
-          },
           {
             "id": "2173793",
             "school_id": "881",
@@ -1263,39 +1185,6 @@
             "level2_id": "27",
             "level2_code": "53",
             "code": "5303"
-          }
-        ]
-      },
-      {
-        "level3_weight": "0",
-        "code": "5305",
-        "name": "经济贸易类(专)",
-        "special": [
-          {
-            "id": "2158306",
-            "school_id": "881",
-            "special_id": "870",
-            "nation_feature": "2",
-            "province_feature": "2",
-            "is_important": "2",
-            "limit_year": "三年",
-            "year": "2022",
-            "level3_weight": "0",
-            "nation_first_class": "2",
-            "xueke_rank": "0",
-            "xueke_rank_score": "",
-            "ruanke_rank": "9999",
-            "ruanke_level": "",
-            "is_video": 2,
-            "special_name": "国际商务",
-            "special_type": "2",
-            "type_name": "专科(高职)",
-            "level3_name": "经济贸易类",
-            "level3_code": "197",
-            "level2_name": "财经商贸大类",
-            "level2_id": "27",
-            "level2_code": "53",
-            "code": "5305"
           }
         ]
       },
@@ -2158,9 +2047,9 @@
       "code": "5602"
     },
     {
-      "id": "122704",
+      "id": "2173793",
       "school_id": "881",
-      "special_id": "783",
+      "special_id": "9060",
       "nation_feature": "2",
       "province_feature": "2",
       "is_important": "2",
@@ -2173,7 +2062,7 @@
       "ruanke_rank": "9999",
       "ruanke_level": "",
       "is_video": 2,
-      "special_name": "计算机应用技术",
+      "special_name": "人工智能技术应用",
       "special_type": "2",
       "type_name": "专科(高职)",
       "level3_name": "计算机类",

@@ -1,10 +1,10 @@
 {
-  "update_time": "2026-09-01 09:59:23",
+  "update_time": "2026-10-01 11:37:38",
   "school_id": "951",
   "school_name": "赣西科技职业学院",
   "source_url": "https://static-data.gaokao.cn/www/2.0/school/951/pc_special.json?a=www.gaokao.cn",
-  "time": "2026-08-01 03:15:29",
-  "md5": "21dee4b1527eb43b3d70124908c3d3f2",
+  "time": "2026-09-11 14:39:46",
+  "md5": "6d15baae7a78b7d978c1a77ede4e2723",
   "group_keys": [
     "2"
   ],
@@ -17,7 +17,7 @@
     "3",
     "4"
   ],
-  "special_group_count": 24,
+  "special_group_count": 21,
   "nation_feature_count": 0,
   "educational_strength": {
     "num_doctor": "0",
@@ -188,32 +188,6 @@
         "level2_id": "20",
         "level2_code": "46",
         "code": "4603"
-      },
-      {
-        "id": "1738527",
-        "school_id": "951",
-        "special_id": "528",
-        "nation_feature": "2",
-        "province_feature": "2",
-        "is_important": "2",
-        "limit_year": "三年",
-        "year": "2022",
-        "level3_weight": "0",
-        "nation_first_class": "2",
-        "xueke_rank": "0",
-        "xueke_rank_score": "",
-        "ruanke_rank": "9999",
-        "ruanke_level": "",
-        "is_video": 2,
-        "special_name": "建筑工程技术",
-        "special_type": "2",
-        "type_name": "专科(高职)",
-        "level3_name": "土建施工类",
-        "level3_code": "148",
-        "level2_name": "土木建筑大类",
-        "level2_id": "18",
-        "level2_code": "44",
-        "code": "4403"
       },
       {
         "id": "1738528",
@@ -422,6 +396,32 @@
         "level2_id": "26",
         "level2_code": "52",
         "code": "5208"
+      },
+      {
+        "id": "1738541",
+        "school_id": "951",
+        "special_id": "9085",
+        "nation_feature": "2",
+        "province_feature": "2",
+        "is_important": "2",
+        "limit_year": "三年",
+        "year": "2022",
+        "level3_weight": "0",
+        "nation_first_class": "2",
+        "xueke_rank": "0",
+        "xueke_rank_score": "",
+        "ruanke_rank": "9999",
+        "ruanke_level": "",
+        "is_video": 2,
+        "special_name": "大数据与会计",
+        "special_type": "2",
+        "type_name": "专科(高职)",
+        "level3_name": "财务会计类",
+        "level3_code": "195",
+        "level2_name": "财经商贸大类",
+        "level2_id": "27",
+        "level2_code": "53",
+        "code": "5303"
       }
     ],
     "special_detail": {
@@ -582,32 +582,6 @@
           "level2_id": "20",
           "level2_code": "46",
           "code": "4603"
-        },
-        {
-          "id": "1738527",
-          "school_id": "951",
-          "special_id": "528",
-          "nation_feature": "2",
-          "province_feature": "2",
-          "is_important": "2",
-          "limit_year": "三年",
-          "year": "2022",
-          "level3_weight": "0",
-          "nation_first_class": "2",
-          "xueke_rank": "0",
-          "xueke_rank_score": "",
-          "ruanke_rank": "9999",
-          "ruanke_level": "",
-          "is_video": 2,
-          "special_name": "建筑工程技术",
-          "special_type": "2",
-          "type_name": "专科(高职)",
-          "level3_name": "土建施工类",
-          "level3_code": "148",
-          "level2_name": "土木建筑大类",
-          "level2_id": "18",
-          "level2_code": "44",
-          "code": "4403"
         },
         {
           "id": "1738528",
@@ -868,32 +842,6 @@
           "level2_id": "29",
           "level2_code": "55",
           "code": "5501"
-        },
-        {
-          "id": "1738544",
-          "school_id": "951",
-          "special_id": "539",
-          "nation_feature": "2",
-          "province_feature": "2",
-          "is_important": "2",
-          "limit_year": "三年",
-          "year": "2022",
-          "level3_weight": "0",
-          "nation_first_class": "2",
-          "xueke_rank": "0",
-          "xueke_rank_score": "",
-          "ruanke_rank": "9999",
-          "ruanke_level": "",
-          "is_video": 2,
-          "special_name": "工程造价",
-          "special_type": "2",
-          "type_name": "专科(高职)",
-          "level3_name": "建设工程管理类",
-          "level3_code": "150",
-          "level2_name": "土木建筑大类",
-          "level2_id": "18",
-          "level2_code": "44",
-          "code": "4405"
         },
         {
           "id": "1738545",
@@ -1312,32 +1260,6 @@
           "code": "5208"
         },
         {
-          "id": "2157724",
-          "school_id": "951",
-          "special_id": "9145",
-          "nation_feature": "2",
-          "province_feature": "2",
-          "is_important": "2",
-          "limit_year": "三年",
-          "year": "2022",
-          "level3_weight": "0",
-          "nation_first_class": "2",
-          "xueke_rank": "0",
-          "xueke_rank_score": "",
-          "ruanke_rank": "9999",
-          "ruanke_level": "",
-          "is_video": 2,
-          "special_name": "智慧健康养老服务与管理",
-          "special_type": "2",
-          "type_name": "专科(高职)",
-          "level3_name": "公共服务类",
-          "level3_code": "224",
-          "level2_name": "公共管理与服务大类",
-          "level2_id": "33",
-          "level2_code": "59",
-          "code": "5903"
-        },
-        {
           "id": "1861087",
           "school_id": "951",
           "special_id": "8971",
@@ -1514,39 +1436,6 @@
       },
       {
         "level3_weight": "0",
-        "code": "4403",
-        "name": "土建施工类(专)",
-        "special": [
-          {
-            "id": "1738527",
-            "school_id": "951",
-            "special_id": "528",
-            "nation_feature": "2",
-            "province_feature": "2",
-            "is_important": "2",
-            "limit_year": "三年",
-            "year": "2022",
-            "level3_weight": "0",
-            "nation_first_class": "2",
-            "xueke_rank": "0",
-            "xueke_rank_score": "",
-            "ruanke_rank": "9999",
-            "ruanke_level": "",
-            "is_video": 2,
-            "special_name": "建筑工程技术",
-            "special_type": "2",
-            "type_name": "专科(高职)",
-            "level3_name": "土建施工类",
-            "level3_code": "148",
-            "level2_name": "土木建筑大类",
-            "level2_id": "18",
-            "level2_code": "44",
-            "code": "4403"
-          }
-        ]
-      },
-      {
-        "level3_weight": "0",
         "code": "4404",
         "name": "建筑设备类(专)",
         "special": [
@@ -1575,39 +1464,6 @@
             "level2_id": "18",
             "level2_code": "44",
             "code": "4404"
-          }
-        ]
-      },
-      {
-        "level3_weight": "0",
-        "code": "4405",
-        "name": "建设工程管理类(专)",
-        "special": [
-          {
-            "id": "1738544",
-            "school_id": "951",
-            "special_id": "539",
-            "nation_feature": "2",
-            "province_feature": "2",
-            "is_important": "2",
-            "limit_year": "三年",
-            "year": "2022",
-            "level3_weight": "0",
-            "nation_first_class": "2",
-            "xueke_rank": "0",
-            "xueke_rank_score": "",
-            "ruanke_rank": "9999",
-            "ruanke_level": "",
-            "is_video": 2,
-            "special_name": "工程造价",
-            "special_type": "2",
-            "type_name": "专科(高职)",
-            "level3_name": "建设工程管理类",
-            "level3_code": "150",
-            "level2_name": "土木建筑大类",
-            "level2_id": "18",
-            "level2_code": "44",
-            "code": "4405"
           }
         ]
       },
@@ -2490,39 +2346,6 @@
             "code": "5804"
           }
         ]
-      },
-      {
-        "level3_weight": "0",
-        "code": "5903",
-        "name": "公共服务类(专)",
-        "special": [
-          {
-            "id": "2157724",
-            "school_id": "951",
-            "special_id": "9145",
-            "nation_feature": "2",
-            "province_feature": "2",
-            "is_important": "2",
-            "limit_year": "三年",
-            "year": "2022",
-            "level3_weight": "0",
-            "nation_first_class": "2",
-            "xueke_rank": "0",
-            "xueke_rank_score": "",
-            "ruanke_rank": "9999",
-            "ruanke_level": "",
-            "is_video": 2,
-            "special_name": "智慧健康养老服务与管理",
-            "special_type": "2",
-            "type_name": "专科(高职)",
-            "level3_name": "公共服务类",
-            "level3_code": "224",
-            "level2_name": "公共管理与服务大类",
-            "level2_id": "33",
-            "level2_code": "59",
-            "code": "5903"
-          }
-        ]
       }
     ],
     "nation_feature": [],
@@ -2694,32 +2517,6 @@
       "level2_id": "20",
       "level2_code": "46",
       "code": "4603"
-    },
-    {
-      "id": "1738527",
-      "school_id": "951",
-      "special_id": "528",
-      "nation_feature": "2",
-      "province_feature": "2",
-      "is_important": "2",
-      "limit_year": "三年",
-      "year": "2022",
-      "level3_weight": "0",
-      "nation_first_class": "2",
-      "xueke_rank": "0",
-      "xueke_rank_score": "",
-      "ruanke_rank": "9999",
-      "ruanke_level": "",
-      "is_video": 2,
-      "special_name": "建筑工程技术",
-      "special_type": "2",
-      "type_name": "专科(高职)",
-      "level3_name": "土建施工类",
-      "level3_code": "148",
-      "level2_name": "土木建筑大类",
-      "level2_id": "18",
-      "level2_code": "44",
-      "code": "4403"
     },
     {
       "id": "1738528",
@@ -2928,6 +2725,32 @@
       "level2_id": "26",
       "level2_code": "52",
       "code": "5208"
+    },
+    {
+      "id": "1738541",
+      "school_id": "951",
+      "special_id": "9085",
+      "nation_feature": "2",
+      "province_feature": "2",
+      "is_important": "2",
+      "limit_year": "三年",
+      "year": "2022",
+      "level3_weight": "0",
+      "nation_first_class": "2",
+      "xueke_rank": "0",
+      "xueke_rank_score": "",
+      "ruanke_rank": "9999",
+      "ruanke_level": "",
+      "is_video": 2,
+      "special_name": "大数据与会计",
+      "special_type": "2",
+      "type_name": "专科(高职)",
+      "level3_name": "财务会计类",
+      "level3_code": "195",
+      "level2_name": "财经商贸大类",
+      "level2_id": "27",
+      "level2_code": "53",
+      "code": "5303"
     }
   ]
 }

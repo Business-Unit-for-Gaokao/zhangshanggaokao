@@ -1,10 +1,10 @@
 {
-  "update_time": "2026-09-01 10:16:00",
+  "update_time": "2026-10-01 11:57:08",
   "school_id": "3120",
   "school_name": "九江科技职业大学",
   "source_url": "https://static-data.gaokao.cn/www/2.0/school/3120/pc_special.json?a=www.gaokao.cn",
-  "time": "2026-08-01 03:13:10",
-  "md5": "c0990c04eda5dbca396ebc71ffa05a69",
+  "time": "2026-09-11 15:13:07",
+  "md5": "7b22ce35fa5bce4173d590445f73e819",
   "group_keys": [
     "1",
     "2"
@@ -18,7 +18,7 @@
     "3",
     "4"
   ],
-  "special_group_count": 26,
+  "special_group_count": 25,
   "nation_feature_count": 0,
   "educational_strength": {
     "num_doctor": "0",
@@ -1913,32 +1913,6 @@
           "code": "5307"
         },
         {
-          "id": "2167759",
-          "school_id": "3120",
-          "special_id": "8980",
-          "nation_feature": "2",
-          "province_feature": "2",
-          "is_important": "2",
-          "limit_year": "",
-          "year": "2022",
-          "level3_weight": "0",
-          "nation_first_class": "2",
-          "xueke_rank": "0",
-          "xueke_rank_score": "",
-          "ruanke_rank": "9999",
-          "ruanke_level": "",
-          "is_video": 2,
-          "special_name": "治河与航道工程技术",
-          "special_type": "2",
-          "type_name": "专科(高职)",
-          "level3_name": "水利工程与管理类",
-          "level3_code": "154",
-          "level2_name": "水利大类",
-          "level2_id": "19",
-          "level2_code": "45",
-          "code": "4502"
-        },
-        {
           "id": "2167760",
           "school_id": "3120",
           "special_id": "8979",
@@ -1963,32 +1937,6 @@
           "level2_id": "19",
           "level2_code": "45",
           "code": "4502"
-        },
-        {
-          "id": "2167761",
-          "school_id": "3120",
-          "special_id": "8984",
-          "nation_feature": "2",
-          "province_feature": "2",
-          "is_important": "2",
-          "limit_year": "",
-          "year": "2022",
-          "level3_weight": "0",
-          "nation_first_class": "2",
-          "xueke_rank": "0",
-          "xueke_rank_score": "",
-          "ruanke_rank": "9999",
-          "ruanke_level": "",
-          "is_video": 2,
-          "special_name": "水利机电设备智能管理",
-          "special_type": "2",
-          "type_name": "专科(高职)",
-          "level3_name": "水利水电设备类",
-          "level3_code": "155",
-          "level2_name": "水利大类",
-          "level2_id": "19",
-          "level2_code": "45",
-          "code": "4503"
         },
         {
           "id": "2167762",
@@ -2369,32 +2317,6 @@
         "name": "水利工程与管理类(专)",
         "special": [
           {
-            "id": "2167759",
-            "school_id": "3120",
-            "special_id": "8980",
-            "nation_feature": "2",
-            "province_feature": "2",
-            "is_important": "2",
-            "limit_year": "",
-            "year": "2022",
-            "level3_weight": "0",
-            "nation_first_class": "2",
-            "xueke_rank": "0",
-            "xueke_rank_score": "",
-            "ruanke_rank": "9999",
-            "ruanke_level": "",
-            "is_video": 2,
-            "special_name": "治河与航道工程技术",
-            "special_type": "2",
-            "type_name": "专科(高职)",
-            "level3_name": "水利工程与管理类",
-            "level3_code": "154",
-            "level2_name": "水利大类",
-            "level2_id": "19",
-            "level2_code": "45",
-            "code": "4502"
-          },
-          {
             "id": "2167760",
             "school_id": "3120",
             "special_id": "8979",
@@ -2445,39 +2367,6 @@
             "level2_id": "19",
             "level2_code": "45",
             "code": "4502"
-          }
-        ]
-      },
-      {
-        "level3_weight": "0",
-        "code": "4503",
-        "name": "水利水电设备类(专)",
-        "special": [
-          {
-            "id": "2167761",
-            "school_id": "3120",
-            "special_id": "8984",
-            "nation_feature": "2",
-            "province_feature": "2",
-            "is_important": "2",
-            "limit_year": "",
-            "year": "2022",
-            "level3_weight": "0",
-            "nation_first_class": "2",
-            "xueke_rank": "0",
-            "xueke_rank_score": "",
-            "ruanke_rank": "9999",
-            "ruanke_level": "",
-            "is_video": 2,
-            "special_name": "水利机电设备智能管理",
-            "special_type": "2",
-            "type_name": "专科(高职)",
-            "level3_name": "水利水电设备类",
-            "level3_code": "155",
-            "level2_name": "水利大类",
-            "level2_id": "19",
-            "level2_code": "45",
-            "code": "4503"
           }
         ]
       },

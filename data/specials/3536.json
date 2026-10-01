@@ -1,10 +1,10 @@
 {
-  "update_time": "2026-09-01 10:19:12",
+  "update_time": "2026-10-01 12:00:46",
   "school_id": "3536",
   "school_name": "培黎职业学院",
   "source_url": "https://static-data.gaokao.cn/www/2.0/school/3536/pc_special.json?a=www.gaokao.cn",
-  "time": "2026-08-01 03:12:43",
-  "md5": "2450439dc1490a634e5a10f2cfad5de9",
+  "time": "2026-09-11 15:19:28",
+  "md5": "70ce66c3ac7653bb573564b64a611e26",
   "group_keys": [
     "2"
   ],
@@ -17,7 +17,7 @@
     "3",
     "4"
   ],
-  "special_group_count": 16,
+  "special_group_count": 14,
   "nation_feature_count": 0,
   "educational_strength": {
     "num_doctor": "0",
@@ -84,32 +84,6 @@
         "level2_id": "15",
         "level2_code": "41",
         "code": "4101"
-      },
-      {
-        "id": "1567555",
-        "school_id": "3536",
-        "special_id": "9171",
-        "nation_feature": "2",
-        "province_feature": "2",
-        "is_important": "2",
-        "limit_year": "三年",
-        "year": "2022",
-        "level3_weight": "0",
-        "nation_first_class": "2",
-        "xueke_rank": "0",
-        "xueke_rank_score": "",
-        "ruanke_rank": "9999",
-        "ruanke_level": "",
-        "is_video": 2,
-        "special_name": "汽车检测与维修技术",
-        "special_type": "2",
-        "type_name": "专科(高职)",
-        "level3_name": "道路运输类",
-        "level3_code": "176",
-        "level2_name": "交通运输大类",
-        "level2_id": "24",
-        "level2_code": "50",
-        "code": "5002"
       },
       {
         "id": "2158152",
@@ -422,6 +396,32 @@
         "level2_id": "27",
         "level2_code": "53",
         "code": "5303"
+      },
+      {
+        "id": "1956592",
+        "school_id": "3536",
+        "special_id": "780",
+        "nation_feature": "2",
+        "province_feature": "2",
+        "is_important": "2",
+        "limit_year": "三年",
+        "year": "2022",
+        "level3_weight": "0",
+        "nation_first_class": "2",
+        "xueke_rank": "0",
+        "xueke_rank_score": "",
+        "ruanke_rank": "9999",
+        "ruanke_level": "",
+        "is_video": 2,
+        "special_name": "光伏工程技术",
+        "special_type": "2",
+        "type_name": "专科(高职)",
+        "level3_name": "新能源发电工程类",
+        "level3_code": "141",
+        "level2_name": "能源动力与材料大类",
+        "level2_id": "17",
+        "level2_code": "43",
+        "code": "4303"
       }
     ],
     "special_detail": {
@@ -478,32 +478,6 @@
           "level2_id": "15",
           "level2_code": "41",
           "code": "4101"
-        },
-        {
-          "id": "1567555",
-          "school_id": "3536",
-          "special_id": "9171",
-          "nation_feature": "2",
-          "province_feature": "2",
-          "is_important": "2",
-          "limit_year": "三年",
-          "year": "2022",
-          "level3_weight": "0",
-          "nation_first_class": "2",
-          "xueke_rank": "0",
-          "xueke_rank_score": "",
-          "ruanke_rank": "9999",
-          "ruanke_level": "",
-          "is_video": 2,
-          "special_name": "汽车检测与维修技术",
-          "special_type": "2",
-          "type_name": "专科(高职)",
-          "level3_name": "道路运输类",
-          "level3_code": "176",
-          "level2_name": "交通运输大类",
-          "level2_id": "24",
-          "level2_code": "50",
-          "code": "5002"
         },
         {
           "id": "2158152",
@@ -816,32 +790,6 @@
           "level2_id": "27",
           "level2_code": "53",
           "code": "5303"
-        },
-        {
-          "id": "2152423",
-          "school_id": "3536",
-          "special_id": "9145",
-          "nation_feature": "2",
-          "province_feature": "2",
-          "is_important": "2",
-          "limit_year": "三年",
-          "year": "2022",
-          "level3_weight": "0",
-          "nation_first_class": "2",
-          "xueke_rank": "0",
-          "xueke_rank_score": "",
-          "ruanke_rank": "9999",
-          "ruanke_level": "",
-          "is_video": 2,
-          "special_name": "智慧健康养老服务与管理",
-          "special_type": "2",
-          "type_name": "专科(高职)",
-          "level3_name": "公共服务类",
-          "level3_code": "224",
-          "level2_name": "公共管理与服务大类",
-          "level2_id": "33",
-          "level2_code": "59",
-          "code": "5903"
         },
         {
           "id": "1956592",
@@ -1327,39 +1275,6 @@
       },
       {
         "level3_weight": "0",
-        "code": "5002",
-        "name": "道路运输类(专)",
-        "special": [
-          {
-            "id": "1567555",
-            "school_id": "3536",
-            "special_id": "9171",
-            "nation_feature": "2",
-            "province_feature": "2",
-            "is_important": "2",
-            "limit_year": "三年",
-            "year": "2022",
-            "level3_weight": "0",
-            "nation_first_class": "2",
-            "xueke_rank": "0",
-            "xueke_rank_score": "",
-            "ruanke_rank": "9999",
-            "ruanke_level": "",
-            "is_video": 2,
-            "special_name": "汽车检测与维修技术",
-            "special_type": "2",
-            "type_name": "专科(高职)",
-            "level3_name": "道路运输类",
-            "level3_code": "176",
-            "level2_name": "交通运输大类",
-            "level2_id": "24",
-            "level2_code": "50",
-            "code": "5002"
-          }
-        ]
-      },
-      {
-        "level3_weight": "0",
         "code": "5101",
         "name": "电子信息类(专)",
         "special": [
@@ -1758,39 +1673,6 @@
             "code": "5702"
           }
         ]
-      },
-      {
-        "level3_weight": "0",
-        "code": "5903",
-        "name": "公共服务类(专)",
-        "special": [
-          {
-            "id": "2152423",
-            "school_id": "3536",
-            "special_id": "9145",
-            "nation_feature": "2",
-            "province_feature": "2",
-            "is_important": "2",
-            "limit_year": "三年",
-            "year": "2022",
-            "level3_weight": "0",
-            "nation_first_class": "2",
-            "xueke_rank": "0",
-            "xueke_rank_score": "",
-            "ruanke_rank": "9999",
-            "ruanke_level": "",
-            "is_video": 2,
-            "special_name": "智慧健康养老服务与管理",
-            "special_type": "2",
-            "type_name": "专科(高职)",
-            "level3_name": "公共服务类",
-            "level3_code": "224",
-            "level2_name": "公共管理与服务大类",
-            "level2_id": "33",
-            "level2_code": "59",
-            "code": "5903"
-          }
-        ]
       }
     ],
     "nation_feature": [],
@@ -1858,32 +1740,6 @@
       "level2_id": "15",
       "level2_code": "41",
       "code": "4101"
-    },
-    {
-      "id": "1567555",
-      "school_id": "3536",
-      "special_id": "9171",
-      "nation_feature": "2",
-      "province_feature": "2",
-      "is_important": "2",
-      "limit_year": "三年",
-      "year": "2022",
-      "level3_weight": "0",
-      "nation_first_class": "2",
-      "xueke_rank": "0",
-      "xueke_rank_score": "",
-      "ruanke_rank": "9999",
-      "ruanke_level": "",
-      "is_video": 2,
-      "special_name": "汽车检测与维修技术",
-      "special_type": "2",
-      "type_name": "专科(高职)",
-      "level3_name": "道路运输类",
-      "level3_code": "176",
-      "level2_name": "交通运输大类",
-      "level2_id": "24",
-      "level2_code": "50",
-      "code": "5002"
     },
     {
       "id": "2158152",
@@ -2196,6 +2052,32 @@
       "level2_id": "27",
       "level2_code": "53",
       "code": "5303"
+    },
+    {
+      "id": "1956592",
+      "school_id": "3536",
+      "special_id": "780",
+      "nation_feature": "2",
+      "province_feature": "2",
+      "is_important": "2",
+      "limit_year": "三年",
+      "year": "2022",
+      "level3_weight": "0",
+      "nation_first_class": "2",
+      "xueke_rank": "0",
+      "xueke_rank_score": "",
+      "ruanke_rank": "9999",
+      "ruanke_level": "",
+      "is_video": 2,
+      "special_name": "光伏工程技术",
+      "special_type": "2",
+      "type_name": "专科(高职)",
+      "level3_name": "新能源发电工程类",
+      "level3_code": "141",
+      "level2_name": "能源动力与材料大类",
+      "level2_id": "17",
+      "level2_code": "43",
+      "code": "4303"
     }
   ]
 }

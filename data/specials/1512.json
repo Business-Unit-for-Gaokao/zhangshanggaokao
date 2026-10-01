@@ -1,10 +1,10 @@
 {
-  "update_time": "2026-09-01 10:03:35",
+  "update_time": "2026-10-01 11:42:31",
   "school_id": "1512",
   "school_name": "郑州工业应用技术学院",
   "source_url": "https://static-data.gaokao.cn/www/2.0/school/1512/pc_special.json?a=www.gaokao.cn",
-  "time": "2026-08-01 03:14:54",
-  "md5": "7437e5b2f7a785b134b574ef95019673",
+  "time": "2026-09-11 14:48:35",
+  "md5": "8795305cfd0440cbbcf15fa9a0df1668",
   "group_keys": [
     "1",
     "2"
@@ -18,7 +18,7 @@
     "3",
     "4"
   ],
-  "special_group_count": 50,
+  "special_group_count": 49,
   "nation_feature_count": 0,
   "educational_strength": {
     "num_doctor": "0",
@@ -1467,32 +1467,6 @@
           "level2_id": "6",
           "level2_code": "04",
           "code": "0401"
-        },
-        {
-          "id": "119566",
-          "school_id": "1512",
-          "special_id": "9",
-          "nation_feature": "2",
-          "province_feature": "2",
-          "is_important": "2",
-          "limit_year": "四年",
-          "year": "2022",
-          "level3_weight": "0",
-          "nation_first_class": "2",
-          "xueke_rank": "0",
-          "xueke_rank_score": "",
-          "ruanke_rank": "9999",
-          "ruanke_level": "",
-          "is_video": 2,
-          "special_name": "金融工程",
-          "special_type": "1",
-          "type_name": "本科(普通)",
-          "level3_name": "金融学类",
-          "level3_code": "37",
-          "level2_name": "经济学",
-          "level2_id": "4",
-          "level2_code": "02",
-          "code": "0203"
         },
         {
           "id": "119567",
@@ -3091,39 +3065,6 @@
             "level2_id": "4",
             "level2_code": "02",
             "code": "0201"
-          }
-        ]
-      },
-      {
-        "level3_weight": "0",
-        "code": "0203",
-        "name": "金融学类(本)",
-        "special": [
-          {
-            "id": "119566",
-            "school_id": "1512",
-            "special_id": "9",
-            "nation_feature": "2",
-            "province_feature": "2",
-            "is_important": "2",
-            "limit_year": "四年",
-            "year": "2022",
-            "level3_weight": "0",
-            "nation_first_class": "2",
-            "xueke_rank": "0",
-            "xueke_rank_score": "",
-            "ruanke_rank": "9999",
-            "ruanke_level": "",
-            "is_video": 2,
-            "special_name": "金融工程",
-            "special_type": "1",
-            "type_name": "本科(普通)",
-            "level3_name": "金融学类",
-            "level3_code": "37",
-            "level2_name": "经济学",
-            "level2_id": "4",
-            "level2_code": "02",
-            "code": "0203"
           }
         ]
       },

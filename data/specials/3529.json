@@ -1,10 +1,10 @@
 {
-  "update_time": "2026-09-01 10:19:08",
+  "update_time": "2026-10-01 12:00:41",
   "school_id": "3529",
   "school_name": "德阳农业科技职业学院",
   "source_url": "https://static-data.gaokao.cn/www/2.0/school/3529/pc_special.json?a=www.gaokao.cn",
-  "time": "2026-08-01 03:12:44",
-  "md5": "1fdd038242394fc7a2a155726960505d",
+  "time": "2026-09-11 15:19:19",
+  "md5": "2072f019f7893dabc1def06a9f376e14",
   "group_keys": [
     "2"
   ],
@@ -17,7 +17,7 @@
     "3",
     "4"
   ],
-  "special_group_count": 25,
+  "special_group_count": 23,
   "nation_feature_count": 0,
   "educational_strength": {
     "num_doctor": "0",
@@ -398,13 +398,13 @@
         "code": "4607"
       },
       {
-        "id": "2166165",
+        "id": "2173077",
         "school_id": "3529",
-        "special_id": "8906",
+        "special_id": "10307",
         "nation_feature": "2",
         "province_feature": "2",
         "is_important": "2",
-        "limit_year": "",
+        "limit_year": "三年",
         "year": "2022",
         "level3_weight": "0",
         "nation_first_class": "2",
@@ -413,15 +413,15 @@
         "ruanke_rank": "9999",
         "ruanke_level": "",
         "is_video": 2,
-        "special_name": "茶叶生产与加工技术",
+        "special_name": "低空飞行器装备技术",
         "special_type": "2",
         "type_name": "专科(高职)",
-        "level3_name": "农业类",
-        "level3_code": "126",
-        "level2_name": "农林牧渔大类",
-        "level2_id": "15",
-        "level2_code": "41",
-        "code": "4101"
+        "level3_name": "机电设备类",
+        "level3_code": "158",
+        "level2_name": "装备制造大类",
+        "level2_id": "20",
+        "level2_code": "46",
+        "code": "4602"
       }
     ],
     "special_detail": {
@@ -792,32 +792,6 @@
           "code": "4607"
         },
         {
-          "id": "2166165",
-          "school_id": "3529",
-          "special_id": "8906",
-          "nation_feature": "2",
-          "province_feature": "2",
-          "is_important": "2",
-          "limit_year": "",
-          "year": "2022",
-          "level3_weight": "0",
-          "nation_first_class": "2",
-          "xueke_rank": "0",
-          "xueke_rank_score": "",
-          "ruanke_rank": "9999",
-          "ruanke_level": "",
-          "is_video": 2,
-          "special_name": "茶叶生产与加工技术",
-          "special_type": "2",
-          "type_name": "专科(高职)",
-          "level3_name": "农业类",
-          "level3_code": "126",
-          "level2_name": "农林牧渔大类",
-          "level2_id": "15",
-          "level2_code": "41",
-          "code": "4101"
-        },
-        {
           "id": "2173077",
           "school_id": "3529",
           "special_id": "10307",
@@ -972,58 +946,6 @@
           "level2_id": "15",
           "level2_code": "41",
           "code": "4103"
-        },
-        {
-          "id": "1750984",
-          "school_id": "3529",
-          "special_id": "9067",
-          "nation_feature": "2",
-          "province_feature": "2",
-          "is_important": "2",
-          "limit_year": "三年",
-          "year": "2022",
-          "level3_weight": "0",
-          "nation_first_class": "2",
-          "xueke_rank": "0",
-          "xueke_rank_score": "",
-          "ruanke_rank": "9999",
-          "ruanke_level": "",
-          "is_video": 2,
-          "special_name": "通信软件技术",
-          "special_type": "2",
-          "type_name": "专科(高职)",
-          "level3_name": "通信类",
-          "level3_code": "184",
-          "level2_name": "电子与信息大类",
-          "level2_id": "25",
-          "level2_code": "51",
-          "code": "5103"
-        },
-        {
-          "id": "1738185",
-          "school_id": "3529",
-          "special_id": "539",
-          "nation_feature": "2",
-          "province_feature": "2",
-          "is_important": "2",
-          "limit_year": "三年",
-          "year": "2022",
-          "level3_weight": "0",
-          "nation_first_class": "2",
-          "xueke_rank": "0",
-          "xueke_rank_score": "",
-          "ruanke_rank": "9999",
-          "ruanke_level": "",
-          "is_video": 2,
-          "special_name": "工程造价",
-          "special_type": "2",
-          "type_name": "专科(高职)",
-          "level3_name": "建设工程管理类",
-          "level3_code": "150",
-          "level2_name": "土木建筑大类",
-          "level2_id": "18",
-          "level2_code": "44",
-          "code": "4405"
         },
         {
           "id": "1750985",
@@ -1322,32 +1244,6 @@
             "code": "4101"
           },
           {
-            "id": "2166165",
-            "school_id": "3529",
-            "special_id": "8906",
-            "nation_feature": "2",
-            "province_feature": "2",
-            "is_important": "2",
-            "limit_year": "",
-            "year": "2022",
-            "level3_weight": "0",
-            "nation_first_class": "2",
-            "xueke_rank": "0",
-            "xueke_rank_score": "",
-            "ruanke_rank": "9999",
-            "ruanke_level": "",
-            "is_video": 2,
-            "special_name": "茶叶生产与加工技术",
-            "special_type": "2",
-            "type_name": "专科(高职)",
-            "level3_name": "农业类",
-            "level3_code": "126",
-            "level2_name": "农林牧渔大类",
-            "level2_id": "15",
-            "level2_code": "41",
-            "code": "4101"
-          },
-          {
             "id": "1679319",
             "school_id": "3529",
             "special_id": "355",
@@ -1530,39 +1426,6 @@
             "level2_id": "17",
             "level2_code": "43",
             "code": "4301"
-          }
-        ]
-      },
-      {
-        "level3_weight": "0",
-        "code": "4405",
-        "name": "建设工程管理类(专)",
-        "special": [
-          {
-            "id": "1738185",
-            "school_id": "3529",
-            "special_id": "539",
-            "nation_feature": "2",
-            "province_feature": "2",
-            "is_important": "2",
-            "limit_year": "三年",
-            "year": "2022",
-            "level3_weight": "0",
-            "nation_first_class": "2",
-            "xueke_rank": "0",
-            "xueke_rank_score": "",
-            "ruanke_rank": "9999",
-            "ruanke_level": "",
-            "is_video": 2,
-            "special_name": "工程造价",
-            "special_type": "2",
-            "type_name": "专科(高职)",
-            "level3_name": "建设工程管理类",
-            "level3_code": "150",
-            "level2_name": "土木建筑大类",
-            "level2_id": "18",
-            "level2_code": "44",
-            "code": "4405"
           }
         ]
       },
@@ -1879,39 +1742,6 @@
             "level2_id": "25",
             "level2_code": "51",
             "code": "5102"
-          }
-        ]
-      },
-      {
-        "level3_weight": "0",
-        "code": "5103",
-        "name": "通信类(专)",
-        "special": [
-          {
-            "id": "1750984",
-            "school_id": "3529",
-            "special_id": "9067",
-            "nation_feature": "2",
-            "province_feature": "2",
-            "is_important": "2",
-            "limit_year": "三年",
-            "year": "2022",
-            "level3_weight": "0",
-            "nation_first_class": "2",
-            "xueke_rank": "0",
-            "xueke_rank_score": "",
-            "ruanke_rank": "9999",
-            "ruanke_level": "",
-            "is_video": 2,
-            "special_name": "通信软件技术",
-            "special_type": "2",
-            "type_name": "专科(高职)",
-            "level3_name": "通信类",
-            "level3_code": "184",
-            "level2_name": "电子与信息大类",
-            "level2_id": "25",
-            "level2_code": "51",
-            "code": "5103"
           }
         ]
       },
@@ -2703,13 +2533,13 @@
       "code": "4607"
     },
     {
-      "id": "2166165",
+      "id": "2173077",
       "school_id": "3529",
-      "special_id": "8906",
+      "special_id": "10307",
       "nation_feature": "2",
       "province_feature": "2",
       "is_important": "2",
-      "limit_year": "",
+      "limit_year": "三年",
       "year": "2022",
       "level3_weight": "0",
       "nation_first_class": "2",
@@ -2718,15 +2548,15 @@
       "ruanke_rank": "9999",
       "ruanke_level": "",
       "is_video": 2,
-      "special_name": "茶叶生产与加工技术",
+      "special_name": "低空飞行器装备技术",
       "special_type": "2",
       "type_name": "专科(高职)",
-      "level3_name": "农业类",
-      "level3_code": "126",
-      "level2_name": "农林牧渔大类",
-      "level2_id": "15",
-      "level2_code": "41",
-      "code": "4101"
+      "level3_name": "机电设备类",
+      "level3_code": "158",
+      "level2_name": "装备制造大类",
+      "level2_id": "20",
+      "level2_code": "46",
+      "code": "4602"
     }
   ]
 }
