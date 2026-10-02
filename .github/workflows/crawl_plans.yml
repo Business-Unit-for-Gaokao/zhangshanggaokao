@@ -47,6 +47,7 @@ concurrency:
 jobs:
   crawl:
     runs-on: ubuntu-latest
+    timeout-minutes: 300
     env:
       FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: 'true'
 

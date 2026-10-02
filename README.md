@@ -113,32 +113,16 @@ Decision notes:
 - Future implementation should use the dynamic 掌上高考 API observed from the page, especially `api-gaokao.zjzw.cn/apidata/web` with `uri=v1/school/province_score`, and parameters such as `school_id`, `year`, `local_province_id`, `local_type_id`, `page`, `size`, and `platform=2`.
 - This note records the consolidation decision only; the scores/provinceline crawler is not implemented in this repository yet.
 
-## 强基计划数据 crawler consolidation
+## Admission plans crawler (merged)
 
-Former source repository: `Business-Unit-for-Gaokao/gaokao-qiangji-crawler`.
+The ???? admission-plans crawler from `Business-Unit-for-Gaokao/gaokao-plans-crawler` is consolidated and maintained in this repository. The standalone repository was archived on 2026-10-02; its Git history remains available read-only.
 
-This repository now contains the reusable 掌上高考强基计划 crawler source:
-
-- `.github/workflows/crawl_qiangji.yml`
-- `crawlers/qiangji.py`
-- `scripts/run_qiangji_once.py`
-- `scripts/dispatch_next_run.sh`
-- `scripts/plan_chain.py`
-- `scripts/resolve_years.sh`
-
-Target source/API:
-
-- `https://static-data.gaokao.cn/www/2.0/qiangji/school/{school_id}/info.json?a=www.gaokao.cn`
-
-Runtime output path when this crawler runs:
-
-- `data/qiangji/`
-- `data/qiangji_progress/`
-
-Historical JSON output is not duplicated in this source repository. It belongs in the consolidated data repository:
-
-- `Business-Unit-for-Gaokao/gaokao-data-json`
-- `zsgk/gaokao-qiangji-crawler/data/qiangji/`
+- Crawler implementation: `crawlers/new_plans.py`, `crawlers/new_plans/`, and `.github/workflows/crawl_plans.yml`.
+- Primary API: `https://static-data.gaokao.cn/www/2.0/schoolspecialplan/{school_id}/{year}/{province_id}.json`.
+- Runtime output: `data/plans/`; progress state: `data/plans_progress/`.
+- School seed: `data/schools.json`.
+- The original repository's 375 plan JSON files were verified byte-for-byte in `Business-Unit-for-Gaokao/gaokao-data-json`; historical snapshots remain there rather than being duplicated here.
+- Legacy v13 page-crawler notes remain in `crawlers/gaokao_cn_school_plans_v13/` and `docs/futuretechnique-plans-migration.md`.
 ## Legacy 掌上高考 crawler consolidation
 
 Former source repository: `Business-Unit-for-Gaokao/zhangshang-gaokao-crawler`.
