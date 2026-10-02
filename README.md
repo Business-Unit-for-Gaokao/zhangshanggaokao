@@ -115,7 +115,7 @@ Decision notes:
 
 ## Admission plans crawler (merged)
 
-The ???? admission-plans crawler from `Business-Unit-for-Gaokao/gaokao-plans-crawler` is consolidated and maintained in this repository. The standalone repository was archived on 2026-10-02; its Git history remains available read-only.
+The Gaokao admission-plans crawler from `Business-Unit-for-Gaokao/gaokao-plans-crawler` is consolidated and maintained in this repository. The standalone repository was archived on 2026-10-02; its Git history remains available read-only.
 
 - Crawler implementation: `crawlers/new_plans.py`, `crawlers/new_plans/`, and `.github/workflows/crawl_plans.yml`.
 - Primary API: `https://static-data.gaokao.cn/www/2.0/schoolspecialplan/{school_id}/{year}/{province_id}.json`.
