@@ -1,10 +1,10 @@
 {
-  "update_time": "2026-10-01 11:59:18",
+  "update_time": "2026-11-01 12:17:36",
   "school_id": "3392",
   "school_name": "西昌民族幼儿师范高等专科学校",
   "source_url": "https://static-data.gaokao.cn/www/2.0/school/3392/pc_special.json?a=www.gaokao.cn",
-  "time": "2026-10-01 02:02:02",
-  "md5": "cab9493f9d5c842ba38c7935d5ccc4cf",
+  "time": "2026-11-01 02:01:58",
+  "md5": "cc6a2a199fa95ce326aacf1d9554839b",
   "group_keys": [
     "2"
   ],
@@ -398,9 +398,9 @@
         "code": "5102"
       },
       {
-        "id": "1469149",
+        "id": "2180309",
         "school_id": "3392",
-        "special_id": "1004",
+        "special_id": "10284",
         "nation_feature": "2",
         "province_feature": "2",
         "is_important": "2",
@@ -413,15 +413,15 @@
         "ruanke_rank": "9999",
         "ruanke_level": "",
         "is_video": 2,
-        "special_name": "舞蹈教育",
+        "special_name": "数字非遗设计与制作",
         "special_type": "2",
         "type_name": "专科(高职)",
-        "level3_name": "教育类",
-        "level3_code": "211",
-        "level2_name": "教育与体育大类",
-        "level2_id": "31",
-        "level2_code": "57",
-        "code": "5701"
+        "level3_name": "艺术设计类",
+        "level3_code": "205",
+        "level2_name": "文化艺术大类",
+        "level2_id": "29",
+        "level2_code": "55",
+        "code": "5501"
       }
     ],
     "special_detail": {
@@ -790,6 +790,32 @@
           "level2_id": "25",
           "level2_code": "51",
           "code": "5102"
+        },
+        {
+          "id": "2180309",
+          "school_id": "3392",
+          "special_id": "10284",
+          "nation_feature": "2",
+          "province_feature": "2",
+          "is_important": "2",
+          "limit_year": "三年",
+          "year": "2022",
+          "level3_weight": "0",
+          "nation_first_class": "2",
+          "xueke_rank": "0",
+          "xueke_rank_score": "",
+          "ruanke_rank": "9999",
+          "ruanke_level": "",
+          "is_video": 2,
+          "special_name": "数字非遗设计与制作",
+          "special_type": "2",
+          "type_name": "专科(高职)",
+          "level3_name": "艺术设计类",
+          "level3_code": "205",
+          "level2_name": "文化艺术大类",
+          "level2_id": "29",
+          "level2_code": "55",
+          "code": "5501"
         },
         {
           "id": "1469149",
@@ -1396,6 +1422,32 @@
         "code": "5501",
         "name": "艺术设计类(专)",
         "special": [
+          {
+            "id": "2180309",
+            "school_id": "3392",
+            "special_id": "10284",
+            "nation_feature": "2",
+            "province_feature": "2",
+            "is_important": "2",
+            "limit_year": "三年",
+            "year": "2022",
+            "level3_weight": "0",
+            "nation_first_class": "2",
+            "xueke_rank": "0",
+            "xueke_rank_score": "",
+            "ruanke_rank": "9999",
+            "ruanke_level": "",
+            "is_video": 2,
+            "special_name": "数字非遗设计与制作",
+            "special_type": "2",
+            "type_name": "专科(高职)",
+            "level3_name": "艺术设计类",
+            "level3_code": "205",
+            "level2_name": "文化艺术大类",
+            "level2_id": "29",
+            "level2_code": "55",
+            "code": "5501"
+          },
           {
             "id": "2162143",
             "school_id": "3392",
@@ -2151,9 +2203,9 @@
       "code": "5102"
     },
     {
-      "id": "1469149",
+      "id": "2180309",
       "school_id": "3392",
-      "special_id": "1004",
+      "special_id": "10284",
       "nation_feature": "2",
       "province_feature": "2",
       "is_important": "2",
@@ -2166,15 +2218,15 @@
       "ruanke_rank": "9999",
       "ruanke_level": "",
       "is_video": 2,
-      "special_name": "舞蹈教育",
+      "special_name": "数字非遗设计与制作",
       "special_type": "2",
       "type_name": "专科(高职)",
-      "level3_name": "教育类",
-      "level3_code": "211",
-      "level2_name": "教育与体育大类",
-      "level2_id": "31",
-      "level2_code": "57",
-      "code": "5701"
+      "level3_name": "艺术设计类",
+      "level3_code": "205",
+      "level2_name": "文化艺术大类",
+      "level2_id": "29",
+      "level2_code": "55",
+      "code": "5501"
     }
   ]
 }
